@@ -1,5 +1,6 @@
 # Prompt-OIRL
 code for paper Offline Prompt Evaluation and Optimization with Inverse Reinforcement Learning
+https://arxiv.org/pdf/2309.06553.pdf 
 
 ### Abstract 
 
