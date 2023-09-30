@@ -1,9 +1,23 @@
 # Prompt-OIRL
-code for paper Offline Prompt Evaluation and Optimization with Inverse Reinforcement Learning
+code for paper Query-Dependent Prompt Evaluation and Optimization with Offline Inverse Reinforcement Learning
 https://arxiv.org/pdf/2309.06553.pdf 
+
+### Preview
+
+![Image](Prompt_OIRL_preview.png)
 
 ### Abstract 
 
-> The recent advances in the development of Large Language Models (LLMs) like ChatGPT have achieved remarkable performance by leveraging human expertise. Yet, fully eliciting LLMs' potential for complex tasks requires navigating the vast search space of natural language prompts. While prompt engineering has shown promise, the requisite human-crafted prompts in trial-and-error attempts and the associated costs pose significant challenges. Crucially, the efficiency of prompt optimization hinges on the costly procedure of prompt evaluation. This work introduces Prompt-OIRL, an approach rooted in offline inverse reinforcement learning that seeks to bridge the gap between effective prompt evaluation and affordability. Our method draws on offline datasets from expert evaluations, employing Inverse-RL to derive a reward model for offline, query-dependent prompt evaluations. The advantages of Prompt-OIRL are manifold: it predicts prompt performance, is cost-efficient, produces human-readable results, and efficiently navigates the prompt space. We validate our method across four LLMs and three arithmetic datasets, highlighting its potential as a robust and effective tool for offline prompt evaluation and optimization. 
->
-> Our code, as well as the offline datasets, will be released, and we highlight the Prompt-OIRL can be reproduced within a few hours using a single laptop using CPU. With our implementation, conducting OIRL for the GSM8k takes 50 minutes on a MacBookAir with M2 chip, and takes only 5 minutes on a server with 16(out of 64)-core AMD 3995WX CPUs.
+> In this study, we aim to enhance the arithmetic reasoning ability of Large Language Models (LLMs) through zero-shot prompt optimization. We identify a previously overlooked objective of query dependency in such optimization and elucidate two ensuing challenges that impede the successful and economical design of prompt optimization techniques. One primary issue is the absence of an effective method to evaluate prompts during inference when the golden answer is unavailable. Concurrently, learning via interactions with the LLMs to navigate the expansive natural language prompting space proves to be resource-intensive.
+
+> To address this, we introduce Prompt-OIRL, which harnesses offline inverse reinforcement learning to draw insights from offline prompting demonstration data. Such data exists as by-products when diverse prompts are benchmarked on open-accessible datasets. With Prompt-OIRL, the query-dependent prompt optimization objective is achieved by first learning an offline reward model. This model can evaluate any query-prompt pairs without accessing LLMs. Subsequently, a best-of-N strategy is deployed to recommend the optimal prompt. Our experimental evaluations across various LLM scales and arithmetic reasoning datasets underscore both the efficacy and economic viability of the proposed approach.
+
+### Cite Our Paper or Code
+
+```
+@article{sun2023offline,
+  title={Offline Prompt Evaluation and Optimization with Inverse Reinforcement Learning},
+  author={Sun, Hao},
+  journal={arXiv preprint arXiv:2309.06553},
+  year={2023}
+}
