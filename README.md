@@ -2,6 +2,10 @@
 code for paper Query-Dependent Prompt Evaluation and Optimization with Offline Inverse Reinforcement Learning
 https://arxiv.org/pdf/2309.06553.pdf 
 
+### A related Blog:
+This blog introduces the perspective of RL in LLM research:
+[A Crash Introduction to RL in the Era of LLMs: What is Essential, RLHF, Prompting, and Beyond.](https://holaris.notion.site/A-Crash-Introduction-to-RL-in-the-Era-of-LLMs-What-is-Essential-RLHF-Prompting-and-Beyond-cbe9af5aa722488b9aade4de6ab9c565?pvs=4)
+
 ### Preview
 
 ![Image](Prompt_OIRL_preview.png)
