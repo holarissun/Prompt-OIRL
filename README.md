@@ -3,7 +3,17 @@ code for paper Query-Dependent Prompt Evaluation and Optimization with Offline I
 https://arxiv.org/pdf/2309.06553.pdf 
 
 ### Code and Offline Data
- - [ ] TODO: release code & the offline data, should be done before mid Oct.
+- Code and Offline Data for experiments using LLaMA2-7B is now released!
+
+You need to 
+
+1. get license to use LLaMA-2 from https://ai.meta.com/llama/
+
+2. get access to the SVAMP dataset: https://github.com/arkilpatel/SVAMP
+
+3. get access to the GSM8K dataset: https://huggingface.co/datasets/gsm8k
+
+3. run the code: from step 1 - step 5 to generate-, reorganize-, process- data, and then perform reward modeling (offline evaluation) and optimization.
 
 
 ### A related Blog:
