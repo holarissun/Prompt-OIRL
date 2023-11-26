@@ -1,30 +1,17 @@
 # Prompt-OIRL
-code for paper Query-Dependent Prompt Evaluation and Optimization with Offline Inverse Reinforcement Learning
-https://arxiv.org/pdf/2309.06553.pdf 
+Code for paper [Query-Dependent Prompt Evaluation and Optimization with Offline Inverse Reinforcement Learning](https://arxiv.org/pdf/2309.06553.pdf).
+ 
 
+<<<<<<< Updated upstream
 #### Prompt-OIRL has been selected as an oral presentation at the ENLSP workshop at NeurIPS'2023. We look forward to seeing you at NeurIPS!
 
 ### Code and Offline Data
 - Code and Offline Data for experiments using LLaMA2-7B is now released!
+=======
+#### 📰 News: Prompt-OIRL has been selected as oral presentation for the 3rd ENLSP workshop at NeurIPS 2023. 
+>>>>>>> Stashed changes
 
-You need to 
-
-1. get license to use LLaMA-2 from https://ai.meta.com/llama/
-
-2. get access to the SVAMP dataset: https://github.com/arkilpatel/SVAMP
-
-3. get access to the GSM8K dataset: https://huggingface.co/datasets/gsm8k
-
-3. run the code: from step 1 - step 5 to generate-, reorganize-, process- data, and then perform reward modeling (offline evaluation) and optimization.
-
-
-### A related Blog:
-This blog introduces the perspective of RL in LLM research:
-[A Crash Introduction to RL in the Era of LLMs: What is Essential, RLHF, Prompting, and Beyond.](https://holaris.notion.site/A-Crash-Introduction-to-RL-in-the-Era-of-LLMs-What-is-Essential-RLHF-Prompting-and-Beyond-cbe9af5aa722488b9aade4de6ab9c565?pvs=4)
-
-### Preview
-
-![Image](Prompt_OIRL_preview.png)
+## Introduction
 
 ### Abstract 
 
@@ -32,12 +19,51 @@ This blog introduces the perspective of RL in LLM research:
 
 > To address this, we introduce Prompt-OIRL, which harnesses offline inverse reinforcement learning to draw insights from offline prompting demonstration data. Such data exists as by-products when diverse prompts are benchmarked on open-accessible datasets. With Prompt-OIRL, the query-dependent prompt optimization objective is achieved by first learning an offline reward model. This model can evaluate any query-prompt pairs without accessing LLMs. Subsequently, a best-of-N strategy is deployed to recommend the optimal prompt. Our experimental evaluations across various LLM scales and arithmetic reasoning datasets underscore both the efficacy and economic viability of the proposed approach.
 
-### Cite Our Paper or Code
+### Paper Preview
+
+![Image](Prompt_OIRL_preview.png)
+
+## Reproduction
+
+### Code and Offline Data
+- Code and Offline Data for experiments using LLaMA2-7B is now released!
+
+
+
+
+To reproduce our results (e.g., using LLaMA2)
+
+1. get license to use LLaMA-2 from https://ai.meta.com/llama/
+
+2. get access to the SVAMP dataset: https://github.com/arkilpatel/SVAMP
+
+3. get access to the GSM8K dataset: https://huggingface.co/datasets/gsm8k
+
+4. run the code: from step 1 - step 5 to generate-, reorganize-, process- data, and then perform reward modeling (offline evaluation) and optimization.
+
+
+## A Related Discussion on RLHF:
+Prompt-OIRL addresses the prompting problems in LLMs using an RLAIF approach. For readers who are also interested in RLHF and RLAIF, and on the intersection between RL and LLM research, we would refer to our related perspective paper discussing RL in LLM research:
+[RL in the Era of LLMs: What is Essential? What is Needed? RLHF, Prompting, and Beyond.](https://arxiv.org/pdf/2310.06147.pdf)
+
+
+
+
+
+## TODOs
+- [ ] code release for TigerBot-13B and GPT3.5-turbo
+- [ ] re-organizing of the codebase
+
+
+## BibTex Citation
+If you would like to cite our code or paper, please use
 
 ```
-@article{sun2023offline,
-  title={Offline Prompt Evaluation and Optimization with Inverse Reinforcement Learning},
-  author={Sun, Hao},
-  journal={arXiv preprint arXiv:2309.06553},
-  year={2023}
+@misc{sun2023querydependent,
+      title={Query-Dependent Prompt Evaluation and Optimization with Offline Inverse RL}, 
+      author={Hao Sun and Alihan Hüyük and Mihaela van der Schaar},
+      year={2023},
+      eprint={2309.06553},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
