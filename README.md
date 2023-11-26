@@ -2,14 +2,10 @@
 Code for paper [Query-Dependent Prompt Evaluation and Optimization with Offline Inverse Reinforcement Learning](https://arxiv.org/pdf/2309.06553.pdf).
  
 
-<<<<<<< Updated upstream
 #### Prompt-OIRL has been selected as an oral presentation at the ENLSP workshop at NeurIPS'2023. We look forward to seeing you at NeurIPS!
 
 ### Code and Offline Data
 - Code and Offline Data for experiments using LLaMA2-7B is now released!
-=======
-#### 📰 News: Prompt-OIRL has been selected as oral presentation for the 3rd ENLSP workshop at NeurIPS 2023. 
->>>>>>> Stashed changes
 
 ## Introduction
 
@@ -27,9 +23,6 @@ Code for paper [Query-Dependent Prompt Evaluation and Optimization with Offline 
 
 ### Code and Offline Data
 - Code and Offline Data for experiments using LLaMA2-7B is now released!
-
-
-
 
 To reproduce our results (e.g., using LLaMA2)
 
