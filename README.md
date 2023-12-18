@@ -52,11 +52,10 @@ Prompt-OIRL addresses the prompting problems in LLMs using an RLAIF approach. Fo
 If you would like to cite our code or paper, please use
 
 ```
-@misc{sun2023querydependent,
-      title={Query-Dependent Prompt Evaluation and Optimization with Offline Inverse RL}, 
-      author={Hao Sun and Alihan Hüyük and Mihaela van der Schaar},
-      year={2023},
-      eprint={2309.06553},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{sun2023query,
+  title={Query-Dependent Prompt Evaluation and Optimization with Offline Inverse RL},
+  author={Sun, Hao and H{\"u}y{\"u}k, Alihan and van der Schaar, Mihaela},
+  journal={arXiv e-prints},
+  pages={arXiv--2309},
+  year={2023}
 }
