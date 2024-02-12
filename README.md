@@ -59,3 +59,10 @@ If you would like to cite our code or paper, please use
   pages={arXiv--2309},
   year={2023}
 }
+
+@article{sun2023reinforcement,
+  title={Reinforcement Learning in the Era of LLMs: What is Essential? What is needed? An RL Perspective on RLHF, Prompting, and Beyond},
+  author={Sun, Hao},
+  journal={arXiv preprint arXiv:2310.06147},
+  year={2023}
+}
