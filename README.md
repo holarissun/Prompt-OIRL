@@ -52,13 +52,13 @@ Prompt-OIRL addresses the prompting problems in LLMs using an RLAIF approach. Fo
 If you would like to cite our code or paper, please use
 
 ```
-@article{sun2023query,
+@inproceedings{sun2023query,
   title={Query-Dependent Prompt Evaluation and Optimization with Offline Inverse RL},
   author={Sun, Hao and H{\"u}y{\"u}k, Alihan and van der Schaar, Mihaela},
-  journal={arXiv e-prints},
-  pages={arXiv--2309},
-  year={2023}
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2024}
 }
+
 
 @article{sun2023reinforcement,
   title={Reinforcement Learning in the Era of LLMs: What is Essential? What is needed? An RL Perspective on RLHF, Prompting, and Beyond},
