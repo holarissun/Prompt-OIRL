@@ -1,10 +1,16 @@
 # Prompt-OIRL
+
 Code for ICLR 2024 paper [Query-Dependent Prompt Evaluation and Optimization with Offline Inverse Reinforcement Learning](https://arxiv.org/pdf/2309.06553.pdf).
+
+
+ ![Image](prompt-oirl-title.png)
+
+
  
 - (2024.1) Prompt-OIRL has been accepted by ICLR'2024. We look forward to talking with you in Vienna!
 - (2023.9) Prompt-OIRL has been selected as an **oral presentation** at the ENLSP workshop at NeurIPS'2023.
 
-![Image](prompt-oirl-title.png)
+
 
 ## Abstract
 
