@@ -1,16 +1,18 @@
 # Prompt-OIRL
 
-Code for ICLR 2024 paper [Query-Dependent Prompt Evaluation and Optimization with Offline Inverse Reinforcement Learning](https://arxiv.org/pdf/2309.06553.pdf).
-
-
  ![Image](prompt-oirl-title.png)
 
+Implementation and tutorial for ICLR 2024 paper 
 
- 
+[Query-Dependent Prompt Evaluation and Optimization with Offline Inverse Reinforcement Learning](https://arxiv.org/pdf/2309.06553.pdf).
+
+#### News
+- (2024.2) Code with GPT3.5 and TigerBot has been released.
 - (2024.1) Prompt-OIRL has been accepted by ICLR'2024. We look forward to talking with you in Vienna!
+- (2024.12) Prompt-OIRL has been presented at the NeurIPS conference. Thanks for all the invaluable feedback!
+- (2023.10) Code with llama2 has been released.
+- (2023.10) Prompt-OIRL has been featured in a positioning [paper](https://arxiv.org/pdf/2310.06147.pdf) as an example of **inverse alignment**.
 - (2023.9) Prompt-OIRL has been selected as an **oral presentation** at the ENLSP workshop at NeurIPS'2023.
-
-
 
 ## Abstract
 
@@ -20,7 +22,9 @@ To address this, we introduce Prompt-OIRL, which harnesses offline inverse reinf
 ## Motivating Example
 
 ![Image](motivatingexample.png)
-
+Figure 1. **No prompt is perfect that works for all queries**. The optimal prompt is query-dependent. Yet the seeking of such prompts can be costly and inefficient. 
+    Prompt-OIRL optimizes prompt during inference time on a **query-dependent** level effectively and cost-efficiently.
+(original chat logs with GPT4 for those motivating examples can be found at [Left](https://chat.openai.com/share/0f2d11b1-322a-4c47-a877-ad6fbace8179), [Right](https://chat.openai.com/share/15870a47-93c7-4b98-96c8-af0516c0c999))
 ## Reproduction
 
 ### Code and Offline Data
