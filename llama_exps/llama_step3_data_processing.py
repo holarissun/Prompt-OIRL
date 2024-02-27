@@ -48,7 +48,7 @@ np.save('LMllama2/{}_test_query_labels.npy'.format(TASK), test_labels)
 
 
 # load the prompt embeddings
-prompt_embedding = np.load("embeddings/prompt_embeddings.npy")
+prompt_embedding = np.load("../embeddings/prompt_embeddings.npy")
 assert len(prompt_embedding) == len(offline_names["prompts"])
 
 # calculate the correlation between the results

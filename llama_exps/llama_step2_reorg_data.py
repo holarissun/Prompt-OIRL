@@ -10,7 +10,7 @@ for dataset in ['mawps', 'gsm8k', 'svamp']:
     # split train and test
     for prompt_i in unified_alias_list:
         # read txt file
-        with open(f'llama_results/{dataset}/llama_{dataset}_corr_{prompt_i}.txt', 'r') as f:
+        with open(f'llama2_chat_logs/{dataset}/llama_{dataset}_corr_{prompt_i}.txt', 'r') as f:
             prompt_i_file = f.readlines()
         # remove the \n
         prompt_i_file_check = ['False' in i for i in prompt_i_file]
@@ -29,8 +29,8 @@ for dataset in ['mawps', 'gsm8k', 'svamp']:
             test_i = prompt_i_file[15000:]
         elif dataset == 'gsm8k':
             train_i = prompt_i_file
-            print('train acc:', sum(prompt_i_file) / len(prompt_i_file))
-            with open(f'llama_results/{dataset}/llama_{dataset}_test_corr_{prompt_i}.txt', 'r') as f:
+            # print('train acc:', sum(prompt_i_file) / len(prompt_i_file))
+            with open(f'llama2_chat_logs/{dataset}/llama_{dataset}_test_corr_{prompt_i}.txt', 'r') as f:
                 prompt_i_file = f.readlines()
             # remove the \n
             prompt_i_file_check = ['False' in i for i in prompt_i_file]
@@ -38,7 +38,7 @@ for dataset in ['mawps', 'gsm8k', 'svamp']:
             prompt_i_file = np.array(prompt_i_file)
             prompt_i_file_check = np.array(prompt_i_file_check)
             assert sum(prompt_i_file_check == prompt_i_file) == 0
-            print('test acc:', sum(prompt_i_file) / len(prompt_i_file))
+            # print('test acc:', sum(prompt_i_file) / len(prompt_i_file))
             test_i = prompt_i_file
         # save the data
         np.save(f'LMllama2/{dataset}_train_{prompt_i}.npy', train_i)
