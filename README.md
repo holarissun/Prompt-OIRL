@@ -1,4 +1,4 @@
-# 🪄 Prompt-OIRL: Learning to Prompt LLMs with Known Magic Prompts
+# 🪄 Prompt-OIRL: Learning to Prompt LLMs with Expert Knowledge (Known Magic Words 🧙)
 
 ### 💻 Implementation and 📒 tutorial for ICLR 2024 paper 
 
