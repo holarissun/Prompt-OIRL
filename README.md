@@ -55,35 +55,35 @@ pip install -r requirements.txt
 ### Reproduce the Main Results
  #### Step 1. (Optional, as we also released the offline dataset) Generate an offline dataset by interacting with the LLMs.
  This step will take a long time --- typically a few days. To avoid repeating such a computationally expensive (when running LLMs on local machines) or costly (when calling the commercial APIs like GPT3.5 or TigerBot) process, we have **released all the interactive logs with those LLMs collected in our experiments.**.
-```
-python3 llama_step1_gen_offline.py
-```
+ ```
+ python3 llama_step1_gen_offline.py
+ ```
  #### Step 2. Reorganize the collected offline data
- Run
+ This step will take a few seconds to finish, it will do some file renaming and training-test split and save corresponding files to a new folder ```LMllama2```
  
  ```
  python3 llama_step2_reorg_data.py
  ```
     
  #### Step 3. Pre-process the offline data
- Run
+ This step will take a few seconds to finish, it will process the data and store embeddings and labels for different experiment settings (i.e., with different availability of training prompts) with ```.csv``` format files.
  ```
  python3 llama_step3_data_processing.py
  ```
- #### Step 4. Perform reward modeling (offline evaluation)
- Run
+ #### Step 4. Proxy Reward Model Learning (i.e., Offline Prompt Evaluation)
+ This step will take a few minutes to a few hours to finish, depending on the algorithms chosen and the processor. In general, training an XGBoost reward model will take a bit longer time, and using a LightGBM reward model can be faster. 
  ```
  python3 llama_step4_offline_evaluation.py
  ```
- #### Step 5. prompt optimization
- Run
+ #### Step 5. (Offline) Prompt Optimization
+ This step will take a few minutes to finish. Evaluating the algorithms by interacting with the LLMs can also be an option but could be slower. Results under different settings will be all saved to ```.csv``` files 
  ```
  python3 llama_step5_offline_optimization.py
  ```
 
 
 ## 🚀 A Related Discussion on RLHF:
-Prompt-OIRL addresses the prompting problems in LLMs using an RLAIF approach. For readers who are also interested in RLHF and RLAIF, and on the intersection between RL and LLM research, we would refer to our related perspective paper discussing RL in LLM research:
+Prompt-OIRL addresses the prompting problems in LLMs using an RLAIF approach. For readers who are also interested in RLHF and RLAIF, and in the intersection between RL and LLM research, we would refer to our related perspective paper discussing RL in LLM research:
 [RL in the Era of LLMs: What is Essential? What is Needed? RLHF, Prompting, and Beyond.](https://arxiv.org/pdf/2310.06147.pdf)
 
 
