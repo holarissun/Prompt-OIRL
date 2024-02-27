@@ -30,18 +30,56 @@ Figure 1. **No prompt is perfect that works for all queries**. The optimal promp
 
 ## ⚙️ Reproduction
 
-### Code and Offline Data
-- Code and Offline Data for experiments using LLaMA2-7B is now released!
+### Preliminaries
 
 To reproduce our results (e.g., using LLaMA2)
 
-1. get license to use LLaMA-2 from https://ai.meta.com/llama/
+1. get the [license to use LLaMA-2](https://ai.meta.com/llama/).
 
-2. get access to the SVAMP dataset: https://github.com/arkilpatel/SVAMP
+2. get access to the datasets: [SVAMP](https://github.com/arkilpatel/SVAMP), [GSM8K](https://huggingface.co/datasets/gsm8k), [MAWPS](https://github.com/sroy9/mawps)
 
-3. get access to the GSM8K dataset: https://huggingface.co/datasets/gsm8k
+### Create a Virtual Env
+1. Clone the repository
+```
+git clone git@github.com:holarissun/Prompt-OIRL.git
+``` 
+2. Create a new virtual environment with Python 3.10, e.g.,
+```
+virtualenv prompt-oirl
+```
+3. Install the requirements
+```
+pip install -r requirements.txt
+```
 
-4. run the code: from step 1 - step 5 to generate-, reorganize-, process- data, and then perform reward modeling (offline evaluation) and optimization.
+### Reproduce the Main Results
+ #### Step 1. (Optional, as we also released the offline dataset) Generate an offline dataset by interacting with the LLMs.
+ This step will take a long time --- typically a few days. To avoid repeating such a computationally expensive (when running LLMs on local machines) or costly (when calling the commercial APIs like GPT3.5 or TigerBot) process, we have **released all the interactive logs with those LLMs collected in our experiments.**.
+```
+python3 llama_step1_gen_offline.py
+```
+ #### Step 2. Reorganize the collected offline data
+ Run
+ 
+ ```
+ python3 llama_step2_reorg_data.py
+ ```
+    
+ #### Step 3. Pre-process the offline data
+ Run
+ ```
+ python3 llama_step3_data_processing.py
+ ```
+ #### Step 4. Perform reward modeling (offline evaluation)
+ Run
+ ```
+ python3 llama_step4_offline_evaluation.py
+ ```
+ #### Step 5. prompt optimization
+ Run
+ ```
+ python3 llama_step5_offline_optimization.py
+ ```
 
 
 ## 🚀 A Related Discussion on RLHF:
