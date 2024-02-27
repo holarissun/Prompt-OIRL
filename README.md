@@ -45,7 +45,9 @@ git clone git@github.com:holarissun/Prompt-OIRL.git
 ``` 
 2. Create a new virtual environment with Python 3.10, e.g.,
 ```
-virtualenv prompt-oirl
+conda create --name prompt-oirl python==3.10
+conda activate prompt-oirl
+cd Prompt-OIRL
 ```
 3. Install the requirements
 ```
