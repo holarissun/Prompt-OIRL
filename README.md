@@ -9,7 +9,7 @@
 
  
 ## 🔥 News
-- (2024.2) Code with GPT3.5 and TigerBot has been released.
+- (2024.2) (Internal Code-Reviewing) Code with GPT3.5 and TigerBot to be released.
 - (2024.1) Prompt-OIRL has been accepted by ICLR'2024. We look forward to talking with you in Vienna!
 - (2024.12) Prompt-OIRL has been presented at the NeurIPS conference. Thanks for all the invaluable feedback!
 - (2023.10) Code with LLaMA2 has been released.
@@ -68,7 +68,7 @@ pip install -r requirements.txt
  ```
     
  #### Step 3. Pre-process the offline data
- This step will take a few seconds to finish, it will process the data and store embeddings and labels for different experiment settings (i.e., with different availability of training prompts) with ```.csv``` format files.
+ This step will take a few seconds to finish, it will process the data and store embeddings and labels for different experiment settings (i.e., with different availability of training prompts) with ```.npy``` format files.
  ```
  python3 llama_step3_data_processing.py
  ```
