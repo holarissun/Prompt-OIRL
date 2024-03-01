@@ -57,8 +57,24 @@ pip install -r requirements.txt
 ### Reproduce the Main Results
  #### Step 1. (Optional, as we also released the offline dataset) Generate an offline dataset by interacting with the LLMs.
  This step will take a long time --- typically a few days. To avoid repeating such a computationally expensive (when running LLMs on local machines) or costly (when calling the commercial APIs like GPT3.5 or TigerBot) process, we have **released all the interactive logs with those LLMs collected in our experiments.**.
+
+ If you would like to reproduce the offline dataset, for example, with the llama2 model, you need to work under the dir of
  ```
- python3 llama_step1_gen_offline.py
+  git@github.com:facebookresearch/llama.git
+ ```
+and move both 
+```Prompt-OIRL/llama_exps/dataset_gsm8k.py```
+and 
+```Prompt-OIRL/llama_exps/llama_step1_gen_offline.py```
+to the ```llama``` folder
+
+then
+
+ ```
+torchrun --nproc_per_node 1 llama_step1_gen_offline.py \
+    --ckpt_dir llama-2-7b-chat/ \
+    --tokenizer_path tokenizer.model \
+    --max_seq_len 512 --max_batch_size 8 --prompt_idx 0 --dataset_eval gsm8k
  ```
  #### Step 2. Reorganize the collected offline data
  This step will take a few seconds to finish, it will do some file renaming and training-test split and save corresponding files to a new folder ```LMllama2```
