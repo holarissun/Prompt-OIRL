@@ -62,9 +62,7 @@ pip install -r requirements.txt
  ```
   git@github.com:facebookresearch/llama.git
  ```
-and move both 
-```Prompt-OIRL/llama_exps/dataset_gsm8k.py```
-and 
+and move 
 ```Prompt-OIRL/llama_exps/llama_step1_gen_offline.py```
 to the ```llama``` folder
 
