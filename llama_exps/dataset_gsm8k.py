@@ -10,7 +10,7 @@ def read_jsonl(path: str):
 
 
 def get_examples_gsm8k(split):
-    path = os.path.join("../PromptingRLHF/data/", f"{split}.jsonl")
+    path = os.path.join("../data/", f"{split}.jsonl")
     examples = read_jsonl(path)
 
     for ex in examples:
