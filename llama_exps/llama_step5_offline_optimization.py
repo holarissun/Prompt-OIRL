@@ -20,8 +20,8 @@ for TASK in ['gsm8k', 'svamp', 'mawps']: # ,'gsm8k','svamp'
     for add_n in range(10,11):
         # load embeddings of the questions
         if TASK == 'gsm8k':
-            question_embedding_train = np.load("embeddings/GSM8K_train_Q_embeddings.npy")
-            question_embedding_test = np.load("embeddings/GSM8K_test_Q_embeddings.npy")[:1000]
+            question_embedding_train = np.load("../embeddings/GSM8K_train_Q_embeddings.npy")
+            question_embedding_test = np.load("../embeddings/GSM8K_test_Q_embeddings.npy")[:1000]
             with open("LMllama2/gsm8k_names.json", "r") as f:
                 offline_names = json.load(f)
         elif TASK == 'mawps':
@@ -61,7 +61,7 @@ for TASK in ['gsm8k', 'svamp', 'mawps']: # ,'gsm8k','svamp'
 
                 test_gold = []
                 for file_i in range(ADDITIONAL_N):
-                    with open(f'llama_results/{TASK}/llama_{TASK}_corr_gpt4_{file_i}.txt', 'r') as f:
+                    with open(f'llama2_chat_logs/{TASK}/llama_{TASK}_corr_gpt4_{file_i}.txt', 'r') as f:
                         file_i_context = f.readlines()
                     file_i_context = ['True' in i for i in file_i_context]
                     test_gold.append(file_i_context)
