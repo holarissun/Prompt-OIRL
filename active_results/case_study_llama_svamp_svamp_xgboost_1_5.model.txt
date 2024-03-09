@@ -1,0 +1,120 @@
+question_idx: 4
+question: in 1 week an airplane pilot flew 1134 miles on tuesday and 1475 miles on thursday . if the pilot flies the same number of miles 3 weeks in a row how many miles does he fly in all ?
+golden answer: 7827.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 9
+question: mrs. hilt uses 2 ounces of detergent to wash a pound of clothes . how many ounces of soap will she use to wash 9 pounds of clothes ?
+golden answer: 18.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 18
+question: lucy has an aquarium with 212 fish . she wants to buy 68 more fish . how many fish would lucy have then ?
+golden answer: 280.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 19
+question: lucy has 212 fish . how many more fish does she need to buy to have 280 fish ?
+golden answer: 68.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 23
+question: each bag contains 23 pounds of oranges . how many pounds of oranges are in 45 bags ?
+golden answer: 1035.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 29
+question: there are some passengers on a bus . at a bus stop 7 more passengers got on the bus and 9 passengers got off . if there are 26 passengers in the bus in the end how many passengers were there at first ?
+golden answer: 28.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 30
+question: bruno had some story books . he lost 4 of them and his dad gave him 10 more books . if he had 39 books after that how many books did bruno have at first ?
+golden answer: 33.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 45
+question: there were 86 pineapples in a store . the owner sold 48 pineapples . 9 of the remaining pineapples were rotten and thrown away . how many fresh pineapples are left ?
+golden answer: 29.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 49
+question: a mirror store has 78 mirrors in stock . 8 mirrors are broken and 57 mirrors are sold . how many mirrors are left ?
+golden answer: 13.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 53
+question: there are 7 basketballs at a school . if the school buys another 3 basketballs how many basketballs will the school have ?
+golden answer: 10.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 60
+question: beryl has 88 radishes . she puts them into 2 baskets . if there are 37 radishes in the first basket how many more radishes are there in the second basket than the first ?
+golden answer: 14.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 61
+question: there are 56 students in the class . the teacher wants to split them into 2 groups . the first group has 24 students . how many more students will there be in the second group ?
+golden answer: 8.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 64
+question: an online toy store stocked some toys . it sold 38 toys at the first week and 26 toys at the second week . if it had 19 toys left how many toys were in stock at the beginning ?
+golden answer: 83.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 65
+question: mother bought some potatoes . she used 15 of the potatoes to make salads and 24 of the potatoes for mashed potatoes . if there were 13 potatoes left how many potatoes did mother buy at first ?
+golden answer: 52.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 75
+question: jane can arrange 16 vases of flowers in a day . if there are 248 vases of flowers to be arranged how many days are needed for her to finish all the flower arrangements ?
+golden answer: 15.5
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 77
+question: a paper bag can hold 16 cookies . if edgar buys 292 cookies how many paper bags does he need ?
+golden answer: 18.25
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 78
+question: a bus can transport 48 passengers . if a school of 1230 students and teachers are going on a field trip how many buses should be rented ?
+golden answer: 25.625
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 80
+question: the capacity of a tank is 32 gallons . if a company bought 728 gallons of oil how many tanks are needed to hold all the oil ?
+golden answer: 22.75
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 83
+question: 86 students are going hiking . each school- bus can take 9 students . how many school-buses are needed ?
+golden answer: 9.555555555555555
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 85
+question: 9 boys went to water trees . there were 29 trees . if each of them watered the equal amount of trees how many trees did each boy water ?
+golden answer: 3.2222222222222223
+held-out prompt: 1
+prompted answer: 1
+--------------------

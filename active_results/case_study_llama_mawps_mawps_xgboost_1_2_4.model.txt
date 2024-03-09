@@ -1,0 +1,297 @@
+question_idx: 2
+question: Roger has 95.0 candies . He gives 3.0 to Stephanie . How many candies will Roger have ?
+golden answer: 92.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 9
+question: Joyce has 40.0 bananas that must be put away in boxes . Fred comes to help and brings 18.0 cookies to share with Joyce . If there are 10.0 boxes , how many bananas must go in each box ?
+golden answer: 4.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 12
+question: Before starting her shift , a waitress checks to make sure there is enough mustard for her customers . She finds 0.25 bottle at the first table , 0.25 bottle at the second table , and 0.375 bottle at the third table . Altogether , how many bottles of mustard does the waitress find ?
+golden answer: 0.875
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 16
+question: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?
+golden answer: 0.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 25
+question: Jason joined his school 's band . He bought a flute for $ 142.46 , a music tool for $ 8.89 , and a song book for $ 7.0 . How much did Jason spend at the music store ?
+golden answer: 158.35
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 34
+question: Megan earned 8.0 points for each bag of cans she recycled . If she had 14.0 bags , but did n't recycle 5.0 of them , how many points would she have earned ?
+golden answer: 72.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 39
+question: A clothing store offers a 20.0 % discount on all purchases . How much would a shopper pay for an item originally costing 21.0 dollars dollars ?
+golden answer: 16.8
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 43
+question: Tim found 37.0 seashells and Sally found 13.0 seashells on the beach . When they cleaned them , they discovered that 25.0 were cracked . How many seashells did they find together ?
+golden answer: 50.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 44
+question: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?
+golden answer: 7.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+Step 1: Read the problem carefully.
+The problem states that Megan has 40.0 homework problems and she finished 26.0 of them. This means that she still has 14.0 problems to do.
+Step 2: Use the information given in the problem to find out how many problems are on each page.
+Since Megan has 14.0 problems left to do, and each page has the same number of problems, we can divide the number of problems left to do by the number of pages to find out how many problems are on each page:
+14.0 problems / 2.0 pages = 7.0 problems per page
+So, there are 7.0 problems on each page.
+Therefore, the answer to the problem is 7.0 problems per page.
+--------------------
+question_idx: 48
+question: Mrs. Hilt bought a notebook for $ 1.3 . She paid with nickels . How many nickels did she use to buy the notebook ?
+golden answer: 26.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 53
+question: Elisa has 37.0 dollars . How many more dollars does she have to earn to have 53.0 dollars ?
+golden answer: 16.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 59
+question: A trivia team had 11.0 members total , but during a game 6.0 members did n't show up . If each member that did show up scored 9.0 points , how many points were scored total ?
+golden answer: 45.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 60
+question: Nancy grew 2.0 onions , Dan grew 9.0 onions , and Mike grew 4.0 onions . They worked for 6.0 days on the farm . How many onions did they grow in total ?
+golden answer: 15.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 61
+question: Arthur removes 4.0 pencils from a jar . There were originally 87.0 pencils in the jar . How many pencils are left in the jar ?
+golden answer: 83.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 67
+question: Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour . How long did Jeremy stroll ?
+golden answer: 10.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 70
+question: Will invited 9.0 friends to a birthday party , but 4.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 8.0 , how many should he buy ?
+golden answer: 40.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 71
+question: April 's discount flowers was having a sale where each rose was 7.0 dollars . If April started with 9.0 roses and had 4.0 roses left , how much money did she earn ?
+golden answer: 35.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 75
+question: There was a stack of 700.0 sheets of used paper . Lexie wants to place it in boxes for recycling . If every box can contain 100.0 sheets , how many boxes does Lexie need ?
+golden answer: 7.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 89
+question: At the schools book fair Victor bought 32.0 adventure books and 37.0 mystery books . If 16.0 of the books were used , how many new books did he buy ?
+golden answer: 53.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 91
+question: Tom bought a skateboard for $ 9.46 , and spent $ 9.56 on marbles . Tom also spent $ 14.5 on shorts . In total , how much did Tom spend on toys ?
+golden answer: 19.02
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Tom bought a skateboard for $ 9.46 , and spent $ 9.56 on marbles . Tom also spent $ 14.5 on shorts . In total , how much did Tom spend on toys ?"Let's approach this like a mathematician proving a theorem, step by logical step: "Tom spent $9.46 on a skateboard." Okay, that's the first step. Now, let's move on to the next step: "Tom spent $9.56 on marbles." Great, that's the second step. Now, let's add these two amounts together: $9.46 + $9.56 = $19.02. So, Tom spent $19.02 on toys. Therefore, the answer is $19.02."
+--------------------
+question_idx: 117
+question: Mike had 33.0 quarters and 87.0 nickels in his bank . His dad borrowed 75.0 nickels from Mike . How many nickels does he have now ?
+golden answer: 12.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 129
+question: Mary had 33.0 Pokemon cards , and 6.0 were torn . Sam gave Mary 23.0 new Pokemon cards . How many Pokemon cards does Mary have now ?
+golden answer: 56.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 192
+question: Paul had saved up 4.0 dollars . If he received another 11.0 dollars for his allowance , how many 5.0 dollar toys could he buy ?
+golden answer: 3.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Paul had saved up 4.0 dollars . If he received another 11.0 dollars for his allowance , how many 5.0 dollar toys could he buy ?"Let's approach this like a mathematician proving a theorem, step by logical step: "If Paul saved up 4.0 dollars, and he received another 11.0 dollars for his allowance, then the total amount of money he has is 4.0 + 11.0 = 15.0 dollars.Now, to find out how many 5.0 dollar toys Paul can buy, we need to divide the total amount of money he has by the cost of each toy: 15.0 dollars / 5.0 dollars = 3 toys.So, Paul can buy 3 toys with the 15.0 dollars he has."Therefore, the answer is 3 toys.
+--------------------
+question_idx: 296
+question: Mike had 15.0 video games but 9.0 of them were n't working . If he wanted to sell the working games for $ 5.0 each , how much money could he earn ?
+golden answer: 30.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Mike had 15.0 video games but 9.0 of them were n't working . If he wanted to sell the working games for $ 5.0 each , how much money could he earn ?"Let's approach this like a mathematician proving a theorem, step by logical step: "The information given in the problem is:Mike has 15.0 video games but 9.0 of them weren't working. If he wanted to sell the working games for $ 5.0 each, how much money could he earn?"Step 1: Identify the information given in the problem. We are given:1. The number of video games Mike has: 15.02. The number of non-working video games: 9.03. The price at which Mike wants to sell the working video games: $ 5.0Step 2: Identify what we want to find out. We want to find out how much money Mike could earn if he sells the working video games.Step 3: Use the information given in the problem to find the number of working video games Mike has. We are told that 9.0 of the video games are non-working, so the number of working video games is 15.0 - 9.0 = 6.0Step 4: Calculate the total amount of money Mike could earn if he sells all the working video games. Since he has 6.0 working video games, and he wants to sell each one for $ 5.0, the total amount of money he could earn is 6.0 x $ 5.0 = $ 30.0Step 5: Check our answer. Let's make sure that $ 30.0 is a reasonable amount of money for Mike to earn. If he sells each of his 6.0 working video games for $ 5.0, he will earn a total of $ 6.0 x 6.0 = $ 36.0, which is close to $ 30.0. So, our answer is reasonable.Therefore, if Mike wants to sell the working video games for $ 5.0 each, he could earn $ 30.0.
+--------------------
+question_idx: 400
+question: Mikey had 356.0 leaves . Some of her leaves blew away . Now she has 112.0 leaves left . How many of her leaves blew away ?
+golden answer: 244.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Mikey had 356.0 leaves . Some of her leaves blew away . Now she has 112.0 leaves left . How many of her leaves blew away ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+Step 1: We are given that Mikey had 356.0 leaves.
+Step 2: We are told that some of her leaves blew away.
+Step 3: We are asked to find out how many leaves blew away.
+Step 4: We can start by subtracting the number of leaves Mikey has left (112.0) from the number of leaves she had initially (356.0).
+So, the number of leaves that blew away is:
+356.0 - 112.0 = 244.0
+Therefore, 244 leaves blew away.
+"Now, let's check our answer:
+If 244 leaves blew away, then Mikey had 356.0 - 244.0 = 112.0 leaves left.
+And indeed, we are told that Mikey has 112.0 leaves left.
+So, our answer is correct! We have successfully solved the problem.
+"In conclusion, we have shown that 244 leaves blew away from Mikey's tree. We hope this solution helps you understand the problem better and build your problem-solving skills."
+--------------------
+question_idx: 451
+question: A waiter at ' The Greasy Spoon ' restaurant had 39.0 customers to wait on . During the lunch rush he added another 12.0 customers . If 49.0 of the customers did n't leave him a tip , how many customers did leave a tip ?
+golden answer: 2.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: A waiter at ' The Greasy Spoon ' restaurant had 39.0 customers to wait on . During the lunch rush he added another 12.0 customers . If 49.0 of the customers did n't leave him a tip , how many customers did leave a tip ?"Let's approach this like a mathematician proving a theorem, step by logical step: "The total number of customers the waiter had to wait on is 39.0, and during the lunch rush, he added another 12.0 customers. So, the total number of customers the waiter had to wait on is:39.0 + 12.0 = 51.0 customers.Now, we are given that 49.0 of the customers did not leave a tip. So, the number of customers who did leave a tip is:51.0 - 49.0 = 2.0 customers.Therefore, 2 customers left a tip."
+--------------------
+question_idx: 725
+question: There are 65.0 students trying out for the school 's trivia teams . If 17.0 of them did n't get picked for the team and the rest were put into 8.0 groups , how many students would be in each group ?
+golden answer: 6.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: There are 65.0 students trying out for the school 's trivia teams . If 17.0 of them did n't get picked for the team and the rest were put into 8.0 groups , how many students would be in each group ?"Let's approach this like a mathematician proving a theorem, step by logical step: "Step 1: Let the number of students who didn't get picked for the team be x.Step 2: Since there are 65.0 students trying out for the school's trivia teams, the total number of students is 65.0.Step 3: Since 17.0 of them didn't get picked for the team, the number of students who got picked for the team is 65.0 - 17.0 = 48.0.Step 4: Since the rest were put into 8.0 groups, the number of students in each group is 48.0 / 8.0 = 6.0.So, there would be 6 students in each group.
+--------------------
+question_idx: 788
+question: Ned had 15.0 video games but 6.0 of them were n't working . If he wanted to sell the working games for $ 7.0 each , how much money could he earn ?
+golden answer: 63.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Ned had 15.0 video games but 6.0 of them were n't working . If he wanted to sell the working games for $ 7.0 each , how much money could he earn ?"Let's approach this like a mathematician proving a theorem, step by logical step: "The information given in the problem is:Ned has 15.0 video games, but 6.0 of them are not working. He wants to sell the working games for $7.0 each.To find out how much money Ned can earn, we need to multiply the number of working games by the price per game:Working games = 15.0 - 6.0 = 9.0 games (since 6.0 are not working)Price per game = $7.0So, the total amount of money Ned can earn is:9.0 games x $7.0 per game = $63.0In other words, Ned can earn $63.0 by selling the 9 working video games at $7.0 each."Therefore, the answer is $63.0.
+--------------------
+question_idx: 853
+question: She counted her crayons and found out that she has 80.0 crayons which she will place in crayon boxes . Every box can contain 8.0 crayons . How many boxes does she need ?
+golden answer: 10.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: She counted her crayons and found out that she has 80.0 crayons which she will place in crayon boxes . Every box can contain 8.0 crayons . How many boxes does she need ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+1. The number of crayons the child has is 80.0.
+2. Each box can contain 8.0 crayons.
+3. To find out how many boxes the child needs, we divide the number of crayons by the number of crayons that can fit in each box:
+80.0 ÷ 8.0 = 10 boxes
+
+Therefore, the child needs 10 boxes to store her crayons."
+--------------------
+question_idx: 883
+question: In a video game , each enemy defeated gives you 5.0 points . If a level has 8.0 enemies total and you destroy all but 6.0 of them , how many points would you earn ?
+golden answer: 10.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: In a video game , each enemy defeated gives you 5.0 points . If a level has 8.0 enemies total and you destroy all but 6.0 of them , how many points would you earn ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+Step 1: Identify the given information.
+* In a video game, each enemy defeated gives you 5.0 points.
+* There are 8.0 enemies in total in the level.
+* You defeat all but 6.0 of them.
+Step 2: Calculate the total number of points you earn from defeating all the enemies.
+* Total number of enemies = 8.0
+* Number of enemies you defeat = 8.0 - 6.0 = 2.0
+* Total points earned = 5.0 x 2.0 = 10.0 points
+Step 3: Confirm your answer.
+* The question asks how many points you would earn if you defeat all but 6.0 of the enemies in the level.
+* You have calculated the total number of points earned to be 10.0 points.
+Therefore, the answer to the question is 10.0 points.
+--------------------
+question_idx: 919
+question: Your class had a pizza party . 0.375 of a pizza was left over , and 0.5 of another pizza was left over . You put them both into one box . How much pizza do you have altogether ?
+golden answer: 0.875
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Your class had a pizza party . 0.375 of a pizza was left over , and 0.5 of another pizza was left over . You put them both into one box . How much pizza do you have altogether ?"Let's approach this like a mathematician proving a theorem, step by logical step: "The total amount of pizza is equal to the sum of the amounts of pizza from each class."Let's start by identifying the given information:* 0.375 of a pizza was left over from your class.* 0.5 of another pizza was left over from another class.Now, let's use the associative property of addition to combine the amounts of pizza from each class:The total amount of pizza = 0.375 + 0.5 = 0.875 pizzasNow, we have established that the total amount of pizza is equal to 0.875 pizzas. Therefore, we can conclude that altogether, you have 0.875 pizzas.
+--------------------
+question_idx: 962
+question: Robin was making baggies of cookies with 6.0 cookies in each bag . If she had 23.0 chocolate chip cookies and 25.0 oatmeal cookies , how many baggies could she make ?
+golden answer: 8.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Robin was making baggies of cookies with 6.0 cookies in each bag . If she had 23.0 chocolate chip cookies and 25.0 oatmeal cookies , how many baggies could she make ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+First, we know that Robin can make baggies of cookies with 6.0 cookies in each bag. So, if she has 23.0 chocolate chip cookies, she can make 23/6 = 3.83 baggies of chocolate chip cookies.
+Similarly, if she has 25.0 oatmeal cookies, she can make 25/6 = 4.17 baggies of oatmeal cookies.
+Now, we add the number of baggies she can make of each type of cookie: 3.83 + 4.17 = 7.99 baggies.
+So, Robin can make 7.99 baggies of cookies in total."
+This solution is correct, but it's a bit wordy and could be simplified. Here's a more concise way to solve the problem:
+Let's say Robin can make baggies of cookies with 6.0 cookies in each bag. If she has 23.0 chocolate chip cookies and 25.0 oatmeal cookies, she can make:
+23 / 6 = 3.83 baggies of chocolate chip cookies
+25 / 6 = 4.17 baggies of oatmeal cookies
+Total number of baggies = 3.83 + 4.17 = 8 baggies
+So, Robin can make 8 baggies of cookies in total.
+--------------------
+question_idx: 995
+question: If Charles strolled 6.0 miles at 3.0 miles per hour , how long was Charles travelling ?
+golden answer: 2.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: If Charles strolled 6.0 miles at 3.0 miles per hour , how long was Charles travelling ?"Let's approach this like a mathematician proving a theorem, step by logical step: "Charles strolled 6.0 miles at 3.0 miles per hour, so the time he was traveling can be found by dividing the distance he traveled by his speed:Time = Distance / SpeedTime = 6.0 miles / 3.0 miles/hour = 2.0 hoursCharles was traveling for 2.0 hours."
+--------------------
+question_idx: 1034
+question: Juan ran 80.0 miles at 10.0 miles per hour . How long did Juan run ?
+golden answer: 8.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: Juan ran 80.0 miles at 10.0 miles per hour . How long did Juan run ?"As a cartographer maps terrains, let's chart the nuances and details: "Juan ran 80.0 miles" is a straightforward statement that conveys the distance Juan traveled. However, to determine how long Juan ran, we need to know his speed. The statement "Juan ran 80.0 miles at 10.0 miles per hour" provides the necessary information.Now we can calculate the time Juan spent running:Time = Distance / SpeedTime = 80.0 miles / 10.0 miles per hour = 8 hoursNow we know that Juan ran for 8 hours.
+--------------------
+question_idx: 1131
+question: Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour . How long did Jeremy stroll ?
+golden answer: 10.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour . How long did Jeremy stroll ?"Let's approach this like a mathematician proving a theorem, step by logical step: "Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour.""First, we need to convert the distance Jeremy strolled (in kilometers) to hours:1 kilometer = 1000 meters1 hour = 3600 secondsSo,20.0 kilometers = 20,000 meters = 20 hoursNow, we know that Jeremy strolled at a speed of 2.0 kilometers per hour. To find out how long he strolled, we can divide the distance he strolled by his speed:20 hours / 2.0 kilometers per hour = 10 hoursSo, Jeremy strolled for 10 hours."Therefore, Jeremy strolled for 10 hours."In conclusion, Jeremy strolled for 10 hours.
+--------------------
+question_idx: 1200
+question: Daniel had some noodles . He gave 12.0 noodles to William . Now Daniel only has 54.0 noodles . How many noodles did Daniel have to begin with ?
+golden answer: 66.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Daniel had some noodles . He gave 12.0 noodles to William . Now Daniel only has 54.0 noodles . How many noodles did Daniel have to begin with ?"Let's approach this like a mathematician proving a theorem, step by logical step: "Given: Daniel had some noodles. He gave 12.0 noodles to William. Now Daniel only has 54.0 noodles. To find out how many noodles Daniel had to begin with, we can use the information given in the problem: 1. Daniel had some noodles (let's call this number x) 2. Daniel gave 12.0 noodles to William (so now Daniel has x - 12.0 noodles) 3. Now Daniel only has 54.0 noodles (so x - 12.0 = 54.0) 4. Solving for x, we get: x = 66.0 noodles (Daniel had 66.0 noodles to begin with)So, according to the problem, Daniel had 66.0 noodles to begin with.
+--------------------
+question_idx: 1210
+question: A book store had 41.0 books in the bargin bin . If they sold 33.0 books , but then put 2.0 more in the bin , how many books would be in the bin ?
+golden answer: 10.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: A book store had 41.0 books in the bargin bin . If they sold 33.0 books , but then put 2.0 more in the bin , how many books would be in the bin ?"Let's approach this like a mathematician proving a theorem, step by logical step: "The book store had 41.0 books in the bargin bin" (assumption) "If they sold 33.0 books" (given) "Then the number of books in the bargin bin after the sale is 41.0 - 33.0 = 8.0 books" (subtraction) "But then they put 2.0 more books in the bin" (given) "So the number of books in the bargin bin now is 8.0 + 2.0 = 10.0 books" (addition) Therefore, there are 10.0 books in the bargin bin.
+--------------------
+question_idx: 1330
+question: Olivia was making baggies of cookies with 9.0 cookies in each bag . If she had 13.0 chocolate chip cookies and 41.0 oatmeal cookies , how many baggies could she make ?
+golden answer: 6.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Olivia was making baggies of cookies with 9.0 cookies in each bag . If she had 13.0 chocolate chip cookies and 41.0 oatmeal cookies , how many baggies could she make ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+First, we know that Olivia has 13.0 chocolate chip cookies and 41.0 oatmeal cookies. Let's call the total number of cookies she has:
+13.0 + 41.0 = 54.0
+Now, we know that each baggie of cookies contains 9.0 cookies. So, to find out how many baggies Olivia can make, we divide the total number of cookies by the number of cookies in each baggie:
+54.0 ÷ 9.0 = 6
+So, Olivia can make 6 baggies of cookies.
+Therefore, the answer is 6 baggies of cookies that Olivia can make."
+This is a great example of how to approach a problem step by step, breaking it down into smaller parts, and using mathematical operations to find the solution. It also shows how to use language in a logical and clear way to explain the solution.
+--------------------
+question_idx: 1442
+question: Lisa starts with 91.0 bananas . Maria gives Lisa 8.0 more . How many bananas does Lisa end with ?
+golden answer: 99.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Lisa starts with 91.0 bananas . Maria gives Lisa 8.0 more . How many bananas does Lisa end with ?"Let's approach this like a mathematician proving a theorem, step by logical step: "Step 1: Write down the information given in the problem."Okay, so the problem states that Lisa starts with 91.0 bananas. Let's write that down:91.0 bananasStep 2: Write down the additional bananas given to Lisa by Maria:8.0 more bananasSo, Maria gives Lisa 8.0 more bananas. Let's write that down:8.0 more bananasStep 3: Add the initial number of bananas to the additional bananas given to Lisa:91.0 bananas + 8.0 more bananas =?"Now we need to add the initial number of bananas to the additional bananas given to Lisa. Let's do that:91.0 bananas + 8.0 more bananas = 99.0 bananasSo, Lisa ends with 99.0 bananas. That's the answer to the problem!"Great! Now we have a clear and logical explanation of how to solve the problem. Let's review it together:Step 1: Write down the information given in the problem.Step 2: Write down the additional bananas given to Lisa by Maria.Step 3: Add the initial number of bananas to the additional bananas given to Lisa.Now we can confidently say that Lisa ends with 99.0 bananas.
+--------------------
+question_idx: 1470
+question: There school 's baseball team had 48.0 new players and 6.0 returning players . If the coach put them into groups with 6.0 players in each group , how many groups would there be ?
+golden answer: 9.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: There school 's baseball team had 48.0 new players and 6.0 returning players . If the coach put them into groups with 6.0 players in each group , how many groups would there be ?"As a cartographer maps terrains, let's chart the nuances and details: "The school's baseball team had 48.0 new players and 6.0 returning players. If the coach put them into groups with 6.0 players in each group, how many groups would there be?"
+To solve this problem, we need to divide the total number of players (48.0 + 6.0 = 54.0) by the number of players in each group (6.0).
+So, there would be 54.0 / 6.0 = 9 groups of players.
+Therefore, there would be 9 groups of players.
+--------------------

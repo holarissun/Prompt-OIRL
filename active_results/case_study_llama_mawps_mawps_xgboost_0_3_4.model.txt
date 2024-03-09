@@ -1,0 +1,1132 @@
+question_idx: 3
+question: For the school bake sale Wendy made pastries . She baked 41.0 cupcakes and 31.0 cookies . After the sale she had 32.0 to take back home . How many pastries did she sell ?
+golden answer: 40.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 12
+question: Before starting her shift , a waitress checks to make sure there is enough mustard for her customers . She finds 0.25 bottle at the first table , 0.25 bottle at the second table , and 0.375 bottle at the third table . Altogether , how many bottles of mustard does the waitress find ?
+golden answer: 0.875
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 14
+question: Lucy has an aquarium with 212.0 fish . Lucy wants to buy 68.0 more fish . How many fish would Lucy have then ?
+golden answer: 280.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 15
+question: Emily was playing a video game and had 42.0 lives . In a hard part of the game she lost 25.0 lives . If she got 24.0 more lives in the next level , how many lives would she have ?
+golden answer: 41.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 16
+question: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?
+golden answer: 0.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 36
+question: A 12.0 ounce can of cranberry juice sells for 84.0 cents . What is the cost in cents per ounce .
+golden answer: 7.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 38
+question: Melissa scored 120.0 points in each game . How many points did she score in 10.0 games ?
+golden answer: 1200.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 45
+question: John had 6.0 action figures , but needed 11.0 total for a complete collection . If each one costs $ 6.0 , how much money would he need to finish his collection ?
+golden answer: 30.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 47
+question: Wendy uploaded 45.0 pictures to Facebook . She put 27.0 pics into one album and put the rest into 9.0 different albums . How many pictures were in each album ?
+golden answer: 2.0
+held-out prompt: 6
+prompted answer: 6
+--------------------
+question_idx: 52
+question: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?
+golden answer: 12.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Kimberly has 5.0 Skittles. She buys 7.0 more." The sound of the word "Skittles" echoes in the valley, and the meaning of the sentence is clear: Kimberly has 5.0 Skittles initially. "Later, Kimberly buys 18.0 oranges at the store." The sound of the word "oranges" echoes in the valley, and the meaning of the sentence is clear: Kimberly buys 18.0 oranges at the store later. "How many Skittles does Kimberly have in all?" The echo in the valley is now asking for the total number of Skittles Kimberly has, including the initial 5.0 and the additional 7.0 she bought later. So, the answer is: Kimberly has 5.0 + 7.0 = 12.0 Skittles in all.
+--------------------
+question_idx: 59
+question: A trivia team had 11.0 members total , but during a game 6.0 members did n't show up . If each member that did show up scored 9.0 points , how many points were scored total ?
+golden answer: 45.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 60
+question: Nancy grew 2.0 onions , Dan grew 9.0 onions , and Mike grew 4.0 onions . They worked for 6.0 days on the farm . How many onions did they grow in total ?
+golden answer: 15.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 66
+question: Lana was unboxing some of her old winter clothes . She found 4.0 boxes of clothing and inside each box there were 2.0 scarves and 6.0 mittens . How many pieces of winter clothing did Lana have total ?
+golden answer: 32.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 80
+question: After the price of petroleum oil went up by 10.0 % , a consumer reduced his oil consumption by the same percent . By what percent would his petroleum bill be changed ?
+golden answer: 1.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 83
+question: A teacher had 34.0 worksheets to grade . If she graded 7.0 , but then another 36.0 were turned in , how many worksheets would she have to grade ?
+golden answer: 63.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 91
+question: Tom bought a skateboard for $ 9.46 , and spent $ 9.56 on marbles . Tom also spent $ 14.5 on shorts . In total , how much did Tom spend on toys ?
+golden answer: 19.02
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 103
+question: A store had 40.0 coloring books in stock . They ended up putting them on sale and getting rid of 20.0 of them . The put the ones they still had onto shelves with 4.0 on each shelf . How many shelves did they use ?
+golden answer: 5.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 107
+question: A teacher had 29.0 worksheets to grade . If she graded 25.0 , but then another 29.0 were turned in , how many worksheets would she have to grade ?
+golden answer: 33.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 115
+question: While playing at the arcade , Ned won 26.0 tickets playing ' whack a mole ' and 19.0 tickets playing ' skee ball ' . If he was trying to buy candy that cost 9.0 tickets a piece , how many could he buy ?
+golden answer: 5.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 123
+question: A trivia team had 12.0 members total , but during a game 4.0 members did n't show up . If each member that did show up scored 8.0 points , how many points were scored total ?
+golden answer: 64.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 136
+question: Lena drove 204.0 miles . Using 10.0 gallons of gas at this rate , how many gallons of gas would she need to drive 255.0 miles ?
+golden answer: 12.5
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 164
+question: Frank made 19.0 dollars mowing lawns over the summer . If he spent 11.0 dollars buying new mower blades , how many 2.0 dollar games could he buy with the money he had left ?
+golden answer: 4.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Frank made 19.0 dollars mowing lawns over the summer . If he spent 11.0 dollars buying new mower blades , how many 2.0 dollar games could he buy with the money he had left ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Frank made 19.0 dollars mowing lawns over the summer. If he spent 11.0 dollars buying new mower blades, how many 2.0 dollar games could he buy with the money he had left?""
+Answer:
+Frank has 8.0 dollars left after buying new mower blades.
+To find out how many 2.0 dollar games Frank could buy with the money he has left, we divide the amount of money he has left by the cost of each game:
+8.0 dollars ÷ 2.0 dollars = 4 games
+So Frank could buy 4 games with the money he has left.
+--------------------
+question_idx: 190
+question: Mike made 69.0 dollars mowing lawns over the summer . If he spent 24.0 dollars buying new mower blades , how many 5.0 dollar games could he buy with the money he had left ?
+golden answer: 9.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Mike made 69.0 dollars mowing lawns over the summer . If he spent 24.0 dollars buying new mower blades , how many 5.0 dollar games could he buy with the money he had left ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Mike made 69.0 dollars mowing lawns over the summer. If he spent 24.0 dollars buying new mower blades, how many 5.0 dollar games could he buy with the money he had left?""
+Answer:
+Mike has 69.0 - 24.0 = 45.0 dollars left after buying new mower blades.
+To find out how many 5.0 dollar games Mike can buy with the money he has left, we divide the amount of money he has left by the cost of each game:
+45.0 dollars / 5.0 dollars = 9 games
+So Mike can buy 9 games with the money he has left.
+--------------------
+question_idx: 261
+question: Lucy has 212.0 fish . How many more fish does she need to buy to have 280.0 fish ?
+golden answer: 68.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Lucy has 212.0 fish . How many more fish does she need to buy to have 280.0 fish ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Lucy has 212.0 fish." "How many more fish does she need to buy to have 280.0 fish?""Lucy has 212.0 fish.""She needs 68.0 more fish.""To have 280.0 fish.""Lucy has 212.0 fish.""She needs 68.0 more fish.""To have 280.0 fish.""Lucy has 212.0 fish.""She needs 68.0 more fish.""To have 280.0 fish.""Lucy has 212.0 fish.""She needs 68.0 more fish.""To have 280.0 fish.""Lucy has 212.0 fish.""She needs 68.0 more fish.""To have 280.0 fish.""Lucy has 212.0 fish.""She needs 68.0 more fish.""To have 280.0 fish.""Lucy has 212.0 fish.""She needs 68.0 more fish.""To have 280.0 fish.""Lucy has 212.0 fish.""She needs 68.0 more fish.""To have 280.0 fish.""Lucy has 212.0 fish.""She needs 68.0 more fish.""To have 280.0 fish.""Lucy has 212.0 fish.""She needs 68.0 more fish.""To have 280.0 fish.""Lucy has 212.0 fish.""She needs 68.0 more fish.""To have 280.0 fish.""Lucy has 212.0 fish.""She needs 68.0 more fish.""To have 280.0 fish.""Lucy has 212.0 fish.""She needs 68.0 more fish.""
+--------------------
+question_idx: 303
+question: Sue ’ s family went on vacation . Her mom drove the car at 60.0 mph . They camped at a campground after traveling for 5.0 hours . How far was the campground from their home ?
+golden answer: 300.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Sue ’ s family went on vacation . Her mom drove the car at 60.0 mph . They camped at a campground after traveling for 5.0 hours . How far was the campground from their home ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "The car traveled 300.0 miles from their home to the campground.
+
+
+
+--------------------
+question_idx: 508
+question: It took Amanda 2.0 hours to stroll to Kimberly 's house at 4.0 miles per hour . How far is it between Amanda 's house and Kimberly 's house ?
+golden answer: 8.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: It took Amanda 2.0 hours to stroll to Kimberly 's house at 4.0 miles per hour . How far is it between Amanda 's house and Kimberly 's house ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Amanda strolled to Kimberly's house at a leisurely pace, the sun shining brightly overhead. She walked for 2 hours, her footsteps steady and slow. As she approached Kimberly's house, she could see the familiar landmarks of their neighborhood, the tall oak tree and the small pond. She walked for 4.0 miles, her legs moving in a rhythmic motion. Finally, she reached Kimberly's house, a cozy little bungalow with a welcoming porch. Amanda smiled as she knocked on the door, eager to catch up with her friend."
+Answer:
+The distance between Amanda's house and Kimberly's house is 8 miles.
+--------------------
+question_idx: 627
+question: Harold has 53.0 marbles . He gets 16.0 more from Steve . How many marbles does Harold have in all ?
+golden answer: 69.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Harold has 53.0 marbles . He gets 16.0 more from Steve . How many marbles does Harold have in all ?"Imagine it as an echo in a valley, every sound has an origin and meaning: " Harold has 53.0 marbles. He gets 16.0 more from Steve. How many marbles does Harold have in all?"  The sound of Harold's voice is clear and confident as he speaks the numbers. He has 53 marbles, and he's just received 16 more from Steve. His eyes light up with excitement as he calculates the new total in his head. "I have 69 marbles now!" he exclaims, his voice filled with joy. The echo of his words bounces off the walls of the valley, carrying the news of his newfound wealth to all who can hear.
+--------------------
+question_idx: 679
+question: Mrs. Heine is buying Valentine ’ s Day treats for her 2.0 dogs . If she wants to buy them 3.0 heart biscuits each , how many biscuits does she need to buy ?
+golden answer: 6.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Mrs. Heine is buying Valentine ’ s Day treats for her 2.0 dogs . If she wants to buy them 3.0 heart biscuits each , how many biscuits does she need to buy ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "The number of heart biscuits Mrs. Heine needs to buy is 3 x 2 = 6 biscuits.""
+Answer: 6 biscuits
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 697
+question: Melanie bought a Batman game for $ 6.95 , a strategy game for $ 7.9 , and a Superman game for $ 7.73 . Melanie already owns 4.0 games . How much did Melanie spend on video games ?
+golden answer: 22.58
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Melanie bought a Batman game for $ 6.95 , a strategy game for $ 7.9 , and a Superman game for $ 7.73 . Melanie already owns 4.0 games . How much did Melanie spend on video games ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Melanie bought a Batman game for $ 6.95, a strategy game for $ 7.90, and a Superman game for $ 7.73. Melanie already owns 4.0 games. How much did Melanie spend on video games?""The answer is $ 6.95 + $ 7.90 + $ 7.73 = $ 22.58. Melanie spent $ 22.58 on video games."
+--------------------
+question_idx: 741
+question: Kaleb had 39.0 pieces of clothing to wash . He put 19.0 of them in one load , but decided to split the rest into 5.0 equal loads . How many pieces of clothing could go in each of the small loads ?
+golden answer: 4.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Kaleb had 39.0 pieces of clothing to wash . He put 19.0 of them in one load , but decided to split the rest into 5.0 equal loads . How many pieces of clothing could go in each of the small loads ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Kaleb had 39.0 pieces of clothing to wash. He put 19.0 of them in one load, but decided to split the rest into 5.0 equal loads. How many pieces of clothing could go in each of the small loads?""
+"Ah, a math puzzle! *excitedly* Let's see... if Kaleb has 39 pieces of clothing to wash and he puts 19 of them in one load, that means he has 20 pieces left to split into 5 equal loads. So, each small load can hold 4 pieces of clothing! *smiling* Do you want to try another one?"
+--------------------
+question_idx: 773
+question: On a hot day , Sam poured 1.0 bucket of water into a plastic wading pool . A few minutes later he added another 8.8 buckets . How much water did Sam pour into the pool ?
+golden answer: 9.8
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: On a hot day , Sam poured 1.0 bucket of water into a plastic wading pool . A few minutes later he added another 8.8 buckets . How much water did Sam pour into the pool ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Sam poured 9.8 buckets of water into the plastic wading pool."
+
+
+--------------------
+question_idx: 1013
+question: Zoe baked 5.0 brownies , but needed 11.0 total for her party . If she used 7.0 cups of flour on each one , how much cups of flour does she still need ?
+golden answer: 42.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Zoe baked 5.0 brownies , but needed 11.0 total for her party . If she used 7.0 cups of flour on each one , how much cups of flour does she still need ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Zoe baked 5.0 brownies, but needed 11.0 total for her party. If she used 7.0 cups of flour on each one, how much cups of flour does she still need?""Zoe baked 5.0 brownies" means that Zoe baked 5 brownies in total. She needed 11 brownies for her party, which means she needed 11 - 5 = 6 more brownies. Since she used 7.0 cups of flour on each brownie, she needs 6 x 7.0 = 42.0 cups of flour more.
+--------------------
+question_idx: 1128
+question: 3.0 friends own a car in Florida . One owns 0.5833 of the car the second owns 0.1667 . How much does the third own ?
+golden answer: 0.25
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: 3.0 friends own a car in Florida . One owns 0.5833 of the car the second owns 0.1667 . How much does the third own ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "The third friend owns 0.25 of the car.""
+Answer:
+The third friend owns 0.25 of the car.
+
+Explanation:
+
+Let's break down the information given in the problem:
+
+* The first friend owns 0.5833 of the car.
+* The second friend owns 0.1667 of the car.
+* The third friend owns x of the car.
+
+We know that the total value of the car is 1, so the sum of the fractions owned by all three friends must equal 1:
+
+0.5833 + 0.1667 + x = 1
+
+Simplifying the equation, we get:
+
+x = 0.25
+
+Therefore, the third friend owns 0.25 of the car.
+--------------------
+question_idx: 1156
+question: There are 77.0 apples in a box . Louise has 9.0 apples in a bag . Scott takes 75.0 apples out of the box . How many apples are left in the box ?
+golden answer: 2.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: There are 77.0 apples in a box . Louise has 9.0 apples in a bag . Scott takes 75.0 apples out of the box . How many apples are left in the box ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "The box has 77.0 apples in it. Louise has 9.0 apples in a bag. Scott takes 75.0 apples out of the box. How many apples are left in the box?"The echo responds with a question of its own: "How many apples did Scott take out of the box? 75.0 apples, to be exact."The echo pauses for a moment, considering the information provided. "So, if Scott took 75.0 apples out of the box, and there were 77.0 apples in the box to begin with, then there are 2.0 apples left in the box now."The echo continues to reflect on the information, "2.0 apples may not seem like a lot, but it's still a significant amount, especially considering the context of the situation. After all, apples are a precious resource, especially when they're in short supply."The echo concludes with a thought-provoking statement, "The number of apples left in the box may seem insignificant, but it's important to remember that every apple counts, and every action has consequences."
+--------------------
+question_idx: 1205
+question: Wendy picked 103.0 flowers for her friend ’ s wedding . She was making bouquets with 8.0 flowers in each one . If 47.0 of the flowers wilted before the wedding , how many bouquets could she still make ?
+golden answer: 7.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Wendy picked 103.0 flowers for her friend ’ s wedding . She was making bouquets with 8.0 flowers in each one . If 47.0 of the flowers wilted before the wedding , how many bouquets could she still make ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Wendy picked 103.0 flowers for her friend's wedding. She was making bouquets with 8.0 flowers in each one. If 47.0 of the flowers wilted before the wedding, how many bouquets could she still make?""The valley is vast, and the echoes are many. Each one carries a story, a tale of its own. The sound of Wendy picking flowers, the rustle of petals, the gentle whispers of the wind. It's a symphony of sounds, a chorus of life. And in this chorus, there is a question that echoes through the valley: How many bouquets could Wendy still make?The answer lies in the numbers. Wendy picked 103.0 flowers, a bounty of beauty. She was making bouquets with 8.0 flowers in each one, a delicate balance of form and function. But then, the unthinkable happened. 47.0 of the flowers wilted, leaving only 56.0 left to work with. The echoes of the valley whisper the question again: How many bouquets could Wendy still make?The answer is not as straightforward as it seems. To find out, we must divide the remaining flowers by the number of bouquets she wanted to make. 56.0 flowers / 8.0 bouquets per flower = 7.0 bouquets left to make.The echoes of the valley are quiet for a moment, as if they are digesting the answer. And then, they speak again, with a newfound understanding: Wendy could still make 7.0 bouquets, a testament to her skill and dedication. The valley is filled with the sweet scent of flowers, and the sound of Wendy's laughter, as she works her magic once again."
+--------------------
+question_idx: 1285
+question: Olivia was playing a video game where she scores 8.0 points for each treasure she finds . If she found 2.0 treasures on the first level and 2.0 on the second , what would her score be ?
+golden answer: 32.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Olivia was playing a video game where she scores 8.0 points for each treasure she finds . If she found 2.0 treasures on the first level and 2.0 on the second , what would her score be ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Olivia's score is 16.0 points.""
+Answer:
+Olivia found 2 treasures on the first level, and 2 treasures on the second level, so she found a total of 4 treasures.
+Since she scores 8.0 points for each treasure she finds, her total score is:
+8.0 x 4 = 32.0 points
+Therefore, Olivia's score is 32.0 points.
+--------------------
+question_idx: 1295
+question: Jose wandered 4.0 kilometers at 2.0 kilometers per hour . How long did Jose wander ?
+golden answer: 2.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Jose wandered 4.0 kilometers at 2.0 kilometers per hour . How long did Jose wander ?"Imagine it as an echo in a valley, every sound has an origin and meaning: " Jose wandered 4.0 kilometers at 2.0 kilometers per hour. How long did Jose wander?"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 1375
+question: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?
+golden answer: 12.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Kimberly has 5.0 Skittles. She buys 7.0 more." The sound of the word "Skittles" echoes in the valley, and the meaning of the sentence is clear: Kimberly has 5.0 Skittles initially. "Later, Kimberly buys 18.0 oranges at the store." The sound of the word "oranges" echoes in the valley, and the meaning of the sentence is clear: Kimberly buys 18.0 oranges at the store later. "How many Skittles does Kimberly have in all?" The echo in the valley is now asking for the total number of Skittles Kimberly has, including the initial 5.0 and the additional 7.0 she bought later. So, the answer is: Kimberly has 5.0 + 7.0 = 12.0 Skittles in all.
+--------------------
+question_idx: 1393
+question: Patrick jogged to Aaron 's house . It is 14.0 miles from Patrick 's house to Aaron 's house . It took Patrick 2.0 hours to get there . How fast did Patrick go ?
+golden answer: 7.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Patrick jogged to Aaron 's house . It is 14.0 miles from Patrick 's house to Aaron 's house . It took Patrick 2.0 hours to get there . How fast did Patrick go ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Aaron's house" is the destination, "Patrick's house" is the origin, and "2.0 hours" is the time taken to cover the distance. Now, let's apply the formula: Distance = Speed x Time, where Speed is the rate at which Patrick traveled. In this case, the distance is 14.0 miles, and the time taken is 2.0 hours. Therefore, the speed at which Patrick jogged is: Speed = Distance / Time Speed = 14.0 miles / 2.0 hours = 7.0 miles per hourSo, Patrick jogged at a speed of 7.0 miles per hour to reach Aaron's house." 
+--------------------
+question_idx: 1409
+question: Tim had 7.0 quarters and 9.0 nickels in his bank . His dad gave him 3.0 nickels and 5.0 pennies . How many nickels does Tim have now ?
+golden answer: 12.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Tim had 7.0 quarters and 9.0 nickels in his bank . His dad gave him 3.0 nickels and 5.0 pennies . How many nickels does Tim have now ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Tim has 12.0 nickels now.""
+Answer: Tim has 12.0 nickels now.
+Explanation:
+At the beginning of the problem, Tim had 7.0 quarters and 9.0 nickels, so he had a total of 16.0 coins. Then, his dad gave him 3.0 nickels and 5.0 pennies, which added to his total of 16.0 coins. Since nickels are worth 5 cents each, Tim now has 12.0 nickels (7.0 x 5 cents = 35 cents + 5.0 x 5 cents = 25 cents = 12.0 nickels).
+--------------------

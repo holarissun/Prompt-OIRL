@@ -1,0 +1,172 @@
+question_idx: 7
+question: George had 30.0 dollars . For his birthday he got 16.0 more dollars but spent 38.0 on a new game . How much money does he have now ?
+golden answer: 8.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 13
+question: There were 3409.0 pieces of candy in a jar . If 145.0 pieces were red and the rest were blue , how many were blue ?
+golden answer: 3264.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 14
+question: Lucy has an aquarium with 212.0 fish . Lucy wants to buy 68.0 more fish . How many fish would Lucy have then ?
+golden answer: 280.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 16
+question: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?
+golden answer: 0.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 19
+question: Mike invited 13.0 friends to a birthday party , but 7.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 4.0 , how many should he buy ?
+golden answer: 24.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 31
+question: Mike had 16.0 video games but 8.0 of them were n't working . If he wanted to sell the working games for $ 7.0 each , how much money could he earn ?
+golden answer: 56.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 34
+question: Megan earned 8.0 points for each bag of cans she recycled . If she had 14.0 bags , but did n't recycle 5.0 of them , how many points would she have earned ?
+golden answer: 72.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 39
+question: A clothing store offers a 20.0 % discount on all purchases . How much would a shopper pay for an item originally costing 21.0 dollars dollars ?
+golden answer: 16.8
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 44
+question: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?
+golden answer: 7.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 45
+question: John had 6.0 action figures , but needed 11.0 total for a complete collection . If each one costs $ 6.0 , how much money would he need to finish his collection ?
+golden answer: 30.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 46
+question: Dale 's Vegetarian Restaurant bought 2.8333333333333335 pounds of green peppers and 2.8333333333333335 pounds of red peppers . How many pounds of peppers did Dale 's Vegetarian Restaurant buy in all ?
+golden answer: 5.666666666666667
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 47
+question: Wendy uploaded 45.0 pictures to Facebook . She put 27.0 pics into one album and put the rest into 9.0 different albums . How many pictures were in each album ?
+golden answer: 2.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 48
+question: Mrs. Hilt bought a notebook for $ 1.3 . She paid with nickels . How many nickels did she use to buy the notebook ?
+golden answer: 26.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 50
+question: Edward made 37.0 dollars mowing lawns over the summer . If he spent 21.0 dollars buying new mower blades , how many 2.0 dollar games could he buy with the money he had left ?
+golden answer: 8.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 52
+question: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?
+golden answer: 12.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 56
+question: A pet shelter had 17.0 puppies when another 55.0 were brought in . If 8.0 puppies a day are adopted , how long would it take for all of them to be adopted ?
+golden answer: 9.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 57
+question: Melanie is selling 4.0 gumballs for eight cents each . How much money can Melanie get from selling the gumballs ?
+golden answer: 32.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 61
+question: Arthur removes 4.0 pencils from a jar . There were originally 87.0 pencils in the jar . How many pencils are left in the jar ?
+golden answer: 83.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 62
+question: There are 48.0 pencils and 40.0 scissors in the drawer . Joan placed 29.0 pencils in the drawer . How many pencils are now there in all ?
+golden answer: 77.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 65
+question: Roger had 68.0 dollars . If he spent 47.0 bucks on a new game , how many 7.0 dollar toys could he buy with the money he had left ?
+golden answer: 3.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 598
+question: If Karen sold 36.0 boxes of Tagalongs , how many cases of 12.0 boxes does Karen pickup from the cookie mom ?
+golden answer: 3.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: If Karen sold 36.0 boxes of Tagalongs , how many cases of 12.0 boxes does Karen pickup from the cookie mom ?"This is like a pot of stew, simmering to meld the flavors: "Karen sold 36.0 boxes of Tagalongs. If Karen sold 36.0 boxes of Tagalongs, how many cases of 12.0 boxes does Karen pick up from the Cookie Mom?""
+Answer:
+Karen picks up 3 cases of 12.0 boxes from the Cookie Mom.
+Explanation:
+To find out how many cases Karen picks up from the Cookie Mom, we need to divide the number of boxes Karen sold by the number of boxes in a case.
+1 case = 12.0 boxes
+So, Karen sold 36.0 boxes, and she picks up 36 / 12 = 3 cases from the Cookie Mom.
+--------------------
+question_idx: 861
+question: For the school bake sale Maria made 19.0 cupcakes . If she sold 5.0 of them and then made 10.0 more , how many cupcakes would she have ?
+golden answer: 24.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: For the school bake sale Maria made 19.0 cupcakes . If she sold 5.0 of them and then made 10.0 more , how many cupcakes would she have ?"As a librarian categorizes books, let's sort the information accordingly: "Cupcakes made: 19.0" "Sold: 5.0" "Additional cupcakes made: 10.0"Now, let's solve the problem:To find out how many cupcakes Maria has in total, we need to add the number of cupcakes she made and sold:19.0 + 5.0 = 24.0 cupcakesMaria has 24 cupcakes in total.
+--------------------
+question_idx: 948
+question: Jorge scored 156.0 goals playing soccer last season . This season he scored 187.0 goals . What is the total number of goals Jorge scored ?
+golden answer: 343.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: Jorge scored 156.0 goals playing soccer last season . This season he scored 187.0 goals . What is the total number of goals Jorge scored ?"This is like a pot of stew, simmering to meld the flavors: "Jorge scored 156.0 goals playing soccer last season. This season he scored 187.0 goals." The total number of goals Jorge scored is 156 + 187 = 343 goals.
+--------------------
+question_idx: 1208
+question: If Karen sold 36.0 boxes of Tagalongs , how many cases of 12.0 boxes does Karen pickup from the cookie mom ?
+golden answer: 3.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: If Karen sold 36.0 boxes of Tagalongs , how many cases of 12.0 boxes does Karen pickup from the cookie mom ?"This is like a pot of stew, simmering to meld the flavors: "Karen sold 36.0 boxes of Tagalongs. If Karen sold 36.0 boxes of Tagalongs, how many cases of 12.0 boxes does Karen pick up from the Cookie Mom?""
+Answer:
+Karen picks up 3 cases of 12.0 boxes from the Cookie Mom.
+Explanation:
+To find out how many cases Karen picks up from the Cookie Mom, we need to divide the number of boxes Karen sold by the number of boxes in a case.
+1 case = 12.0 boxes
+So, Karen sold 36.0 boxes, and she picks up 36 / 12 = 3 cases from the Cookie Mom.
+--------------------
+question_idx: 1302
+question: Sally had 8.0 pennies and 7.0 nickels in her bank . Her dad gave her 9.0 nickels and her mother gave her 2.0 nickels . How many nickels does Sally have now ?
+golden answer: 18.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Sally had 8.0 pennies and 7.0 nickels in her bank . Her dad gave her 9.0 nickels and her mother gave her 2.0 nickels . How many nickels does Sally have now ?"As a librarian categorizes books, let's sort the information accordingly: "Pennies" and "Nickels" are the two categories.
+Sally had 8.0 pennies and 7.0 nickels in her bank initially, so the total amount of money she had was 8.0 + 7.0 = 15.0.
+Now, her dad gave her 9.0 nickels, so the new total amount of nickels she has is 7.0 + 9.0 = 16.0.
+Her mother gave her 2.0 nickels, so the new total amount of nickels she has is 16.0 + 2.0 = 18.0.
+Therefore, Sally has 18.0 nickels in her bank now.
+--------------------
+question_idx: 1505
+question: There were a total of 27.0 soccer games during the 3.0 month season . If the games are equally divided , how many soccer games are played a month ?
+golden answer: 9.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: There were a total of 27.0 soccer games during the 3.0 month season . If the games are equally divided , how many soccer games are played a month ?"As a librarian categorizes books, let's sort the information accordingly: "There were 27.0 soccer games during the 3.0 month season" can be categorized under "Number of Games" with a value of 27.0. "The season lasted for 3.0 months" can be categorized under "Length of Season" with a value of 3.0 months.Now, to find out how many soccer games are played a month, we can divide the total number of games by the length of the season:27.0 games / 3.0 months = 9.0 games per monthSo, there are 9.0 soccer games played per month.
+--------------------

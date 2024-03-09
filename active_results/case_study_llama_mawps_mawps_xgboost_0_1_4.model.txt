@@ -1,0 +1,120 @@
+question_idx: 12
+question: Before starting her shift , a waitress checks to make sure there is enough mustard for her customers . She finds 0.25 bottle at the first table , 0.25 bottle at the second table , and 0.375 bottle at the third table . Altogether , how many bottles of mustard does the waitress find ?
+golden answer: 0.875
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 19
+question: Mike invited 13.0 friends to a birthday party , but 7.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 4.0 , how many should he buy ?
+golden answer: 24.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 25
+question: Jason joined his school 's band . He bought a flute for $ 142.46 , a music tool for $ 8.89 , and a song book for $ 7.0 . How much did Jason spend at the music store ?
+golden answer: 158.35
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 34
+question: Megan earned 8.0 points for each bag of cans she recycled . If she had 14.0 bags , but did n't recycle 5.0 of them , how many points would she have earned ?
+golden answer: 72.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 38
+question: Melissa scored 120.0 points in each game . How many points did she score in 10.0 games ?
+golden answer: 1200.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 44
+question: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?
+golden answer: 7.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 46
+question: Dale 's Vegetarian Restaurant bought 2.8333333333333335 pounds of green peppers and 2.8333333333333335 pounds of red peppers . How many pounds of peppers did Dale 's Vegetarian Restaurant buy in all ?
+golden answer: 5.666666666666667
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 60
+question: Nancy grew 2.0 onions , Dan grew 9.0 onions , and Mike grew 4.0 onions . They worked for 6.0 days on the farm . How many onions did they grow in total ?
+golden answer: 15.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 64
+question: Mrs. Hilt looked at her car 's odometer before a trip . The odometer showed that she had traveled 212.3 miles . When she stopped for lunch , the odometer read 372.0 . How many miles had she traveled ?
+golden answer: 159.7
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 67
+question: Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour . How long did Jeremy stroll ?
+golden answer: 10.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 69
+question: Paige had 43.0 math problems and 12.0 science problems for homework . If she finished 44.0 of the problems at school , how many problems did she have to do for homework ?
+golden answer: 11.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 71
+question: April 's discount flowers was having a sale where each rose was 7.0 dollars . If April started with 9.0 roses and had 4.0 roses left , how much money did she earn ?
+golden answer: 35.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 87
+question: In a video game , each enemy defeated gives you 3.0 points . If a level has 6.0 enemies total and you destroy all but 2.0 of them , how many points would you earn ?
+golden answer: 12.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 93
+question: Melanie had 10.0 quarters and 17.0 pennies in her bank . Her dad gave her 27.0 pennies and her mother gave her 19.0 pennies . How many pennies does Melanie have now ?
+golden answer: 63.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 135
+question: Wendy earned 5.0 points for each bag of cans she recycled . If she had 11.0 bags , but did n't recycle 2.0 of them , how many points would she have earned ?
+golden answer: 45.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 136
+question: Lena drove 204.0 miles . Using 10.0 gallons of gas at this rate , how many gallons of gas would she need to drive 255.0 miles ?
+golden answer: 12.5
+held-out prompt: 4
+prompted answer: 4
+--------------------
+question_idx: 148
+question: Bryan took a look at his books as well . If Bryan has 56.0 books in each of his 9.0 bookshelves , how many books does he have in total ?
+golden answer: 504.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 151
+question: Conner has 25000.0 dollars in his bank account . Every month he spends 1500.0 dollars . He does not add money to the account . How much money will Conner have in his account after 8.0 months ?
+golden answer: 13000.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 154
+question: You deposit 70.0 dollars in a savings account that pays an annual interest rate of 3.0 % . How much simple interest would you earn in 2.5 years , in dollars ?
+golden answer: 5.25
+held-out prompt: 4
+prompted answer: 4
+--------------------
+question_idx: 166
+question: Beth has 4.0 packs of crayons . Each pack has 10.0 crayons in it . She also has 6.0 extra crayons . How many crayons does Beth have altogether ?
+golden answer: 40.0
+held-out prompt: 0
+prompted answer: 0
+--------------------

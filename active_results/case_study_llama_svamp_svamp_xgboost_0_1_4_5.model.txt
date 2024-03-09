@@ -1,0 +1,165 @@
+question_idx: 4
+question: in 1 week an airplane pilot flew 1134 miles on tuesday and 1475 miles on thursday . if the pilot flies the same number of miles 3 weeks in a row how many miles does he fly in all ?
+golden answer: 7827.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 9
+question: mrs. hilt uses 2 ounces of detergent to wash a pound of clothes . how many ounces of soap will she use to wash 9 pounds of clothes ?
+golden answer: 18.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 10
+question: mrs. hilt went to a concert . a total of 65899 people attended the concert . the next week she went to a second concert which had 119 more people in attendance . how many people were at the second concert ?
+golden answer: 66018.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 14
+question: mrs. hilt is baking bread . she needs 5 cups of flour to bake 2 loaves of bread . how much flour will she need to make 1 loaf of bread ?
+golden answer: 2.5
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 26
+question: there are some children at a bakery . as they were deciding what to buy 24 girls came in and 31 boys left . if there are 78 children in the bakery in the end how many children were there at first ?
+golden answer: 85.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 27
+question: blithe has a lot of toys . he lost 6 of them and found 9 in his closet . if he had 43 after that how many toys did blithe have at first ?
+golden answer: 40.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 28
+question: lena had some pocket money . she lost $ 4 and her mom gave her $ 9 . if she had $ 66 after that how many dollars did lena have at first ?
+golden answer: 61.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 30
+question: bruno had some story books . he lost 4 of them and his dad gave him 10 more books . if he had 39 books after that how many books did bruno have at first ?
+golden answer: 33.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 36
+question: there are a total of 90 items at a bakery . 49 of them are bread rolls and 19 of them are croissants . how many bagels are there ?
+golden answer: 22.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 38
+question: a restaurant has 94 pieces of cutlery . 38 are forks 27 are knives and the rest are spoons . how many spoons are there ?
+golden answer: 29.0
+held-out prompt: 6
+prompted answer: 6
+--------------------
+question_idx: 60
+question: beryl has 88 radishes . she puts them into 2 baskets . if there are 37 radishes in the first basket how many more radishes are there in the second basket than the first ?
+golden answer: 14.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 64
+question: an online toy store stocked some toys . it sold 38 toys at the first week and 26 toys at the second week . if it had 19 toys left how many toys were in stock at the beginning ?
+golden answer: 83.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 65
+question: mother bought some potatoes . she used 15 of the potatoes to make salads and 24 of the potatoes for mashed potatoes . if there were 13 potatoes left how many potatoes did mother buy at first ?
+golden answer: 52.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 71
+question: a car dealer sold 14 cars on the first day 16 cars on the second day and 27 cars on the third day . how many cars did the car dealer sell on the 3 days ?
+golden answer: 57.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 73
+question: there are 757 pounds of sand to be filled into bags . if each bag has a capacity of 65 pounds how many bags are needed ?
+golden answer: 11.646153846153846
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 80
+question: the capacity of a tank is 32 gallons . if a company bought 728 gallons of oil how many tanks are needed to hold all the oil ?
+golden answer: 22.75
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 81
+question: mrs. smith gave 53 strawberries to 8 girls equally . how many strawberries did each girl get ?
+golden answer: 6.625
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 82
+question: tom had $ 19 and he wanted to buy as many folders as he could . if 1 folder costs $ 2 how many folders can tom buy ?
+golden answer: 9.5
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 84
+question: the teacher gave 42 pencils to 12 students equally . how many pencils did each student get ?
+golden answer: 3.5
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 86
+question: there were 44 laptops in the shop and mike divided them equally into 5 rows . how many laptops are there in each row ?
+golden answer: 8.8
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 1123
+question: nell collects cards . she had 246 baseball cards and 214 10 cards . she gave some of her cards to jeff and now has 404 baseball cards and 495 10 cards left . how many more 10 cards than baseball cards does nell have ?
+golden answer: 91.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: nell collects cards . she had 246 baseball cards and 214 10 cards . she gave some of her cards to jeff and now has 404 baseball cards and 495 10 cards left . how many more 10 cards than baseball cards does nell have ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+Љ Nell has 404 baseball cards and 495 10 cards. "
+Step 1: We know that Nell had 246 baseball cards and 214 10 cards initially.
+Step 2: We are given that she gave some of her cards to Jeff.
+Step 3: We know that Nell now has 404 baseball cards and 495 10 cards.
+Step 4: We want to find out how many more 10 cards than baseball cards Nell has.
+So, let's subtract the number of baseball cards from the total number of cards:
+495 (10 cards) - 404 (baseball cards) = 91
+Therefore, Nell has 91 more 10 cards than baseball cards.
+So, the answer is 91.
+--------------------
+question_idx: 1457
+question: faye had 31 packs of pencils each one having 6 pencils . she was placing her pencils into rows with 19 pencils in each row . how many pencils does she have ?
+golden answer: 186.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: faye had 31 packs of pencils each one having 6 pencils . she was placing her pencils into rows with 19 pencils in each row . how many pencils does she have ?"Let's approach this like a mathematician proving a theorem, step by logical step: "1.
+Step 1: Understand the problem statement. We are given that Faye has 31 packs of pencils, and each pack contains 6 pencils. We are also told that Faye is placing her pencils into rows, with 19 pencils in each row.
+Step 2: Identify the relevant information. We know that Faye has 31 packs of pencils, and each pack contains 6 pencils. Therefore, the total number of pencils Faye has is:
+31 packs x 6 pencils per pack = 186 pencils
+We also know that Faye is placing her pencils into rows, with 19 pencils in each row. So, the total number of rows of pencils Faye has is:
+186 pencils / 19 pencils per row = 9 rows of pencils
+Step 3: Conclude the answer. Therefore, Faye has 9 rows of pencils, with 19 pencils in each row. In total, Faye has 186 pencils.
+--------------------
+question_idx: 1926
+question: Kaleb had 10.0 video games but 8.0 of them were n't working . If he wanted to sell the working games for $ 6.0 each , how much money could he earn ?
+golden answer: 12.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Kaleb had 10.0 video games but 8.0 of them were n't working . If he wanted to sell the working games for $ 6.0 each , how much money could he earn ?"Let's approach this like a mathematician proving a theorem, step by logical step: "The problem states that Kaleb has 10.0 video games but 8.0 of them are not working. We are asked to find out how much money Kaleb could earn if he sells the working games for $6.0 each.
+Step 1: Identify the number of working video games that Kaleb has.
+From the problem, we know that 8.0 of Kaleb's video games are not working, which means that the number of working video games he has is 10.0 - 8.0 = 2.0.
+Step 2: Find out how much money Kaleb could earn from selling the working video games.
+If Kaleb sells each of his 2.0 working video games for $6.0, he will earn a total of 2.0 x $6.0 = $12.0.
+Therefore, Kaleb could earn $12.0 by selling the working video games.
+Conclusion: Kaleb could earn $12.0 by selling the working video games."
+--------------------
+question_idx: 2470
+question: A marine biologist measured 1.0 fish that was 0.3 foot long and a second fish that was 0.2 foot long . How much longer was the first fish ?
+golden answer: 0.1
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: A marine biologist measured 1.0 fish that was 0.3 foot long and a second fish that was 0.2 foot long . How much longer was the first fish ?"Let's approach this like a mathematician proving a theorem, step by logical step: "The marine biologist measured a fish that was 0.1 foot long and a second fish that was 0.2 foot long. How much longer was the first fish?Step 1: Write down the given information.Given:The marine biologist measured a fish that was 0.1 foot long and a second fish that was 0.2 foot long.Step 2: Use the information given to find the difference in length between the two fish.Difference = 0.2 - 0.1 = 0.1 footStep 3: Express the difference in length as a decimal.Difference = 0.1 = 0.1 decimalStep 4: Conclude that the first fish was 0.1 foot longer than the second fish.The first fish was 0.1 foot longer than the second fish.
+--------------------

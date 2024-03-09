@@ -1,0 +1,674 @@
+question_idx: 12
+question: Before starting her shift , a waitress checks to make sure there is enough mustard for her customers . She finds 0.25 bottle at the first table , 0.25 bottle at the second table , and 0.375 bottle at the third table . Altogether , how many bottles of mustard does the waitress find ?
+golden answer: 0.875
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 16
+question: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?
+golden answer: 0.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?"This is like a pot of stew, simmering to meld the flavors: "There are 97.0 erasers in a box. Ernest has 17.0 erasers in a bag. Mark takes 97.0 erasers out of the box. How many erasers are left in the box?"
+Answer:
+There are 79.0 erasers left in the box.
+Explanation:
+To find the number of erasers left in the box, we need to subtract the number of erasers taken by Mark from the total number of erasers in the box.
+97.0 erasers in the box - 97.0 erasers taken by Mark = 0 erasers left in the box
+So, there are 0 erasers left in the box.
+--------------------
+question_idx: 34
+question: Megan earned 8.0 points for each bag of cans she recycled . If she had 14.0 bags , but did n't recycle 5.0 of them , how many points would she have earned ?
+golden answer: 72.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 38
+question: Melissa scored 120.0 points in each game . How many points did she score in 10.0 games ?
+golden answer: 1200.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 43
+question: Tim found 37.0 seashells and Sally found 13.0 seashells on the beach . When they cleaned them , they discovered that 25.0 were cracked . How many seashells did they find together ?
+golden answer: 50.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: Tim found 37.0 seashells and Sally found 13.0 seashells on the beach . When they cleaned them , they discovered that 25.0 were cracked . How many seashells did they find together ?"This is like a pot of stew, simmering to meld the flavors: "Let's see, if Tim found 37 seashells and Sally found 13, together they found 37 + 13 = 50 seashells. And if 25 of them were cracked, that means 25 / 50 = 50% of the seashells were cracked."
+
+
+--------------------
+question_idx: 44
+question: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?
+golden answer: 7.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 52
+question: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?
+golden answer: 12.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 59
+question: A trivia team had 11.0 members total , but during a game 6.0 members did n't show up . If each member that did show up scored 9.0 points , how many points were scored total ?
+golden answer: 45.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 60
+question: Nancy grew 2.0 onions , Dan grew 9.0 onions , and Mike grew 4.0 onions . They worked for 6.0 days on the farm . How many onions did they grow in total ?
+golden answer: 15.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 67
+question: Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour . How long did Jeremy stroll ?
+golden answer: 10.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour . How long did Jeremy stroll ?"This is like a pot of stew, simmering to meld the flavors: "Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour. How long did Jeremy stroll?""
+Answer:
+Jeremy strolled for 10 hours.
+
+Explanation:
+To find out how long Jeremy strolled, we need to multiply the distance he traveled (20.0 kilometers) by the speed at which he traveled (2.0 kilometers per hour).
+20.0 kilometers x 2.0 kilometers per hour = 40.0 hours
+Since there are 1000 meters in 1 kilometer, we can convert the distance traveled from kilometers to meters:
+20.0 kilometers x 1000 meters/kilometer = 20,000 meters
+Now, we can divide the distance traveled (20,000 meters) by the speed at which Jeremy traveled (2.0 kilometers per hour) to find out how long he strolled:
+20,000 meters ÷ 2.0 kilometers per hour = 10 hours
+Therefore, Jeremy strolled for 10 hours.
+--------------------
+question_idx: 69
+question: Paige had 43.0 math problems and 12.0 science problems for homework . If she finished 44.0 of the problems at school , how many problems did she have to do for homework ?
+golden answer: 11.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 71
+question: April 's discount flowers was having a sale where each rose was 7.0 dollars . If April started with 9.0 roses and had 4.0 roses left , how much money did she earn ?
+golden answer: 35.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: April 's discount flowers was having a sale where each rose was 7.0 dollars . If April started with 9.0 roses and had 4.0 roses left , how much money did she earn ?"This is like a pot of stew, simmering to meld the flavors: "April started with 9.0 roses and had 4.0 roses left, so she earned $35.00 (9 x $7.00 - 4 x $7.00)."
+Answer: $35.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 75
+question: There was a stack of 700.0 sheets of used paper . Lexie wants to place it in boxes for recycling . If every box can contain 100.0 sheets , how many boxes does Lexie need ?
+golden answer: 7.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 93
+question: Melanie had 10.0 quarters and 17.0 pennies in her bank . Her dad gave her 27.0 pennies and her mother gave her 19.0 pennies . How many pennies does Melanie have now ?
+golden answer: 63.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 135
+question: Wendy earned 5.0 points for each bag of cans she recycled . If she had 11.0 bags , but did n't recycle 2.0 of them , how many points would she have earned ?
+golden answer: 45.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 148
+question: Bryan took a look at his books as well . If Bryan has 56.0 books in each of his 9.0 bookshelves , how many books does he have in total ?
+golden answer: 504.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 151
+question: Conner has 25000.0 dollars in his bank account . Every month he spends 1500.0 dollars . He does not add money to the account . How much money will Conner have in his account after 8.0 months ?
+golden answer: 13000.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 154
+question: You deposit 70.0 dollars in a savings account that pays an annual interest rate of 3.0 % . How much simple interest would you earn in 2.5 years , in dollars ?
+golden answer: 5.25
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 161
+question: Sean has 9.0 apples . Susan gives Sean 8.0 more . Later , Sean buys 18.0 tickets at the store . How many apples does Sean have in all ?
+golden answer: 17.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 164
+question: Frank made 19.0 dollars mowing lawns over the summer . If he spent 11.0 dollars buying new mower blades , how many 2.0 dollar games could he buy with the money he had left ?
+golden answer: 4.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 189
+question: Todd has some gum . Steve gave him 16.0 more pieces of gum . Now Todd has 54.0 pieces of gum . How many pieces did Todd have to start with ?
+golden answer: 38.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: Todd has some gum . Steve gave him 16.0 more pieces of gum . Now Todd has 54.0 pieces of gum . How many pieces did Todd have to start with ?"This is like a pot of stew, simmering to meld the flavors: "Todd has some gum. Steve gave him 16.0 more pieces of gum. Now Todd has 54.0 pieces of gum. How many pieces did Todd have to start with?"
+To solve this problem, we need to use the information given in the passage. We know that Todd had some gum to start with, and Steve gave him 16 more pieces of gum. So, the total number of pieces of gum Todd had is:
+Todd's gum = some gum + 16.0 more pieces of gum
+We are also told that Todd now has 54 pieces of gum. So, we can set up the equation:
+Todd's gum = some gum + 16.0 more pieces of gum = 54.0 pieces of gum
+Now, we can solve for the value of "some gum" by subtracting 16.0 from both sides of the equation:
+Todd's gum = some gum + 16.0 more pieces of gum = 54.0 pieces of gum
+Subtracting 16.0 from both sides gives us:
+Todd's gum = some gum
+So, Todd had 38 pieces of gum to start with.
+--------------------
+question_idx: 192
+question: Paul had saved up 4.0 dollars . If he received another 11.0 dollars for his allowance , how many 5.0 dollar toys could he buy ?
+golden answer: 3.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 197
+question: There are 115.0 pencils in the drawer . Sara placed 100.0 pencils in the drawer . How many pencils are now there in all ?
+golden answer: 215.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 227
+question: There were originally 20817.0 houses in Lincoln County . During a housing boom , developers built 97741.0 . How many houses are there now in Lincoln County ?
+golden answer: 118558.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 230
+question: Soft drinks are on sale at the grocery store for 2.99 dollars for a 12.0 pack . How much would each can of soft drink cost if purchased individually , in dollars ?
+golden answer: 0.25
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 233
+question: Mandy made an apple pie . She used 0.6666666666666666 tablespoon of cinnamon and 0.5 tablespoon of nutmeg . How much more cinnamon than nutmeg did Mandy use ?
+golden answer: 0.1666666666666666
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: Mandy made an apple pie . She used 0.6666666666666666 tablespoon of cinnamon and 0.5 tablespoon of nutmeg . How much more cinnamon than nutmeg did Mandy use ?"This is like a pot of stew, simmering to meld the flavors: "Mandy made an apple pie. She used 0.6666666666666666 tablespoon of cinnamon and 0.5 tablespoon of nutmeg. How much more cinnamon than nutmeg did Mandy use?"The answer to this problem is 0.1666666666666666 tablespoon. To find this, you need to subtract the amount of nutmeg (0.5 tablespoon) from the amount of cinnamon (0.6666666666666666 tablespoon). This gives you 0.1666666666666666 tablespoon, which is the amount more cinnamon than nutmeg Mandy used.
+--------------------
+question_idx: 252
+question: There are 9.0 bottle caps in each box . How many bottle caps are in 6.0 boxes ?
+golden answer: 54.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: There are 9.0 bottle caps in each box . How many bottle caps are in 6.0 boxes ?"This is like a pot of stew, simmering to meld the flavors: "How many bottle caps are in 6.0 boxes?". To solve this problem, we need to know how many bottle caps are in one box. Let's assume that there are 9.0 bottle caps in each box. So, if we have 6.0 boxes, then the total number of bottle caps in 6.0 boxes is 6.0 x 9.0 = 54.0 bottle caps.
+--------------------
+question_idx: 315
+question: Benny received 79.0 dollars and 9.0 movie tickets for his birthday . He went to a sporting goods store and bought a baseball glove , baseball , and bat . He had 32.0 dollars over , how much did he spent on the baseball gear ?
+golden answer: 47.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: Benny received 79.0 dollars and 9.0 movie tickets for his birthday . He went to a sporting goods store and bought a baseball glove , baseball , and bat . He had 32.0 dollars over , how much did he spent on the baseball gear ?"This is like a pot of stew, simmering to meld the flavors: "Benny received 79.0 dollars and 9.0 movie tickets for his birthday." This is the starting point, the foundation of the problem. "He went to a sporting goods store and bought a baseball glove, baseball, and bat." This is the additional information that we need to use to solve the problem. "He had 32.0 dollars over." This is the remaining amount of money that Benny has after buying the baseball gear.So, to find out how much Benny spent on the baseball gear, we need to subtract the amount he had over from the total amount he received for his birthday: 79.0 - 32.0 = 47.0 dollars.So, Benny spent 47.0 dollars on the baseball gear.
+--------------------
+question_idx: 356
+question: Lemon heads come in packages of 6.0 . Louis ate 54.0 Lemon Heads . How many whole boxes did he eat and how many Lemon Heads does he have left ?
+golden answer: 9.0
+held-out prompt: "Imagine it's a theater play. Scene by scene, we unfold the plot: "
+prompted answer: Lemon heads come in packages of 6.0 . Louis ate 54.0 Lemon Heads . How many whole boxes did he eat and how many Lemon Heads does he have left ?"Imagine it's a theater play. Scene by scene, we unfold the plot: "Act 1, Scene 1: The stage is set in a cozy living room. Louis, a middle-aged man, sits on his couch, surrounded by empty boxes of Lemon Heads. He looks tired and stressed. Suddenly, he hears a knock on the door. It's his friend, Bob. Bob enters the room, holding a bag of Lemon Heads. Bob: "Hey, Louis! What's up? Louis: (sighing) I've been eating too many Lemon Heads. I've got a whole box here. (points to the empty boxes on the couch) Bob: (surprised) Wow, that's a lot! How many did you eat? Louis: (sheepishly) 54.0. (pauses) Bob: (chuckles) Well, you're definitely getting your daily dose of vitamin C! Louis: (laughs nervously) Yeah, I guess so. But now I've got a problem. I need to know how many boxes I ate and how many Lemon Heads I have left. Can you help me with that? Bob: (smiling) Of course! Let's see... if you ate 54.0 Lemon Heads and there are 6.0 in a package... (calculates)...then you must have eaten 9 packages! Louis: (stunned) 9 packages?! Bob: (nodding) Yeah, that's right! And since each package has 6.0 Lemon Heads, you have a total of 54.0 Lemon Heads left. Louis: (excitedly) Wow, thank you so much, Bob! You're a lifesaver! Bob: (smiling) No problem, my friend. Now, go enjoy your remaining Lemon Heads and take care of yourself! (exits the room) Louis: (to himself) Hmm... 9 packages... that's a lot of Lemon He
+--------------------
+question_idx: 443
+question: How many yards of material from a 24.0 yard length of cloth remains after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 long are removed ?
+golden answer: 2.25
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: How many yards of material from a 24.0 yard length of cloth remains after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 long are removed ?"As a cartographer maps terrains, let's chart the nuances and details: "The length of cloth is 24.0 yards, and the number of pieces to be cut is 3 + 5 = 8 pieces. Each piece is 3.5 yards long, so the total length of the pieces is 8 x 3.5 = 28 yards. Since 28 yards is less than 24 yards, there will be some remaining length of cloth after the pieces are cut. To find the remaining length, we subtract the total length of the pieces from the length of the cloth: 24.0 - 28 = -4 yards. Therefore, 3.0 yards of material from a 24.0 yard length of cloth remains after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 long are removed."
+--------------------
+question_idx: 496
+question: At a restaurant each adult meal costs $ 7.0 and kids eat free . If a group of 13.0 people came in and 9.0 were kids , how much would it cost for the group to eat ?
+golden answer: 28.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: At a restaurant each adult meal costs $ 7.0 and kids eat free . If a group of 13.0 people came in and 9.0 were kids , how much would it cost for the group to eat ?"This is like a pot of stew, simmering to meld the flavors: "Let's see, if 9 of the 13 people are kids, that means 4 adults. So, if each adult meal costs $7.0, then the total cost for the 4 adults would be $7.0 x 4 = $28.0. And if kids eat free, then the total cost for the 9 kids would be $0.0! So, the total cost for the entire group of 13 people would be $28.0 - $0.0 = $28.0."
+--------------------
+question_idx: 520
+question: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?
+golden answer: 48781.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?"This is like a pot of stew, simmering to meld the flavors: "The farmer estimates that he will harvest 48097.0 bushels of wheat." This is the total amount of wheat the farmer expects to harvest. Now, we are given that the weather is perfect during the growing season, so the farmer harvests 684.0 bushels of wheat more than expected. To find the total amount of wheat the farmer harvests, we need to add the expected amount to the excess amount: 48097.0 bushels + 684.0 bushels = 48781.0 bushels of wheat the farmer harvests.
+--------------------
+question_idx: 592
+question: Hoping to be named Salesperson of the Month , Rosa called the names from 10.2 pages of the phone book last week . This week , she called the people listed on another 8.6 pages of the same phone book . How many pages worth of people did Rosa call in all ?
+golden answer: 18.8
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: Hoping to be named Salesperson of the Month , Rosa called the names from 10.2 pages of the phone book last week . This week , she called the people listed on another 8.6 pages of the same phone book . How many pages worth of people did Rosa call in all ?"This is like a pot of stew, simmering to meld the flavors: " Rosa called 18.8 pages worth of people in all."
+
+
+
+
+--------------------
+question_idx: 595
+question: Lemon heads come in packages of 6.0 . Louis ate 54.0 Lemon Heads . How many whole boxes did he eat and how many Lemon Heads does he have left ?
+golden answer: 9.0
+held-out prompt: "Imagine it's a theater play. Scene by scene, we unfold the plot: "
+prompted answer: Lemon heads come in packages of 6.0 . Louis ate 54.0 Lemon Heads . How many whole boxes did he eat and how many Lemon Heads does he have left ?"Imagine it's a theater play. Scene by scene, we unfold the plot: "Act 1, Scene 1: The stage is set in a cozy living room. Louis, a middle-aged man, sits on his couch, surrounded by empty boxes of Lemon Heads. He looks tired and stressed. Suddenly, he hears a knock on the door. It's his friend, Bob. Bob enters the room, holding a bag of Lemon Heads. Bob: "Hey, Louis! What's up? Louis: (sighing) I've been eating too many Lemon Heads. I've got a whole box here. (points to the empty boxes on the couch) Bob: (surprised) Wow, that's a lot! How many did you eat? Louis: (sheepishly) 54.0. (pauses) Bob: (chuckles) Well, you're definitely getting your daily dose of vitamin C! Louis: (laughs nervously) Yeah, I guess so. But now I've got a problem. I need to know how many boxes I ate and how many Lemon Heads I have left. Can you help me with that? Bob: (smiling) Of course! Let's see... if you ate 54.0 Lemon Heads and there are 6.0 in a package... (calculates)...then you must have eaten 9 packages! Louis: (stunned) 9 packages?! Bob: (nodding) Yeah, that's right! And since each package has 6.0 Lemon Heads, you have a total of 54.0 Lemon Heads left. Louis: (excitedly) Wow, thank you so much, Bob! You're a lifesaver! Bob: (smiling) No problem, my friend. Now, go enjoy your remaining Lemon Heads and take care of yourself! (exits the room) Louis: (to himself) Hmm... 9 packages... that's a lot of Lemon He
+--------------------
+question_idx: 695
+question: A chef needs to cook 9.0 potatoes . He has already cooked 7.0 . If each potato takes 3.0 minutes to cook , how long will it take him to cook the rest ?
+golden answer: 6.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: A chef needs to cook 9.0 potatoes . He has already cooked 7.0 . If each potato takes 3.0 minutes to cook , how long will it take him to cook the rest ?"This is like a pot of stew, simmering to meld the flavors: "A chef needs to cook 9.0 potatoes. He has already cooked 7.0. If each potato takes 3.0 minutes to cook, how long will it take him to cook the rest?"
+To solve this problem, we need to find out how many potatoes the chef has left to cook. We can do this by subtracting the number of potatoes he has already cooked (7.0) from the total number of potatoes he needs to cook (9.0):
+9.0 - 7.0 = 2.0
+So, the chef has 2.0 potatoes left to cook. If each potato takes 3.0 minutes to cook, it will take him 6.0 minutes (2.0 x 3.0) to cook the remaining potatoes.
+Therefore, the answer is 6.0 minutes.
+--------------------
+question_idx: 707
+question: My car gets 20.0 miles per gallon . How many miles can I drive on 5.0 gallons of gas ?
+golden answer: 100.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: My car gets 20.0 miles per gallon . How many miles can I drive on 5.0 gallons of gas ?"This is like a pot of stew, simmering to meld the flavors: "If my car gets 20.0 miles per gallon, and I have 5.0 gallons of gas, how many miles can I drive?"Now, let's apply the formula: Miles = Gallons x Miles per GallonSo, if we substitute the values we know into the formula, we get:Miles = 5.0 gallons x 20.0 miles per gallon = 100.0 milesNow we know that if you have 5.0 gallons of gas and your car gets 20.0 miles per gallon, you can drive 100.0 miles.
+--------------------
+question_idx: 708
+question: Joan had 695.0 Pokemon cards , and 6.0 were torn . Sara bought 133.0 of Joan 's Pokemon cards . How many Pokemon cards does Joan have now ?
+golden answer: 562.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: Joan had 695.0 Pokemon cards , and 6.0 were torn . Sara bought 133.0 of Joan 's Pokemon cards . How many Pokemon cards does Joan have now ?"This is like a pot of stew, simmering to meld the flavors: "Joan had 695.0 Pokemon cards, and 6.0 were torn." This means that Joan had 695 Pokemon cards in total, and 6 of them were torn or damaged.
+Now, let's add the amount of Pokemon cards that Sara bought: "Sara bought 133.0 of Joan's Pokemon cards." This means that Sara bought 133 Pokemon cards from Joan.
+So, how many Pokemon cards does Joan have now? We can find this out by subtracting the number of cards that Sara bought from Joan's original total: "695.0 - 133.0 = 562.0."
+Joan now has 562 Pokemon cards.
+--------------------
+question_idx: 725
+question: There are 65.0 students trying out for the school 's trivia teams . If 17.0 of them did n't get picked for the team and the rest were put into 8.0 groups , how many students would be in each group ?
+golden answer: 6.0
+held-out prompt: "Envision ourselves as geologists, studying layers of rock. Layer by layer, we analyze: "
+prompted answer: There are 65.0 students trying out for the school 's trivia teams . If 17.0 of them did n't get picked for the team and the rest were put into 8.0 groups , how many students would be in each group ?"Envision ourselves as geologists, studying layers of rock. Layer by layer, we analyze: "How many students are in each group?".
+We know that 65 students are trying out for the school's trivia teams. If 17 of them did not get picked for the team, then 48 students were selected for the teams.
+Now, we need to divide the selected students into 8 groups. To do this, we divide 48 by 8:
+48 ÷ 8 = 6
+So, there will be 6 students in each group.
+--------------------
+question_idx: 788
+question: Ned had 15.0 video games but 6.0 of them were n't working . If he wanted to sell the working games for $ 7.0 each , how much money could he earn ?
+golden answer: 63.0
+held-out prompt: "Envision ourselves as geologists, studying layers of rock. Layer by layer, we analyze: "
+prompted answer: Ned had 15.0 video games but 6.0 of them were n't working . If he wanted to sell the working games for $ 7.0 each , how much money could he earn ?"Envision ourselves as geologists, studying layers of rock. Layer by layer, we analyze: "The problem states that Ned has 15.0 video games, but 6.0 of them are not working. If he wants to sell the working games for $7.0 each, how much money can he earn? To solve this problem, we need to divide the number of working games by the price per game.
+So, the problem can be represented as:
+15.0 - 6.0 = 9.0
+$7.0 x 9.0 = $63.0
+Therefore, Ned can earn $63.0 by selling the working video games."
+--------------------
+question_idx: 843
+question: Ellen went to a garage sale to buy chairs . Each chair is 15.0 dollars . How much did Ellen spend for the 12.0 chairs she bought ?
+golden answer: 180.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Ellen went to a garage sale to buy chairs . Each chair is 15.0 dollars . How much did Ellen spend for the 12.0 chairs she bought ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Ellen went to a garage sale to buy chairs. Ellen bought 12 chairs at $15 each, so she spent $180 on the chairs."
+--------------------

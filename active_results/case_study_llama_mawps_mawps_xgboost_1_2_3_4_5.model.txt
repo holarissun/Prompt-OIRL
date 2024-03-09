@@ -1,0 +1,284 @@
+question_idx: 16
+question: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?
+golden answer: 0.0
+held-out prompt: "Imagine we're in a lab, every test and observation is crucial for the conclusion: "
+prompted answer: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?"Imagine we're in a lab, every test and observation is crucial for the conclusion: "How many erasers are left in the box?"Let's start by analyzing the information given in the problem:1. Ernest has 17 erasers in a bag.2. Mark takes 97 erasers out of the box.Now, let's use our math skills to solve the problem:Step 1: Subtract the number of erasers taken by Mark from the total number of erasers in the box.97 - 97 = 0So, there are 0 erasers left in the box after Mark takes 97 erasers out.Conclusion: There are 0 erasers left in the box.
+--------------------
+question_idx: 19
+question: Mike invited 13.0 friends to a birthday party , but 7.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 4.0 , how many should he buy ?
+golden answer: 24.0
+held-out prompt: 8
+prompted answer: 8
+--------------------
+question_idx: 34
+question: Megan earned 8.0 points for each bag of cans she recycled . If she had 14.0 bags , but did n't recycle 5.0 of them , how many points would she have earned ?
+golden answer: 72.0
+held-out prompt: 7
+prompted answer: 7
+--------------------
+question_idx: 38
+question: Melissa scored 120.0 points in each game . How many points did she score in 10.0 games ?
+golden answer: 1200.0
+held-out prompt: 7
+prompted answer: 7
+--------------------
+question_idx: 44
+question: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?
+golden answer: 7.0
+held-out prompt: "Imagine we're in a lab, every test and observation is crucial for the conclusion: "
+prompted answer: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?"Imagine we're in a lab, every test and observation is crucial for the conclusion: "How many problems are on each page?"Let's start by using the information given in the problem:Megan had 40.0 homework problems. She finished 26.0 of them.So, the number of problems Megan didn't finish is:40.0 - 26.0 = 14.0 problemsNow, we know that Megan still has 2.0 pages of problems to do.Let's assume that each page has the same number of problems.So, the number of problems on each page is:14.0 ÷ 2.0 = 7.0 problems per pageNow, we have our answer: each page has 7.0 problems.
+--------------------
+question_idx: 46
+question: Dale 's Vegetarian Restaurant bought 2.8333333333333335 pounds of green peppers and 2.8333333333333335 pounds of red peppers . How many pounds of peppers did Dale 's Vegetarian Restaurant buy in all ?
+golden answer: 5.666666666666667
+held-out prompt: 7
+prompted answer: 7
+--------------------
+question_idx: 47
+question: Wendy uploaded 45.0 pictures to Facebook . She put 27.0 pics into one album and put the rest into 9.0 different albums . How many pictures were in each album ?
+golden answer: 2.0
+held-out prompt: 7
+prompted answer: 7
+--------------------
+question_idx: 52
+question: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?
+golden answer: 12.0
+held-out prompt: "This is like a game of chess, anticipating each move ahead: "
+prompted answer: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?"This is like a game of chess, anticipating each move ahead: "Kimberly has 5.0 Skittles. She buys 7.0 more. Later, Kimberly buys 18.0 oranges at the store. How many Skittles does Kimberly have in all?"
+Answer:
+Kimberly has 5.0 Skittles initially.
+When she buys 7.0 more Skittles, she now has 5 + 7 = 12 Skittles.
+Later, when she buys 18.0 oranges at the store, she does not gain or lose any Skittles, as oranges are not part of the Skittle count.
+Therefore, Kimberly has 12 Skittles in all.
+--------------------
+question_idx: 61
+question: Arthur removes 4.0 pencils from a jar . There were originally 87.0 pencils in the jar . How many pencils are left in the jar ?
+golden answer: 83.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 64
+question: Mrs. Hilt looked at her car 's odometer before a trip . The odometer showed that she had traveled 212.3 miles . When she stopped for lunch , the odometer read 372.0 . How many miles had she traveled ?
+golden answer: 159.7
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 70
+question: Will invited 9.0 friends to a birthday party , but 4.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 8.0 , how many should he buy ?
+golden answer: 40.0
+held-out prompt: 8
+prompted answer: 8
+--------------------
+question_idx: 75
+question: There was a stack of 700.0 sheets of used paper . Lexie wants to place it in boxes for recycling . If every box can contain 100.0 sheets , how many boxes does Lexie need ?
+golden answer: 7.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: There was a stack of 700.0 sheets of used paper . Lexie wants to place it in boxes for recycling . If every box can contain 100.0 sheets , how many boxes does Lexie need ?"This is like a pot of stew, simmering to meld the flavors: "Lexie wants to place it in boxes for recycling. If every box can contain 100.0 sheets, how many boxes does Lexie need?"
+To find out how many boxes Lexie needs, we need to divide the total number of sheets by the number of sheets that each box can hold. In this case, the total number of sheets is 700.0, and each box can hold 100.0 sheets, so:
+700.0 ÷ 100.0 = 7 boxes
+Therefore, Lexie needs 7 boxes to place the stack of used paper in for recycling.
+--------------------
+question_idx: 89
+question: At the schools book fair Victor bought 32.0 adventure books and 37.0 mystery books . If 16.0 of the books were used , how many new books did he buy ?
+golden answer: 53.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 93
+question: Melanie had 10.0 quarters and 17.0 pennies in her bank . Her dad gave her 27.0 pennies and her mother gave her 19.0 pennies . How many pennies does Melanie have now ?
+golden answer: 63.0
+held-out prompt: 7
+prompted answer: 7
+--------------------
+question_idx: 110
+question: At Lindsey 's Vacation Wear , 0.375 the garments are bikinis and 0.25 are trunks . What fraction of the garments are either bikinis or trunks ?
+golden answer: 0.625
+held-out prompt: 4
+prompted answer: 4
+--------------------
+question_idx: 136
+question: Lena drove 204.0 miles . Using 10.0 gallons of gas at this rate , how many gallons of gas would she need to drive 255.0 miles ?
+golden answer: 12.5
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 139
+question: I have 224.0 cents to buy candy . If each piece of bulk candy costs 8.0 cents , how many gumdrops can I buy ?
+golden answer: 28.0
+held-out prompt: "This is like a game of chess, anticipating each move ahead: "
+prompted answer: I have 224.0 cents to buy candy . If each piece of bulk candy costs 8.0 cents , how many gumdrops can I buy ?"This is like a game of chess, anticipating each move ahead: "To find out how many gumdrops you can buy, we need to divide the amount of money you have by the cost of each piece of candy. In this case, you have 224.0 cents and each piece of bulk candy costs 8.0 cents. So, you can buy: 224.0 cents ÷ 8.0 cents = 28 pieces of bulk candy. Since gumdrops are a type of bulk candy, you can buy 28 gumdrops."
+--------------------
+question_idx: 153
+question: Maggi had 3.0 packages of cupcakes . There are 4.0 cupcakes in each package . She ate 5.0 cupcakes . How many are left ?
+golden answer: 12.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 160
+question: Rachel bought two coloring books . One had 24.0 pictures and the other had 39.0 . After one week she had already colored 4.0 of the pictures . How many pictures does she still have to color ?
+golden answer: 59.0
+held-out prompt: 7
+prompted answer: 7
+--------------------
+question_idx: 176
+question: Last year , 90171.0 people were born in a country , and 16320.0 people immigrated to it . How many new people began living in the country last year ?
+golden answer: 106491.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 191
+question: Gwen was organizing her book case making sure each of the shelves had exactly 4.0 books on it . If she had 5.0 shelves of mystery books and 3.0 shelves of picture books , how many books did she have total ?
+golden answer: 32.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Gwen was organizing her book case making sure each of the shelves had exactly 4.0 books on it . If she had 5.0 shelves of mystery books and 3.0 shelves of picture books , how many books did she have total ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+Step 1: Gwen has 5 shelves of mystery books, so the total number of mystery books is 5 x 4 = 20.
+Step 2: Gwen has 3 shelves of picture books, so the total number of picture books is 3 x 4 = 12.
+Step 3: Therefore, the total number of books Gwen has is 20 + 12 = 32.
+So, Gwen has 32 books in total.
+--------------------
+question_idx: 198
+question: While playing at the arcade , Luke won 2.0 tickets playing ' whack a mole ' and 13.0 tickets playing ' skee ball ' . If he was trying to buy candy that cost 3.0 tickets a piece , how many could he buy ?
+golden answer: 5.0
+held-out prompt: 4
+prompted answer: 4
+--------------------
+question_idx: 215
+question: A sandbox is 312.0 centimeters long and 146.0 centimeters wide . How many square centimeters of ground does the sandbox cover ?
+golden answer: 45552.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 227
+question: There were originally 20817.0 houses in Lincoln County . During a housing boom , developers built 97741.0 . How many houses are there now in Lincoln County ?
+golden answer: 118558.0
+held-out prompt: 4
+prompted answer: 4
+--------------------
+question_idx: 230
+question: Soft drinks are on sale at the grocery store for 2.99 dollars for a 12.0 pack . How much would each can of soft drink cost if purchased individually , in dollars ?
+golden answer: 0.25
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 259
+question: Karin 's science class weighed plastic rings for an experiment . They found that the orange ring weighed 0.08333333333333333 ounce , the purple ring weighed 0.3333333333333333 ounce , and the white ring weighed 0.4166666666666667 ounce . What was the total weight of the plastic rings ?
+golden answer: 0.8333333333333334
+held-out prompt: 7
+prompted answer: 7
+--------------------
+question_idx: 353
+question: If Anne wandered for 3.0 hours at 2.0 miles per hour . How far did Anne go ?
+golden answer: 6.0
+held-out prompt: "Like an athlete training for an event, every exercise has a purpose: "
+prompted answer: If Anne wandered for 3.0 hours at 2.0 miles per hour . How far did Anne go ?"Like an athlete training for an event, every exercise has a purpose: "Anne wandered" means that she was not following a specific route or schedule, but rather moving around freely. The distance she traveled can be calculated by multiplying the time she wandered by her speed: distance = time x speed. In this case, Anne wandered for 3.0 hours, so the distance she traveled is: distance = 3.0 hours x 2.0 miles/hour = 6.0 miles. So, Anne went 6.0 miles while wandering.
+--------------------
+question_idx: 361
+question: There are 16.0 bottle caps in a box . Marvin takes 6.0 bottle caps . How many are left ?
+golden answer: 10.0
+held-out prompt: "Picture a gardener planting seeds. Each step, from soil preparation to watering, matters: "
+prompted answer: There are 16.0 bottle caps in a box . Marvin takes 6.0 bottle caps . How many are left ?"Picture a gardener planting seeds. Each step, from soil preparation to watering, matters: "The number of bottle caps left after Marvin takes 6.0 bottle caps is 10.0."
+--------------------
+question_idx: 413
+question: A fruit farm packs oranges in boxes that hold 10.0 each . One day it packs 2650.0 oranges . How many boxes did they use ?
+golden answer: 265.0
+held-out prompt: "Think of it as wind chimes, each note contributing to the melody: "
+prompted answer: A fruit farm packs oranges in boxes that hold 10.0 each . One day it packs 2650.0 oranges . How many boxes did they use ?"Think of it as wind chimes, each note contributing to the melody: "Oranges, oranges, oranges...". The answer is 265 boxes!
+--------------------
+question_idx: 438
+question: A trivia team had 9.0 members total , but during a game 3.0 members did n't show up . If each member that did show up scored 2.0 points , how many points were scored total ?
+golden answer: 12.0
+held-out prompt: "Imagine we're in a lab, every test and observation is crucial for the conclusion: "
+prompted answer: A trivia team had 9.0 members total , but during a game 3.0 members did n't show up . If each member that did show up scored 2.0 points , how many points were scored total ?"Imagine we're in a lab, every test and observation is crucial for the conclusion: "How many points were scored total?"Let's start by identifying the information given in the problem:1. The trivia team had 9.0 members total.2. During the game, 3.0 members did not show up.3. Each member that did show up scored 2.0 points.Now, let's think about how we can use this information to find the total number of points scored:Since 3.0 members did not show up, the total number of members that did show up is 9.0 - 3.0 = 6.0 members.Since each member that did show up scored 2.0 points, the total number of points scored by the 6.0 members that did show up is 6.0 x 2.0 = 12.0 points.So, the total number of points scored by the trivia team is 12.0 points.Therefore, the answer to the question "How many points were scored total?" is 12.0 points.
+--------------------
+question_idx: 486
+question: Mariela was in the hospital and she got 403.0 get well cards from around the country . When she got home she got 287.0 more cards from friends and family . How many get well cards did Mariela get ?
+golden answer: 690.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: Mariela was in the hospital and she got 403.0 get well cards from around the country . When she got home she got 287.0 more cards from friends and family . How many get well cards did Mariela get ?"This is like a pot of stew, simmering to meld the flavors: "Mariela was in the hospital and she got 403.0 get well cards from around the country. When she got home she got 287.0 more cards from friends and family. How many get well cards did Mariela get?"
+Mariela got a total of 690 get well cards.
+--------------------
+question_idx: 508
+question: It took Amanda 2.0 hours to stroll to Kimberly 's house at 4.0 miles per hour . How far is it between Amanda 's house and Kimberly 's house ?
+golden answer: 8.0
+held-out prompt: "As an electrician wires a circuit, each connection powers the system: "
+prompted answer: It took Amanda 2.0 hours to stroll to Kimberly 's house at 4.0 miles per hour . How far is it between Amanda 's house and Kimberly 's house ?"As an electrician wires a circuit, each connection powers the system: " Amanda's house is 8.0 miles away from Kimberly's house. "
+--------------------
+question_idx: 581
+question: Jane ’ s dad brought home 24.0 marble potatoes . If Jane ’ s mom made potato salad for lunch and served an equal amount of potatoes to Jane , herself and her husband , how many potatoes did each of them have ?
+golden answer: 8.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: Jane ’ s dad brought home 24.0 marble potatoes . If Jane ’ s mom made potato salad for lunch and served an equal amount of potatoes to Jane , herself and her husband , how many potatoes did each of them have ?"This is like a pot of stew, simmering to meld the flavors: "24.0 marble potatoes" means 24 marble-sized potatoes. So, if Jane's mom made potato salad for lunch and served an equal amount of potatoes to Jane, herself, and her husband, then each of them had 24/3 = 8 potatoes.
+--------------------
+question_idx: 682
+question: If Karen sold 36.0 boxes of Tagalongs , how many cases of 12.0 boxes does Karen pickup from the cookie mom ?
+golden answer: 3.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: If Karen sold 36.0 boxes of Tagalongs , how many cases of 12.0 boxes does Karen pickup from the cookie mom ?"This is like a pot of stew, simmering to meld the flavors: "Karen sold 36.0 boxes of Tagalongs. If Karen sold 36.0 boxes of Tagalongs, how many cases of 12.0 boxes does Karen pick up from the Cookie Mom?""
+Answer:
+Karen picks up 3 cases of 12.0 boxes from the Cookie Mom.
+Explanation:
+To find out how many cases Karen picks up from the Cookie Mom, we need to divide the number of boxes Karen sold by the number of boxes in a case.
+1 case = 12.0 boxes
+So, Karen sold 36.0 boxes, and she picks up 36 / 12 = 3 cases from the Cookie Mom.
+--------------------
+question_idx: 696
+question: A construction company is repaving a damaged road . So far , they have repaved a total of 4938.0 inches of the road . Today , they repaved 805.0 inches of the road . How many inches of the road had they repaved before today ?
+golden answer: 4133.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: A construction company is repaving a damaged road . So far , they have repaved a total of 4938.0 inches of the road . Today , they repaved 805.0 inches of the road . How many inches of the road had they repaved before today ?"Like a bee pollinating flowers, let's gather the essence from each point: "So far, they have repaved a total of 4938.0 inches of the road." This means that the total distance repaved so far is 4938.0 inches. "Today, they repaved 805.0 inches of the road." This means that the distance repaved today is 805.0 inches. To find out how many inches of the road had been repaved before today, we need to subtract the distance repaved today from the total distance repaved so far: 4938.0 - 805.0 = 4133.0 inches. So, before today, the construction company had repaved 4133.0 inches of the road.
+--------------------
+question_idx: 758
+question: Mrs. Hilt uses 2.0 ounces of detergent to wash a pound of clothes . How many ounces of soap will she use to wash 9.0 pounds of clothes ?
+golden answer: 18.0
+held-out prompt: "As an electrician wires a circuit, each connection powers the system: "
+prompted answer: Mrs. Hilt uses 2.0 ounces of detergent to wash a pound of clothes . How many ounces of soap will she use to wash 9.0 pounds of clothes ?"As an electrician wires a circuit, each connection powers the system: "The number of ounces of detergent used to wash a pound of clothes is equal to 2.0 ounces per pound." To determine how many ounces of soap will be used to wash 9.0 pounds of clothes, we can multiply the weight of the clothes by the number of ounces of detergent used per pound: 9.0 pounds x 2.0 ounces/pound = 18.0 ounces of soap.
+--------------------
+question_idx: 775
+question: Paige had 8.0 songs on her mp3 player . If she deleted 5.0 old songs from it and then added 30.0 new songs , how many songs does she have on her mp3 player ?
+golden answer: 33.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Paige had 8.0 songs on her mp3 player . If she deleted 5.0 old songs from it and then added 30.0 new songs , how many songs does she have on her mp3 player ?"It's like mining for gems; we dig deep, assessing each discovery: "Is this a diamond in the rough, or just a pebble?" We carefully evaluate each piece of data, analyzing it for its potential to reveal new insights or solve complex problems.
+To solve this problem, we need to use the information given in the passage:
+* Paige had 8.0 songs on her mp3 player.
+* She deleted 5.0 old songs from it.
+* She added 30.0 new songs to it.
+We can start by subtracting the number of old songs she deleted from the total number of songs she had:
+8.0 - 5.0 = 3.0
+So, Paige now has 3.0 songs on her mp3 player.
+Next, we can add the number of new songs she added to the total number of songs she had:
+3.0 + 30.0 = 33.0
+So, Paige now has 33.0 songs on her mp3 player.
+Therefore, the answer to the question is 33.0 songs.
+--------------------
+question_idx: 787
+question: Tom had 27.0 pennies and 15.0 dimes in his bank . His dad gave him 33.0 dimes and 49.0 nickels . How many dimes does he have now ?
+golden answer: 48.0
+held-out prompt: "Like a detective following leads, every hint brings us closer to the truth: "
+prompted answer: Tom had 27.0 pennies and 15.0 dimes in his bank . His dad gave him 33.0 dimes and 49.0 nickels . How many dimes does he have now ?"Like a detective following leads, every hint brings us closer to the truth: "He had 15 dimes before." So, if he got 33 dimes from his dad, he now has a total of 15 + 33 = 48 dimes.
+--------------------
+question_idx: 850
+question: Haley 's favorite band was holding a concert where tickets were 4.0 dollars each . Haley bought 3.0 tickets for herself and her friends and 5.0 extra tickets in case anyone else wanted to go . How much did she spend ?
+golden answer: 32.0
+held-out prompt: "Imagine we're in a lab, every test and observation is crucial for the conclusion: "
+prompted answer: Haley 's favorite band was holding a concert where tickets were 4.0 dollars each . Haley bought 3.0 tickets for herself and her friends and 5.0 extra tickets in case anyone else wanted to go . How much did she spend ?"Imagine we're in a lab, every test and observation is crucial for the conclusion: "How much did Haley spend?" Let's analyze the information given:
+
+1. Haley bought 3.0 tickets for herself and her friends.
+Tickets cost 4.0 dollars each, so Haley spent 3 x 4 = 12.0 dollars on tickets for herself and her friends.
+2. Haley bought 5.0 extra tickets in case anyone else wanted to go.
+Tickets cost 4.0 dollars each, so Haley spent 5 x 4 = 20.0 dollars on extra tickets.
+Now, let's calculate the total amount Haley spent:
+Total amount = 12.0 + 20.0 = 32.0 dollars.
+Therefore, Haley spent 32.0 dollars on tickets for herself and her friends, and extra tickets in case anyone else wanted to go.
+--------------------
+question_idx: 853
+question: She counted her crayons and found out that she has 80.0 crayons which she will place in crayon boxes . Every box can contain 8.0 crayons . How many boxes does she need ?
+golden answer: 10.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: She counted her crayons and found out that she has 80.0 crayons which she will place in crayon boxes . Every box can contain 8.0 crayons . How many boxes does she need ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+1. The number of crayons the child has is 80.0.
+2. Each box can contain 8.0 crayons.
+3. To find out how many boxes the child needs, we divide the number of crayons by the number of crayons that can fit in each box:
+80.0 ÷ 8.0 = 10 boxes
+
+Therefore, the child needs 10 boxes to store her crayons."
+--------------------

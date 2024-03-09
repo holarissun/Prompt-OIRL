@@ -1,0 +1,120 @@
+question_idx: 1
+question: Chloe was playing a trivia game . In the first round she scored 40.0 points and in the second round she scored 50.0 points . In the last round she lost 4.0 points . How many points did she have at the end of the game ?
+golden answer: 86.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 2
+question: Roger has 95.0 candies . He gives 3.0 to Stephanie . How many candies will Roger have ?
+golden answer: 92.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 9
+question: Joyce has 40.0 bananas that must be put away in boxes . Fred comes to help and brings 18.0 cookies to share with Joyce . If there are 10.0 boxes , how many bananas must go in each box ?
+golden answer: 4.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 12
+question: Before starting her shift , a waitress checks to make sure there is enough mustard for her customers . She finds 0.25 bottle at the first table , 0.25 bottle at the second table , and 0.375 bottle at the third table . Altogether , how many bottles of mustard does the waitress find ?
+golden answer: 0.875
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 16
+question: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?
+golden answer: 0.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 19
+question: Mike invited 13.0 friends to a birthday party , but 7.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 4.0 , how many should he buy ?
+golden answer: 24.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 31
+question: Mike had 16.0 video games but 8.0 of them were n't working . If he wanted to sell the working games for $ 7.0 each , how much money could he earn ?
+golden answer: 56.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 34
+question: Megan earned 8.0 points for each bag of cans she recycled . If she had 14.0 bags , but did n't recycle 5.0 of them , how many points would she have earned ?
+golden answer: 72.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 44
+question: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?
+golden answer: 7.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 46
+question: Dale 's Vegetarian Restaurant bought 2.8333333333333335 pounds of green peppers and 2.8333333333333335 pounds of red peppers . How many pounds of peppers did Dale 's Vegetarian Restaurant buy in all ?
+golden answer: 5.666666666666667
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 52
+question: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?
+golden answer: 12.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 53
+question: Elisa has 37.0 dollars . How many more dollars does she have to earn to have 53.0 dollars ?
+golden answer: 16.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 54
+question: Melanie grew 139.0 turnips . Benny grew 113.0 turnips . How many turnips did they grow in all ?
+golden answer: 252.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 57
+question: Melanie is selling 4.0 gumballs for eight cents each . How much money can Melanie get from selling the gumballs ?
+golden answer: 32.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 59
+question: A trivia team had 11.0 members total , but during a game 6.0 members did n't show up . If each member that did show up scored 9.0 points , how many points were scored total ?
+golden answer: 45.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 61
+question: Arthur removes 4.0 pencils from a jar . There were originally 87.0 pencils in the jar . How many pencils are left in the jar ?
+golden answer: 83.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 62
+question: There are 48.0 pencils and 40.0 scissors in the drawer . Joan placed 29.0 pencils in the drawer . How many pencils are now there in all ?
+golden answer: 77.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 66
+question: Lana was unboxing some of her old winter clothes . She found 4.0 boxes of clothing and inside each box there were 2.0 scarves and 6.0 mittens . How many pieces of winter clothing did Lana have total ?
+golden answer: 32.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 67
+question: Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour . How long did Jeremy stroll ?
+golden answer: 10.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 70
+question: Will invited 9.0 friends to a birthday party , but 4.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 8.0 , how many should he buy ?
+golden answer: 40.0
+held-out prompt: 0
+prompted answer: 0
+--------------------

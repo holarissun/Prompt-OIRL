@@ -1,0 +1,688 @@
+question_idx: 12
+question: Before starting her shift , a waitress checks to make sure there is enough mustard for her customers . She finds 0.25 bottle at the first table , 0.25 bottle at the second table , and 0.375 bottle at the third table . Altogether , how many bottles of mustard does the waitress find ?
+golden answer: 0.875
+held-out prompt: 7
+prompted answer: 7
+--------------------
+question_idx: 37
+question: Janet picked 4.0 tulips and 11.0 roses to make flower bouquets . If she only used 11.0 of the flowers though , how many extra flowers did Janet pick ?
+golden answer: 4.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 44
+question: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?
+golden answer: 7.0
+held-out prompt: "As a photographer captures moments, let's focus on each element: "
+prompted answer: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?"As a photographer captures moments, let's focus on each element: "If each page has the same number of problems on it."In this case, we know that Megan finished 26.0 of the 40.0 homework problems, which means she still has 14.0 problems to complete. Since each page has the same number of problems, we can divide the remaining problems by the number of pages to find out how many problems are on each page:14.0 problems / 2.0 pages = 7.0 problems per pageSo, there are 7.0 problems on each page.
+--------------------
+question_idx: 46
+question: Dale 's Vegetarian Restaurant bought 2.8333333333333335 pounds of green peppers and 2.8333333333333335 pounds of red peppers . How many pounds of peppers did Dale 's Vegetarian Restaurant buy in all ?
+golden answer: 5.666666666666667
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 80
+question: After the price of petroleum oil went up by 10.0 % , a consumer reduced his oil consumption by the same percent . By what percent would his petroleum bill be changed ?
+golden answer: 1.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 93
+question: Melanie had 10.0 quarters and 17.0 pennies in her bank . Her dad gave her 27.0 pennies and her mother gave her 19.0 pennies . How many pennies does Melanie have now ?
+golden answer: 63.0
+held-out prompt: 9
+prompted answer: 9
+--------------------
+question_idx: 123
+question: A trivia team had 12.0 members total , but during a game 4.0 members did n't show up . If each member that did show up scored 8.0 points , how many points were scored total ?
+golden answer: 64.0
+held-out prompt: 8
+prompted answer: 8
+--------------------
+question_idx: 156
+question: A chef needs to cook 15.0 potatoes . He has already cooked 8.0 . If each potato takes 9.0 minutes to cook , how long will it take him to cook the rest ?
+golden answer: 63.0
+held-out prompt: "As a detective collecting clues for a case, let's unravel the mystery: "
+prompted answer: A chef needs to cook 15.0 potatoes . He has already cooked 8.0 . If each potato takes 9.0 minutes to cook , how long will it take him to cook the rest ?"As a detective collecting clues for a case, let's unravel the mystery: "A chef needs to cook 15.0 potatoes. He has already cooked 8.0 potatoes. If each potato takes 9.0 minutes to cook, how long will it take him to cook the rest?"To solve this problem, we need to find the difference between the total number of potatoes the chef needs to cook and the number of potatoes he has already cooked.In this case, the total number of potatoes the chef needs to cook is 15.0 - 8.0 = 7.0 potatoes.Now, we need to find out how long it will take the chef to cook 7.0 potatoes. We know that each potato takes 9.0 minutes to cook, so the chef will need to cook 7.0 x 9.0 = 63.0 minutes to cook the remaining potatoes.Therefore, it will take the chef 63.0 minutes to cook the rest of the potatoes.
+--------------------
+question_idx: 157
+question: It takes 4.0 apples to make 1.0 pie . How many apples does it take to make 504.0 pies ?
+golden answer: 2016.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 171
+question: A construction company ordered 0.16666666666666666 ton of concrete , 0.16666666666666666 ton of bricks , and 0.5 ton of stone . How many tons of material did the company order in all ?
+golden answer: 0.8333333333333334
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 230
+question: Soft drinks are on sale at the grocery store for 2.99 dollars for a 12.0 pack . How much would each can of soft drink cost if purchased individually , in dollars ?
+golden answer: 0.25
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 233
+question: Mandy made an apple pie . She used 0.6666666666666666 tablespoon of cinnamon and 0.5 tablespoon of nutmeg . How much more cinnamon than nutmeg did Mandy use ?
+golden answer: 0.1666666666666666
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 252
+question: There are 9.0 bottle caps in each box . How many bottle caps are in 6.0 boxes ?
+golden answer: 54.0
+held-out prompt: "Let's mold our comprehension as a child shapes clay into forms: "
+prompted answer: There are 9.0 bottle caps in each box . How many bottle caps are in 6.0 boxes ?"Let's mold our comprehension as a child shapes clay into forms: "How many bottle caps are in 6.0 boxes?" we ask. We know that there are 9.0 bottle caps in each box, so if we have 6.0 boxes, then we have 6.0 x 9.0 = 54.0 bottle caps in total.
+--------------------
+question_idx: 295
+question: Kelly has 50.0 Nintendo games . How many does she need to give away so that she will have 35.0 games left ?
+golden answer: 15.0
+held-out prompt: "Picture us on a safari, observing every species. Detail by detail, we document: "
+prompted answer: Kelly has 50.0 Nintendo games . How many does she need to give away so that she will have 35.0 games left ?"Picture us on a safari, observing every species. Detail by detail, we document: "Kelly has 50.0 Nintendo games. She needs to give away 15.0 games to have 35.0 games left.""
+Answer: Kelly needs to give away 15.0 games.
+--------------------
+question_idx: 302
+question: Megan has 19.0 seashells . How many more seashells does she need to find to have 25.0 seashells in her collection ?
+golden answer: 6.0
+held-out prompt: "Let's mold our comprehension as a child shapes clay into forms: "
+prompted answer: Megan has 19.0 seashells . How many more seashells does she need to find to have 25.0 seashells in her collection ?"Let's mold our comprehension as a child shapes clay into forms: "Megan has 19.0 seashells. To have 25.0 seashells in her collection, Megan needs to find 6.0 more seashells."
+--------------------
+question_idx: 317
+question: Before December , customers buy 1346.0 ear muffs from the mall . During December , they buy 6444.0 more , and there are none left . In all , how many ear muffs do the customers buy ?
+golden answer: 7790.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 358
+question: If Benjamin strolled 14.0 miles at 2.0 miles per hour , how long was Benjamin travelling ?
+golden answer: 7.0
+held-out prompt: 8
+prompted answer: 8
+--------------------
+question_idx: 375
+question: Mrs. Hilt reads 5.0 books a day . How many books does she read in 3.0 days ?
+golden answer: 15.0
+held-out prompt: "This is like a gardener pruning a plant, every cut makes it flourish: "
+prompted answer: Mrs. Hilt reads 5.0 books a day . How many books does she read in 3.0 days ?"This is like a gardener pruning a plant, every cut makes it flourish: " Mrs. Hilt reads 5.0 books a day, so if she reads for 3.0 days, she will read 15.0 books in total.
+--------------------
+question_idx: 393
+question: Each year , salmon travel upstream , going from the ocean to the rivers where they were born . This year , 712261.0 male and 259378.0 female salmon returned to their rivers . How many salmon made the trip ?
+golden answer: 971639.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 409
+question: Darnel sprinted 0.875 lap and then took a break by jogging 0.75 lap . How much farther did Darnel sprint than jog ?
+golden answer: 0.125
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 433
+question: A dealer pays 6000.0 dollars for a car . The dealer wants to make a profit that is 25.0 % of the selling price . For how much should the dealer sell the car ?
+golden answer: 7500.0
+held-out prompt: "Imagine this as a marathon; every mile, every step takes us closer to the finish: "
+prompted answer: A dealer pays 6000.0 dollars for a car . The dealer wants to make a profit that is 25.0 % of the selling price . For how much should the dealer sell the car ?"Imagine this as a marathon; every mile, every step takes us closer to the finish: "the solution to this problem. Let's start by identifying the variables we have: Selling price of the car (SP) = 6000.0 dollars Profit percentage (P) = 25.0% Now, we need to find the value of SP that will give us the desired profit. To do this, we can use the formula: SP = SP x (1 + P) = 6000 x (1 + 0.25) = 6000 x 1.25 = 7500.0 dollars So, the dealer should sell the car for $7500 to make a profit of $2500 (25.0% of $7500)."
+--------------------
+question_idx: 446
+question: There are 31.0 calories in a candy bar . How many calories are there in 11.0 candy bars ?
+golden answer: 341.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 451
+question: A waiter at ' The Greasy Spoon ' restaurant had 39.0 customers to wait on . During the lunch rush he added another 12.0 customers . If 49.0 of the customers did n't leave him a tip , how many customers did leave a tip ?
+golden answer: 2.0
+held-out prompt: "Like setting up dominoes for a cascade, each placement is crucial. Let's set up: "
+prompted answer: A waiter at ' The Greasy Spoon ' restaurant had 39.0 customers to wait on . During the lunch rush he added another 12.0 customers . If 49.0 of the customers did n't leave him a tip , how many customers did leave a tip ?"Like setting up dominoes for a cascade, each placement is crucial. Let's set up: "If 49.0 of the customers didn't leave him a tip, how many customers did leave a tip?"
+We know that the total number of customers the waiter had to wait on was 39.0 + 12.0 = 51.0 customers.
+We are told that 49.0 of these customers did not leave a tip.
+So, the number of customers who did leave a tip is:
+51.0 - 49.0 = 2.0 customers
+Therefore, 2 customers left a tip.
+--------------------
+question_idx: 478
+question: Joan 's high school played 864.0 baseball games this year , 128.0 of the games were played at night . She attended 395.0 games . How many baseball games did Joan miss ?
+golden answer: 469.0
+held-out prompt: 9
+prompted answer: 9
+--------------------
+question_idx: 487
+question: There are 112.0 short trees and 119.0 tall trees currently in the park . Park workers will plant 105.0 short trees today . How many short trees will the park have when the workers are finished ?
+golden answer: 217.0
+held-out prompt: "Imagine it's a theater play. Scene by scene, we unfold the plot: "
+prompted answer: There are 112.0 short trees and 119.0 tall trees currently in the park . Park workers will plant 105.0 short trees today . How many short trees will the park have when the workers are finished ?"Imagine it's a theater play. Scene by scene, we unfold the plot: "The park has 112.0 short trees and 119.0 tall trees currently in the park. Park workers will plant 105.0 short trees today. How many short trees will the park have when the workers are finished?""
+Answer:
+The park will have 217.0 short trees when the workers are finished.
+Explanation:
+The park currently has 112.0 short trees. If the workers plant 105.0 short trees today, the total number of short trees in the park will be 112.0 + 105.0 = 217.0.
+--------------------
+question_idx: 491
+question: The value of a sport utility vehicle this year is 16000.0 dollars , which is 0.8 of what its value was last year . How much is the value of the vehicle last year ?
+golden answer: 20000.0
+held-out prompt: "Imagine this as a marathon; every mile, every step takes us closer to the finish: "
+prompted answer: The value of a sport utility vehicle this year is 16000.0 dollars , which is 0.8 of what its value was last year . How much is the value of the vehicle last year ?"Imagine this as a marathon; every mile, every step takes us closer to the finish: "the value of a sport utility vehicle this year is 16000.0 dollars," the teacher wrote on the board. "Which is 0.8 of what its value was last year." The students looked at each other, their eyes wide with confusion. "How much is the value of the vehicle last year?" they asked in unison.The teacher smiled and said, "Let's find out."She began to explain the concept of percentages, how they represent a fraction of a whole. "If the value of the vehicle this year is 16000.0 dollars, and it's 0.8 of what its value was last year, that means the value of the vehicle last year was 16000.0 dollars x 1.25 = 20000.0 dollars."The students' eyes widened even further as they realized the significance of the calculation. "Wow, the value of the vehicle last year was twice its value this year!" one of them exclaimed.The teacher nodded, pleased with their understanding. "Exactly! And that's how we can use percentages to compare values over time."The students continued to work on their problems, their minds buzzing with new ideas and concepts. They were running a marathon, but they were determined to reach the finish line, where they would find the answer to the question that had been puzzling them all along: "How much is the value of the vehicle last year?"
+--------------------
+question_idx: 508
+question: It took Amanda 2.0 hours to stroll to Kimberly 's house at 4.0 miles per hour . How far is it between Amanda 's house and Kimberly 's house ?
+golden answer: 8.0
+held-out prompt: "Think of this as a puzzle box, each mechanism revealing deeper layers: "
+prompted answer: It took Amanda 2.0 hours to stroll to Kimberly 's house at 4.0 miles per hour . How far is it between Amanda 's house and Kimberly 's house ?"Think of this as a puzzle box, each mechanism revealing deeper layers: " Amanda's house is 8.0 miles away from Kimberly's house. "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 551
+question: Mrs. Hilt and her sister drove to a concert 78.0 miles away . They drove 32.0 miles and then stopped for gas . Her sister put 28.0 gallons of gas in the car . How many miles did they have left to drive ?
+golden answer: 46.0
+held-out prompt: 9
+prompted answer: 9
+--------------------
+question_idx: 558
+question: A chocolate chip cookie recipe calls for 2.0 cups of chocolate chips . You want to make 23.0 recipes for a bake sale . How many cups of chocolate chips will be needed to make all the cookie recipes ?
+golden answer: 46.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 587
+question: Logan recorded the snowfall every day during a snowstorm . He recorded 0.3333333333333333 centimeter on Wednesday , 0.3333333333333333 centimeter on Thursday , and 0.2222222222222222 centimeter on Friday . How many total centimeters of snow did Logan record ?
+golden answer: 0.8888888888888888
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 598
+question: If Karen sold 36.0 boxes of Tagalongs , how many cases of 12.0 boxes does Karen pickup from the cookie mom ?
+golden answer: 3.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: If Karen sold 36.0 boxes of Tagalongs , how many cases of 12.0 boxes does Karen pickup from the cookie mom ?"As a cartographer maps terrains, let's chart the nuances and details: "Karen sold 36.0 boxes of Tagalongs" implies that Karen sold a total of 36 boxes of Tagalongs. To find out how many cases of 12.0 boxes Karen picks up from the Cookie Mom, we need to divide the number of boxes Karen sold by the number of boxes in a case. Since there are 12.0 boxes in a case, we can calculate the number of cases Karen picks up as follows:
+36.0 boxes / 12.0 boxes per case = 3 cases
+Therefore, Karen picks up 3 cases of Tagalongs from the Cookie Mom.
+--------------------
+question_idx: 602
+question: At a restaurant each adult meal costs $ 5.0 and kids eat free . If a group of 15.0 people came in and 8.0 were kids , how much would it cost for the group to eat ?
+golden answer: 35.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 660
+question: Gwen had 18.0 math problems and 11.0 science problems for homework . If she finished 24.0 of the problems at school , how many problems did she have to do for homework ?
+golden answer: 5.0
+held-out prompt: "As a composer orchestrates a symphony, let's integrate each instrument: "
+prompted answer: Gwen had 18.0 math problems and 11.0 science problems for homework . If she finished 24.0 of the problems at school , how many problems did she have to do for homework ?"As a composer orchestrates a symphony, let's integrate each instrument: "Gwen had 18.0 math problems and 11.0 science problems for homework. If she finished 24.0 of the problems at school, how many problems did she have to do for homework?".
+To solve this problem, we need to subtract the number of problems Gwen finished at school from the total number of problems she had for homework.
+18.0 + 11.0 = 29.0
+29.0 - 24.0 = 5.0
+So, Gwen had 5 problems left to do for homework.
+--------------------
+question_idx: 696
+question: A construction company is repaving a damaged road . So far , they have repaved a total of 4938.0 inches of the road . Today , they repaved 805.0 inches of the road . How many inches of the road had they repaved before today ?
+golden answer: 4133.0
+held-out prompt: "Let's mold our comprehension as a child shapes clay into forms: "
+prompted answer: A construction company is repaving a damaged road . So far , they have repaved a total of 4938.0 inches of the road . Today , they repaved 805.0 inches of the road . How many inches of the road had they repaved before today ?"Let's mold our comprehension as a child shapes clay into forms: "The road is like a long, straight line. The construction company is like a group of workers who are repairing the road. They have repaired a total of 4938 inches of the road so far. Today, they repaired 805 inches of the road. So, before today, they had repaired 4133 inches of the road."
+--------------------
+question_idx: 697
+question: Melanie bought a Batman game for $ 6.95 , a strategy game for $ 7.9 , and a Superman game for $ 7.73 . Melanie already owns 4.0 games . How much did Melanie spend on video games ?
+golden answer: 22.58
+held-out prompt: "This is like a radio tuning to different frequencies, let's find the right wavelength: "
+prompted answer: Melanie bought a Batman game for $ 6.95 , a strategy game for $ 7.9 , and a Superman game for $ 7.73 . Melanie already owns 4.0 games . How much did Melanie spend on video games ?"This is like a radio tuning to different frequencies, let's find the right wavelength: "Melanie bought a Batman game for $ 6.95, a strategy game for $ 7.90, and a Superman game for $ 7.73. Let's see, if Melanie already owns 4.0 games, that means she has 4 games in total. So, the total amount Melanie spent on video games is: $ 6.95 + $ 7.90 + $ 7.73 = $ 22.58. Therefore, Melanie spent $ 22.58 on video games."
+--------------------
+question_idx: 703
+question: A new virus is released on the internet . The administrator of a department 's LAN is given 5.0 minutes by a manager to estimate the impact . The administrator samples 12.0 of the PCs connected to the LAN and finds that 7.0 are infected . Use a proportion to estimate the number of infected PCs if there are a total of 216.0 PCs connected to the LAN .
+golden answer: 126.0
+held-out prompt: "Think of this as a puzzle box, each mechanism revealing deeper layers: "
+prompted answer: A new virus is released on the internet . The administrator of a department 's LAN is given 5.0 minutes by a manager to estimate the impact . The administrator samples 12.0 of the PCs connected to the LAN and finds that 7.0 are infected . Use a proportion to estimate the number of infected PCs if there are a total of 216.0 PCs connected to the LAN ."Think of this as a puzzle box, each mechanism revealing deeper layers: " ------------" "Estimating the number of infected PCs" "You have 5 minutes to estimate the number of infected PCs on the LAN" "You have sampled 12 PCs and found 7 infected" "There are a total of 216 PCs connected to the LAN" "Use a proportion to estimate the number of infected PCs" "The proportion of infected PCs in the sample is 7/12, or 0.58" "To estimate the number of infected PCs, multiply the proportion by the total number of PCs" "So, there are approximately 126 infected PCs on the LAN" "Wow, that's a lot of infected PCs! What do you think the manager will do now?"
+Solution:
+To estimate the number of infected PCs on the LAN, we can use the proportion of infected PCs in the sample. The proportion of infected PCs in the sample is 7/12, or 0.58. To estimate the number of infected PCs, we multiply the proportion by the total number of PCs: 0.58 x 216 = 126. So, there are approximately 126 infected PCs on the LAN.
+--------------------
+question_idx: 788
+question: Ned had 15.0 video games but 6.0 of them were n't working . If he wanted to sell the working games for $ 7.0 each , how much money could he earn ?
+golden answer: 63.0
+held-out prompt: "Envision ourselves as geologists, studying layers of rock. Layer by layer, we analyze: "
+prompted answer: Ned had 15.0 video games but 6.0 of them were n't working . If he wanted to sell the working games for $ 7.0 each , how much money could he earn ?"Envision ourselves as geologists, studying layers of rock. Layer by layer, we analyze: "The problem states that Ned has 15.0 video games, but 6.0 of them are not working. If he wants to sell the working games for $7.0 each, how much money can he earn? To solve this problem, we need to divide the number of working games by the price per game.
+So, the problem can be represented as:
+15.0 - 6.0 = 9.0
+$7.0 x 9.0 = $63.0
+Therefore, Ned can earn $63.0 by selling the working video games."
+--------------------
+question_idx: 866
+question: Connie had some marbles . She gave 183.0 to Juan . Now she has 593.0 marbles left . How many did she have to start with ?
+golden answer: 776.0
+held-out prompt: "Envision ourselves as geologists, studying layers of rock. Layer by layer, we analyze: "
+prompted answer: Connie had some marbles . She gave 183.0 to Juan . Now she has 593.0 marbles left . How many did she have to start with ?"Envision ourselves as geologists, studying layers of rock. Layer by layer, we analyze: "Connie had some marbles. She gave 183.0 to Juan. Now she has 593.0 marbles left. How many did she have to start with?"We can start by using the information given in the problem to create a equation. Let's say Connie had x marbles to start with. Then, she gave 183.0 marbles to Juan, so she has x - 183.0 marbles left.Now, we are told that Connie has 593.0 marbles left. So, we can set up the equation:x - 183.0 = 593.0Now, we can solve for x by adding 183.0 to both sides of the equation:x = 593.0 + 183.0 = 776.0So, Connie had 776.0 marbles to start with.
+--------------------
+question_idx: 925
+question: Rachel bought two coloring books . One had 23.0 pictures and the other had 32.0 . After one week she had already colored 44.0 of the pictures . How many pictures does she still have to color ?
+golden answer: 11.0
+held-out prompt: "Envision ourselves as geologists, studying layers of rock. Layer by layer, we analyze: "
+prompted answer: Rachel bought two coloring books . One had 23.0 pictures and the other had 32.0 . After one week she had already colored 44.0 of the pictures . How many pictures does she still have to color ?"Envision ourselves as geologists, studying layers of rock. Layer by layer, we analyze: "Rachel bought two coloring books. One had 23.0 pictures and the other had 32.0 pictures." We start with the top layer, the number of pictures in the first book. We count 23 pictures. Next, we move to the second layer, the number of pictures in the second book. We count 32 pictures. Now, we have a total of 23 + 32 = 55 pictures. Rachel has already colored 44 pictures, leaving us with 55 - 44 = 11 pictures to color. Rachel still has 11 pictures to color."
+--------------------
+question_idx: 953
+question: Sarah had some trucks . She gave 13.0 to Jeff , and now she has 38.0 trucks left . How many trucks did Sarah have to start with ?
+golden answer: 51.0
+held-out prompt: "Like setting up dominoes for a cascade, each placement is crucial. Let's set up: "
+prompted answer: Sarah had some trucks . She gave 13.0 to Jeff , and now she has 38.0 trucks left . How many trucks did Sarah have to start with ?"Like setting up dominoes for a cascade, each placement is crucial. Let's set up: "Sarah had some trucks." "She gave 13.0 to Jeff." "Now she has 38.0 trucks left." Let's solve for the missing value: Sarah had x trucks to start with. Since Sarah gave 13.0 trucks to Jeff, she has x - 13.0 trucks left. Now, she has 38.0 trucks left, so the equation becomes: x - 13.0 = 38.0. Simplifying, we get: x = 51.0. So, Sarah had 51.0 trucks to start with.
+--------------------

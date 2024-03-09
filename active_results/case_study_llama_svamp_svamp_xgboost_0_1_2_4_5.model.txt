@@ -1,0 +1,1509 @@
+question_idx: 4
+question: in 1 week an airplane pilot flew 1134 miles on tuesday and 1475 miles on thursday . if the pilot flies the same number of miles 3 weeks in a row how many miles does he fly in all ?
+golden answer: 7827.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 9
+question: mrs. hilt uses 2 ounces of detergent to wash a pound of clothes . how many ounces of soap will she use to wash 9 pounds of clothes ?
+golden answer: 18.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 10
+question: mrs. hilt went to a concert . a total of 65899 people attended the concert . the next week she went to a second concert which had 119 more people in attendance . how many people were at the second concert ?
+golden answer: 66018.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 26
+question: there are some children at a bakery . as they were deciding what to buy 24 girls came in and 31 boys left . if there are 78 children in the bakery in the end how many children were there at first ?
+golden answer: 85.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 27
+question: blithe has a lot of toys . he lost 6 of them and found 9 in his closet . if he had 43 after that how many toys did blithe have at first ?
+golden answer: 40.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 28
+question: lena had some pocket money . she lost $ 4 and her mom gave her $ 9 . if she had $ 66 after that how many dollars did lena have at first ?
+golden answer: 61.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 30
+question: bruno had some story books . he lost 4 of them and his dad gave him 10 more books . if he had 39 books after that how many books did bruno have at first ?
+golden answer: 33.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 36
+question: there are a total of 90 items at a bakery . 49 of them are bread rolls and 19 of them are croissants . how many bagels are there ?
+golden answer: 22.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 38
+question: a restaurant has 94 pieces of cutlery . 38 are forks 27 are knives and the rest are spoons . how many spoons are there ?
+golden answer: 29.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 64
+question: an online toy store stocked some toys . it sold 38 toys at the first week and 26 toys at the second week . if it had 19 toys left how many toys were in stock at the beginning ?
+golden answer: 83.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 65
+question: mother bought some potatoes . she used 15 of the potatoes to make salads and 24 of the potatoes for mashed potatoes . if there were 13 potatoes left how many potatoes did mother buy at first ?
+golden answer: 52.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 71
+question: a car dealer sold 14 cars on the first day 16 cars on the second day and 27 cars on the third day . how many cars did the car dealer sell on the 3 days ?
+golden answer: 57.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 73
+question: there are 757 pounds of sand to be filled into bags . if each bag has a capacity of 65 pounds how many bags are needed ?
+golden answer: 11.646153846153846
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 74
+question: if simon needs to make 519 gift bags at a rate of 42 bags per day how many days does he need to finish making all the gift boxes ?
+golden answer: 12.357142857142858
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 81
+question: mrs. smith gave 53 strawberries to 8 girls equally . how many strawberries did each girl get ?
+golden answer: 6.625
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 82
+question: tom had $ 19 and he wanted to buy as many folders as he could . if 1 folder costs $ 2 how many folders can tom buy ?
+golden answer: 9.5
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 83
+question: 86 students are going hiking . each school- bus can take 9 students . how many school-buses are needed ?
+golden answer: 9.555555555555555
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 84
+question: the teacher gave 42 pencils to 12 students equally . how many pencils did each student get ?
+golden answer: 3.5
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 86
+question: there were 44 laptops in the shop and mike divided them equally into 5 rows . how many laptops are there in each row ?
+golden answer: 8.8
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 89
+question: the school bought 54 basketballs and distribute them into 7 classes equally . how many basketballs did each class get ?
+golden answer: 7.7142857142857135
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 111
+question: the little league stadium has 92 seats . 47 people came to the game today . 38 people were holding banners . how many seats were empty ?
+golden answer: 45.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: the little league stadium has 92 seats . 47 people came to the game today . 38 people were holding banners . how many seats were empty ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "The little league stadium has 92 seats," you say. "And 47 people came to the game today." Ah, so there are 47 people in the stadium. "And 38 people were holding banners." That's a lot of banners! But wait, you said there were 92 seats. So, if 47 people are in the stadium, that means there are 45 empty seats. "But how many seats were empty?" you ask. Well, if there are 92 seats and 45 are empty, that means 47 people are sitting in the stadium, and 45 seats are empty. So, the answer is 45 empty seats."
+--------------------
+question_idx: 1232
+question: paco had 40 sweet cookies and 25 salty cookies . he ate 28 salty cookies and 15 sweet cookies . how many more salty cookies than sweet cookies did he eat ?
+golden answer: 13.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: paco had 40 sweet cookies and 25 salty cookies . he ate 28 salty cookies and 15 sweet cookies . how many more salty cookies than sweet cookies did he eat ?"Let's approach this like a mathematician proving a theorem, step by logical step: "More" means "greater than". So, if paco ate more salty cookies than sweet cookies, that means he ate a quantity of salty cookies that is greater than the quantity of sweet cookies he ate.
+Let's start by using the information given in the problem:
+* Paco had 40 sweet cookies.
+* Paco had 25 salty cookies.
+* Paco ate 28 salty cookies.
+* Paco ate 15 sweet cookies.
+Now, let's use the word "more" to define the difference between the number of salty cookies Paco ate and the number of sweet cookies he ate:
+More = (number of salty cookies ate) - (number of sweet cookies ate)
+In this case, the number of salty cookies Paco ate is 28, and the number of sweet cookies he ate is 15, so:
+More = 28 - 15 = 13
+Therefore, Paco ate 13 more salty cookies than sweet cookies.
+--------------------
+question_idx: 1368
+question: jesse needs a carpet of size 10 square feet to cover her room . if her room is 2 feet wide what is the length of her room ?
+golden answer: 5.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: jesse needs a carpet of size 10 square feet to cover her room . if her room is 2 feet wide what is the length of her room ?"It's like mining for gems; we dig deep, assessing each discovery: "What is the length of Jesse's room?"We can start by using the information given in the problem.
+The size of the carpet Jesse needs is 10 square feet.
+The width of Jesse's room is 2 feet.
+So, we can start by finding the length of the room by dividing the size of the carpet by the width of the room:
+10 square feet / 2 feet = 5 feet
+Therefore, the length of Jesse's room is 5 feet.
+--------------------
+question_idx: 1429
+question: the razorback shop makes $ 192 dollars off each t-shirt and $ 34 off each jersey . during the arkansas and texas tech game they sold 157 t-shirts and 19 jerseys . how much more does a t-shirt cost than a jersey ?
+golden answer: 158.0
+held-out prompt: "Envision ourselves as geologists, studying layers of rock. Layer by layer, we analyze: "
+prompted answer: the razorback shop makes $ 192 dollars off each t-shirt and $ 34 off each jersey . during the arkansas and texas tech game they sold 157 t-shirts and 19 jerseys . how much more does a t-shirt cost than a jersey ?"Envision ourselves as geologists, studying layers of rock. Layer by layer, we analyze: "The Arkansas Razorback Shop makes $192 off each t-shirt and $34 off each jersey." We record this information in our notes.Next, we observe: "During the Arkansas and Texas Tech game, they sold 157 t-shirts and 19 jerseys." We calculate: "To find out how much more a t-shirt costs than a jersey, we need to subtract the cost of a jersey from the cost of a t-shirt." We solve: "The cost of a t-shirt is $192, and the cost of a jersey is $34. To find out how much more a t-shirt costs than a jersey, we subtract $34 from $192: $192 - $34 = $158." Therefore, a t-shirt costs $158 more than a jersey."In this scenario, the t-shirt costs $158 more than the jersey.
+--------------------
+question_idx: 1449
+question: faye was placing her pencils into rows with 22 pencils in each row . she had 6 packs of pencils each one having 14 pencils . how many pencils does she have ?
+golden answer: 84.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: faye was placing her pencils into rows with 22 pencils in each row . she had 6 packs of pencils each one having 14 pencils . how many pencils does she have ?"It's like mining for gems; we dig deep, assessing each discovery: "Is this a gem? Is this a fake? Is this a gem that's been polished to perfection?" - Faye Wattleton.
+To solve this problem, we need to find the total number of pencils that Faye has. Let's break down the information given in the problem:
+1. Faye has 6 packs of pencils.
+2. Each pack has 14 pencils.
+So, the total number of pencils Faye has is:
+6 packs x 14 pencils/pack = 84 pencils
+Therefore, Faye has 84 pencils in total.
+--------------------
+question_idx: 1695
+question: If Anne wandered for 3.0 hours at 2.0 miles per hour . How far did Anne go ?
+golden answer: 6.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: If Anne wandered for 3.0 hours at 2.0 miles per hour . How far did Anne go ?"It's like mining for gems; we dig deep, assessing each discovery: "What is the distance traveled by Anne?".
+"Ah, a gem! Anne wandered for 3.0 hours at 2.0 miles per hour, so she traveled 6.0 miles."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 1757
+question: If Anne wandered for 3.0 hours at 2.0 miles per hour . How far did Anne go ?
+golden answer: 6.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: If Anne wandered for 3.0 hours at 2.0 miles per hour . How far did Anne go ?"It's like mining for gems; we dig deep, assessing each discovery: "What is the distance traveled by Anne?".
+"Ah, a gem! Anne wandered for 3.0 hours at 2.0 miles per hour, so she traveled 6.0 miles."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 1924
+question: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?
+golden answer: 48781.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+A farmer estimates that he will harvest 48097.0 bushels of wheat. The weather is perfect during the growing season, so he harvests 684.0 bushels of wheat than expected. How many bushels of wheat does the farmer harvest?
+To find the total number of bushels of wheat the farmer harvests, you need to add the expected harvest to the excess harvest.
+Expected harvest = 48097.0 bushels
+Excess harvest = 684.0 bushels
+Total harvest = Expected harvest + Excess harvest
+Total harvest = 48097.0 + 684.0 = 48781.0 bushels
+So the farmer harvests 48781.0 bushels of wheat.
+--------------------
+question_idx: 2012
+question: Wendy bought 4.0 new chairs and 4.0 new tables for her house . If she spent 6.0 minutes on each piece furniture putting it together , how many minutes did it take her to finish ?
+golden answer: 48.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Wendy bought 4.0 new chairs and 4.0 new tables for her house . If she spent 6.0 minutes on each piece furniture putting it together , how many minutes did it take her to finish ?"It's like mining for gems; we dig deep, assessing each discovery: "Is this a gem or just a rock?".
+
+Answer: Let's break this down step by step:
+
+Wendy bought 4.0 new chairs and 4.0 new tables for her house.
+If she spent 6.0 minutes on each piece of furniture putting it together, then the total time it took her to finish assembling all the furniture is:
+4.0 chairs x 6.0 minutes/chair = 24.0 minutes
+4.0 tables x 6.0 minutes/table = 24.0 minutes
+Adding the time for both chairs and tables, we get:
+24.0 minutes + 24.0 minutes = 48.0 minutes
+Therefore, it took Wendy 48.0 minutes to finish assembling all the furniture.
+--------------------
+question_idx: 2053
+question: You go out for a long walk . You walk 0.75 mile and then sit down to take a rest . Then you walk 0.25 of a mile . How far did you walk altogether ?
+golden answer: 1.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: You go out for a long walk . You walk 0.75 mile and then sit down to take a rest . Then you walk 0.25 of a mile . How far did you walk altogether ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "The first step in solving this problem is to recognize that we have two pieces of information: the distance you walked the first time (0.75 miles) and the distance you walked the second time (0.25 miles)."
+Answer:
+You walked a total distance of 0.75 + 0.25 = 1 mile.
+
+Explanation:
+To find the total distance you walked, you need to add the two distances you provided: 0.75 miles + 0.25 miles = 1 mile. So, you walked a total distance of 1 mile.
+--------------------
+question_idx: 2178
+question: Clarence has 99.0 tickets . He gives 7.0 to Eugene . How many tickets will Clarence have ?
+golden answer: 92.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Clarence has 99.0 tickets . He gives 7.0 to Eugene . How many tickets will Clarence have ?"It's like mining for gems; we dig deep, assessing each discovery: "Ah, a 99.9% pure diamond! And look, a 70% pure diamond!". Clarence has 99.0 tickets, and he gives 7.0 tickets to Eugene, so Clarence will have 99.0 - 7.0 = 92.0 tickets left." 
+Answer: 92.0 tickets
+--------------------
+question_idx: 2823
+question: Jenny ran 0.6 mile and walked 0.4 mile . How much farther did Jenny run than walk ?
+golden answer: 0.2
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Jenny ran 0.6 mile and walked 0.4 mile . How much farther did Jenny run than walk ?"It's like mining for gems; we dig deep, assessing each discovery: "What is the distance Jenny ran?" and "How much farther did Jenny run than walk?""
+"Ah, I see," said the math teacher, "let's see if we can find the answer to the second question first. If Jenny ran 0.6 mile and walked 0.4 mile, that means she walked 0.4 mile less than she ran. So, the distance Jenny ran is 0.6 mile - 0.4 mile = 0.2 mile."
+"Now, let's find out how much farther Jenny ran than she walked. To do this, we need to subtract the distance she walked from the distance she ran. So, 0.2 mile - 0.4 mile = 0.2 mile. Therefore, Jenny ran 0.2 mile farther than she walked."
+"Great job, class!" exclaimed the teacher. "You've solved the problem with ease. Keep up the good work!"
+--------------------
+question_idx: 2857
+question: Jonathan wants to buy a dictionary that costs $ 11.0 , a dinosaur book that costs $ 19.0 , and a children 's cookbook that costs $ 7.0 . He has saved $ 8.0 from his allowance . How much more money does Jonathan need to buy all three books ?
+golden answer: 29.0
+held-out prompt: "Envision ourselves as geologists, studying layers of rock. Layer by layer, we analyze: "
+prompted answer: Jonathan wants to buy a dictionary that costs $ 11.0 , a dinosaur book that costs $ 19.0 , and a children 's cookbook that costs $ 7.0 . He has saved $ 8.0 from his allowance . How much more money does Jonathan need to buy all three books ?"Envision ourselves as geologists, studying layers of rock. Layer by layer, we analyze: "The problem is $ 11.0 + $ 19.0 + $ 7.0 = $ 37.0." We have $ 8.0, so we need $ 37.0 - $ 8.0 = $ 29.0 more money to buy all three books."
+--------------------
+question_idx: 3212
+question: There are 2.0 bananas in a pile on the desk . Each banana comes in a package of 17.0 . 7.0 bananas are added to the pile . How many bananas are there in the pile ?
+golden answer: 9.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: There are 2.0 bananas in a pile on the desk . Each banana comes in a package of 17.0 . 7.0 bananas are added to the pile . How many bananas are there in the pile ?"It's like mining for gems; we dig deep, assessing each discovery: "Ah, a banana! Let's weigh it and calculate its worth." We carefully add it to the pile, keeping track of the total. The pile grows, and soon we have a bounty of bananas to share."
+Answer:
+There are 23.0 bananas in the pile.
+
+Explanation:
+
+To find the total number of bananas in the pile, we need to add the number of bananas in the original pile (2.0) to the number of bananas added to the pile (7.0).
+2.0 + 7.0 = 9.0
+So, there are 9 bananas in the pile.
+--------------------
+question_idx: 3344
+question: Mike invited 13.0 friends to a birthday party , but 7.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 4.0 , how many should he buy ?
+golden answer: 24.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Mike invited 13.0 friends to a birthday party , but 7.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 4.0 , how many should he buy ?"It's like mining for gems; we dig deep, assessing each discovery: "How many cupcakes should Mike buy? Let's see...if he invited 13 friends and 7 couldn't come, that means 6 friends will be attending the party. So, to ensure each person gets exactly 4 cupcakes, Mike should buy 6 x 4 = 24 cupcakes."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 3378
+question: Elisa has 37.0 dollars . How many more dollars does she have to earn to have 53.0 dollars ?
+golden answer: 16.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Elisa has 37.0 dollars . How many more dollars does she have to earn to have 53.0 dollars ?"It's like mining for gems; we dig deep, assessing each discovery: "Elisa has 37.0 dollars. To have 53.0 dollars, she needs to earn 16.0 more dollars.""
+
+
+
+
+--------------------
+question_idx: 3488
+question: jake has 6 fewer peaches than steven . steven has 13 peaches . how many peaches does jake have ?
+golden answer: 7.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: jake has 6 fewer peaches than steven . steven has 13 peaches . how many peaches does jake have ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "Jake has 6 fewer peaches than Steven, who has 13 peaches. So, if Steven has 13 peaches, Jake has 13 - 6 = 7 peaches."
+--------------------
+question_idx: 3591
+question: megan has 19 seashells . how many more seashells does she need to find to have 25 seashells in her collection ?
+golden answer: 6.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: megan has 19 seashells . how many more seashells does she need to find to have 25 seashells in her collection ?"Let's approach this like a mathematician proving a theorem, step by logical step: "Megan has 19 seashells." Okay, that's a given.
+"She wants to have 25 seashells in her collection." Okay, that's also a given.
+"So, how many more seashells does she need to find?"
+To find out, we need to subtract the number of seashells Megan already has (19) from the number she wants to have (25):
+19 - 25 = -6
+So, Megan needs to find 6 more seashells to have 25 in her collection.
+Therefore, the answer is 6.
+--------------------
+question_idx: 3660
+question: after recess buddy changed clothes for gym class . down at the gym all the students were divided into 2 groups . if 1 group has 34 members and the other has 37 how many students are in buddy 's gym class ?
+golden answer: 71.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: after recess buddy changed clothes for gym class . down at the gym all the students were divided into 2 groups . if 1 group has 34 members and the other has 37 how many students are in buddy 's gym class ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "The more colors you mix, the more vibrant and interesting the painting will be." In this case, we are mixing two groups of students to create a new group for gym class. So, let's see how many students are in Buddy's gym class:Group 1 has 34 members + Group 2 has 37 members = Total number of students in Buddy's gym class = 34 + 37 = 71 students.So, there are 71 students in Buddy's gym class.
+--------------------
+question_idx: 4065
+question: the little league stadium has 92 seats . 47 people came to the game today . 38 people were holding banners . how many seats were empty ?
+golden answer: 45.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: the little league stadium has 92 seats . 47 people came to the game today . 38 people were holding banners . how many seats were empty ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "The little league stadium has 92 seats," you say. "And 47 people came to the game today." Ah, so there are 47 people in the stadium. "And 38 people were holding banners." That's a lot of banners! But wait, you said there were 92 seats. So, if 47 people are in the stadium, that means there are 45 empty seats. "But how many seats were empty?" you ask. Well, if there are 92 seats and 45 are empty, that means 47 people are sitting in the stadium, and 45 seats are empty. So, the answer is 45 empty seats."
+--------------------

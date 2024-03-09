@@ -1,0 +1,254 @@
+question_idx: 4
+question: in 1 week an airplane pilot flew 1134 miles on tuesday and 1475 miles on thursday . if the pilot flies the same number of miles 3 weeks in a row how many miles does he fly in all ?
+golden answer: 7827.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 18
+question: lucy has an aquarium with 212 fish . she wants to buy 68 more fish . how many fish would lucy have then ?
+golden answer: 280.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 19
+question: lucy has 212 fish . how many more fish does she need to buy to have 280 fish ?
+golden answer: 68.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 23
+question: each bag contains 23 pounds of oranges . how many pounds of oranges are in 45 bags ?
+golden answer: 1035.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 30
+question: bruno had some story books . he lost 4 of them and his dad gave him 10 more books . if he had 39 books after that how many books did bruno have at first ?
+golden answer: 33.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 59
+question: sam has 58 power ranger stickers . he bundles them up in 2 boxes . if there are 23 power ranger stickers in the first box how many more power ranger stickers are there in the second box than the first box ?
+golden answer: 12.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 62
+question: antonia has 79 barbie dolls . she packs away them in 2 wardrobes . if there are 35 barbie dolls in the first wardrobe how many more barbie dolls are there in the second wardrobe than the first ?
+golden answer: 9.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 65
+question: mother bought some potatoes . she used 15 of the potatoes to make salads and 24 of the potatoes for mashed potatoes . if there were 13 potatoes left how many potatoes did mother buy at first ?
+golden answer: 52.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 68
+question: mr. peter harvested some pears . he picked 43 kg of the pears into a bag and 35 kg of the pears into another bag . if there were still 15 kg of pears left unpacked how many kilograms of pears did mr. peter harvest ?
+golden answer: 93.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 75
+question: jane can arrange 16 vases of flowers in a day . if there are 248 vases of flowers to be arranged how many days are needed for her to finish all the flower arrangements ?
+golden answer: 15.5
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 76
+question: a box can hold 18 pieces of chalk . if there are 3484 pieces of chalk how many boxes are full to hold all the chalk ?
+golden answer: 193.5555555555556
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 79
+question: if tom plans to fix 158 watches at the rate of 12 watches per day how many days does he need to fix the watches ?
+golden answer: 13.166666666666664
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 84
+question: the teacher gave 42 pencils to 12 students equally . how many pencils did each student get ?
+golden answer: 3.5
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 85
+question: 9 boys went to water trees . there were 29 trees . if each of them watered the equal amount of trees how many trees did each boy water ?
+golden answer: 3.2222222222222223
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 86
+question: there were 44 laptops in the shop and mike divided them equally into 5 rows . how many laptops are there in each row ?
+golden answer: 8.8
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 88
+question: divide 39 balloons into 7 equal groups . how many balloons are there in each group ?
+golden answer: 5.571428571428571
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 89
+question: the school bought 54 basketballs and distribute them into 7 classes equally . how many basketballs did each class get ?
+golden answer: 7.7142857142857135
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 92
+question: 15 students split 122 portfolios of paintings . each student should get the same number of portfolios . how many portfolios of paintings will each of them get ?
+golden answer: 8.133333333333333
+held-out prompt: 9
+prompted answer: 9
+--------------------
+question_idx: 95
+question: a tourist group has 26 people . at a hotel they want to rent some large rooms for 3 people each and some small rooms for 2 each . in order to rent the least number of rooms and have every room fully occupied how many large rooms should be rented ?
+golden answer: 8.666666666666666
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 96
+question: mr. lee harvested 495 apples and he packed them evenly in some baskets . if there are 25 apples in each basket how many baskets of apples are there ?
+golden answer: 19.8
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 475
+question: ned gave away 13 of his video games to a friend . now ned has 6 games . how many games did ned have before he gave the games away ?
+golden answer: 19.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: ned gave away 13 of his video games to a friend . now ned has 6 games . how many games did ned have before he gave the games away ?"Let's approach this like a mathematician proving a theorem, step by logical step: "Before Ned gave away 13 games, he had 6 games."This is the given information:Ned had 6 games before he gave away 13 games.
+So, if Ned had 6 games before he gave away 13 games, then he had 6 + 13 = 19 games in total before he gave away any games.
+--------------------
+question_idx: 679
+question: a waiter had 62 customers in his section . if 17 of them left and the rest of his tables had 9 people at each table how many tables did he have ?
+golden answer: 5.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: a waiter had 62 customers in his section . if 17 of them left and the rest of his tables had 9 people at each table how many tables did he have ?"Let's approach this like a mathematician proving a theorem, step by logical step: "Step 1: We know that the waiter had 62 customers in his section.
+Step 2: We are told that 17 of them left. So, the number of customers the waiter had left = 62 - 17 = 45.
+Step 3: We are also told that the rest of his tables had 9 people at each table. So, the total number of tables the waiter had = 45 / 9 = 5 tables.
+Therefore, the waiter had 5 tables in his section.
+So, the answer is 5 tables.
+--------------------
+question_idx: 1141
+question: baker made 144 cakes . he sold 71 of them . then he made 111 more cakes . how many more cakes did baker make than those he sold ?
+golden answer: 184.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: baker made 144 cakes . he sold 71 of them . then he made 111 more cakes . how many more cakes did baker make than those he sold ?"Let's approach this like a mathematician proving a theorem, step by logical step: "More" means "greater than". So, if Baker made more cakes than he sold, that means he made cakes that he did not sell.
+In the first part of the problem, the baker made 144 cakes and sold 71 of them, so he had 73 cakes left (144 - 71 = 73).
+In the second part of the problem, the baker made 111 more cakes, bringing the total number of cakes he made to 144 + 111 = 255 cakes.
+Now, we need to find out how many more cakes the baker made than he sold. To do this, we subtract the number of cakes he sold (71) from the total number of cakes he made (255):
+255 - 71 = 184
+So, the baker made 184 more cakes than he sold.
+--------------------
+question_idx: 1438
+question: the razorback shop makes $ 115 dollars off each jersey and $ 25 off each t-shirt . during the arkansas and texas tech game they sold 113 t-shirts and 78 jerseys . how much more does a jersey cost than a t-shirt ?
+golden answer: 90.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: the razorback shop makes $ 115 dollars off each jersey and $ 25 off each t-shirt . during the arkansas and texas tech game they sold 113 t-shirts and 78 jerseys . how much more does a jersey cost than a t-shirt ?"Let's approach this like a mathematician proving a theorem, step by logical step: "The razorback shop makes $115 for each jersey and $25 for each t-shirt."Let's assume that the number of jerseys sold is x.
+We know that the total revenue from jerseys is $115x.
+The total revenue from t-shirts is $25(113) = $2775.
+So, the total revenue from both jerseys and t-shirts is $115x + $2775 = $2990.
+Now, we want to find out how much more a jersey costs than a t-shirt. Let's call the difference between the cost of a jersey and a t-shirt, "d".
+We know that d is greater than 0 because the razorback shop makes more money from jerseys than from t-shirts.
+We can set up the equation:
+d = $115 - $25
+d = $90
+So, a jersey costs $90 more than a t-shirt.
+Therefore, the answer is $90.
+--------------------
+question_idx: 1676
+question: James rode 80.0 miles at 16.0 miles per hour . How long did James ride ?
+golden answer: 5.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: James rode 80.0 miles at 16.0 miles per hour . How long did James ride ?"Let's approach this like a mathematician proving a theorem, step by logical step: "James rode 80.0 miles" means that James traveled a distance of 80.0 miles. "James rode at a speed of 16.0 miles per hour" means that James traveled that distance in a time of 80.0 miles / 16.0 miles per hour = 5 hours.So, James rode for 5 hours.
+--------------------
+question_idx: 1867
+question: A new building needed 14.0 windows . The builder had already installed 5.0 of them . If it takes 4.0 hours to install each window , how long will it take him to install the rest ?
+golden answer: 36.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: A new building needed 14.0 windows . The builder had already installed 5.0 of them . If it takes 4.0 hours to install each window , how long will it take him to install the rest ?"Let's approach this like a mathematician proving a theorem, step by logical step: "The builder has already installed 5.0 windows, which means he has 9.0 windows left to install (14.0 - 5.0 = 9.0)."Now, we know that it takes 4.0 hours to install each window, so the total time it will take the builder to install the remaining 9.0 windows is:9.0 windows x 4.0 hours/window = 36.0 hoursIn other words, it will take the builder 36.0 hours to install the rest of the windows.
+--------------------
+question_idx: 1898
+question: Luke was organizing his baseball cards in a binder with 3.0 on each page . If he had 3.0 new cards and 9.0 old cards to put in the binder , how many pages would he use ?
+golden answer: 4.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Luke was organizing his baseball cards in a binder with 3.0 on each page . If he had 3.0 new cards and 9.0 old cards to put in the binder , how many pages would he use ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+Step 1: Define the problem. We are given that Luke has 3.0 new cards and 9.0 old cards to put in his binder.
+Step 2: Determine the total number of cards Luke has. The sum of the new cards (3.0) and the old cards (9.0) is 12.0 cards.
+Step 3: Divide the total number of cards by the number of pages in the binder. Since Luke is using a binder with 3.0 cards per page, we can divide the total number of cards (12.0) by 3.0 to get the number of pages needed:
+12.0 cards ÷ 3.0 pages per page = 4 pages
+Therefore, Luke would use 4 pages in his binder to organize his baseball cards.
+--------------------
+question_idx: 2041
+question: A trivia team had 5.0 members total , but during a game 2.0 members did n't show up . If each member that did show up scored 6.0 points , how many points were scored total ?
+golden answer: 18.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: A trivia team had 5.0 members total , but during a game 2.0 members did n't show up . If each member that did show up scored 6.0 points , how many points were scored total ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+Step 1: Identify the given information:
+* The trivia team had 5.0 members total.
+* 2.0 members did not show up.
+* Each member that did show up scored 6.0 points.
+Step 2: Use the information provided to find the total number of members that showed up:
+* Total number of members = 5.0 - 2.0 = 3.0
+Step 3: Find the total number of points scored by the members who showed up:
+* Total points scored = 3.0 x 6.0 = 18.0
+Therefore, the trivia team scored 18.0 points in the game.
+--------------------
+question_idx: 2094
+question: Luke was organizing his baseball cards in a binder with 3.0 on each page . If he had 3.0 new cards and 9.0 old cards to put in the binder , how many pages would he use ?
+golden answer: 4.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Luke was organizing his baseball cards in a binder with 3.0 on each page . If he had 3.0 new cards and 9.0 old cards to put in the binder , how many pages would he use ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+Step 1: Define the problem. We are given that Luke has 3.0 new cards and 9.0 old cards to put in his binder.
+Step 2: Determine the total number of cards Luke has. The sum of the new cards (3.0) and the old cards (9.0) is 12.0 cards.
+Step 3: Divide the total number of cards by the number of pages in the binder. Since Luke is using a binder with 3.0 cards per page, we can divide the total number of cards (12.0) by 3.0 to get the number of pages needed:
+12.0 cards ÷ 3.0 pages per page = 4 pages
+Therefore, Luke would use 4 pages in his binder to organize his baseball cards.
+--------------------
+question_idx: 2291
+question: Sam had to wash 40.0 short sleeve shirts and 23.0 long sleeve shirts before school . If he had only washed 29.0 of them by the time school started , how many did he not wash ?
+golden answer: 34.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Sam had to wash 40.0 short sleeve shirts and 23.0 long sleeve shirts before school . If he had only washed 29.0 of them by the time school started , how many did he not wash ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+Let S be the set of all shirts that Sam washed before school.
+We know that S contains 40 short sleeve shirts and 23 long sleeve shirts, for a total of 63 shirts in S.
+We are given that Sam did not wash 29 shirts by the time school started.
+So, the number of shirts that Sam did not wash is 29 - 63 = -34 shirts.
+Therefore, Sam did not wash 34 shirts before school.
+Note: This solution assumes that the information given in the problem is accurate and complete. If there are any errors or omissions in the information, the solution may not be valid."
+Answer: -34
+--------------------
+question_idx: 3679
+question: after the framework was finished they asked 239 monkeys and 622 termites to finish the rest of the building . how many workers finished the rest of the construction ?
+golden answer: 861.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: after the framework was finished they asked 239 monkeys and 622 termites to finish the rest of the building . how many workers finished the rest of the construction ?"Let's approach this like a mathematician proving a theorem, step by logical step: "239 monkeys and 622 termites finished the rest of the construction" means that these additional workers completed the building after the framework was finished.
+Answer: 239 + 622 = 861 workers finished the rest of the construction.
+--------------------
+question_idx: 4384
+question: there are 40 students in the school band . if the band instructor put the students into rows with 5 students in each row how many rows could he make ?
+golden answer: 8.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: there are 40 students in the school band . if the band instructor put the students into rows with 5 students in each row how many rows could he make ?"Let's approach this like a mathematician proving a theorem, step by logical step: "1.
+Step 1: Define the problem.
+The problem states that there are 40 students in the school band, and the band instructor wants to put them into rows with 5 students in each row.
+Step 2: Identify the given information.
+We are given that there are 40 students in the band and that the instructor wants to put them into rows with 5 students in each row.
+Step 3: Determine the number of rows that can be made.
+To determine the number of rows that can be made, we need to divide the total number of students by the number of students in each row. In this case, we have 40 students / 5 students per row = 8 rows.
+So, the band instructor could make 8 rows with 5 students in each row.
+Therefore, the answer to the problem is 8 rows.
+--------------------
+question_idx: 4429
+question: ned gave away 13 of his video games to a friend . now ned has 6 games . how many games did ned have before he gave the games away ?
+golden answer: 19.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: ned gave away 13 of his video games to a friend . now ned has 6 games . how many games did ned have before he gave the games away ?"Let's approach this like a mathematician proving a theorem, step by logical step: "Before Ned gave away 13 games, he had 6 games."This is the given information:Ned had 6 games before he gave away 13 games.
+So, if Ned had 6 games before he gave away 13 games, then he had 6 + 13 = 19 games in total before he gave away any games.
+--------------------

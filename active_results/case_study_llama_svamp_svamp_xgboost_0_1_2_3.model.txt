@@ -1,0 +1,234 @@
+question_idx: 4
+question: in 1 week an airplane pilot flew 1134 miles on tuesday and 1475 miles on thursday . if the pilot flies the same number of miles 3 weeks in a row how many miles does he fly in all ?
+golden answer: 7827.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 14
+question: mrs. hilt is baking bread . she needs 5 cups of flour to bake 2 loaves of bread . how much flour will she need to make 1 loaf of bread ?
+golden answer: 2.5
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 23
+question: each bag contains 23 pounds of oranges . how many pounds of oranges are in 45 bags ?
+golden answer: 1035.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 26
+question: there are some children at a bakery . as they were deciding what to buy 24 girls came in and 31 boys left . if there are 78 children in the bakery in the end how many children were there at first ?
+golden answer: 85.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 28
+question: lena had some pocket money . she lost $ 4 and her mom gave her $ 9 . if she had $ 66 after that how many dollars did lena have at first ?
+golden answer: 61.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 30
+question: bruno had some story books . he lost 4 of them and his dad gave him 10 more books . if he had 39 books after that how many books did bruno have at first ?
+golden answer: 33.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 38
+question: a restaurant has 94 pieces of cutlery . 38 are forks 27 are knives and the rest are spoons . how many spoons are there ?
+golden answer: 29.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 59
+question: sam has 58 power ranger stickers . he bundles them up in 2 boxes . if there are 23 power ranger stickers in the first box how many more power ranger stickers are there in the second box than the first box ?
+golden answer: 12.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 60
+question: beryl has 88 radishes . she puts them into 2 baskets . if there are 37 radishes in the first basket how many more radishes are there in the second basket than the first ?
+golden answer: 14.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 61
+question: there are 56 students in the class . the teacher wants to split them into 2 groups . the first group has 24 students . how many more students will there be in the second group ?
+golden answer: 8.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 62
+question: antonia has 79 barbie dolls . she packs away them in 2 wardrobes . if there are 35 barbie dolls in the first wardrobe how many more barbie dolls are there in the second wardrobe than the first ?
+golden answer: 9.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 64
+question: an online toy store stocked some toys . it sold 38 toys at the first week and 26 toys at the second week . if it had 19 toys left how many toys were in stock at the beginning ?
+golden answer: 83.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 69
+question: gary had some stickers . he gave 42 stickers to lucy and 26 stickers to alex . if he had 31 stickers left how many stickers did gary have at first ?
+golden answer: 99.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 72
+question: a washing machine can wash 28 pounds of clothes per day . if there are 200 pounds of clothes to be washed per day how many washing machines are needed ?
+golden answer: 7.142857142857142
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 73
+question: there are 757 pounds of sand to be filled into bags . if each bag has a capacity of 65 pounds how many bags are needed ?
+golden answer: 11.646153846153846
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 76
+question: a box can hold 18 pieces of chalk . if there are 3484 pieces of chalk how many boxes are full to hold all the chalk ?
+golden answer: 193.5555555555556
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 80
+question: the capacity of a tank is 32 gallons . if a company bought 728 gallons of oil how many tanks are needed to hold all the oil ?
+golden answer: 22.75
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 81
+question: mrs. smith gave 53 strawberries to 8 girls equally . how many strawberries did each girl get ?
+golden answer: 6.625
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 83
+question: 86 students are going hiking . each school- bus can take 9 students . how many school-buses are needed ?
+golden answer: 9.555555555555555
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 85
+question: 9 boys went to water trees . there were 29 trees . if each of them watered the equal amount of trees how many trees did each boy water ?
+golden answer: 3.2222222222222223
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 204
+question: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?
+golden answer: 8.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?"As a librarian categorizes books, let's sort the information accordingly: "Brian ran around the school track in 96 seconds" and "Todd ran around it in 88 seconds."Now, to find out how many fewer seconds it took Todd to run around the track, we need to subtract the time it took Brian to run around the track from the time it took Todd to run around the track.
+96 seconds - 88 seconds = 8 seconds
+So, it took Todd 8 fewer seconds to run around the track than it took Brian.
+--------------------
+question_idx: 215
+question: miki bought 4 packs of red bouncy balls and 3 packs of yellow bouncy balls . each package contained 7 bouncy balls . how many more packs of red bouncy balls than yellow bouncy balls did miki buy ?
+golden answer: 1.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: miki bought 4 packs of red bouncy balls and 3 packs of yellow bouncy balls . each package contained 7 bouncy balls . how many more packs of red bouncy balls than yellow bouncy balls did miki buy ?"As a librarian categorizes books, let's sort the information accordingly: "Miki bought 4 packs of red bouncy balls and 3 packs of yellow bouncy balls."Let's analyze the information:Packs of red bouncy balls: 4Packs of yellow bouncy balls: 3Now, we need to find out how many more packs of red bouncy balls Miki bought than yellow bouncy balls.
+Answer: Miki bought 4 - 3 = 1 more pack of red bouncy balls than yellow bouncy balls.
+--------------------
+question_idx: 760
+question: every day ryan spends 6 hours on learning english 3 hours on learning chinese and 58 hours on learning spanish . how many more hours does he spend on learning english than he does on learning chinese ?
+golden answer: 3.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: every day ryan spends 6 hours on learning english 3 hours on learning chinese and 58 hours on learning spanish . how many more hours does he spend on learning english than he does on learning chinese ?"As a librarian categorizes books, let's sort the information accordingly: "Ryan spends 6 hours on learning English" means "Ryan spends 6 hours on English learning" "Ryan spends 3 hours on learning Chinese" means "Ryan spends 3 hours on Chinese learning" "Ryan spends 58 hours on learning Spanish" means "Ryan spends 58 hours on Spanish learning"Now, let's find out how many more hours Ryan spends on learning English than he does on learning Chinese:To find the difference, we need to subtract the time Ryan spends on learning Chinese from the time he spends on learning English:6 hours - 3 hours = 3 hoursSo, Ryan spends 3 more hours on learning English than he does on learning Chinese.
+
+
+
+
+--------------------
+question_idx: 869
+question: david did 51 push-ups in gym class today . david did 49 more push-ups than zachary . how many push-ups did zachary and david do altogether ?
+golden answer: 53.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: david did 51 push-ups in gym class today . david did 49 more push-ups than zachary . how many push-ups did zachary and david do altogether ?"As a librarian categorizes books, let's sort the information accordingly: "David did 51 push-ups in gym class today.""David did 51 push-ups."This information tells us how many push-ups David did.
+"David did 49 more push-ups than Zachary."This information tells us the difference between the number of push-ups David did and Zachary did.
+So, to find out how many push-ups Zachary did, we subtract the number of push-ups David did from the total number of push-ups David and Zachary did:
+Zachary did 51 - 49 = 2 push-ups.
+Therefore, David and Zachary did altogether 51 + 2 = 53 push-ups in gym class today.
+--------------------
+question_idx: 898
+question: julia played tag with 7 kids on monday and 13 kids on tuesday . she played cards wtih 20 kids on wednesday . how many kids did she play tag with altogether ?
+golden answer: 20.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: julia played tag with 7 kids on monday and 13 kids on tuesday . she played cards wtih 20 kids on wednesday . how many kids did she play tag with altogether ?"As a librarian categorizes books, let's sort the information accordingly: "Tag" is a specific activity that Julia played with different groups of kids.
+1. Monday: Julia played tag with 7 kids.
+2. Tuesday: Julia played tag with 13 kids.
+3. Wednesday: Julia played cards with 20 kids.
+Now, let's calculate the total number of kids Julia played tag with:
+Total number of kids Julia played tag with = 7 + 13 = 20
+Therefore, Julia played tag with 20 kids altogether.
+--------------------
+question_idx: 1500
+question: frank was reading through his favorite book . it took him 16 days to finish the book . if the book had 112 pages how many pages did he read per day ?
+golden answer: 7.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: frank was reading through his favorite book . it took him 16 days to finish the book . if the book had 112 pages how many pages did he read per day ?"As a librarian categorizes books, let's sort the information accordingly: "Book Length" and "Reading Speed"Let's start by identifying the length of the book: "The book had 112 pages."Now, let's calculate Frank's reading speed: "It took him 16 days to finish the book."To find out how many pages Frank read per day, we can use the following formula:Pages Read per Day = Total Number of Pages / Number of DaysTo calculate the number of pages Frank read per day, we need to divide the total number of pages in the book (112 pages) by the number of days it took him to finish the book (16 days):Pages Read per Day = 112 pages / 16 days = 7 pages per dayFrank read 7 pages per day.
+
+
+
+--------------------
+question_idx: 1779
+question: Mrs. Hilt reads 5.0 books a day . How many books does she read in 3.0 days ?
+golden answer: 15.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Mrs. Hilt reads 5.0 books a day . How many books does she read in 3.0 days ?"As a librarian categorizes books, let's sort the information accordingly: "How many books does Mrs. Hilt read in 3.0 days?"We know that Mrs. Hilt reads 5.0 books a day, so to find out how many books she reads in 3.0 days, we can multiply the number of days by the number of books she reads per day:3.0 days x 5.0 books/day = 15.0 booksIn 3.0 days, Mrs. Hilt reads 15.0 books.
+--------------------
+question_idx: 1847
+question: How many yards of material from a 24.0 yard length of cloth remains after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 long are removed ?
+golden answer: 2.25
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: How many yards of material from a 24.0 yard length of cloth remains after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 long are removed ?"As a librarian categorizes books, let's sort the information accordingly: "Remaining length of cloth" = "Answer"Let's analyze the problem:We are given that the length of cloth is 24.0 yards.We are asked to find the remaining length of cloth after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 yards long are removed.So, we need to find the total length of cloth that is left after removing the given pieces.To do this, we can use the formula:Total length = Remaining length - Total length of piecesWe know that the total length of the pieces is 3 x 3.5 = 10.5 yards + 5 x 2.25 = 11.25 yards = 21.75 yardsSo, the remaining length of cloth is:Total length = 24.0 - 21.75 = 2.25 yards = 2.25 yardsThe answer is 2.25 yards.
+--------------------
+question_idx: 1924
+question: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?
+golden answer: 48781.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?"As a librarian categorizes books, let's sort the information accordingly: "Harvest of Wheat"Let's start by identifying the given information:1. The farmer will harvest 48097.0 bushels of wheat.2. The weather is perfect during the growing season, so the farmer harvests 684.0 bushels more than expected.Now, let's analyze the information:The farmer will harvest 48097.0 bushels of wheat. This is the total amount of wheat the farmer will harvest.The weather is perfect during the growing season, so the farmer harvests 684.0 bushels more than expected. This means that the actual amount of wheat harvested is 48097.0 + 684.0 = 48781.0 bushels.Therefore, the farmer harvests 48781.0 bushels of wheat.
+--------------------
+question_idx: 2356
+question: There were 13.0 friends playing a video game online when 8.0 players quit . If each player left had 6.0 lives , how many lives did they have total ?
+golden answer: 30.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: There were 13.0 friends playing a video game online when 8.0 players quit . If each player left had 6.0 lives , how many lives did they have total ?"As a librarian categorizes books, let's sort the information accordingly: "There were 13.0 friends playing a video game online when 8.0 players quit."Let's start by identifying the number of friends playing the video game: 13.0 friendsNow, let's find out how many players quit: 8.0 players quitSo, the number of players left playing the game is: 13.0 - 8.0 = 5.0 playersNow, let's find out how many lives each player had: Each player had 6.0 livesSo, the total number of lives the 5.0 players had is: 5.0 x 6.0 = 30.0 livesTherefore, the answer is 30.0 lives.
+--------------------
+question_idx: 2590
+question: There are 8.0 marbles in each box . How many marbles are in 6.0 boxes ?
+golden answer: 48.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: There are 8.0 marbles in each box . How many marbles are in 6.0 boxes ?"As a librarian categorizes books, let's sort the information accordingly: "There are 8.0 marbles in each box" can be categorized under "Quantity of marbles per box" and "How many marbles are in 6.0 boxes" can be categorized under "Total number of marbles".So, the answer to the question "How many marbles are in 6.0 boxes?" is:Total number of marbles = 6.0 boxes x Quantity of marbles per box = 6.0 boxes x 8.0 marbles/box = 48.0 marbles
+--------------------
+question_idx: 2888
+question: A store had 40.0 oranges in a bin . If they threw away 37.0 of the old ones and put 7.0 new ones in the bin how many would be in the bin ?
+golden answer: 10.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A store had 40.0 oranges in a bin . If they threw away 37.0 of the old ones and put 7.0 new ones in the bin how many would be in the bin ?"As a librarian categorizes books, let's sort the information accordingly: "Oranges in the bin" can be categorized under "Quantities" and "New oranges" can be categorized under "Addition."Now, let's solve the problem:The original number of oranges in the bin was 40.0 oranges.This means that the quantity of oranges in the bin before any changes was 40.0.Now, the problem states that 37.0 of the old oranges were thrown away, which means that the quantity of oranges in the bin after the old oranges were thrown away is:40.0 - 37.0 = 3.0 oranges.Finally, the problem states that 7.0 new oranges were added to the bin, which means that the updated quantity of oranges in the bin is:3.0 + 7.0 = 10.0 oranges.Therefore, there are 10.0 oranges in the bin after the changes.
+--------------------
+question_idx: 4158
+question: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?
+golden answer: 8.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?"As a librarian categorizes books, let's sort the information accordingly: "Brian ran around the school track in 96 seconds" and "Todd ran around it in 88 seconds."Now, to find out how many fewer seconds it took Todd to run around the track, we need to subtract the time it took Brian to run around the track from the time it took Todd to run around the track.
+96 seconds - 88 seconds = 8 seconds
+So, it took Todd 8 fewer seconds to run around the track than it took Brian.
+--------------------
+question_idx: 4169
+question: miki bought 4 packs of red bouncy balls and 3 packs of yellow bouncy balls . each package contained 7 bouncy balls . how many more packs of red bouncy balls than yellow bouncy balls did miki buy ?
+golden answer: 1.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: miki bought 4 packs of red bouncy balls and 3 packs of yellow bouncy balls . each package contained 7 bouncy balls . how many more packs of red bouncy balls than yellow bouncy balls did miki buy ?"As a librarian categorizes books, let's sort the information accordingly: "Miki bought 4 packs of red bouncy balls and 3 packs of yellow bouncy balls."Let's analyze the information:Packs of red bouncy balls: 4Packs of yellow bouncy balls: 3Now, we need to find out how many more packs of red bouncy balls Miki bought than yellow bouncy balls.
+Answer: Miki bought 4 - 3 = 1 more pack of red bouncy balls than yellow bouncy balls.
+--------------------
+question_idx: 4512
+question: henry bought 2 new fireworks and his friend bought 3 if they already had 6 saved from last year how many do they have now ?
+golden answer: 11.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: henry bought 2 new fireworks and his friend bought 3 if they already had 6 saved from last year how many do they have now ?"As a librarian categorizes books, let's sort the information accordingly: "Henry bought 2 new fireworks" means "Add 2 to the total number of fireworks Henry has.""His friend bought 3" means "Add 3 to the total number of fireworks his friend has."So, let's add the total number of fireworks Henry and his friend have:6 (from last year) + 2 (new ones Henry bought) + 3 (new ones his friend bought) = 11 fireworks in total.
+Therefore, they have 11 fireworks in total.
+--------------------

@@ -1,0 +1,120 @@
+question_idx: 7
+question: George had 30.0 dollars . For his birthday he got 16.0 more dollars but spent 38.0 on a new game . How much money does he have now ?
+golden answer: 8.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 12
+question: Before starting her shift , a waitress checks to make sure there is enough mustard for her customers . She finds 0.25 bottle at the first table , 0.25 bottle at the second table , and 0.375 bottle at the third table . Altogether , how many bottles of mustard does the waitress find ?
+golden answer: 0.875
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 13
+question: There were 3409.0 pieces of candy in a jar . If 145.0 pieces were red and the rest were blue , how many were blue ?
+golden answer: 3264.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 14
+question: Lucy has an aquarium with 212.0 fish . Lucy wants to buy 68.0 more fish . How many fish would Lucy have then ?
+golden answer: 280.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 16
+question: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?
+golden answer: 0.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 21
+question: Martha bought 18.0 small cakes . She has 3.0 children . She would like to divide the cakes among her children so that each child gets the same amount . How many cakes would each child get ?
+golden answer: 6.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 25
+question: Jason joined his school 's band . He bought a flute for $ 142.46 , a music tool for $ 8.89 , and a song book for $ 7.0 . How much did Jason spend at the music store ?
+golden answer: 158.35
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 39
+question: A clothing store offers a 20.0 % discount on all purchases . How much would a shopper pay for an item originally costing 21.0 dollars dollars ?
+golden answer: 16.8
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 41
+question: Emily had 7.0 coloring books . If she gave away 2.0 of them , but then bought 14.0 more , how many would she have total ?
+golden answer: 19.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 44
+question: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?
+golden answer: 7.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 45
+question: John had 6.0 action figures , but needed 11.0 total for a complete collection . If each one costs $ 6.0 , how much money would he need to finish his collection ?
+golden answer: 30.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 46
+question: Dale 's Vegetarian Restaurant bought 2.8333333333333335 pounds of green peppers and 2.8333333333333335 pounds of red peppers . How many pounds of peppers did Dale 's Vegetarian Restaurant buy in all ?
+golden answer: 5.666666666666667
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 47
+question: Wendy uploaded 45.0 pictures to Facebook . She put 27.0 pics into one album and put the rest into 9.0 different albums . How many pictures were in each album ?
+golden answer: 2.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 48
+question: Mrs. Hilt bought a notebook for $ 1.3 . She paid with nickels . How many nickels did she use to buy the notebook ?
+golden answer: 26.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 51
+question: Pamela starts with 30.0 bottle caps . Jean takes 26.0 away . How many bottle caps does Pamela end with ?
+golden answer: 4.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 52
+question: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?
+golden answer: 12.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 56
+question: A pet shelter had 17.0 puppies when another 55.0 were brought in . If 8.0 puppies a day are adopted , how long would it take for all of them to be adopted ?
+golden answer: 9.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 57
+question: Melanie is selling 4.0 gumballs for eight cents each . How much money can Melanie get from selling the gumballs ?
+golden answer: 32.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 59
+question: A trivia team had 11.0 members total , but during a game 6.0 members did n't show up . If each member that did show up scored 9.0 points , how many points were scored total ?
+golden answer: 45.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 62
+question: There are 48.0 pencils and 40.0 scissors in the drawer . Joan placed 29.0 pencils in the drawer . How many pencils are now there in all ?
+golden answer: 77.0
+held-out prompt: 0
+prompted answer: 0
+--------------------

@@ -1,0 +1,256 @@
+question_idx: 4
+question: in 1 week an airplane pilot flew 1134 miles on tuesday and 1475 miles on thursday . if the pilot flies the same number of miles 3 weeks in a row how many miles does he fly in all ?
+golden answer: 7827.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 10
+question: mrs. hilt went to a concert . a total of 65899 people attended the concert . the next week she went to a second concert which had 119 more people in attendance . how many people were at the second concert ?
+golden answer: 66018.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 14
+question: mrs. hilt is baking bread . she needs 5 cups of flour to bake 2 loaves of bread . how much flour will she need to make 1 loaf of bread ?
+golden answer: 2.5
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 26
+question: there are some children at a bakery . as they were deciding what to buy 24 girls came in and 31 boys left . if there are 78 children in the bakery in the end how many children were there at first ?
+golden answer: 85.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 27
+question: blithe has a lot of toys . he lost 6 of them and found 9 in his closet . if he had 43 after that how many toys did blithe have at first ?
+golden answer: 40.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 28
+question: lena had some pocket money . she lost $ 4 and her mom gave her $ 9 . if she had $ 66 after that how many dollars did lena have at first ?
+golden answer: 61.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 30
+question: bruno had some story books . he lost 4 of them and his dad gave him 10 more books . if he had 39 books after that how many books did bruno have at first ?
+golden answer: 33.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 36
+question: there are a total of 90 items at a bakery . 49 of them are bread rolls and 19 of them are croissants . how many bagels are there ?
+golden answer: 22.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 38
+question: a restaurant has 94 pieces of cutlery . 38 are forks 27 are knives and the rest are spoons . how many spoons are there ?
+golden answer: 29.0
+held-out prompt: 6
+prompted answer: 6
+--------------------
+question_idx: 60
+question: beryl has 88 radishes . she puts them into 2 baskets . if there are 37 radishes in the first basket how many more radishes are there in the second basket than the first ?
+golden answer: 14.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 64
+question: an online toy store stocked some toys . it sold 38 toys at the first week and 26 toys at the second week . if it had 19 toys left how many toys were in stock at the beginning ?
+golden answer: 83.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 65
+question: mother bought some potatoes . she used 15 of the potatoes to make salads and 24 of the potatoes for mashed potatoes . if there were 13 potatoes left how many potatoes did mother buy at first ?
+golden answer: 52.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 71
+question: a car dealer sold 14 cars on the first day 16 cars on the second day and 27 cars on the third day . how many cars did the car dealer sell on the 3 days ?
+golden answer: 57.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 73
+question: there are 757 pounds of sand to be filled into bags . if each bag has a capacity of 65 pounds how many bags are needed ?
+golden answer: 11.646153846153846
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 80
+question: the capacity of a tank is 32 gallons . if a company bought 728 gallons of oil how many tanks are needed to hold all the oil ?
+golden answer: 22.75
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 81
+question: mrs. smith gave 53 strawberries to 8 girls equally . how many strawberries did each girl get ?
+golden answer: 6.625
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 82
+question: tom had $ 19 and he wanted to buy as many folders as he could . if 1 folder costs $ 2 how many folders can tom buy ?
+golden answer: 9.5
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 84
+question: the teacher gave 42 pencils to 12 students equally . how many pencils did each student get ?
+golden answer: 3.5
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 86
+question: there were 44 laptops in the shop and mike divided them equally into 5 rows . how many laptops are there in each row ?
+golden answer: 8.8
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 88
+question: divide 39 balloons into 7 equal groups . how many balloons are there in each group ?
+golden answer: 5.571428571428571
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 204
+question: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?
+golden answer: 8.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?"As a librarian categorizes books, let's sort the information accordingly: "Brian ran around the school track in 96 seconds" and "Todd ran around it in 88 seconds."Now, to find out how many fewer seconds it took Todd to run around the track, we need to subtract the time it took Brian to run around the track from the time it took Todd to run around the track.
+96 seconds - 88 seconds = 8 seconds
+So, it took Todd 8 fewer seconds to run around the track than it took Brian.
+--------------------
+question_idx: 312
+question: a mailman has to give out 192 pieces of junk mail . if he goes to 4 blocks how many pieces of junk mail should he give each block ?
+golden answer: 48.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: a mailman has to give out 192 pieces of junk mail . if he goes to 4 blocks how many pieces of junk mail should he give each block ?"As a librarian categorizes books, let's sort the information accordingly: "A mailman has to deliver 192 pieces of junk mail.
+To determine how many pieces of junk mail the mailman should give to each block, we need to divide the total number of pieces of junk mail by the number of blocks he needs to deliver to.
+Let's assume the mailman needs to deliver the junk mail to 4 blocks.
+So, to calculate the number of pieces of junk mail each block should receive, we can divide the total number of pieces of junk mail (192) by the number of blocks (4):
+192 ÷ 4 = 48
+So, each block should receive 48 pieces of junk mail.
+--------------------
+question_idx: 898
+question: julia played tag with 7 kids on monday and 13 kids on tuesday . she played cards wtih 20 kids on wednesday . how many kids did she play tag with altogether ?
+golden answer: 20.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: julia played tag with 7 kids on monday and 13 kids on tuesday . she played cards wtih 20 kids on wednesday . how many kids did she play tag with altogether ?"As a librarian categorizes books, let's sort the information accordingly: "Tag" is a specific activity that Julia played with different groups of kids.
+1. Monday: Julia played tag with 7 kids.
+2. Tuesday: Julia played tag with 13 kids.
+3. Wednesday: Julia played cards with 20 kids.
+Now, let's calculate the total number of kids Julia played tag with:
+Total number of kids Julia played tag with = 7 + 13 = 20
+Therefore, Julia played tag with 20 kids altogether.
+--------------------
+question_idx: 1079
+question: there were 5 roses and 3 orchids in the vase . jessica cut some more roses and orchids from her flower garden . there are now 12 roses and 2 orchids in the vase . how many more roses than orchids are there in the vase now ?
+golden answer: 10.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: there were 5 roses and 3 orchids in the vase . jessica cut some more roses and orchids from her flower garden . there are now 12 roses and 2 orchids in the vase . how many more roses than orchids are there in the vase now ?"As a librarian categorizes books, let's sort the information accordingly: "How many roses are there in the vase now?" and "How many orchids are there in the vase now?"
+Љ�
+Let's start by identifying the information given in the problem:
+1. There were 5 roses and 3 orchids in the vase initially.
+2. Jessica cut some more roses and orchids from her flower garden.
+3. There are now 12 roses and 2 orchids in the vase.
+Now, let's analyze the information:
+1. The number of roses in the vase increased from 5 to 12.
+2. The number of orchids in the vase increased from 3 to 2.
+So, the difference between the number of roses and orchids in the vase now is:
+12 - 2 = 10
+There are 10 more roses than orchids in the vase now.
+--------------------
+question_idx: 1123
+question: nell collects cards . she had 246 baseball cards and 214 10 cards . she gave some of her cards to jeff and now has 404 baseball cards and 495 10 cards left . how many more 10 cards than baseball cards does nell have ?
+golden answer: 91.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: nell collects cards . she had 246 baseball cards and 214 10 cards . she gave some of her cards to jeff and now has 404 baseball cards and 495 10 cards left . how many more 10 cards than baseball cards does nell have ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+Љ Nell has 404 baseball cards and 495 10 cards. "
+Step 1: We know that Nell had 246 baseball cards and 214 10 cards initially.
+Step 2: We are given that she gave some of her cards to Jeff.
+Step 3: We know that Nell now has 404 baseball cards and 495 10 cards.
+Step 4: We want to find out how many more 10 cards than baseball cards Nell has.
+So, let's subtract the number of baseball cards from the total number of cards:
+495 (10 cards) - 404 (baseball cards) = 91
+Therefore, Nell has 91 more 10 cards than baseball cards.
+So, the answer is 91.
+--------------------
+question_idx: 1457
+question: faye had 31 packs of pencils each one having 6 pencils . she was placing her pencils into rows with 19 pencils in each row . how many pencils does she have ?
+golden answer: 186.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: faye had 31 packs of pencils each one having 6 pencils . she was placing her pencils into rows with 19 pencils in each row . how many pencils does she have ?"Let's approach this like a mathematician proving a theorem, step by logical step: "1.
+Step 1: Understand the problem statement. We are given that Faye has 31 packs of pencils, and each pack contains 6 pencils. We are also told that Faye is placing her pencils into rows, with 19 pencils in each row.
+Step 2: Identify the relevant information. We know that Faye has 31 packs of pencils, and each pack contains 6 pencils. Therefore, the total number of pencils Faye has is:
+31 packs x 6 pencils per pack = 186 pencils
+We also know that Faye is placing her pencils into rows, with 19 pencils in each row. So, the total number of rows of pencils Faye has is:
+186 pencils / 19 pencils per row = 9 rows of pencils
+Step 3: Conclude the answer. Therefore, Faye has 9 rows of pencils, with 19 pencils in each row. In total, Faye has 186 pencils.
+--------------------
+question_idx: 1847
+question: How many yards of material from a 24.0 yard length of cloth remains after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 long are removed ?
+golden answer: 2.25
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: How many yards of material from a 24.0 yard length of cloth remains after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 long are removed ?"As a librarian categorizes books, let's sort the information accordingly: "Remaining length of cloth" = "Answer"Let's analyze the problem:We are given that the length of cloth is 24.0 yards.We are asked to find the remaining length of cloth after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 yards long are removed.So, we need to find the total length of cloth that is left after removing the given pieces.To do this, we can use the formula:Total length = Remaining length - Total length of piecesWe know that the total length of the pieces is 3 x 3.5 = 10.5 yards + 5 x 2.25 = 11.25 yards = 21.75 yardsSo, the remaining length of cloth is:Total length = 24.0 - 21.75 = 2.25 yards = 2.25 yardsThe answer is 2.25 yards.
+--------------------
+question_idx: 1924
+question: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?
+golden answer: 48781.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?"As a librarian categorizes books, let's sort the information accordingly: "Harvest of Wheat"Let's start by identifying the given information:1. The farmer will harvest 48097.0 bushels of wheat.2. The weather is perfect during the growing season, so the farmer harvests 684.0 bushels more than expected.Now, let's analyze the information:The farmer will harvest 48097.0 bushels of wheat. This is the total amount of wheat the farmer will harvest.The weather is perfect during the growing season, so the farmer harvests 684.0 bushels more than expected. This means that the actual amount of wheat harvested is 48097.0 + 684.0 = 48781.0 bushels.Therefore, the farmer harvests 48781.0 bushels of wheat.
+--------------------
+question_idx: 1926
+question: Kaleb had 10.0 video games but 8.0 of them were n't working . If he wanted to sell the working games for $ 6.0 each , how much money could he earn ?
+golden answer: 12.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Kaleb had 10.0 video games but 8.0 of them were n't working . If he wanted to sell the working games for $ 6.0 each , how much money could he earn ?"Let's approach this like a mathematician proving a theorem, step by logical step: "The problem states that Kaleb has 10.0 video games but 8.0 of them are not working. We are asked to find out how much money Kaleb could earn if he sells the working games for $6.0 each.
+Step 1: Identify the number of working video games that Kaleb has.
+From the problem, we know that 8.0 of Kaleb's video games are not working, which means that the number of working video games he has is 10.0 - 8.0 = 2.0.
+Step 2: Find out how much money Kaleb could earn from selling the working video games.
+If Kaleb sells each of his 2.0 working video games for $6.0, he will earn a total of 2.0 x $6.0 = $12.0.
+Therefore, Kaleb could earn $12.0 by selling the working video games.
+Conclusion: Kaleb could earn $12.0 by selling the working video games."
+--------------------
+question_idx: 2356
+question: There were 13.0 friends playing a video game online when 8.0 players quit . If each player left had 6.0 lives , how many lives did they have total ?
+golden answer: 30.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: There were 13.0 friends playing a video game online when 8.0 players quit . If each player left had 6.0 lives , how many lives did they have total ?"As a librarian categorizes books, let's sort the information accordingly: "There were 13.0 friends playing a video game online when 8.0 players quit."Let's start by identifying the number of friends playing the video game: 13.0 friendsNow, let's find out how many players quit: 8.0 players quitSo, the number of players left playing the game is: 13.0 - 8.0 = 5.0 playersNow, let's find out how many lives each player had: Each player had 6.0 livesSo, the total number of lives the 5.0 players had is: 5.0 x 6.0 = 30.0 livesTherefore, the answer is 30.0 lives.
+--------------------
+question_idx: 2470
+question: A marine biologist measured 1.0 fish that was 0.3 foot long and a second fish that was 0.2 foot long . How much longer was the first fish ?
+golden answer: 0.1
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: A marine biologist measured 1.0 fish that was 0.3 foot long and a second fish that was 0.2 foot long . How much longer was the first fish ?"Let's approach this like a mathematician proving a theorem, step by logical step: "The marine biologist measured a fish that was 0.1 foot long and a second fish that was 0.2 foot long. How much longer was the first fish?Step 1: Write down the given information.Given:The marine biologist measured a fish that was 0.1 foot long and a second fish that was 0.2 foot long.Step 2: Use the information given to find the difference in length between the two fish.Difference = 0.2 - 0.1 = 0.1 footStep 3: Express the difference in length as a decimal.Difference = 0.1 = 0.1 decimalStep 4: Conclude that the first fish was 0.1 foot longer than the second fish.The first fish was 0.1 foot longer than the second fish.
+--------------------
+question_idx: 2888
+question: A store had 40.0 oranges in a bin . If they threw away 37.0 of the old ones and put 7.0 new ones in the bin how many would be in the bin ?
+golden answer: 10.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A store had 40.0 oranges in a bin . If they threw away 37.0 of the old ones and put 7.0 new ones in the bin how many would be in the bin ?"As a librarian categorizes books, let's sort the information accordingly: "Oranges in the bin" can be categorized under "Quantities" and "New oranges" can be categorized under "Addition."Now, let's solve the problem:The original number of oranges in the bin was 40.0 oranges.This means that the quantity of oranges in the bin before any changes was 40.0.Now, the problem states that 37.0 of the old oranges were thrown away, which means that the quantity of oranges in the bin after the old oranges were thrown away is:40.0 - 37.0 = 3.0 oranges.Finally, the problem states that 7.0 new oranges were added to the bin, which means that the updated quantity of oranges in the bin is:3.0 + 7.0 = 10.0 oranges.Therefore, there are 10.0 oranges in the bin after the changes.
+--------------------
+question_idx: 4158
+question: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?
+golden answer: 8.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?"As a librarian categorizes books, let's sort the information accordingly: "Brian ran around the school track in 96 seconds" and "Todd ran around it in 88 seconds."Now, to find out how many fewer seconds it took Todd to run around the track, we need to subtract the time it took Brian to run around the track from the time it took Todd to run around the track.
+96 seconds - 88 seconds = 8 seconds
+So, it took Todd 8 fewer seconds to run around the track than it took Brian.
+--------------------
+question_idx: 4266
+question: a mailman has to give out 192 pieces of junk mail . if he goes to 4 blocks how many pieces of junk mail should he give each block ?
+golden answer: 48.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: a mailman has to give out 192 pieces of junk mail . if he goes to 4 blocks how many pieces of junk mail should he give each block ?"As a librarian categorizes books, let's sort the information accordingly: "A mailman has to deliver 192 pieces of junk mail.
+To determine how many pieces of junk mail the mailman should give to each block, we need to divide the total number of pieces of junk mail by the number of blocks he needs to deliver to.
+Let's assume the mailman needs to deliver the junk mail to 4 blocks.
+So, to calculate the number of pieces of junk mail each block should receive, we can divide the total number of pieces of junk mail (192) by the number of blocks (4):
+192 ÷ 4 = 48
+So, each block should receive 48 pieces of junk mail.
+--------------------

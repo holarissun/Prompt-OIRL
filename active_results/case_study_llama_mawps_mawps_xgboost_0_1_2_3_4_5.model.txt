@@ -1,0 +1,709 @@
+question_idx: 19
+question: Mike invited 13.0 friends to a birthday party , but 7.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 4.0 , how many should he buy ?
+golden answer: 24.0
+held-out prompt: 8
+prompted answer: 8
+--------------------
+question_idx: 25
+question: Jason joined his school 's band . He bought a flute for $ 142.46 , a music tool for $ 8.89 , and a song book for $ 7.0 . How much did Jason spend at the music store ?
+golden answer: 158.35
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 38
+question: Melissa scored 120.0 points in each game . How many points did she score in 10.0 games ?
+golden answer: 1200.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 59
+question: A trivia team had 11.0 members total , but during a game 6.0 members did n't show up . If each member that did show up scored 9.0 points , how many points were scored total ?
+golden answer: 45.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 64
+question: Mrs. Hilt looked at her car 's odometer before a trip . The odometer showed that she had traveled 212.3 miles . When she stopped for lunch , the odometer read 372.0 . How many miles had she traveled ?
+golden answer: 159.7
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 71
+question: April 's discount flowers was having a sale where each rose was 7.0 dollars . If April started with 9.0 roses and had 4.0 roses left , how much money did she earn ?
+golden answer: 35.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 75
+question: There was a stack of 700.0 sheets of used paper . Lexie wants to place it in boxes for recycling . If every box can contain 100.0 sheets , how many boxes does Lexie need ?
+golden answer: 7.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 123
+question: A trivia team had 12.0 members total , but during a game 4.0 members did n't show up . If each member that did show up scored 8.0 points , how many points were scored total ?
+golden answer: 64.0
+held-out prompt: 8
+prompted answer: 8
+--------------------
+question_idx: 135
+question: Wendy earned 5.0 points for each bag of cans she recycled . If she had 11.0 bags , but did n't recycle 2.0 of them , how many points would she have earned ?
+golden answer: 45.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 136
+question: Lena drove 204.0 miles . Using 10.0 gallons of gas at this rate , how many gallons of gas would she need to drive 255.0 miles ?
+golden answer: 12.5
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 157
+question: It takes 4.0 apples to make 1.0 pie . How many apples does it take to make 504.0 pies ?
+golden answer: 2016.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 160
+question: Rachel bought two coloring books . One had 24.0 pictures and the other had 39.0 . After one week she had already colored 4.0 of the pictures . How many pictures does she still have to color ?
+golden answer: 59.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 169
+question: An oil pipe in the sea broke . Before engineers started to fix the pipe , 6522.0 liters of oil leaked into the water . While the engineers worked , the pipe leaked 5165.0 liters of oil . In all , how many liters of oil leaked into the water ?
+golden answer: 11687.0
+held-out prompt: "It's like setting a table for a grand feast. Every detail adds to the ambiance: "
+prompted answer: An oil pipe in the sea broke . Before engineers started to fix the pipe , 6522.0 liters of oil leaked into the water . While the engineers worked , the pipe leaked 5165.0 liters of oil . In all , how many liters of oil leaked into the water ?"It's like setting a table for a grand feast. Every detail adds to the ambiance: "The first step is to calculate how much oil leaked into the water. We know that before the engineers started to fix the pipe, 6522.0 liters of oil leaked into the water. Then, while the engineers worked, the pipe leaked 5165.0 liters of oil. To find the total amount of oil that leaked into the water, we add the two amounts: 6522.0 + 5165.0 = 11687.0 liters of oil leaked into the water.
+--------------------
+question_idx: 176
+question: Last year , 90171.0 people were born in a country , and 16320.0 people immigrated to it . How many new people began living in the country last year ?
+golden answer: 106491.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 192
+question: Paul had saved up 4.0 dollars . If he received another 11.0 dollars for his allowance , how many 5.0 dollar toys could he buy ?
+golden answer: 3.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Paul had saved up 4.0 dollars . If he received another 11.0 dollars for his allowance , how many 5.0 dollar toys could he buy ?"Let's approach this like a mathematician proving a theorem, step by logical step: "If Paul saved up 4.0 dollars, and he received another 11.0 dollars for his allowance, then the total amount of money he has is 4.0 + 11.0 = 15.0 dollars.Now, to find out how many 5.0 dollar toys Paul can buy, we need to divide the total amount of money he has by the cost of each toy: 15.0 dollars / 5.0 dollars = 3 toys.So, Paul can buy 3 toys with the 15.0 dollars he has."Therefore, the answer is 3 toys.
+--------------------
+question_idx: 227
+question: There were originally 20817.0 houses in Lincoln County . During a housing boom , developers built 97741.0 . How many houses are there now in Lincoln County ?
+golden answer: 118558.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 230
+question: Soft drinks are on sale at the grocery store for 2.99 dollars for a 12.0 pack . How much would each can of soft drink cost if purchased individually , in dollars ?
+golden answer: 0.25
+held-out prompt: 4
+prompted answer: 4
+--------------------
+question_idx: 231
+question: Paige had 43.0 math problems and 12.0 science problems for homework . If she finished 44.0 of the problems at school , how many problems did she have to do for homework ?
+golden answer: 11.0
+held-out prompt: 8
+prompted answer: 8
+--------------------
+question_idx: 259
+question: Karin 's science class weighed plastic rings for an experiment . They found that the orange ring weighed 0.08333333333333333 ounce , the purple ring weighed 0.3333333333333333 ounce , and the white ring weighed 0.4166666666666667 ounce . What was the total weight of the plastic rings ?
+golden answer: 0.8333333333333334
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 269
+question: In one year , for the election for president there were 76.7 million voters , whereas in the next year there were 129.9 million voters . Find the percentage change in the number of voters ?
+golden answer: 69.4
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 277
+question: At a restaurant each adult meal costs $ 2.0 and kids eat free . If a group of 15.0 people came in and 9.0 were kids , how much would it cost for the group to eat ?
+golden answer: 12.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 281
+question: A waitress put leftover tarts into the fridge on Thursday night . She noticed that the restaurant had 0.08333333333333333 tart filled with cherries , 0.75 tart filled with blueberries , and 0.08333333333333333 tart filled with peaches . How many leftover tarts did the restaurant have in all ?
+golden answer: 0.9166666666666666
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 283
+question: There are 8.0 calories in a candy bar . How many calories are there in 3.0 candy bars ?
+golden answer: 24.0
+held-out prompt: "It's like setting a table for a grand feast. Every detail adds to the ambiance: "
+prompted answer: There are 8.0 calories in a candy bar . How many calories are there in 3.0 candy bars ?"It's like setting a table for a grand feast. Every detail adds to the ambiance: "The candy bar contains 8.0 calories. So, if you have 3 candy bars, you will have 24.0 calories."
+--------------------
+question_idx: 315
+question: Benny received 79.0 dollars and 9.0 movie tickets for his birthday . He went to a sporting goods store and bought a baseball glove , baseball , and bat . He had 32.0 dollars over , how much did he spent on the baseball gear ?
+golden answer: 47.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: Benny received 79.0 dollars and 9.0 movie tickets for his birthday . He went to a sporting goods store and bought a baseball glove , baseball , and bat . He had 32.0 dollars over , how much did he spent on the baseball gear ?"This is like a pot of stew, simmering to meld the flavors: "Benny received 79.0 dollars and 9.0 movie tickets for his birthday." This is the starting point, the foundation of the problem. "He went to a sporting goods store and bought a baseball glove, baseball, and bat." This is the additional information that we need to use to solve the problem. "He had 32.0 dollars over." This is the remaining amount of money that Benny has after buying the baseball gear.So, to find out how much Benny spent on the baseball gear, we need to subtract the amount he had over from the total amount he received for his birthday: 79.0 - 32.0 = 47.0 dollars.So, Benny spent 47.0 dollars on the baseball gear.
+--------------------
+question_idx: 353
+question: If Anne wandered for 3.0 hours at 2.0 miles per hour . How far did Anne go ?
+golden answer: 6.0
+held-out prompt: "Like an athlete training for an event, every exercise has a purpose: "
+prompted answer: If Anne wandered for 3.0 hours at 2.0 miles per hour . How far did Anne go ?"Like an athlete training for an event, every exercise has a purpose: "Anne wandered" means that she was not following a specific route or schedule, but rather moving around freely. The distance she traveled can be calculated by multiplying the time she wandered by her speed: distance = time x speed. In this case, Anne wandered for 3.0 hours, so the distance she traveled is: distance = 3.0 hours x 2.0 miles/hour = 6.0 miles. So, Anne went 6.0 miles while wandering.
+--------------------
+question_idx: 356
+question: Lemon heads come in packages of 6.0 . Louis ate 54.0 Lemon Heads . How many whole boxes did he eat and how many Lemon Heads does he have left ?
+golden answer: 9.0
+held-out prompt: "It's like setting a table for a grand feast. Every detail adds to the ambiance: "
+prompted answer: Lemon heads come in packages of 6.0 . Louis ate 54.0 Lemon Heads . How many whole boxes did he eat and how many Lemon Heads does he have left ?"It's like setting a table for a grand feast. Every detail adds to the ambiance: "The tablecloth is a rich, deep red, and the napkins are embroidered with tiny golden lemons. The plates are a delicate, translucent china, and the silverware is polished to a brilliant shine. In the center of the table, a large, ornate vase holds a profusion of fresh lemons."
+Answer:
+Louis ate 54.0 Lemon Heads, which is equal to 9.0 boxes of Lemon Heads (54.0 / 6.0 = 9.0).
+So, Louis has 9.0 boxes of Lemon Heads left.
+--------------------
+question_idx: 358
+question: If Benjamin strolled 14.0 miles at 2.0 miles per hour , how long was Benjamin travelling ?
+golden answer: 7.0
+held-out prompt: "Imagine we're in a lab, every test and observation is crucial for the conclusion: "
+prompted answer: If Benjamin strolled 14.0 miles at 2.0 miles per hour , how long was Benjamin travelling ?"Imagine we're in a lab, every test and observation is crucial for the conclusion: "Benjamin walked 14.0 miles at 2.0 miles per hour." Let's break it down:1. Distance = Speed x TimeBenjamin walked for a total distance of 14.0 miles. To find out how long he walked, we need to divide the distance by his speed:Time = Distance / SpeedBenjamin walked for 14.0 miles, and his speed was 2.0 miles per hour, so:Time = 14.0 miles / 2.0 miles/hour = 7.0 hoursBenjamin was traveling for 7.0 hours.
+--------------------
+question_idx: 413
+question: A fruit farm packs oranges in boxes that hold 10.0 each . One day it packs 2650.0 oranges . How many boxes did they use ?
+golden answer: 265.0
+held-out prompt: "Envision this as a mosaic. Each tile contributes to the final artwork: "
+prompted answer: A fruit farm packs oranges in boxes that hold 10.0 each . One day it packs 2650.0 oranges . How many boxes did they use ?"Envision this as a mosaic. Each tile contributes to the final artwork: "How many boxes did they use?" The tiles are: 10.0, 2650.0, and the number of boxes. To solve this problem, we need to find the number of boxes used by dividing the total number of oranges by the number of oranges each box can hold. So, we divide 2650.0 by 10.0: 2650.0 ÷ 10.0 = 265 boxes. Therefore, they used 265 boxes to pack the oranges.
+--------------------
+question_idx: 450
+question: There are 36.0 students trying out for the school 's trivia teams . If 9.0 of them did n't get picked for the team and the rest were put into 3.0 groups , how many students would be in each group ?
+golden answer: 9.0
+held-out prompt: "This is like tuning an instrument. Every adjustment leads to harmony: "
+prompted answer: There are 36.0 students trying out for the school 's trivia teams . If 9.0 of them did n't get picked for the team and the rest were put into 3.0 groups , how many students would be in each group ?"This is like tuning an instrument. Every adjustment leads to harmony: " said the teacher as she divided the students into groups. "Let's see how many students are in each group." She looked at her notes and continued, "If 9.0 students didn't get picked for the team, that means there are 36.0 - 9.0 = 27.0 students left. Since there are 3.0 groups, we can divide 27.0 by 3.0 to find out how many students are in each group. "27.0 ÷ 3.0 = 9.0 students in each group."The students cheered and clapped as they found out they would be in smaller groups. The teacher smiled and said, "Great job! Now, let's get started on our next challenge."
+--------------------
+question_idx: 469
+question: Sean has 45.0 whistles . He has 32.0 more whistles that Charles . How many whistles does Charles have ?
+golden answer: 13.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Sean has 45.0 whistles . He has 32.0 more whistles that Charles . How many whistles does Charles have ?"It's like mining for gems; we dig deep, assessing each discovery: "This one's a keeper!""
+
+To find out how many whistles Charles has, we need to subtract Sean's whistles from the total number of whistles Sean has.
+So, Charles has:
+
+Charles has 45.0 - 32.0 = 13.0 whistles.
+--------------------
+question_idx: 508
+question: It took Amanda 2.0 hours to stroll to Kimberly 's house at 4.0 miles per hour . How far is it between Amanda 's house and Kimberly 's house ?
+golden answer: 8.0
+held-out prompt: "As an electrician wires a circuit, each connection powers the system: "
+prompted answer: It took Amanda 2.0 hours to stroll to Kimberly 's house at 4.0 miles per hour . How far is it between Amanda 's house and Kimberly 's house ?"As an electrician wires a circuit, each connection powers the system: " Amanda's house is 8.0 miles away from Kimberly's house. "
+--------------------
+question_idx: 551
+question: Mrs. Hilt and her sister drove to a concert 78.0 miles away . They drove 32.0 miles and then stopped for gas . Her sister put 28.0 gallons of gas in the car . How many miles did they have left to drive ?
+golden answer: 46.0
+held-out prompt: "Like a detective following leads, every hint brings us closer to the truth: "
+prompted answer: Mrs. Hilt and her sister drove to a concert 78.0 miles away . They drove 32.0 miles and then stopped for gas . Her sister put 28.0 gallons of gas in the car . How many miles did they have left to drive ?"Like a detective following leads, every hint brings us closer to the truth: "They drove 32.0 miles and then stopped for gas." Let's start by using the information we have to find out how much gas they bought: "Her sister put 28.0 gallons of gas in the car." So, they bought 28.0 gallons of gas. Now, let's find out how far they had left to drive: "How many miles did they have left to drive?"We know they drove 32.0 miles and then stopped for gas, so they had 78.0 - 32.0 = 46.0 miles left to drive.
+--------------------
+question_idx: 592
+question: Hoping to be named Salesperson of the Month , Rosa called the names from 10.2 pages of the phone book last week . This week , she called the people listed on another 8.6 pages of the same phone book . How many pages worth of people did Rosa call in all ?
+golden answer: 18.8
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: Hoping to be named Salesperson of the Month , Rosa called the names from 10.2 pages of the phone book last week . This week , she called the people listed on another 8.6 pages of the same phone book . How many pages worth of people did Rosa call in all ?"This is like a pot of stew, simmering to meld the flavors: " Rosa called 18.8 pages worth of people in all."
+
+
+
+
+--------------------
+question_idx: 594
+question: A pet shelter had 8.0 puppies when another 19.0 were brought in . If 3.0 puppies a day are adopted , how long would it take for all of them to be adopted ?
+golden answer: 9.0
+held-out prompt: "Like a detective following leads, every hint brings us closer to the truth: "
+prompted answer: A pet shelter had 8.0 puppies when another 19.0 were brought in . If 3.0 puppies a day are adopted , how long would it take for all of them to be adopted ?"Like a detective following leads, every hint brings us closer to the truth: "Let's begin by using the information we have to solve the mystery. The pet shelter had 8.0 puppies when another 19.0 were brought in, so the total number of puppies is 8 + 19 = 27. If 3.0 puppies a day are adopted, we can find out how long it will take for all of them to be adopted by dividing the total number of puppies by the number adopted per day: 27 ÷ 3 = 9 days. Therefore, it will take 9 days for all of the puppies to be adopted."
+--------------------
+question_idx: 595
+question: Lemon heads come in packages of 6.0 . Louis ate 54.0 Lemon Heads . How many whole boxes did he eat and how many Lemon Heads does he have left ?
+golden answer: 9.0
+held-out prompt: "It's like setting a table for a grand feast. Every detail adds to the ambiance: "
+prompted answer: Lemon heads come in packages of 6.0 . Louis ate 54.0 Lemon Heads . How many whole boxes did he eat and how many Lemon Heads does he have left ?"It's like setting a table for a grand feast. Every detail adds to the ambiance: "The tablecloth is a rich, deep red, and the napkins are embroidered with tiny golden lemons. The plates are a delicate, translucent china, and the silverware is polished to a brilliant shine. In the center of the table, a large, ornate vase holds a profusion of fresh lemons."
+Answer:
+Louis ate 54.0 Lemon Heads, which is equal to 9.0 boxes of Lemon Heads (54.0 / 6.0 = 9.0).
+So, Louis has 9.0 boxes of Lemon Heads left.
+--------------------
+question_idx: 995
+question: If Charles strolled 6.0 miles at 3.0 miles per hour , how long was Charles travelling ?
+golden answer: 2.0
+held-out prompt: "Think of it as a flashlight in the dark, illuminating step by step: "
+prompted answer: If Charles strolled 6.0 miles at 3.0 miles per hour , how long was Charles travelling ?"Think of it as a flashlight in the dark, illuminating step by step: "Charles strolled 6.0 miles at 3.0 miles per hour, how long was Charles traveling?""
+Answer:
+Charles traveled for 6/3 = 2 hours.
+
+Explanation:
+To find out how long Charles traveled, we need to divide the distance he traveled (6.0 miles) by his speed (3.0 miles per hour). This gives us the time he was traveling: 6.0 miles / 3.0 miles per hour = 2 hours.
+--------------------
+question_idx: 1026
+question: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 more bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?
+golden answer: 48781.0
+held-out prompt: "It's like setting a table for a grand feast. Every detail adds to the ambiance: "
+prompted answer: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 more bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?"It's like setting a table for a grand feast. Every detail adds to the ambiance: "The farmer estimates that he will harvest 48097.0 bushels of wheat." This is the base amount that the farmer expects to harvest. Then, there is the additional amount that the weather allows for: "The weather is perfect during the growing season, so he harvests 684.0 more bushels of wheat than expected." This is the bonus amount that the farmer gets because of the good weather. So, the total amount of wheat that the farmer harvests is: 48097.0 + 684.0 = 48781.0 bushels of wheat.
+--------------------
+question_idx: 1128
+question: 3.0 friends own a car in Florida . One owns 0.5833 of the car the second owns 0.1667 . How much does the third own ?
+golden answer: 0.25
+held-out prompt: "As an electrician wires a circuit, each connection powers the system: "
+prompted answer: 3.0 friends own a car in Florida . One owns 0.5833 of the car the second owns 0.1667 . How much does the third own ?"As an electrician wires a circuit, each connection powers the system: "The third friend owns 0.25."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 1156
+question: There are 77.0 apples in a box . Louise has 9.0 apples in a bag . Scott takes 75.0 apples out of the box . How many apples are left in the box ?
+golden answer: 2.0
+held-out prompt: "Think of it as a flashlight in the dark, illuminating step by step: "
+prompted answer: There are 77.0 apples in a box . Louise has 9.0 apples in a bag . Scott takes 75.0 apples out of the box . How many apples are left in the box ?"Think of it as a flashlight in the dark, illuminating step by step: "Let's start with the information we have: Louise has 9 apples in a bag. Now, Scott takes 75 apples out of the box. So, the number of apples left in the box is: 77 - 75 = 2 apples. Therefore, there are 2 apples left in the box."
+--------------------
+question_idx: 1330
+question: Olivia was making baggies of cookies with 9.0 cookies in each bag . If she had 13.0 chocolate chip cookies and 41.0 oatmeal cookies , how many baggies could she make ?
+golden answer: 6.0
+held-out prompt: "Picture a gardener planting seeds. Each step, from soil preparation to watering, matters: "
+prompted answer: Olivia was making baggies of cookies with 9.0 cookies in each bag . If she had 13.0 chocolate chip cookies and 41.0 oatmeal cookies , how many baggies could she make ?"Picture a gardener planting seeds. Each step, from soil preparation to watering, matters: "The number of baggies Olivia can make depends on the number of cookies she has."
+Answer:
+Olivia can make 4 baggies of cookies.
+
+Explanation:
+To find out how many baggies Olivia can make, we need to divide the total number of cookies she has by the number of cookies in each bag. Since there are 9.0 cookies in each bag, we can divide the total number of cookies by 9:
+13.0 + 41.0 = 54.0
+54.0 ÷ 9.0 = 6
+So, Olivia can make 6 baggies of cookies.
+--------------------

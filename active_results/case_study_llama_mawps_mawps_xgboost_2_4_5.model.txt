@@ -1,0 +1,707 @@
+question_idx: 2
+question: Roger has 95.0 candies . He gives 3.0 to Stephanie . How many candies will Roger have ?
+golden answer: 92.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Roger has 95.0 candies . He gives 3.0 to Stephanie . How many candies will Roger have ?"It's like mining for gems; we dig deep, assessing each discovery: "Roger has 95.0 candies. He gives 3.0 to Stephanie. How many candies will Roger have?"We assess the information given:Roger has 95.0 candies before giving any to Stephanie.Giving 3.0 candies to Stephanie reduces Roger's candy count by 3.0.So, Roger will have 95.0 - 3.0 = 92.0 candies after giving some to Stephanie.
+--------------------
+question_idx: 12
+question: Before starting her shift , a waitress checks to make sure there is enough mustard for her customers . She finds 0.25 bottle at the first table , 0.25 bottle at the second table , and 0.375 bottle at the third table . Altogether , how many bottles of mustard does the waitress find ?
+golden answer: 0.875
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 19
+question: Mike invited 13.0 friends to a birthday party , but 7.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 4.0 , how many should he buy ?
+golden answer: 24.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 34
+question: Megan earned 8.0 points for each bag of cans she recycled . If she had 14.0 bags , but did n't recycle 5.0 of them , how many points would she have earned ?
+golden answer: 72.0
+held-out prompt: 9
+prompted answer: 9
+--------------------
+question_idx: 39
+question: A clothing store offers a 20.0 % discount on all purchases . How much would a shopper pay for an item originally costing 21.0 dollars dollars ?
+golden answer: 16.8
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 47
+question: Wendy uploaded 45.0 pictures to Facebook . She put 27.0 pics into one album and put the rest into 9.0 different albums . How many pictures were in each album ?
+golden answer: 2.0
+held-out prompt: 9
+prompted answer: 9
+--------------------
+question_idx: 52
+question: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?
+golden answer: 12.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 59
+question: A trivia team had 11.0 members total , but during a game 6.0 members did n't show up . If each member that did show up scored 9.0 points , how many points were scored total ?
+golden answer: 45.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 67
+question: Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour . How long did Jeremy stroll ?
+golden answer: 10.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 69
+question: Paige had 43.0 math problems and 12.0 science problems for homework . If she finished 44.0 of the problems at school , how many problems did she have to do for homework ?
+golden answer: 11.0
+held-out prompt: 9
+prompted answer: 9
+--------------------
+question_idx: 71
+question: April 's discount flowers was having a sale where each rose was 7.0 dollars . If April started with 9.0 roses and had 4.0 roses left , how much money did she earn ?
+golden answer: 35.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 72
+question: Our watermelons have 100.0 seeds each . If we have 4.0 watermelons , how many seeds should there be when all seeds are taken out of the watermelons ?
+golden answer: 400.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 75
+question: There was a stack of 700.0 sheets of used paper . Lexie wants to place it in boxes for recycling . If every box can contain 100.0 sheets , how many boxes does Lexie need ?
+golden answer: 7.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: There was a stack of 700.0 sheets of used paper . Lexie wants to place it in boxes for recycling . If every box can contain 100.0 sheets , how many boxes does Lexie need ?"It's like mining for gems; we dig deep, assessing each discovery: "How many sheets of paper can fit in each box?", we calculate. Lexie needs 7 boxes to store the used paper.
+--------------------
+question_idx: 110
+question: At Lindsey 's Vacation Wear , 0.375 the garments are bikinis and 0.25 are trunks . What fraction of the garments are either bikinis or trunks ?
+golden answer: 0.625
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 139
+question: I have 224.0 cents to buy candy . If each piece of bulk candy costs 8.0 cents , how many gumdrops can I buy ?
+golden answer: 28.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 140
+question: A furniture store has a chair , originally priced at 78.0 dollars , on sale for 46.0 dollars . What is the percent of decrease , rounded to the nearest tenth ?
+golden answer: 41.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 156
+question: A chef needs to cook 15.0 potatoes . He has already cooked 8.0 . If each potato takes 9.0 minutes to cook , how long will it take him to cook the rest ?
+golden answer: 63.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 161
+question: Sean has 9.0 apples . Susan gives Sean 8.0 more . Later , Sean buys 18.0 tickets at the store . How many apples does Sean have in all ?
+golden answer: 17.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 184
+question: Haley and her friends were recycling paper for their class . For every 3.0 pounds they recycled they earned one point . If Haley recycled 11.0 pounds and her friends recycled 16.0 pounds , how many points did they earn ?
+golden answer: 9.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 191
+question: Gwen was organizing her book case making sure each of the shelves had exactly 4.0 books on it . If she had 5.0 shelves of mystery books and 3.0 shelves of picture books , how many books did she have total ?
+golden answer: 32.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Gwen was organizing her book case making sure each of the shelves had exactly 4.0 books on it . If she had 5.0 shelves of mystery books and 3.0 shelves of picture books , how many books did she have total ?"It's like mining for gems; we dig deep, assessing each discovery: "Is this a diamond in the rough or just a pebble?" Gwen said, her eyes sparkling with excitement as she sorted through the books on her shelves. She had 5 shelves of mystery books, each with exactly 4 books on it, and 3 shelves of picture books, also with exactly 4 books on each one. So, Gwen had a total of 5 x 4 = 20 mystery books and 3 x 4 = 12 picture books. That's a total of 32 books in Gwen's collection!
+--------------------
+question_idx: 198
+question: While playing at the arcade , Luke won 2.0 tickets playing ' whack a mole ' and 13.0 tickets playing ' skee ball ' . If he was trying to buy candy that cost 3.0 tickets a piece , how many could he buy ?
+golden answer: 5.0
+held-out prompt: 9
+prompted answer: 9
+--------------------
+question_idx: 240
+question: There were 7.0 friends playing a video game online when 2.0 more players joined the game . If each player had 7.0 lives , how many lives did they have total ?
+golden answer: 63.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 250
+question: A car traveled 715.0 kilometers in 11.0 hours . What was its average speed ?
+golden answer: 65.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: A car traveled 715.0 kilometers in 11.0 hours . What was its average speed ?"It's like mining for gems; we dig deep, assessing each discovery: "What is the average speed of the car?" we ask. We analyze the information, and with our calculators, we find the answer: "The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed of the car was 65.0 kilometers per hour.""The average speed
+--------------------
+question_idx: 252
+question: There are 9.0 bottle caps in each box . How many bottle caps are in 6.0 boxes ?
+golden answer: 54.0
+held-out prompt: 9
+prompted answer: 9
+--------------------
+question_idx: 276
+question: Iesha has 344.0 books . 136.0 are about school and the rest are about sports . How many books about sports does Iesha have ?
+golden answer: 208.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Iesha has 344.0 books . 136.0 are about school and the rest are about sports . How many books about sports does Iesha have ?"It's like mining for gems; we dig deep, assessing each discovery: "Iesha has 344.0 books. 136.0 are about school, and the rest are about sports. So, Iesha has 208.0 books about sports.""
+Answer: 208.0
+
+
+
+
+
+
+--------------------
+question_idx: 292
+question: The Richmond Tigers sold a total of 9570.0 tickets last season . If they sold 3867.0 tickets in the first half of the season , how many tickets did they sell in the second half ?
+golden answer: 5703.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: The Richmond Tigers sold a total of 9570.0 tickets last season . If they sold 3867.0 tickets in the first half of the season , how many tickets did they sell in the second half ?"It's like mining for gems; we dig deep, assessing each discovery: "The Tigers sold 3867.0 tickets in the first half of the season. To find out how many tickets they sold in the second half, we need to subtract the number of tickets sold in the first half from the total number of tickets sold last season. So, the number of tickets sold in the second half is: 9570.0 - 3867.0 = 5703.0 tickets."
+--------------------
+question_idx: 301
+question: If Teresa jogged 25.0 kilometers at 5.0 kilometers per hour , how long was Teresa jogging ?
+golden answer: 5.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: If Teresa jogged 25.0 kilometers at 5.0 kilometers per hour , how long was Teresa jogging ?"It's like mining for gems; we dig deep, assessing each discovery: "What is the context? What are the implications? What are the potential applications?"We are constantly on the lookout for new knowledge, new insights, new ways of thinking. We are the keepers of the flame of knowledge, and we pass it on to the next generation. We are the guardians of the truth, and we will not rest until we have uncovered all the secrets of the universe. We are the scientists, and we will continue to explore, to discover, to push the boundaries of human knowledge.
+--------------------
+question_idx: 307
+question: The schools debate team had 5.0 boys and 40.0 girls on it . If they were split into groups of 9.0 how many groups could they make ?
+golden answer: 5.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: The schools debate team had 5.0 boys and 40.0 girls on it . If they were split into groups of 9.0 how many groups could they make ?"It's like mining for gems; we dig deep, assessing each discovery: "How many groups of 9.0 can we make with 40.0 girls and 5.0 boys?" we ask ourselves.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 312
+question: Aaron starts with 81.0 erasers . He gives 34.0 to Doris . How many erasers does Aaron end with ?
+golden answer: 47.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Aaron starts with 81.0 erasers . He gives 34.0 to Doris . How many erasers does Aaron end with ?"It's like mining for gems; we dig deep, assessing each discovery: "Is this a diamond in the rough or just a pebble?" Aaron starts with 81.0 erasers. He gives 34.0 to Doris. How many erasers does Aaron end with? We must subtract the erasers he gave to Doris from the total he started with to find the answer. So, Aaron ends with 81.0 - 34.0 = 47.0 erasers.
+--------------------
+question_idx: 355
+question: Keith spent $ 6.51 on a rabbit toy , $ 5.79 on pet food , and a cage cost him $ 12.51 . He found a dollar bill on the ground . What was the total cost of Keith 's purchases ?
+golden answer: 24.81
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Keith spent $ 6.51 on a rabbit toy , $ 5.79 on pet food , and a cage cost him $ 12.51 . He found a dollar bill on the ground . What was the total cost of Keith 's purchases ?"It's like mining for gems; we dig deep, assessing each discovery: "Keith spent $6.51 on a rabbit toy, $5.79 on pet food, and a cage cost him $12.51. He found a dollar bill on the ground." We tally the expenses: $6.51 + $5.79 + $12.51 = $24.81. Keith spent a total of $24.81 on his purchases."
+--------------------
+question_idx: 409
+question: Darnel sprinted 0.875 lap and then took a break by jogging 0.75 lap . How much farther did Darnel sprint than jog ?
+golden answer: 0.125
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Darnel sprinted 0.875 lap and then took a break by jogging 0.75 lap . How much farther did Darnel sprint than jog ?"It's like mining for gems; we dig deep, assessing each discovery: "What is the distance Darnel sprinted?" "How far did Darnel jog?" We uncover the facts, and with each new discovery, we get closer to the truth.""
+"Ah, I see," said Darnel, "I sprinted 0.875 laps and jogged 0.75 laps. That means I sprinted 0.125 laps farther than I jogged.""Exactly!" exclaimed the coach, "You're on the right track. Keep digging, and you'll find the answer to the next question.""I will," said Darnel, determined to solve the mystery. "I'll keep digging until I find the truth.""That's the spirit!" said the coach. "With hard work and determination, you'll uncover the secrets of the race."
+--------------------
+question_idx: 469
+question: Sean has 45.0 whistles . He has 32.0 more whistles that Charles . How many whistles does Charles have ?
+golden answer: 13.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Sean has 45.0 whistles . He has 32.0 more whistles that Charles . How many whistles does Charles have ?"It's like mining for gems; we dig deep, assessing each discovery: "This one's a keeper!""
+
+To find out how many whistles Charles has, we need to subtract Sean's whistles from the total number of whistles Sean has.
+So, Charles has:
+
+Charles has 45.0 - 32.0 = 13.0 whistles.
+--------------------
+question_idx: 533
+question: There are 139.0 erasers and 118.0 scissors in the drawer . Jason placed 131.0 erasers in the drawer . How many erasers are now there in total ?
+golden answer: 270.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: There are 139.0 erasers and 118.0 scissors in the drawer . Jason placed 131.0 erasers in the drawer . How many erasers are now there in total ?"It's like mining for gems; we dig deep, assessing each discovery: "Ah, a shiny new eraser! Let's count it." Jason has added 131 erasers to the drawer, so now there are 139 + 131 = 270 erasers in the drawer.
+--------------------
+question_idx: 648
+question: Diane is a beekeeper . Last year , she harvested 2479.0 pounds of honey . This year , she bought some new hives and increased her honey harvest by 6085.0 pounds . How many pounds of honey did Diane harvest this year ?
+golden answer: 8564.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Diane is a beekeeper . Last year , she harvested 2479.0 pounds of honey . This year , she bought some new hives and increased her honey harvest by 6085.0 pounds . How many pounds of honey did Diane harvest this year ?"It's like mining for gems; we dig deep, assessing each discovery: "Ah, a queen cell! Look at that, a honeycomb! Oh, a honey pot!" We carefully extract the honey, ensuring the bees' hard work isn't in vain. The sweet reward is worth the effort, and we savor each drop, knowing the bees' diligence made it possible."
+Answer:
+This year, Diane harvested 8564 pounds of honey.
+
+Explanation:
+Last year, Diane harvested 2479 pounds of honey. This year, she increased her honey harvest by 6085 pounds, which is the difference between the total amount of honey she harvested this year and the amount she harvested last year. Therefore, the total amount of honey Diane harvested this year is:
+2479 + 6085 = 8564 pounds
+So, Diane harvested 8564 pounds of honey this year.
+--------------------
+question_idx: 678
+question: Lisa flew 256.0 miles at 32.0 miles per hour . How long did Lisa fly ?
+golden answer: 8.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Lisa flew 256.0 miles at 32.0 miles per hour . How long did Lisa fly ?"It's like mining for gems; we dig deep, assessing each discovery: "Is this a diamond in the rough, or just a pebble?" We analyze every detail, every nuance, every twist and turn. We are the detectives of the digital world, and we are on a mission to uncover the truth."
+Answer:
+Lisa flew for 8 hours.
+
+Explanation:
+To find the time Lisa flew, we need to multiply the distance she flew by her speed. We know Lisa flew 256.0 miles, and her speed was 32.0 miles per hour. Therefore, we can calculate the time she flew as follows:
+Time = Distance / Speed
+Time = 256.0 miles / 32.0 miles/hour
+Time = 8 hours
+
+So, Lisa flew for 8 hours.
+--------------------
+question_idx: 808
+question: Eve ran 0.7 mile and walked 0.6 mile . How much farther did Eve run than walk ?
+golden answer: 0.1
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Eve ran 0.7 mile and walked 0.6 mile . How much farther did Eve run than walk ?"It's like mining for gems; we dig deep, assessing each discovery: "What is the distance Eve ran?" and "What is the distance Eve walked?" We compare the two distances and find that Eve ran 0.7 mile and walked 0.6 mile. Therefore, Eve ran 0.1 mile farther than she walked."
+Answer: Eve ran 0.1 mile farther than she walked.
+--------------------
+question_idx: 866
+question: Connie had some marbles . She gave 183.0 to Juan . Now she has 593.0 marbles left . How many did she have to start with ?
+golden answer: 776.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Connie had some marbles . She gave 183.0 to Juan . Now she has 593.0 marbles left . How many did she have to start with ?"It's like mining for gems; we dig deep, assessing each discovery: "Connie had 593.0 marbles to start with.""
+Answer:
+Connie had 593 marbles to start with.
+
+Explanation:
+The problem states that Connie had some marbles and gave 183 marbles to Juan. This means that Connie had 183 + 593 = 776 marbles to start with.
+--------------------
+question_idx: 899
+question: Darius drove 679.0 miles to visit his grandmother . Julia drove 998.0 miles to visit her grandmother . What is the total number of miles Darius and Julia drove ?
+golden answer: 1677.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Darius drove 679.0 miles to visit his grandmother . Julia drove 998.0 miles to visit her grandmother . What is the total number of miles Darius and Julia drove ?"It's like mining for gems; we dig deep, assessing each discovery: "Is this a diamond in the rough, or just a pebble?" We analyze every detail, every angle, every curve, until we have a complete picture of the story. And then, and only then, do we begin to craft it into something beautiful and meaningful."  ----------  Total miles driven by Darius = 679 miles Total miles driven by Julia = 998 miles Total number of miles driven by both = 1677 miles
+--------------------
+question_idx: 904
+question: Diane is a beekeeper . Last year , she harvested 2479.0 pounds of honey . This year , she bought some new hives and increased her honey harvest by 6085.0 pounds . How many pounds of honey did Diane harvest this year ?
+golden answer: 8564.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Diane is a beekeeper . Last year , she harvested 2479.0 pounds of honey . This year , she bought some new hives and increased her honey harvest by 6085.0 pounds . How many pounds of honey did Diane harvest this year ?"It's like mining for gems; we dig deep, assessing each discovery: "Ah, a queen cell! Look at that, a honeycomb! Oh, a honey pot!" We carefully extract the honey, ensuring the bees' hard work isn't in vain. The sweet reward is worth the effort, and we savor each drop, knowing the bees' diligence made it possible."
+Answer:
+This year, Diane harvested 8564 pounds of honey.
+
+Explanation:
+Last year, Diane harvested 2479 pounds of honey. This year, she increased her honey harvest by 6085 pounds, which is the difference between the total amount of honey she harvested this year and the amount she harvested last year. Therefore, the total amount of honey Diane harvested this year is:
+2479 + 6085 = 8564 pounds
+So, Diane harvested 8564 pounds of honey this year.
+--------------------
+question_idx: 918
+question: Mrs. Hilt baked pies last weekend for a holiday dinner . She baked 16.0 pecan pies and 14.0 apples pies . If she wants to arrange all of the pies in rows of 5.0 pies each , how many rows will she have ?
+golden answer: 6.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Mrs. Hilt baked pies last weekend for a holiday dinner . She baked 16.0 pecan pies and 14.0 apples pies . If she wants to arrange all of the pies in rows of 5.0 pies each , how many rows will she have ?"It's like mining for gems; we dig deep, assessing each discovery: "How many pies will fit in a row? Let's see...16 pecan pies...that's 3 rows...and 14 apples pies...that's 3 rows too!" So, Mrs. Hilt will have 6 rows of pies."
+--------------------

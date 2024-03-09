@@ -1,0 +1,134 @@
+question_idx: 3
+question: For the school bake sale Wendy made pastries . She baked 41.0 cupcakes and 31.0 cookies . After the sale she had 32.0 to take back home . How many pastries did she sell ?
+golden answer: 40.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 9
+question: Joyce has 40.0 bananas that must be put away in boxes . Fred comes to help and brings 18.0 cookies to share with Joyce . If there are 10.0 boxes , how many bananas must go in each box ?
+golden answer: 4.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 12
+question: Before starting her shift , a waitress checks to make sure there is enough mustard for her customers . She finds 0.25 bottle at the first table , 0.25 bottle at the second table , and 0.375 bottle at the third table . Altogether , how many bottles of mustard does the waitress find ?
+golden answer: 0.875
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 16
+question: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?
+golden answer: 0.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 19
+question: Mike invited 13.0 friends to a birthday party , but 7.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 4.0 , how many should he buy ?
+golden answer: 24.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 25
+question: Jason joined his school 's band . He bought a flute for $ 142.46 , a music tool for $ 8.89 , and a song book for $ 7.0 . How much did Jason spend at the music store ?
+golden answer: 158.35
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 34
+question: Megan earned 8.0 points for each bag of cans she recycled . If she had 14.0 bags , but did n't recycle 5.0 of them , how many points would she have earned ?
+golden answer: 72.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 39
+question: A clothing store offers a 20.0 % discount on all purchases . How much would a shopper pay for an item originally costing 21.0 dollars dollars ?
+golden answer: 16.8
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 43
+question: Tim found 37.0 seashells and Sally found 13.0 seashells on the beach . When they cleaned them , they discovered that 25.0 were cracked . How many seashells did they find together ?
+golden answer: 50.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 52
+question: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?
+golden answer: 12.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 57
+question: Melanie is selling 4.0 gumballs for eight cents each . How much money can Melanie get from selling the gumballs ?
+golden answer: 32.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 64
+question: Mrs. Hilt looked at her car 's odometer before a trip . The odometer showed that she had traveled 212.3 miles . When she stopped for lunch , the odometer read 372.0 . How many miles had she traveled ?
+golden answer: 159.7
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 68
+question: While shopping for music online , Zoe bought 3.0 country albums and 5.0 pop albums . Each album came with a lyric sheet and had 3.0 songs . How many songs did Zoe buy total ?
+golden answer: 24.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 69
+question: Paige had 43.0 math problems and 12.0 science problems for homework . If she finished 44.0 of the problems at school , how many problems did she have to do for homework ?
+golden answer: 11.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 75
+question: There was a stack of 700.0 sheets of used paper . Lexie wants to place it in boxes for recycling . If every box can contain 100.0 sheets , how many boxes does Lexie need ?
+golden answer: 7.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 91
+question: Tom bought a skateboard for $ 9.46 , and spent $ 9.56 on marbles . Tom also spent $ 14.5 on shorts . In total , how much did Tom spend on toys ?
+golden answer: 19.02
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 136
+question: Lena drove 204.0 miles . Using 10.0 gallons of gas at this rate , how many gallons of gas would she need to drive 255.0 miles ?
+golden answer: 12.5
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 148
+question: Bryan took a look at his books as well . If Bryan has 56.0 books in each of his 9.0 bookshelves , how many books does he have in total ?
+golden answer: 504.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 153
+question: Maggi had 3.0 packages of cupcakes . There are 4.0 cupcakes in each package . She ate 5.0 cupcakes . How many are left ?
+golden answer: 12.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 157
+question: It takes 4.0 apples to make 1.0 pie . How many apples does it take to make 504.0 pies ?
+golden answer: 2016.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 508
+question: It took Amanda 2.0 hours to stroll to Kimberly 's house at 4.0 miles per hour . How far is it between Amanda 's house and Kimberly 's house ?
+golden answer: 8.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: It took Amanda 2.0 hours to stroll to Kimberly 's house at 4.0 miles per hour . How far is it between Amanda 's house and Kimberly 's house ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Amanda strolled to Kimberly's house at a leisurely pace, the sun shining brightly overhead. She walked for 2 hours, her footsteps steady and slow. As she approached Kimberly's house, she could see the familiar landmarks of their neighborhood, the tall oak tree and the small pond. She walked for 4.0 miles, her legs moving in a rhythmic motion. Finally, she reached Kimberly's house, a cozy little bungalow with a welcoming porch. Amanda smiled as she knocked on the door, eager to catch up with her friend."
+Answer:
+The distance between Amanda's house and Kimberly's house is 8 miles.
+--------------------
+question_idx: 1375
+question: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?
+golden answer: 12.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Kimberly has 5.0 Skittles. She buys 7.0 more." The sound of the word "Skittles" echoes in the valley, and the meaning of the sentence is clear: Kimberly has 5.0 Skittles initially. "Later, Kimberly buys 18.0 oranges at the store." The sound of the word "oranges" echoes in the valley, and the meaning of the sentence is clear: Kimberly buys 18.0 oranges at the store later. "How many Skittles does Kimberly have in all?" The echo in the valley is now asking for the total number of Skittles Kimberly has, including the initial 5.0 and the additional 7.0 she bought later. So, the answer is: Kimberly has 5.0 + 7.0 = 12.0 Skittles in all.
+--------------------

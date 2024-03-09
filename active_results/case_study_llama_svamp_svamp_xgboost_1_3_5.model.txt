@@ -1,0 +1,295 @@
+question_idx: 4
+question: in 1 week an airplane pilot flew 1134 miles on tuesday and 1475 miles on thursday . if the pilot flies the same number of miles 3 weeks in a row how many miles does he fly in all ?
+golden answer: 7827.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 17
+question: mrs. hilt measured the distance from her desk to the water fountain . it was 30 feet . how many feet will mrs. hilt walk on her trips to the fountain if she goes to the water fountain 4 times today ?
+golden answer: 120.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 18
+question: lucy has an aquarium with 212 fish . she wants to buy 68 more fish . how many fish would lucy have then ?
+golden answer: 280.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 19
+question: lucy has 212 fish . how many more fish does she need to buy to have 280 fish ?
+golden answer: 68.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 23
+question: each bag contains 23 pounds of oranges . how many pounds of oranges are in 45 bags ?
+golden answer: 1035.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 26
+question: there are some children at a bakery . as they were deciding what to buy 24 girls came in and 31 boys left . if there are 78 children in the bakery in the end how many children were there at first ?
+golden answer: 85.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 29
+question: there are some passengers on a bus . at a bus stop 7 more passengers got on the bus and 9 passengers got off . if there are 26 passengers in the bus in the end how many passengers were there at first ?
+golden answer: 28.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 30
+question: bruno had some story books . he lost 4 of them and his dad gave him 10 more books . if he had 39 books after that how many books did bruno have at first ?
+golden answer: 33.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 60
+question: beryl has 88 radishes . she puts them into 2 baskets . if there are 37 radishes in the first basket how many more radishes are there in the second basket than the first ?
+golden answer: 14.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 62
+question: antonia has 79 barbie dolls . she packs away them in 2 wardrobes . if there are 35 barbie dolls in the first wardrobe how many more barbie dolls are there in the second wardrobe than the first ?
+golden answer: 9.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 64
+question: an online toy store stocked some toys . it sold 38 toys at the first week and 26 toys at the second week . if it had 19 toys left how many toys were in stock at the beginning ?
+golden answer: 83.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 73
+question: there are 757 pounds of sand to be filled into bags . if each bag has a capacity of 65 pounds how many bags are needed ?
+golden answer: 11.646153846153846
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 74
+question: if simon needs to make 519 gift bags at a rate of 42 bags per day how many days does he need to finish making all the gift boxes ?
+golden answer: 12.357142857142858
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 76
+question: a box can hold 18 pieces of chalk . if there are 3484 pieces of chalk how many boxes are full to hold all the chalk ?
+golden answer: 193.5555555555556
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 77
+question: a paper bag can hold 16 cookies . if edgar buys 292 cookies how many paper bags does he need ?
+golden answer: 18.25
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 79
+question: if tom plans to fix 158 watches at the rate of 12 watches per day how many days does he need to fix the watches ?
+golden answer: 13.166666666666664
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 83
+question: 86 students are going hiking . each school- bus can take 9 students . how many school-buses are needed ?
+golden answer: 9.555555555555555
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 84
+question: the teacher gave 42 pencils to 12 students equally . how many pencils did each student get ?
+golden answer: 3.5
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 85
+question: 9 boys went to water trees . there were 29 trees . if each of them watered the equal amount of trees how many trees did each boy water ?
+golden answer: 3.2222222222222223
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 86
+question: there were 44 laptops in the shop and mike divided them equally into 5 rows . how many laptops are there in each row ?
+golden answer: 8.8
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 165
+question: kevin collected toys to use as prizes at the fair . he collected 14 stuffed animals . he also collected 18 frisbees and several yo-yos . kevin has 50 prizes in all . how many yo-yos did kevin collect ?
+golden answer: 18.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: kevin collected toys to use as prizes at the fair . he collected 14 stuffed animals . he also collected 18 frisbees and several yo-yos . kevin has 50 prizes in all . how many yo-yos did kevin collect ?"As a librarian categorizes books, let's sort the information accordingly: "Toys collected by Kevin":1.
+Stuffed animals: 14
+Frisbees: 18
+Yo-yos:?
+So, Kevin collected 18 yo-yos.
+--------------------
+question_idx: 204
+question: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?
+golden answer: 8.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?"As a librarian categorizes books, let's sort the information accordingly: "Brian ran around the school track in 96 seconds" and "Todd ran around it in 88 seconds."Now, to find out how many fewer seconds it took Todd to run around the track, we need to subtract the time it took Brian to run around the track from the time it took Todd to run around the track.
+96 seconds - 88 seconds = 8 seconds
+So, it took Todd 8 fewer seconds to run around the track than it took Brian.
+--------------------
+question_idx: 312
+question: a mailman has to give out 192 pieces of junk mail . if he goes to 4 blocks how many pieces of junk mail should he give each block ?
+golden answer: 48.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: a mailman has to give out 192 pieces of junk mail . if he goes to 4 blocks how many pieces of junk mail should he give each block ?"As a librarian categorizes books, let's sort the information accordingly: "A mailman has to deliver 192 pieces of junk mail.
+To determine how many pieces of junk mail the mailman should give to each block, we need to divide the total number of pieces of junk mail by the number of blocks he needs to deliver to.
+Let's assume the mailman needs to deliver the junk mail to 4 blocks.
+So, to calculate the number of pieces of junk mail each block should receive, we can divide the total number of pieces of junk mail (192) by the number of blocks (4):
+192 ÷ 4 = 48
+So, each block should receive 48 pieces of junk mail.
+--------------------
+question_idx: 520
+question: a chef used 39 cherries to make a pie . now he has 58 cherries left . how many cherries did he have before he made the pie ?
+golden answer: 97.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: a chef used 39 cherries to make a pie . now he has 58 cherries left . how many cherries did he have before he made the pie ?"As a librarian categorizes books, let's sort the information accordingly: "Before Making the Pie" = 39 cherries"After Making the Pie" = 58 cherriesNow, let's solve the problem:Before making the pie, the chef had 39 cherries.
+Let's assume the chef had x cherries before making the pie.
+After making the pie, the chef has 58 cherries left.
+So, the difference between the number of cherries the chef had before making the pie and the number of cherries he has after making the pie is:
+x - 58 = 39
+Now, we can solve for x:
+x = 97
+So, the chef had 97 cherries before making the pie.
+--------------------
+question_idx: 690
+question: for halloween bianca received 17 pieces of candy . she ate 2 pieces then placed the rest into piles with 3 in each pile . how many piles could she make ?
+golden answer: 5.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: for halloween bianca received 17 pieces of candy . she ate 2 pieces then placed the rest into piles with 3 in each pile . how many piles could she make ?"As a librarian categorizes books, let's sort the information accordingly: "Bianca received 17 pieces of candy for Halloween."" Bianca ate 2 pieces of candy."" Bianca placed the rest of the candy into piles with 3 pieces in each pile.""So, the number of piles Bianca could make is 17 / 3 = 5.""
+--------------------
+question_idx: 898
+question: julia played tag with 7 kids on monday and 13 kids on tuesday . she played cards wtih 20 kids on wednesday . how many kids did she play tag with altogether ?
+golden answer: 20.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: julia played tag with 7 kids on monday and 13 kids on tuesday . she played cards wtih 20 kids on wednesday . how many kids did she play tag with altogether ?"As a librarian categorizes books, let's sort the information accordingly: "Tag" is a specific activity that Julia played with different groups of kids.
+1. Monday: Julia played tag with 7 kids.
+2. Tuesday: Julia played tag with 13 kids.
+3. Wednesday: Julia played cards with 20 kids.
+Now, let's calculate the total number of kids Julia played tag with:
+Total number of kids Julia played tag with = 7 + 13 = 20
+Therefore, Julia played tag with 20 kids altogether.
+--------------------
+question_idx: 1001
+question: 3 birds and 4 storks were sitting on the fence . 6 more storks came to join them . how many birds and storks are sitting on the fence ?
+golden answer: 13.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: 3 birds and 4 storks were sitting on the fence . 6 more storks came to join them . how many birds and storks are sitting on the fence ?"As a librarian categorizes books, let's sort the information accordingly: "Birds" and "Storks" are two different categories.
+So, the total number of birds and storks sitting on the fence can be calculated as follows:
+Birds: 3
+Storks: 6 + 4 = 10
+Total: 3 + 10 = 13
+Therefore, 13 birds and storks are sitting on the fence.
+--------------------
+question_idx: 1175
+question: paul got a box of 531 crayons and 38 erasers for his birthday . at the end of the school year he only had 391 left while not having lost a single erasers . how many more crayons than erasers did he have left ?
+golden answer: 353.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: paul got a box of 531 crayons and 38 erasers for his birthday . at the end of the school year he only had 391 left while not having lost a single erasers . how many more crayons than erasers did he have left ?"As a librarian categorizes books, let's sort the information accordingly: "Crayons" and "Erasers" are two separate categories.
+Crayons:
+* Number of crayons Paul received: 531
+* Number of crayons Paul had left at the end of the school year: 391
+Erasers:
+* Number of erasers Paul received: 38
+* Number of erasers Paul had left at the end of the school year: 38
+Now, let's find out how many more crayons than erasers Paul had left:
+Number of crayons Paul had left = 391
+Number of erasers Paul had left = 38
+To find out how many more crayons than erasers Paul had left, we need to subtract the number of erasers from the number of crayons:
+391 - 38 = 353
+So, Paul had 353 more crayons than erasers left at the end of the school year.
+--------------------
+question_idx: 1240
+question: there are 16 different books and 14 different movies in the ' crazy silly school ' series . if you read 19 of the books and watched 13 of the movies how many more books than movies are there in the ' crazy silly school ' series ?
+golden answer: 2.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: there are 16 different books and 14 different movies in the ' crazy silly school ' series . if you read 19 of the books and watched 13 of the movies how many more books than movies are there in the ' crazy silly school ' series ?"As a librarian categorizes books, let's sort the information accordingly: "Crazy Silly School" series consists of 16 books and 14 movies.
+To find out how many more books than movies are in the series, we need to subtract the number of movies from the number of books:
+16 books - 14 movies = 2 more books
+So, there are 2 more books in the "Crazy Silly School" series than movies.
+--------------------
+question_idx: 1436
+question: the razorback shop makes $ 76 dollars off each jersey and $ 204 off each t-shirt . during the arkansas and texas tech game they sold 158 t-shirts and 2 jerseys . how much money did they make from selling the jerseys ?
+golden answer: 152.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: the razorback shop makes $ 76 dollars off each jersey and $ 204 off each t-shirt . during the arkansas and texas tech game they sold 158 t-shirts and 2 jerseys . how much money did they make from selling the jerseys ?"As a librarian categorizes books, let's sort the information accordingly: " Razorback Shop Sales "Let's start by identifying the information given in the problem:1.
+The Razorback shop makes $76 per jersey and $204 per t-shirt.
+During the Arkansas and Texas Tech game, they sold 2 jerseys and 158 t-shirts.
+To find out how much money the Razorback shop made from selling jerseys, we need to multiply the number of jerseys sold by the price per jersey:
+2 jerseys x $76 per jersey = $152
+So, the Razorback shop made $152 from selling jerseys during the Arkansas and Texas Tech game.
+--------------------
+question_idx: 1847
+question: How many yards of material from a 24.0 yard length of cloth remains after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 long are removed ?
+golden answer: 2.25
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: How many yards of material from a 24.0 yard length of cloth remains after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 long are removed ?"As a librarian categorizes books, let's sort the information accordingly: "Remaining length of cloth" = "Answer"Let's analyze the problem:We are given that the length of cloth is 24.0 yards.We are asked to find the remaining length of cloth after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 yards long are removed.So, we need to find the total length of cloth that is left after removing the given pieces.To do this, we can use the formula:Total length = Remaining length - Total length of piecesWe know that the total length of the pieces is 3 x 3.5 = 10.5 yards + 5 x 2.25 = 11.25 yards = 21.75 yardsSo, the remaining length of cloth is:Total length = 24.0 - 21.75 = 2.25 yards = 2.25 yardsThe answer is 2.25 yards.
+--------------------
+question_idx: 1898
+question: Luke was organizing his baseball cards in a binder with 3.0 on each page . If he had 3.0 new cards and 9.0 old cards to put in the binder , how many pages would he use ?
+golden answer: 4.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Luke was organizing his baseball cards in a binder with 3.0 on each page . If he had 3.0 new cards and 9.0 old cards to put in the binder , how many pages would he use ?"As a librarian categorizes books, let's sort the information accordingly: "New cards" = 3.0 cards, and "Old cards" = 9.0 cards.To determine the number of pages Luke would use, we need to divide the total number of cards by 3.0. So, 3.0 cards / 3 = 1 page.Since Luke has 9.0 old cards, he would use 9 pages to organize them: 9.0 cards / 3 = 3 pages.Therefore, Luke would use a total of 1 + 3 = 4 pages to organize his baseball cards in the binder.
+--------------------
+question_idx: 1924
+question: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?
+golden answer: 48781.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?"As a librarian categorizes books, let's sort the information accordingly: "Harvest of Wheat"Let's start by identifying the given information:1. The farmer will harvest 48097.0 bushels of wheat.2. The weather is perfect during the growing season, so the farmer harvests 684.0 bushels more than expected.Now, let's analyze the information:The farmer will harvest 48097.0 bushels of wheat. This is the total amount of wheat the farmer will harvest.The weather is perfect during the growing season, so the farmer harvests 684.0 bushels more than expected. This means that the actual amount of wheat harvested is 48097.0 + 684.0 = 48781.0 bushels.Therefore, the farmer harvests 48781.0 bushels of wheat.
+--------------------
+question_idx: 1968
+question: A garden has 52.0 rows and 15.0 columns of bean plans . How many plants are there in all ?
+golden answer: 780.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A garden has 52.0 rows and 15.0 columns of bean plans . How many plants are there in all ?"As a librarian categorizes books, let's sort the information accordingly: "A garden has 52 rows and 15 columns of bean plants."To find the total number of plants in the garden, we need to multiply the number of rows by the number of columns:52 rows x 15 columns = 780 plantsSo, there are 780 plants in the garden.
+--------------------
+question_idx: 2090
+question: There are 88.0 candies in a box . Lisa has 18.0 candies in a bag . Diana takes 6.0 candies out of the box . How many candies are left in the box ?
+golden answer: 82.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: There are 88.0 candies in a box . Lisa has 18.0 candies in a bag . Diana takes 6.0 candies out of the box . How many candies are left in the box ?"As a librarian categorizes books, let's sort the information accordingly: "Candies in a box" = 88.0 candies"Candies in a bag" = 18.0 candies"Candies taken out of the box" = 6.0 candiesNow, let's solve the problem:The total number of candies in the box = 88.0 candiesThe number of candies taken out of the box = 6.0 candiesThe number of candies left in the box = 88.0 - 6.0 = 82.0 candiesSo, there are 82 candies left in the box.
+--------------------
+question_idx: 2094
+question: Luke was organizing his baseball cards in a binder with 3.0 on each page . If he had 3.0 new cards and 9.0 old cards to put in the binder , how many pages would he use ?
+golden answer: 4.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Luke was organizing his baseball cards in a binder with 3.0 on each page . If he had 3.0 new cards and 9.0 old cards to put in the binder , how many pages would he use ?"As a librarian categorizes books, let's sort the information accordingly: "New cards" = 3.0 cards, and "Old cards" = 9.0 cards.To determine the number of pages Luke would use, we need to divide the total number of cards by 3.0. So, 3.0 cards / 3 = 1 page.Since Luke has 9.0 old cards, he would use 9 pages to organize them: 9.0 cards / 3 = 3 pages.Therefore, Luke would use a total of 1 + 3 = 4 pages to organize his baseball cards in the binder.
+--------------------
+question_idx: 2343
+question: Denise removes 5.0 bananas from a jar . There were originally 46.0 bananas in the jar . How many bananas are left in the jar ?
+golden answer: 41.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Denise removes 5.0 bananas from a jar . There were originally 46.0 bananas in the jar . How many bananas are left in the jar ?"As a librarian categorizes books, let's sort the information accordingly: "Bananas in the jar" = 46.0 bananas" - 5.0 bananas = 41.0 bananas left in the jar"
+Answer: 41.0 bananas left in the jar
+--------------------
+question_idx: 2413
+question: Heather has 60.0 oranges . Russell takes 35.0 away . How many oranges will Heather have ?
+golden answer: 25.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Heather has 60.0 oranges . Russell takes 35.0 away . How many oranges will Heather have ?"As a librarian categorizes books, let's sort the information accordingly: "Heather has 60.0 oranges" represents the initial amount of oranges that Heather has. "Russell takes 35.0 away" represents the amount of oranges that Russell takes away from Heather.To find out how many oranges Heather will have after Russell takes some away, we need to subtract the amount that Russell takes away from the initial amount that Heather has.So, the answer to the question is: Heather will have 60.0 - 35.0 = 25.0 oranges after Russell takes some away.
+--------------------
+question_idx: 2472
+question: Bianca and her friends were recycling paper for their class . For every 3.0 pounds they recycled they earned one point . If Bianca recycled 24.0 pounds and her friends recycled 3.0 pounds , how many points did they earn ?
+golden answer: 9.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Bianca and her friends were recycling paper for their class . For every 3.0 pounds they recycled they earned one point . If Bianca recycled 24.0 pounds and her friends recycled 3.0 pounds , how many points did they earn ?"As a librarian categorizes books, let's sort the information accordingly: "Recycling Paper" is the context, "Bianca and her friends" are the characters, and "points" is the goal.
+To solve this problem, we need to find out how much paper Bianca and her friends recycled in total. We are given that Bianca recycled 24 pounds and her friends recycled 3 pounds, so the total amount of paper recycled is:
+24 pounds + 3 pounds = 27 pounds
+Since for every 3 pounds of paper recycled, they earn 1 point, Bianca and her friends earned a total of:
+27 pounds x 1 point/3 pounds = 9 points
+Therefore, Bianca and her friends earned 9 points for recycling paper.
+--------------------
+question_idx: 2624
+question: Wendy 's old washing machine could only wash 8.0 pieces of clothing at a time . If she had to wash 39.0 shirts and 33.0 sweaters how many loads would she have to do ?
+golden answer: 9.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Wendy 's old washing machine could only wash 8.0 pieces of clothing at a time . If she had to wash 39.0 shirts and 33.0 sweaters how many loads would she have to do ?"As a librarian categorizes books, let's sort the information accordingly: "Washing Clothes" is the category for this problem. To determine the number of loads Wendy would have to do, we need to know the total number of pieces of clothing she needs to wash. The problem states that Wendy needs to wash 39 shirts and 33 sweaters, for a total of 72 pieces of clothing. Since Wendy's washing machine can only wash 8 pieces of clothing at a time, Wendy would have to do 9 loads of laundry to wash all of the clothes she needs to clean.
+--------------------

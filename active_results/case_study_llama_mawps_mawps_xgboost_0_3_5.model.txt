@@ -1,0 +1,206 @@
+question_idx: 1
+question: Chloe was playing a trivia game . In the first round she scored 40.0 points and in the second round she scored 50.0 points . In the last round she lost 4.0 points . How many points did she have at the end of the game ?
+golden answer: 86.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 12
+question: Before starting her shift , a waitress checks to make sure there is enough mustard for her customers . She finds 0.25 bottle at the first table , 0.25 bottle at the second table , and 0.375 bottle at the third table . Altogether , how many bottles of mustard does the waitress find ?
+golden answer: 0.875
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 16
+question: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?
+golden answer: 0.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 25
+question: Jason joined his school 's band . He bought a flute for $ 142.46 , a music tool for $ 8.89 , and a song book for $ 7.0 . How much did Jason spend at the music store ?
+golden answer: 158.35
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 34
+question: Megan earned 8.0 points for each bag of cans she recycled . If she had 14.0 bags , but did n't recycle 5.0 of them , how many points would she have earned ?
+golden answer: 72.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 39
+question: A clothing store offers a 20.0 % discount on all purchases . How much would a shopper pay for an item originally costing 21.0 dollars dollars ?
+golden answer: 16.8
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 44
+question: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?
+golden answer: 7.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?"As a librarian categorizes books, let's sort the information accordingly: "Megan had 40.0 homework problems. She finished 26.0 of them, but still had 2.0 pages of problems to do. If each page has the same number of problems on it, how many problems are on each page?"
+To solve this problem, we need to use the information given in the passage. We know that Megan had 40.0 homework problems and that she finished 26.0 of them. This means that she still has 14.0 problems left to do.
+We are also told that she has 2.0 pages of problems to do. Since each page has the same number of problems, we can divide the number of problems she has left to do by the number of pages she has to find out how many problems are on each page:
+14.0 problems ÷ 2.0 pages = 7.0 problems per page
+So, there are 7.0 problems on each page.
+--------------------
+question_idx: 53
+question: Elisa has 37.0 dollars . How many more dollars does she have to earn to have 53.0 dollars ?
+golden answer: 16.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 56
+question: A pet shelter had 17.0 puppies when another 55.0 were brought in . If 8.0 puppies a day are adopted , how long would it take for all of them to be adopted ?
+golden answer: 9.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 59
+question: A trivia team had 11.0 members total , but during a game 6.0 members did n't show up . If each member that did show up scored 9.0 points , how many points were scored total ?
+golden answer: 45.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 64
+question: Mrs. Hilt looked at her car 's odometer before a trip . The odometer showed that she had traveled 212.3 miles . When she stopped for lunch , the odometer read 372.0 . How many miles had she traveled ?
+golden answer: 159.7
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 69
+question: Paige had 43.0 math problems and 12.0 science problems for homework . If she finished 44.0 of the problems at school , how many problems did she have to do for homework ?
+golden answer: 11.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 75
+question: There was a stack of 700.0 sheets of used paper . Lexie wants to place it in boxes for recycling . If every box can contain 100.0 sheets , how many boxes does Lexie need ?
+golden answer: 7.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 80
+question: After the price of petroleum oil went up by 10.0 % , a consumer reduced his oil consumption by the same percent . By what percent would his petroleum bill be changed ?
+golden answer: 1.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 92
+question: Nancy had 80.0 files on her computer . She deleted 31.0 of them and put the rest into folders with 7.0 files in each one . How many folders did Nancy end up with ?
+golden answer: 7.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 93
+question: Melanie had 10.0 quarters and 17.0 pennies in her bank . Her dad gave her 27.0 pennies and her mother gave her 19.0 pennies . How many pennies does Melanie have now ?
+golden answer: 63.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 96
+question: Elise had $ 8.0 . Then she saved $ 13.0 from her allowance and spent $ 2.0 on a comic book and $ 18.0 on a puzzle . How much money does Elise have left ?
+golden answer: 1.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 107
+question: A teacher had 29.0 worksheets to grade . If she graded 25.0 , but then another 29.0 were turned in , how many worksheets would she have to grade ?
+golden answer: 33.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 123
+question: A trivia team had 12.0 members total , but during a game 4.0 members did n't show up . If each member that did show up scored 8.0 points , how many points were scored total ?
+golden answer: 64.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 148
+question: Bryan took a look at his books as well . If Bryan has 56.0 books in each of his 9.0 bookshelves , how many books does he have in total ?
+golden answer: 504.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 151
+question: Conner has 25000.0 dollars in his bank account . Every month he spends 1500.0 dollars . He does not add money to the account . How much money will Conner have in his account after 8.0 months ?
+golden answer: 13000.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 169
+question: An oil pipe in the sea broke . Before engineers started to fix the pipe , 6522.0 liters of oil leaked into the water . While the engineers worked , the pipe leaked 5165.0 liters of oil . In all , how many liters of oil leaked into the water ?
+golden answer: 11687.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: An oil pipe in the sea broke . Before engineers started to fix the pipe , 6522.0 liters of oil leaked into the water . While the engineers worked , the pipe leaked 5165.0 liters of oil . In all , how many liters of oil leaked into the water ?"As a librarian categorizes books, let's sort the information accordingly: "Before engineers started to fix the pipe," 6522.0 liters of oil leaked into the water. "While the engineers worked," 5165.0 liters of oil leaked into the water. In total, 6522 + 5165 = 11687 liters of oil leaked into the water.
+--------------------
+question_idx: 450
+question: There are 36.0 students trying out for the school 's trivia teams . If 9.0 of them did n't get picked for the team and the rest were put into 3.0 groups , how many students would be in each group ?
+golden answer: 9.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: There are 36.0 students trying out for the school 's trivia teams . If 9.0 of them did n't get picked for the team and the rest were put into 3.0 groups , how many students would be in each group ?"As a librarian categorizes books, let's sort the information accordingly: "There are 36.0 students trying out for the school's trivia teams. If 9.0 of them didn't get picked for the team and the rest were put into 3.0 groups, how many students would be in each group?"To solve this problem, we need to use the information given in the question to find out how many students will be in each group. We can do this by dividing the total number of students who didn't get picked for the team by the number of groups available.So, if there are 36.0 students trying out for the school's trivia teams and 9.0 of them didn't get picked for the team, then the total number of students who didn't get picked for the team is 36.0 - 9.0 = 27.0 students.Now, we need to divide the number of students who didn't get picked for the team by the number of groups available, which is 3.0 groups. So, we can divide 27.0 by 3.0 to get the number of students in each group:27.0 ÷ 3.0 = 9.0 students in each groupTherefore, there will be 9.0 students in each group.
+--------------------
+question_idx: 696
+question: A construction company is repaving a damaged road . So far , they have repaved a total of 4938.0 inches of the road . Today , they repaved 805.0 inches of the road . How many inches of the road had they repaved before today ?
+golden answer: 4133.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A construction company is repaving a damaged road . So far , they have repaved a total of 4938.0 inches of the road . Today , they repaved 805.0 inches of the road . How many inches of the road had they repaved before today ?"As a librarian categorizes books, let's sort the information accordingly: "Repaving a road" is the context, and "inches" is the unit of measurement.So, the information we have is:
+Context: Repaving a road
+Unit of measurement: Inches
+Information given:
+
+* Total inches repaved so far: 4938.0 inches
+* Total inches repaved today: 805.0 inches
+
+Now, to find out how many inches of the road had been repaved before today, we can subtract the total inches repaved today from the total inches repaved so far:
+4938.0 inches - 805.0 inches = 4133.0 inches
+
+Therefore, before today, the construction company had repaved 4133.0 inches of the road.
+--------------------
+question_idx: 981
+question: Evelyn has 95.0 marbles . She gets 9.0 more from Henry . Later , Evelyn buys 6.0 cards at the store . How many marbles does Evelyn have in all ?
+golden answer: 104.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Evelyn has 95.0 marbles . She gets 9.0 more from Henry . Later , Evelyn buys 6.0 cards at the store . How many marbles does Evelyn have in all ?"As a librarian categorizes books, let's sort the information accordingly: "Evelyn has 95.0 marbles" can go under "Evelyn's initial marbles." "She gets 9.0 more from Henry" can go under "Addition of Henry's marbles." "Later, Evelyn buys 6.0 cards at the store" can go under "Addition of cards."Now, let's count the total number of marbles Evelyn has:Evelyn's initial marbles: 95.0Addition of Henry's marbles: 9.0 = 104.0Addition of cards: 6.0 = 104.0Total number of marbles Evelyn has: 104.0
+--------------------
+question_idx: 1026
+question: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 more bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?
+golden answer: 48781.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 more bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?"As a librarian categorizes books, let's sort the information accordingly: "Harvest of Wheat" can be categorized under "Agriculture" and "Farming" topics.Now, let's solve the problem:The farmer estimates that he will harvest 48097.0 bushels of wheat. The weather is perfect during the growing season, so he harvests 684.0 more bushels of wheat than expected.To find the total number of bushels of wheat the farmer harvests, we need to add the estimated harvest to the additional bushels harvested:48097.0 + 684.0 = 48781.0 bushels of wheat the farmer harvests.Therefore, the farmer harvests 48781.0 bushels of wheat.
+--------------------
+question_idx: 1163
+question: Olivia uploaded 5.0 pictures from her phone and 35.0 from her camera to facebook . If she sorted the pics into 8.0 different albums with the same amount of pics in each album , how many pictures were in each of the albums ?
+golden answer: 5.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Olivia uploaded 5.0 pictures from her phone and 35.0 from her camera to facebook . If she sorted the pics into 8.0 different albums with the same amount of pics in each album , how many pictures were in each of the albums ?"As a librarian categorizes books, let's sort the information accordingly: "Olivia uploaded 5.0 pictures from her phone and 35.0 from her camera to Facebook."Let's assume that the total number of pictures uploaded by Olivia is 40.0 (5.0 + 35.0).Now, let's analyze the information provided in the question: "If she sorted the pics into 8.0 different albums with the same amount of pics in each album."So, there are 8 albums in total, and each album has the same number of pictures.Let's call the number of pictures in each album x.Now, we can use the information provided in the question to find the value of x: "If she sorted the pics into 8.0 different albums with the same amount of pics in each album."So, the total number of pictures in all 8 albums is 40.0 / 8 = 5.0 pictures per album.Therefore, the number of pictures in each album is 5.0.
+--------------------
+question_idx: 1183
+question: A teacher had 6.0 worksheets to grade . If she graded 4.0 , but then another 18.0 were turned in , how many worksheets would she have to grade ?
+golden answer: 20.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A teacher had 6.0 worksheets to grade . If she graded 4.0 , but then another 18.0 were turned in , how many worksheets would she have to grade ?"As a librarian categorizes books, let's sort the information accordingly: "A teacher had 6.0 worksheets to grade. If she graded 4.0, but then another 18.0 were turned in, how many worksheets would she have to grade?"
+To solve this problem, we need to find the difference between the number of worksheets the teacher had initially (6.0) and the number of worksheets she graded initially (4.0).
+So, the difference is: 6.0 - 4.0 = 2.0
+Now, we need to add the number of worksheets that were turned in later (18.0) to the total number of worksheets the teacher had to grade:
+2.0 + 18.0 = 20.0
+Therefore, the teacher would have to grade 20.0 worksheets in total.
+--------------------
+question_idx: 1284
+question: Olivia uploaded 5.0 pictures from her phone and 35.0 from her camera to facebook . If she sorted the pics into 8.0 different albums with the same amount of pics in each album , how many pictures were in each of the albums ?
+golden answer: 5.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Olivia uploaded 5.0 pictures from her phone and 35.0 from her camera to facebook . If she sorted the pics into 8.0 different albums with the same amount of pics in each album , how many pictures were in each of the albums ?"As a librarian categorizes books, let's sort the information accordingly: "Olivia uploaded 5.0 pictures from her phone and 35.0 from her camera to Facebook."Let's assume that the total number of pictures uploaded by Olivia is 40.0 (5.0 + 35.0).Now, let's analyze the information provided in the question: "If she sorted the pics into 8.0 different albums with the same amount of pics in each album."So, there are 8 albums in total, and each album has the same number of pictures.Let's call the number of pictures in each album x.Now, we can use the information provided in the question to find the value of x: "If she sorted the pics into 8.0 different albums with the same amount of pics in each album."So, the total number of pictures in all 8 albums is 40.0 / 8 = 5.0 pictures per album.Therefore, the number of pictures in each album is 5.0.
+--------------------
+question_idx: 1406
+question: Mike is at the library helping put away books . There are 82.0 book to put away total but a librarian takes 10.0 of them and leaves Mike with the rest . If he can fit 9.0 books on a shelf , how many shelves will he need ?
+golden answer: 8.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Mike is at the library helping put away books . There are 82.0 book to put away total but a librarian takes 10.0 of them and leaves Mike with the rest . If he can fit 9.0 books on a shelf , how many shelves will he need ?"As a librarian categorizes books, let's sort the information accordingly: "Books to put away = 82.0" "Librarian takes 10.0 books = 72.0" "Number of books Mike can fit on a shelf = 9.0"Now, we can solve the problem:To find out how many shelves Mike will need, we need to divide the total number of books he has to put away by the number of books he can fit on a shelf:Number of shelves = Total books / Number of books per shelf = 72.0 / 9.0 = 8 shelvesSo, Mike will need 8 shelves to put away all the books.
+--------------------
+question_idx: 1505
+question: There were a total of 27.0 soccer games during the 3.0 month season . If the games are equally divided , how many soccer games are played a month ?
+golden answer: 9.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: There were a total of 27.0 soccer games during the 3.0 month season . If the games are equally divided , how many soccer games are played a month ?"As a librarian categorizes books, let's sort the information accordingly: "There were 27.0 soccer games during the 3.0 month season" can be categorized under "Number of Games" with a value of 27.0. "The season lasted for 3.0 months" can be categorized under "Length of Season" with a value of 3.0 months.Now, to find out how many soccer games are played a month, we can divide the total number of games by the length of the season:27.0 games / 3.0 months = 9.0 games per monthSo, there are 9.0 soccer games played per month.
+--------------------

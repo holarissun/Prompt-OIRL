@@ -1,0 +1,120 @@
+question_idx: 0
+question: there were 3409 pieces of candy in a jar . if 145 pieces were red and the rest were blue how many were blue ?
+golden answer: 3264.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 1
+question: on friday 1250 people visited the zoo . 3 times as many people visited on saturday than on friday . how many people visited the zoo on saturday ?
+golden answer: 3750.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 5
+question: 6 students were sitting at each table in the lunchroom . there are 34 tables . how many students were sitting in the lunchroom ?
+golden answer: 204.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 6
+question: tyler had 15 dogs . each dog had 5 puppies . how many puppies does tyler now have ?
+golden answer: 75.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 7
+question: the farmer had 127 apples . he gave 88 apples to his neighbor . how many apples does he have now ?
+golden answer: 39.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 9
+question: mrs. hilt uses 2 ounces of detergent to wash a pound of clothes . how many ounces of soap will she use to wash 9 pounds of clothes ?
+golden answer: 18.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 16
+question: mrs. hilt saw 144 bees in the hive . the next day she saw 3 times that many . how many bees did she see on the second day ?
+golden answer: 432.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 17
+question: mrs. hilt measured the distance from her desk to the water fountain . it was 30 feet . how many feet will mrs. hilt walk on her trips to the fountain if she goes to the water fountain 4 times today ?
+golden answer: 120.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 20
+question: harry hound had a terrible earache yesterday . when i peered into his ears yesterday i found 36 frisky fleas having a party in his right ear and 85 baby fleas sleeping peacefully in his left ear . i cleaned out harry hound 's ears . how many fleas perished ?
+golden answer: 121.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 21
+question: a pet supply store has 600 bags of dog food and 327 bags of cat food . how many more bags of dog food are there than cat food ?
+golden answer: 273.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 22
+question: 532 people are watching a movie in a theater . the theater has 750 seats . how many seats are empty in the theater ?
+golden answer: 218.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 24
+question: shelby had 92 pieces of candy . she gave 4 pieces each to 9 friends . how many pieces of candy does shelby have left ?
+golden answer: 56.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 32
+question: jennifer has an 87 cm long ribbon . she uses 24 cm of the ribbon to tie a present for her friend and 45 cm of the ribbon to make a bow . how much of the ribbon is left in the end ?
+golden answer: 18.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 33
+question: there are 54 passengers on a bus . 18 of them are men 26 of them are women and the rest are children . how many children are there on the bus ?
+golden answer: 10.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 34
+question: robert made $ 76 at work . he spent $ 6 on a pen and $ 14 for a calculator . how much money did he have left ?
+golden answer: 56.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 35
+question: there are 100 books on a shelf . 32 of them are history books 25 of them are geography books and the rest are math books . how many math books are there on the shelf ?
+golden answer: 43.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 37
+question: a pet shop has a total of 77 animals . 32 of them are kittens and 15 of them hamsters the rest are birds . how many birds are there ?
+golden answer: 30.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 40
+question: at a carnival there are 87 kids teenagers and adults waiting to get in . 24 are teenagers 19 are adults and the rest are kids . how many kids are waiting in line at the carnival ?
+golden answer: 44.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 41
+question: an international group had 49 chinese americans and australians . 16 of them were americans and 11 of them were australians . how many chinese were there ?
+golden answer: 22.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 42
+question: a summer sports camp had 88 soccer campers basketball campers and football campers . if 24 of them were basketball campers and 32 of them were football campers how many soccer campers were there ?
+golden answer: 32.0
+held-out prompt: 0
+prompted answer: 0
+--------------------

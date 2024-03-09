@@ -1,0 +1,257 @@
+question_idx: 4
+question: in 1 week an airplane pilot flew 1134 miles on tuesday and 1475 miles on thursday . if the pilot flies the same number of miles 3 weeks in a row how many miles does he fly in all ?
+golden answer: 7827.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 9
+question: mrs. hilt uses 2 ounces of detergent to wash a pound of clothes . how many ounces of soap will she use to wash 9 pounds of clothes ?
+golden answer: 18.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 10
+question: mrs. hilt went to a concert . a total of 65899 people attended the concert . the next week she went to a second concert which had 119 more people in attendance . how many people were at the second concert ?
+golden answer: 66018.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 18
+question: lucy has an aquarium with 212 fish . she wants to buy 68 more fish . how many fish would lucy have then ?
+golden answer: 280.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 19
+question: lucy has 212 fish . how many more fish does she need to buy to have 280 fish ?
+golden answer: 68.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 23
+question: each bag contains 23 pounds of oranges . how many pounds of oranges are in 45 bags ?
+golden answer: 1035.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 28
+question: lena had some pocket money . she lost $ 4 and her mom gave her $ 9 . if she had $ 66 after that how many dollars did lena have at first ?
+golden answer: 61.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 29
+question: there are some passengers on a bus . at a bus stop 7 more passengers got on the bus and 9 passengers got off . if there are 26 passengers in the bus in the end how many passengers were there at first ?
+golden answer: 28.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 30
+question: bruno had some story books . he lost 4 of them and his dad gave him 10 more books . if he had 39 books after that how many books did bruno have at first ?
+golden answer: 33.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 42
+question: a summer sports camp had 88 soccer campers basketball campers and football campers . if 24 of them were basketball campers and 32 of them were football campers how many soccer campers were there ?
+golden answer: 32.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 59
+question: sam has 58 power ranger stickers . he bundles them up in 2 boxes . if there are 23 power ranger stickers in the first box how many more power ranger stickers are there in the second box than the first box ?
+golden answer: 12.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 62
+question: antonia has 79 barbie dolls . she packs away them in 2 wardrobes . if there are 35 barbie dolls in the first wardrobe how many more barbie dolls are there in the second wardrobe than the first ?
+golden answer: 9.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 65
+question: mother bought some potatoes . she used 15 of the potatoes to make salads and 24 of the potatoes for mashed potatoes . if there were 13 potatoes left how many potatoes did mother buy at first ?
+golden answer: 52.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 68
+question: mr. peter harvested some pears . he picked 43 kg of the pears into a bag and 35 kg of the pears into another bag . if there were still 15 kg of pears left unpacked how many kilograms of pears did mr. peter harvest ?
+golden answer: 93.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 75
+question: jane can arrange 16 vases of flowers in a day . if there are 248 vases of flowers to be arranged how many days are needed for her to finish all the flower arrangements ?
+golden answer: 15.5
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 76
+question: a box can hold 18 pieces of chalk . if there are 3484 pieces of chalk how many boxes are full to hold all the chalk ?
+golden answer: 193.5555555555556
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 79
+question: if tom plans to fix 158 watches at the rate of 12 watches per day how many days does he need to fix the watches ?
+golden answer: 13.166666666666664
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 81
+question: mrs. smith gave 53 strawberries to 8 girls equally . how many strawberries did each girl get ?
+golden answer: 6.625
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 83
+question: 86 students are going hiking . each school- bus can take 9 students . how many school-buses are needed ?
+golden answer: 9.555555555555555
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 84
+question: the teacher gave 42 pencils to 12 students equally . how many pencils did each student get ?
+golden answer: 3.5
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 338
+question: billy was making ice using ice trays . each tray held 9 ice cubes . if he had 8 trays how many cubes could he make ?
+golden answer: 72.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: billy was making ice using ice trays . each tray held 9 ice cubes . if he had 8 trays how many cubes could he make ?"Like a bee pollinating flowers, let's gather the essence from each point: "Billy was making ice using ice trays.
+🌟 How many ice cubes could Billy make in each tray? 🌟
+💡 Billy had 8 trays. 💡
+So, if Billy had 8 trays, he could make 8 x 9 = 72 ice cubes! 😃"
+--------------------
+question_idx: 1113
+question: kelly has 106 nintendo games . how many will she have left if she gives away 64 games ?
+golden answer: 42.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: kelly has 106 nintendo games . how many will she have left if she gives away 64 games ?"Like a bee pollinating flowers, let's gather the essence from each point: "Kelly has 106 Nintendo games.
+Giving away 64 games means Kelly will have..."
+To find out how many games Kelly will have left, we need to subtract the number of games she gave away (64) from the total number of games she had (106).
+So, Kelly will have 106 - 64 = 42 games left.
+--------------------
+question_idx: 1751
+question: Some insects called aphids attack a large farm . In response , the farmer releases ladybugs onto the fields . There are 12170.0 ladybugs with spots and 54912.0 ladybugs without spots . How many ladybugs are there in all ?
+golden answer: 67082.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Some insects called aphids attack a large farm . In response , the farmer releases ladybugs onto the fields . There are 12170.0 ladybugs with spots and 54912.0 ladybugs without spots . How many ladybugs are there in all ?"Like a bee pollinating flowers, let's gather the essence from each point: "There are 12170.0 ladybugs with spots and 54912.0 ladybugs without spots." So, the total number of ladybugs is: 12170 + 54912 = 67082 ladybugs.
+--------------------
+question_idx: 1887
+question: Nancy uploaded 41.0 pictures to Facebook . She put 37.0 pics into one album and put the rest into 2.0 different albums . How many pictures were in each album ?
+golden answer: 2.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Nancy uploaded 41.0 pictures to Facebook . She put 37.0 pics into one album and put the rest into 2.0 different albums . How many pictures were in each album ?"Like a bee pollinating flowers, let's gather the essence from each point: "Nancy uploaded 41.0 pictures to Facebook" means that Nancy uploaded 41 pictures to Facebook. "She put 37.0 pics into one album" means that Nancy put 37 pictures into one album. "She put the rest into 2.0 different albums" means that Nancy put the remaining 4 pictures into 2 different albums.So, the number of pictures in each album is:37 pictures in one album2 pictures in the other albumTherefore, the answer is 37 and 2.
+--------------------
+question_idx: 1897
+question: Find the product of -2.0 , -15.0 , 4.0 and -1.0 .
+golden answer: -120.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Find the product of -2.0 , -15.0 , 4.0 and -1.0 ."Like a bee pollinating flowers, let's gather the essence from each point: "
+-2.0 x -15.0 = -30.0
+-30.0 x 4.0 = -120.0
+-120.0 x -1.0 = -120.0
+
+So, the product of -2.0, -15.0, 4.0 and -1.0 is -120.0."
+--------------------
+question_idx: 1994
+question: A new building needed 9.0 windows . The builder had already installed 6.0 of them . If it takes 6.0 hours to install each window , how long will it take him to install the rest ?
+golden answer: 18.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: A new building needed 9.0 windows . The builder had already installed 6.0 of them . If it takes 6.0 hours to install each window , how long will it take him to install the rest ?"Like a bee pollinating flowers, let's gather the essence from each point: "
+1. New building needs 9.0 windows.
+2. Builder has already installed 6.0 windows.
+3. It takes 6.0 hours to install each window.
+Now, let's calculate the time it will take the builder to install the rest of the windows:
+Total windows to install = 9.0 - 6.0 = 3.0
+Time to install remaining windows = 3.0 x 6.0 = 18.0 hours
+Therefore, it will take the builder 18.0 hours to install the rest of the windows."
+--------------------
+question_idx: 2247
+question: Ellen went to a garage sale to buy chairs . Each chair is 15.0 dollars . How much did Ellen spend for the 12.0 chairs she bought ?
+golden answer: 180.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Ellen went to a garage sale to buy chairs . Each chair is 15.0 dollars . How much did Ellen spend for the 12.0 chairs she bought ?"Like a bee pollinating flowers, let's gather the essence from each point: "Ellen went to a garage sale to buy chairs.""Each chair is 15.0 dollars.""Ellen bought 12 chairs."Now, let's calculate the total amount Ellen spent:12 chairs x 15.0 dollars/chair = 180.0 dollarsTotal amount Ellen spent = 180.0 dollarsEureka! We have found the answer to the question.
+--------------------
+question_idx: 2469
+question: Ellen went to a garage sale to buy chairs . Each chair cost 15.0 dollars . How much money did Ellen spend for the 12.0 chairs she bought ?
+golden answer: 180.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Ellen went to a garage sale to buy chairs . Each chair cost 15.0 dollars . How much money did Ellen spend for the 12.0 chairs she bought ?"Like a bee pollinating flowers, let's gather the essence from each point: "Ellen went to a garage sale to buy chairs.""Each chair cost 15.0 dollars.""Ellen bought 12.0 chairs."Now, let's calculate the total amount Ellen spent:12 chairs x 15.0 dollars/chair = 180.0 dollarsTotal amount Ellen spent = 180.0 dollarsEureka! We have found the answer to the question.
+--------------------
+question_idx: 2554
+question: For Halloween Katie and her sister combined the candy they received . Katie had 10.0 pieces of candy while her sister had 6.0 . If they ate 9.0 pieces the first night , how many pieces do they have left ?
+golden answer: 7.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: For Halloween Katie and her sister combined the candy they received . Katie had 10.0 pieces of candy while her sister had 6.0 . If they ate 9.0 pieces the first night , how many pieces do they have left ?"Like a bee pollinating flowers, let's gather the essence from each point: "
+1. Katie had 10 pieces of candy initially.
+2. Her sister had 6 pieces of candy initially.
+3. They combined their candy and now Katie has 10 + 6 = 16 pieces of candy.
+4. They ate 9 pieces on the first night, so Katie has 16 - 9 = 7 pieces of candy left.
+Therefore, Katie has 7 pieces of candy left."
+--------------------
+question_idx: 2597
+question: Joan joined her school 's band . She bought a trumpet for $ 149.16 , a music tool for $ 9.98 , and a song book which was $ 4.14 . Joan found $ 8.65 in her pocket . How much did Joan spend at the music store ?
+golden answer: 163.28
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Joan joined her school 's band . She bought a trumpet for $ 149.16 , a music tool for $ 9.98 , and a song book which was $ 4.14 . Joan found $ 8.65 in her pocket . How much did Joan spend at the music store ?"Like a bee pollinating flowers, let's gather the essence from each point: "Joan bought a trumpet for $ 149.16, a music tool for $ 9.98, and a song book which was $ 4.14." Let's add these amounts together: $ 149.16 + $ 9.98 + $ 4.14 = $ 163.28. So, Joan spent $ 163.28 at the music store."
+--------------------
+question_idx: 2629
+question: Lukas averages 12.0 points per game in basketball . How many points would he score in 5.0 games ?
+golden answer: 60.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Lukas averages 12.0 points per game in basketball . How many points would he score in 5.0 games ?"Like a bee pollinating flowers, let's gather the essence from each point: "Lukas averages 12.0 points per game in basketball" means that Lukas scores 12.0 points on average in each game he plays. "How many points would he score in 5.0 games?" means that we want to know how many points Lukas would score if he played 5.0 games.So, to find out how many points Lukas would score in 5.0 games, we can multiply the number of points he averages per game by the number of games he will play:12.0 points/game x 5.0 games = 60.0 pointsTotal points scored by Lukas in 5.0 games = 60.0 points.
+--------------------
+question_idx: 2782
+question: Some insects called aphids attack a large farm . In response , the farmer releases ladybugs onto the fields . There are 12170.0 ladybugs with spots and 54912.0 ladybugs without spots . How many ladybugs are there in all ?
+golden answer: 67082.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Some insects called aphids attack a large farm . In response , the farmer releases ladybugs onto the fields . There are 12170.0 ladybugs with spots and 54912.0 ladybugs without spots . How many ladybugs are there in all ?"Like a bee pollinating flowers, let's gather the essence from each point: "There are 12170.0 ladybugs with spots and 54912.0 ladybugs without spots." So, the total number of ladybugs is: 12170 + 54912 = 67082 ladybugs.
+--------------------
+question_idx: 2878
+question: Robin had 30.0 songs on her mp3 player . If she deleted 8.0 old songs from it and then added 10.0 new songs , how many songs does she have on her mp3 player ?
+golden answer: 32.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Robin had 30.0 songs on her mp3 player . If she deleted 8.0 old songs from it and then added 10.0 new songs , how many songs does she have on her mp3 player ?"Like a bee pollinating flowers, let's gather the essence from each point: "30.0 songs on her mp3 player" means the initial number of songs. "Deleted 8.0 old songs" means subtracting 8 songs from the initial number. "Added 10.0 new songs" means adding 10 new songs to the remaining number.So, the updated number of songs on the mp3 player is:30 - 8 = 22New songs added = 10So, the final number of songs on the mp3 player is 22 + 10 = 32 songs.
+--------------------
+question_idx: 2989
+question: Bert runs 2.0 miles every day . How many miles will Bert run in 3.0 weeks ?
+golden answer: 42.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Bert runs 2.0 miles every day . How many miles will Bert run in 3.0 weeks ?"Like a bee pollinating flowers, let's gather the essence from each point: "Bert runs 2.0 miles every day" means that Bert runs 2.0 miles every 24 hours. "Bert runs in 3.0 weeks" means that Bert runs for 3.0 weeks, which is equal to 21 days (3.0 weeks x 7 days/week).So, to find out how many miles Bert will run in 3.0 weeks, we multiply the number of days he runs by the distance he runs per day:21 days x 2.0 miles/day = 42.0 milesIn 3.0 weeks, Bert will run a total of 42.0 miles.
+--------------------
+question_idx: 3047
+question: If Stephanie ran for 3.0 hours at 5.0 miles per hour . How far did Stephanie go ?
+golden answer: 15.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: If Stephanie ran for 3.0 hours at 5.0 miles per hour . How far did Stephanie go ?"Like a bee pollinating flowers, let's gather the essence from each point: "Stephanie ran for 3.0 hours" means she ran for 3.0 hours, "at 5.0 miles per hour" means she ran at a speed of 5.0 miles per hour, and "How far did Stephanie go?" means we want to know the distance she traveled.So, let's use the formula:Distance = Speed x TimeNow, we know the speed of Stephanie is 5.0 miles per hour, and she ran for 3.0 hours. So, we can plug these values into the formula:Distance = 5.0 miles/hour x 3.0 hours = 15.0 milesStephanie went 15.0 miles during her run!
+--------------------
+question_idx: 3089
+question: Sarah sold 24.0 boxes of Lemon Chalet Cremes . How many cases of 12.0 boxes , plus extra boxes does Sarah need ?
+golden answer: 2.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Sarah sold 24.0 boxes of Lemon Chalet Cremes . How many cases of 12.0 boxes , plus extra boxes does Sarah need ?"Like a bee pollinating flowers, let's gather the essence from each point: "Sold 24.0 boxes of Lemon Chalet Cremes" means Sarah sold 24 boxes of that product. To find out how many cases she needs, we need to divide the number of boxes she sold by 12, which is the number of boxes in a case:24 boxes / 12 boxes per case = 2 casesSarah needs 2 cases of Lemon Chalet Cremes.
+--------------------
+question_idx: 3901
+question: chris gave his 35 friends 12 pieces of candy each . how many pieces of candy did chris give his friends ?
+golden answer: 420.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: chris gave his 35 friends 12 pieces of candy each . how many pieces of candy did chris give his friends ?"Like a bee pollinating flowers, let's gather the essence from each point: "Chris gave 35 friends 12 pieces of candy each."
+Љ� Chris gave 35 friends 12 pieces of candy each.
+So, Chris gave a total of 35 x 12 = 420 pieces of candy to his friends.
+Therefore, the answer is 420 pieces of candy.
+--------------------
+question_idx: 4292
+question: billy was making ice using ice trays . each tray held 9 ice cubes . if he had 8 trays how many cubes could he make ?
+golden answer: 72.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: billy was making ice using ice trays . each tray held 9 ice cubes . if he had 8 trays how many cubes could he make ?"Like a bee pollinating flowers, let's gather the essence from each point: "Billy was making ice using ice trays.
+🌟 How many ice cubes could Billy make in each tray? 🌟
+💡 Billy had 8 trays. 💡
+So, if Billy had 8 trays, he could make 8 x 9 = 72 ice cubes! 😃"
+--------------------

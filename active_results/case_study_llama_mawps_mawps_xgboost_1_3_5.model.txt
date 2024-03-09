@@ -1,0 +1,241 @@
+question_idx: 12
+question: Before starting her shift , a waitress checks to make sure there is enough mustard for her customers . She finds 0.25 bottle at the first table , 0.25 bottle at the second table , and 0.375 bottle at the third table . Altogether , how many bottles of mustard does the waitress find ?
+golden answer: 0.875
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 13
+question: There were 3409.0 pieces of candy in a jar . If 145.0 pieces were red and the rest were blue , how many were blue ?
+golden answer: 3264.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 19
+question: Mike invited 13.0 friends to a birthday party , but 7.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 4.0 , how many should he buy ?
+golden answer: 24.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 28
+question: Luke was trying to expand his game collection . He bought 2.0 games from a friend and bought 2.0 more at a garage sale . If 2.0 of the games did n't work , how many good games did he end up with ?
+golden answer: 2.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 34
+question: Megan earned 8.0 points for each bag of cans she recycled . If she had 14.0 bags , but did n't recycle 5.0 of them , how many points would she have earned ?
+golden answer: 72.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 37
+question: Janet picked 4.0 tulips and 11.0 roses to make flower bouquets . If she only used 11.0 of the flowers though , how many extra flowers did Janet pick ?
+golden answer: 4.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 39
+question: A clothing store offers a 20.0 % discount on all purchases . How much would a shopper pay for an item originally costing 21.0 dollars dollars ?
+golden answer: 16.8
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 44
+question: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?
+golden answer: 7.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?"As a librarian categorizes books, let's sort the information accordingly: "Megan had 40.0 homework problems. She finished 26.0 of them, but still had 2.0 pages of problems to do. If each page has the same number of problems on it, how many problems are on each page?"
+To solve this problem, we need to use the information given in the passage. We know that Megan had 40.0 homework problems and that she finished 26.0 of them. This means that she still has 14.0 problems left to do.
+We are also told that she has 2.0 pages of problems to do. Since each page has the same number of problems, we can divide the number of problems she has left to do by the number of pages she has to find out how many problems are on each page:
+14.0 problems ÷ 2.0 pages = 7.0 problems per page
+So, there are 7.0 problems on each page.
+--------------------
+question_idx: 52
+question: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?
+golden answer: 12.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 57
+question: Melanie is selling 4.0 gumballs for eight cents each . How much money can Melanie get from selling the gumballs ?
+golden answer: 32.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 59
+question: A trivia team had 11.0 members total , but during a game 6.0 members did n't show up . If each member that did show up scored 9.0 points , how many points were scored total ?
+golden answer: 45.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 64
+question: Mrs. Hilt looked at her car 's odometer before a trip . The odometer showed that she had traveled 212.3 miles . When she stopped for lunch , the odometer read 372.0 . How many miles had she traveled ?
+golden answer: 159.7
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 65
+question: Roger had 68.0 dollars . If he spent 47.0 bucks on a new game , how many 7.0 dollar toys could he buy with the money he had left ?
+golden answer: 3.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 67
+question: Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour . How long did Jeremy stroll ?
+golden answer: 10.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 70
+question: Will invited 9.0 friends to a birthday party , but 4.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 8.0 , how many should he buy ?
+golden answer: 40.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 72
+question: Our watermelons have 100.0 seeds each . If we have 4.0 watermelons , how many seeds should there be when all seeds are taken out of the watermelons ?
+golden answer: 400.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 75
+question: There was a stack of 700.0 sheets of used paper . Lexie wants to place it in boxes for recycling . If every box can contain 100.0 sheets , how many boxes does Lexie need ?
+golden answer: 7.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 87
+question: In a video game , each enemy defeated gives you 3.0 points . If a level has 6.0 enemies total and you destroy all but 2.0 of them , how many points would you earn ?
+golden answer: 12.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 89
+question: At the schools book fair Victor bought 32.0 adventure books and 37.0 mystery books . If 16.0 of the books were used , how many new books did he buy ?
+golden answer: 53.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 93
+question: Melanie had 10.0 quarters and 17.0 pennies in her bank . Her dad gave her 27.0 pennies and her mother gave her 19.0 pennies . How many pennies does Melanie have now ?
+golden answer: 63.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 110
+question: At Lindsey 's Vacation Wear , 0.375 the garments are bikinis and 0.25 are trunks . What fraction of the garments are either bikinis or trunks ?
+golden answer: 0.625
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 129
+question: Mary had 33.0 Pokemon cards , and 6.0 were torn . Sam gave Mary 23.0 new Pokemon cards . How many Pokemon cards does Mary have now ?
+golden answer: 56.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Mary had 33.0 Pokemon cards , and 6.0 were torn . Sam gave Mary 23.0 new Pokemon cards . How many Pokemon cards does Mary have now ?"As a librarian categorizes books, let's sort the information accordingly: "Books by Author" "Books by Title" "Books by Genre" "Books by Year of Publication" etc. Similarly, we can categorize the information given in the problem as follows: "Pokemon Cards by Number" "Pokemon Cards by Condition" "Pokemon Cards by Source" "Pokemon Cards by Total"Now, let's analyze the information given in the problem: Mary has 33.0 Pokemon cards in total. Of these, 6.0 are torn. Sam gave Mary 23.0 new Pokemon cards.So, the total number of Pokemon cards Mary has now is:33.0 + 23.0 = 56.0 Pokemon cardsNow, let's categorize the information based on the above categories: "Pokemon Cards by Number" - 33.0"Pokemon Cards by Condition" - 6.0 (torn)"Pokemon Cards by Source" - 23.0 (new cards given by Sam)"Pokemon Cards by Total" - 56.0 (total number of Pokemon cards Mary has now)
+--------------------
+question_idx: 169
+question: An oil pipe in the sea broke . Before engineers started to fix the pipe , 6522.0 liters of oil leaked into the water . While the engineers worked , the pipe leaked 5165.0 liters of oil . In all , how many liters of oil leaked into the water ?
+golden answer: 11687.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: An oil pipe in the sea broke . Before engineers started to fix the pipe , 6522.0 liters of oil leaked into the water . While the engineers worked , the pipe leaked 5165.0 liters of oil . In all , how many liters of oil leaked into the water ?"As a librarian categorizes books, let's sort the information accordingly: "Before engineers started to fix the pipe," 6522.0 liters of oil leaked into the water. "While the engineers worked," 5165.0 liters of oil leaked into the water. In total, 6522 + 5165 = 11687 liters of oil leaked into the water.
+--------------------
+question_idx: 191
+question: Gwen was organizing her book case making sure each of the shelves had exactly 4.0 books on it . If she had 5.0 shelves of mystery books and 3.0 shelves of picture books , how many books did she have total ?
+golden answer: 32.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Gwen was organizing her book case making sure each of the shelves had exactly 4.0 books on it . If she had 5.0 shelves of mystery books and 3.0 shelves of picture books , how many books did she have total ?"As a librarian categorizes books, let's sort the information accordingly: "Mystery books" = 5.0 shelves x 4.0 books/shelf = 20 books" "Picture books" = 3.0 shelves x 4.0 books/shelf = 12 books"Now, let's add the total number of books Gwen has: 20 + 12 = 32 books."So, Gwen has 32 books in total."
+--------------------
+question_idx: 450
+question: There are 36.0 students trying out for the school 's trivia teams . If 9.0 of them did n't get picked for the team and the rest were put into 3.0 groups , how many students would be in each group ?
+golden answer: 9.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: There are 36.0 students trying out for the school 's trivia teams . If 9.0 of them did n't get picked for the team and the rest were put into 3.0 groups , how many students would be in each group ?"As a librarian categorizes books, let's sort the information accordingly: "There are 36.0 students trying out for the school's trivia teams. If 9.0 of them didn't get picked for the team and the rest were put into 3.0 groups, how many students would be in each group?"To solve this problem, we need to use the information given in the question to find out how many students will be in each group. We can do this by dividing the total number of students who didn't get picked for the team by the number of groups available.So, if there are 36.0 students trying out for the school's trivia teams and 9.0 of them didn't get picked for the team, then the total number of students who didn't get picked for the team is 36.0 - 9.0 = 27.0 students.Now, we need to divide the number of students who didn't get picked for the team by the number of groups available, which is 3.0 groups. So, we can divide 27.0 by 3.0 to get the number of students in each group:27.0 ÷ 3.0 = 9.0 students in each groupTherefore, there will be 9.0 students in each group.
+--------------------
+question_idx: 520
+question: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?
+golden answer: 48781.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?"As a librarian categorizes books, let's sort the information accordingly: "Harvest of Wheat"Let's start by identifying the given information:1. The farmer will harvest 48097.0 bushels of wheat.2. The weather is perfect during the growing season, so the farmer harvests 684.0 bushels more than expected.Now, let's analyze the information:The farmer will harvest 48097.0 bushels of wheat. This is the total amount of wheat the farmer will harvest.The weather is perfect during the growing season, so the farmer harvests 684.0 bushels more than expected. This means that the actual amount of wheat harvested is 48097.0 + 684.0 = 48781.0 bushels.Therefore, the farmer harvests 48781.0 bushels of wheat.
+--------------------
+question_idx: 696
+question: A construction company is repaving a damaged road . So far , they have repaved a total of 4938.0 inches of the road . Today , they repaved 805.0 inches of the road . How many inches of the road had they repaved before today ?
+golden answer: 4133.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A construction company is repaving a damaged road . So far , they have repaved a total of 4938.0 inches of the road . Today , they repaved 805.0 inches of the road . How many inches of the road had they repaved before today ?"As a librarian categorizes books, let's sort the information accordingly: "Repaving a road" is the context, and "inches" is the unit of measurement.So, the information we have is:
+Context: Repaving a road
+Unit of measurement: Inches
+Information given:
+
+* Total inches repaved so far: 4938.0 inches
+* Total inches repaved today: 805.0 inches
+
+Now, to find out how many inches of the road had been repaved before today, we can subtract the total inches repaved today from the total inches repaved so far:
+4938.0 inches - 805.0 inches = 4133.0 inches
+
+Therefore, before today, the construction company had repaved 4133.0 inches of the road.
+--------------------
+question_idx: 853
+question: She counted her crayons and found out that she has 80.0 crayons which she will place in crayon boxes . Every box can contain 8.0 crayons . How many boxes does she need ?
+golden answer: 10.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: She counted her crayons and found out that she has 80.0 crayons which she will place in crayon boxes . Every box can contain 8.0 crayons . How many boxes does she need ?"As a librarian categorizes books, let's sort the information accordingly: "Crayons: 80.0Crayon boxes: 8.0"Now, we need to find out how many boxes she needs to store all the crayons. To do this, we divide the total number of crayons by the number of crayons that can fit in each box:80.0 ÷ 8.0 = 10 boxesSo, she needs 10 boxes to store all her crayons.
+--------------------
+question_idx: 1026
+question: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 more bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?
+golden answer: 48781.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 more bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?"As a librarian categorizes books, let's sort the information accordingly: "Harvest of Wheat" can be categorized under "Agriculture" and "Farming" topics.Now, let's solve the problem:The farmer estimates that he will harvest 48097.0 bushels of wheat. The weather is perfect during the growing season, so he harvests 684.0 more bushels of wheat than expected.To find the total number of bushels of wheat the farmer harvests, we need to add the estimated harvest to the additional bushels harvested:48097.0 + 684.0 = 48781.0 bushels of wheat the farmer harvests.Therefore, the farmer harvests 48781.0 bushels of wheat.
+--------------------
+question_idx: 1163
+question: Olivia uploaded 5.0 pictures from her phone and 35.0 from her camera to facebook . If she sorted the pics into 8.0 different albums with the same amount of pics in each album , how many pictures were in each of the albums ?
+golden answer: 5.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Olivia uploaded 5.0 pictures from her phone and 35.0 from her camera to facebook . If she sorted the pics into 8.0 different albums with the same amount of pics in each album , how many pictures were in each of the albums ?"As a librarian categorizes books, let's sort the information accordingly: "Olivia uploaded 5.0 pictures from her phone and 35.0 from her camera to Facebook."Let's assume that the total number of pictures uploaded by Olivia is 40.0 (5.0 + 35.0).Now, let's analyze the information provided in the question: "If she sorted the pics into 8.0 different albums with the same amount of pics in each album."So, there are 8 albums in total, and each album has the same number of pictures.Let's call the number of pictures in each album x.Now, we can use the information provided in the question to find the value of x: "If she sorted the pics into 8.0 different albums with the same amount of pics in each album."So, the total number of pictures in all 8 albums is 40.0 / 8 = 5.0 pictures per album.Therefore, the number of pictures in each album is 5.0.
+--------------------
+question_idx: 1181
+question: While shopping , Emily bought 5.0 green towels and 30.0 white towels . If she gave her mother 26.0 of them , how many towels did Emily end up with ?
+golden answer: 9.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: While shopping , Emily bought 5.0 green towels and 30.0 white towels . If she gave her mother 26.0 of them , how many towels did Emily end up with ?"As a librarian categorizes books, let's sort the information accordingly: "Emily bought 5.0 green towels and 30.0 white towels. If she gave her mother 26.0 of them, how many towels did Emily end up with?"
+Let's start by identifying the information given in the problem:
+1. Emily bought 5.0 green towels.
+2. Emily bought 30.0 white towels.
+3. Emily gave her mother 26.0 towels (which we can assume are a combination of green and white towels).
+Now, let's use the information to find out how many towels Emily ended up with:
+Total number of towels Emily bought = 5.0 green towels + 30.0 white towels = 35.0 towels
+Total number of towels Emily gave her mother = 26.0 towels
+Now, let's subtract the number of towels Emily gave her mother from the total number of towels she bought:
+Number of towels Emily ended up with = Total number of towels Emily bought - Total number of towels Emily gave her mother
+= 35.0 - 26.0
+= 9.0 towels
+Therefore, Emily ended up with 9 towels in total.
+--------------------
+question_idx: 1183
+question: A teacher had 6.0 worksheets to grade . If she graded 4.0 , but then another 18.0 were turned in , how many worksheets would she have to grade ?
+golden answer: 20.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A teacher had 6.0 worksheets to grade . If she graded 4.0 , but then another 18.0 were turned in , how many worksheets would she have to grade ?"As a librarian categorizes books, let's sort the information accordingly: "A teacher had 6.0 worksheets to grade. If she graded 4.0, but then another 18.0 were turned in, how many worksheets would she have to grade?"
+To solve this problem, we need to find the difference between the number of worksheets the teacher had initially (6.0) and the number of worksheets she graded initially (4.0).
+So, the difference is: 6.0 - 4.0 = 2.0
+Now, we need to add the number of worksheets that were turned in later (18.0) to the total number of worksheets the teacher had to grade:
+2.0 + 18.0 = 20.0
+Therefore, the teacher would have to grade 20.0 worksheets in total.
+--------------------
+question_idx: 1284
+question: Olivia uploaded 5.0 pictures from her phone and 35.0 from her camera to facebook . If she sorted the pics into 8.0 different albums with the same amount of pics in each album , how many pictures were in each of the albums ?
+golden answer: 5.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Olivia uploaded 5.0 pictures from her phone and 35.0 from her camera to facebook . If she sorted the pics into 8.0 different albums with the same amount of pics in each album , how many pictures were in each of the albums ?"As a librarian categorizes books, let's sort the information accordingly: "Olivia uploaded 5.0 pictures from her phone and 35.0 from her camera to Facebook."Let's assume that the total number of pictures uploaded by Olivia is 40.0 (5.0 + 35.0).Now, let's analyze the information provided in the question: "If she sorted the pics into 8.0 different albums with the same amount of pics in each album."So, there are 8 albums in total, and each album has the same number of pictures.Let's call the number of pictures in each album x.Now, we can use the information provided in the question to find the value of x: "If she sorted the pics into 8.0 different albums with the same amount of pics in each album."So, the total number of pictures in all 8 albums is 40.0 / 8 = 5.0 pictures per album.Therefore, the number of pictures in each album is 5.0.
+--------------------
+question_idx: 1676
+question: Each chocolate bar in a box cost $ 6.0 . If a box had 13.0 bars total and Zoe sold all but 6.0 bars , how much money would she have made ?
+golden answer: 42.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Each chocolate bar in a box cost $ 6.0 . If a box had 13.0 bars total and Zoe sold all but 6.0 bars , how much money would she have made ?"As a librarian categorizes books, let's sort the information accordingly: "Chocolate Bars" is the topic, and "Boxes" is a subtopic.
+To find out how much money Zoe would have made, we need to know the cost of each chocolate bar and the number of bars she sold. The problem states that each chocolate bar costs $6.0, and Zoe sold all but 6.0 bars.
+So, the number of chocolate bars Zoe sold is 13.0 - 6.0 = 7.0 bars.
+To find out how much money Zoe made, we can multiply the number of bars she sold by the cost of each bar:
+7.0 bars x $6.0 per bar = $42.0
+Therefore, Zoe made $42.0 selling chocolate bars.
+--------------------
