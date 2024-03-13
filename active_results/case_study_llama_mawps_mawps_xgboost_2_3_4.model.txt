@@ -1,0 +1,152 @@
+question_idx: 2
+question: Roger has 95.0 candies . He gives 3.0 to Stephanie . How many candies will Roger have ?
+golden answer: 92.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 9
+question: Joyce has 40.0 bananas that must be put away in boxes . Fred comes to help and brings 18.0 cookies to share with Joyce . If there are 10.0 boxes , how many bananas must go in each box ?
+golden answer: 4.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 12
+question: Before starting her shift , a waitress checks to make sure there is enough mustard for her customers . She finds 0.25 bottle at the first table , 0.25 bottle at the second table , and 0.375 bottle at the third table . Altogether , how many bottles of mustard does the waitress find ?
+golden answer: 0.875
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 16
+question: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?
+golden answer: 0.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 19
+question: Mike invited 13.0 friends to a birthday party , but 7.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 4.0 , how many should he buy ?
+golden answer: 24.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 25
+question: Jason joined his school 's band . He bought a flute for $ 142.46 , a music tool for $ 8.89 , and a song book for $ 7.0 . How much did Jason spend at the music store ?
+golden answer: 158.35
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 36
+question: A 12.0 ounce can of cranberry juice sells for 84.0 cents . What is the cost in cents per ounce .
+golden answer: 7.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 37
+question: Janet picked 4.0 tulips and 11.0 roses to make flower bouquets . If she only used 11.0 of the flowers though , how many extra flowers did Janet pick ?
+golden answer: 4.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 47
+question: Wendy uploaded 45.0 pictures to Facebook . She put 27.0 pics into one album and put the rest into 9.0 different albums . How many pictures were in each album ?
+golden answer: 2.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 52
+question: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?
+golden answer: 12.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 53
+question: Elisa has 37.0 dollars . How many more dollars does she have to earn to have 53.0 dollars ?
+golden answer: 16.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 54
+question: Melanie grew 139.0 turnips . Benny grew 113.0 turnips . How many turnips did they grow in all ?
+golden answer: 252.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 57
+question: Melanie is selling 4.0 gumballs for eight cents each . How much money can Melanie get from selling the gumballs ?
+golden answer: 32.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 59
+question: A trivia team had 11.0 members total , but during a game 6.0 members did n't show up . If each member that did show up scored 9.0 points , how many points were scored total ?
+golden answer: 45.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 60
+question: Nancy grew 2.0 onions , Dan grew 9.0 onions , and Mike grew 4.0 onions . They worked for 6.0 days on the farm . How many onions did they grow in total ?
+golden answer: 15.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 61
+question: Arthur removes 4.0 pencils from a jar . There were originally 87.0 pencils in the jar . How many pencils are left in the jar ?
+golden answer: 83.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 64
+question: Mrs. Hilt looked at her car 's odometer before a trip . The odometer showed that she had traveled 212.3 miles . When she stopped for lunch , the odometer read 372.0 . How many miles had she traveled ?
+golden answer: 159.7
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 66
+question: Lana was unboxing some of her old winter clothes . She found 4.0 boxes of clothing and inside each box there were 2.0 scarves and 6.0 mittens . How many pieces of winter clothing did Lana have total ?
+golden answer: 32.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 68
+question: While shopping for music online , Zoe bought 3.0 country albums and 5.0 pop albums . Each album came with a lyric sheet and had 3.0 songs . How many songs did Zoe buy total ?
+golden answer: 24.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 69
+question: Paige had 43.0 math problems and 12.0 science problems for homework . If she finished 44.0 of the problems at school , how many problems did she have to do for homework ?
+golden answer: 11.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 361
+question: There are 16.0 bottle caps in a box . Marvin takes 6.0 bottle caps . How many are left ?
+golden answer: 10.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: There are 16.0 bottle caps in a box . Marvin takes 6.0 bottle caps . How many are left ?"As a librarian categorizes books, let's sort the information accordingly: "Marvin takes 6.0 bottle caps" can be categorized under "Information about Marvin" since it is a statement about Marvin's actions or characteristics. "There are 16.0 bottle caps in a box" can be categorized under "Information about the box" since it is a statement about the quantity of bottle caps in a single box.Now, let's apply the categorization to the problem:
+Information about Marvin: Marvin takes 6.0 bottle caps.
+Information about the box: There are 16.0 bottle caps in a box.
+To find out how many bottle caps are left, we need to subtract the number of bottle caps taken by Marvin from the total number of bottle caps in the box:
+16.0 - 6.0 = 10.0
+So, there are 10.0 bottle caps left in the box.
+--------------------
+question_idx: 389
+question: To fill an order , the factory dyed 61921.0 yards of silk green and 49500.0 yards pink . How many yards of silk did it dye for that order ?
+golden answer: 111421.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: To fill an order , the factory dyed 61921.0 yards of silk green and 49500.0 yards pink . How many yards of silk did it dye for that order ?"As a librarian categorizes books, let's sort the information accordingly: "To fill an order, the factory dyed 61921.0 yards of silk" and "49500.0 yards of pink."So, the total number of yards of silk dyed for the order is:61921.0 + 49500.0 = 111421.0 yards of silk dyed for the order.
+--------------------
+question_idx: 727
+question: To fill an order , the factory dyed 61921.0 yards of silk green and 49500.0 yards pink . How many yards of silk did it dye for that order ?
+golden answer: 111421.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: To fill an order , the factory dyed 61921.0 yards of silk green and 49500.0 yards pink . How many yards of silk did it dye for that order ?"As a librarian categorizes books, let's sort the information accordingly: "To fill an order, the factory dyed 61921.0 yards of silk" and "49500.0 yards of pink."So, the total number of yards of silk dyed for the order is:61921.0 + 49500.0 = 111421.0 yards of silk dyed for the order.
+--------------------
+question_idx: 1264
+question: Joe had 50.0 toy cars . If he gets 12.0 more cars , how many cars will he have then ?
+golden answer: 62.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Joe had 50.0 toy cars . If he gets 12.0 more cars , how many cars will he have then ?"As a librarian categorizes books, let's sort the information accordingly: "Toy Cars" is the category, and "Number of Cars" is the subcategory. So, the problem can be represented as:
+Toy Cars: 50.0
+Number of Cars: 50.0 + 12.0 = 62.0
+Therefore, if Joe gets 12 more toy cars, he will have 62 toy cars in total.
+--------------------

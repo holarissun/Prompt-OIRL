@@ -1,0 +1,120 @@
+question_idx: 0
+question: there were 3409 pieces of candy in a jar . if 145 pieces were red and the rest were blue how many were blue ?
+golden answer: 3264.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 1
+question: on friday 1250 people visited the zoo . 3 times as many people visited on saturday than on friday . how many people visited the zoo on saturday ?
+golden answer: 3750.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 5
+question: 6 students were sitting at each table in the lunchroom . there are 34 tables . how many students were sitting in the lunchroom ?
+golden answer: 204.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 6
+question: tyler had 15 dogs . each dog had 5 puppies . how many puppies does tyler now have ?
+golden answer: 75.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 7
+question: the farmer had 127 apples . he gave 88 apples to his neighbor . how many apples does he have now ?
+golden answer: 39.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 8
+question: jill invited 37 people to her birthday party . they each ate 8 pieces of pizza . how many pieces of pizza did they eat ?
+golden answer: 296.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 9
+question: mrs. hilt uses 2 ounces of detergent to wash a pound of clothes . how many ounces of soap will she use to wash 9 pounds of clothes ?
+golden answer: 18.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 17
+question: mrs. hilt measured the distance from her desk to the water fountain . it was 30 feet . how many feet will mrs. hilt walk on her trips to the fountain if she goes to the water fountain 4 times today ?
+golden answer: 120.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 18
+question: lucy has an aquarium with 212 fish . she wants to buy 68 more fish . how many fish would lucy have then ?
+golden answer: 280.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 21
+question: a pet supply store has 600 bags of dog food and 327 bags of cat food . how many more bags of dog food are there than cat food ?
+golden answer: 273.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 22
+question: 532 people are watching a movie in a theater . the theater has 750 seats . how many seats are empty in the theater ?
+golden answer: 218.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 23
+question: each bag contains 23 pounds of oranges . how many pounds of oranges are in 45 bags ?
+golden answer: 1035.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 25
+question: anita needs 26 cartons of berries to make a berry cobbler . she already has 10 cartons of strawberries and 9 cartons of blueberries . how many more cartons of berries should anita buy ?
+golden answer: 7.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 32
+question: jennifer has an 87 cm long ribbon . she uses 24 cm of the ribbon to tie a present for her friend and 45 cm of the ribbon to make a bow . how much of the ribbon is left in the end ?
+golden answer: 18.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 33
+question: there are 54 passengers on a bus . 18 of them are men 26 of them are women and the rest are children . how many children are there on the bus ?
+golden answer: 10.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 35
+question: there are 100 books on a shelf . 32 of them are history books 25 of them are geography books and the rest are math books . how many math books are there on the shelf ?
+golden answer: 43.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 36
+question: there are a total of 90 items at a bakery . 49 of them are bread rolls and 19 of them are croissants . how many bagels are there ?
+golden answer: 22.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 38
+question: a restaurant has 94 pieces of cutlery . 38 are forks 27 are knives and the rest are spoons . how many spoons are there ?
+golden answer: 29.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 42
+question: a summer sports camp had 88 soccer campers basketball campers and football campers . if 24 of them were basketball campers and 32 of them were football campers how many soccer campers were there ?
+golden answer: 32.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 43
+question: 67 medals are displayed in the sports center . there are 19 gold medals and 32 silver medals . how many bronze medals are displayed ?
+golden answer: 16.0
+held-out prompt: 0
+prompted answer: 0
+--------------------

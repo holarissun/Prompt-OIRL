@@ -1,0 +1,120 @@
+question_idx: 4
+question: in 1 week an airplane pilot flew 1134 miles on tuesday and 1475 miles on thursday . if the pilot flies the same number of miles 3 weeks in a row how many miles does he fly in all ?
+golden answer: 7827.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 9
+question: mrs. hilt uses 2 ounces of detergent to wash a pound of clothes . how many ounces of soap will she use to wash 9 pounds of clothes ?
+golden answer: 18.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 19
+question: lucy has 212 fish . how many more fish does she need to buy to have 280 fish ?
+golden answer: 68.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 23
+question: each bag contains 23 pounds of oranges . how many pounds of oranges are in 45 bags ?
+golden answer: 1035.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 26
+question: there are some children at a bakery . as they were deciding what to buy 24 girls came in and 31 boys left . if there are 78 children in the bakery in the end how many children were there at first ?
+golden answer: 85.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 27
+question: blithe has a lot of toys . he lost 6 of them and found 9 in his closet . if he had 43 after that how many toys did blithe have at first ?
+golden answer: 40.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 28
+question: lena had some pocket money . she lost $ 4 and her mom gave her $ 9 . if she had $ 66 after that how many dollars did lena have at first ?
+golden answer: 61.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 30
+question: bruno had some story books . he lost 4 of them and his dad gave him 10 more books . if he had 39 books after that how many books did bruno have at first ?
+golden answer: 33.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 36
+question: there are a total of 90 items at a bakery . 49 of them are bread rolls and 19 of them are croissants . how many bagels are there ?
+golden answer: 22.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 38
+question: a restaurant has 94 pieces of cutlery . 38 are forks 27 are knives and the rest are spoons . how many spoons are there ?
+golden answer: 29.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 50
+question: ryan collected 89 leaves . he lost 24 leaves . after a while 43 more leaves broke . how many leaves are left in his collection ?
+golden answer: 22.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 69
+question: gary had some stickers . he gave 42 stickers to lucy and 26 stickers to alex . if he had 31 stickers left how many stickers did gary have at first ?
+golden answer: 99.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 72
+question: a washing machine can wash 28 pounds of clothes per day . if there are 200 pounds of clothes to be washed per day how many washing machines are needed ?
+golden answer: 7.142857142857142
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 73
+question: there are 757 pounds of sand to be filled into bags . if each bag has a capacity of 65 pounds how many bags are needed ?
+golden answer: 11.646153846153846
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 79
+question: if tom plans to fix 158 watches at the rate of 12 watches per day how many days does he need to fix the watches ?
+golden answer: 13.166666666666664
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 80
+question: the capacity of a tank is 32 gallons . if a company bought 728 gallons of oil how many tanks are needed to hold all the oil ?
+golden answer: 22.75
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 82
+question: tom had $ 19 and he wanted to buy as many folders as he could . if 1 folder costs $ 2 how many folders can tom buy ?
+golden answer: 9.5
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 83
+question: 86 students are going hiking . each school- bus can take 9 students . how many school-buses are needed ?
+golden answer: 9.555555555555555
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 85
+question: 9 boys went to water trees . there were 29 trees . if each of them watered the equal amount of trees how many trees did each boy water ?
+golden answer: 3.2222222222222223
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 89
+question: the school bought 54 basketballs and distribute them into 7 classes equally . how many basketballs did each class get ?
+golden answer: 7.7142857142857135
+held-out prompt: 1
+prompted answer: 1
+--------------------

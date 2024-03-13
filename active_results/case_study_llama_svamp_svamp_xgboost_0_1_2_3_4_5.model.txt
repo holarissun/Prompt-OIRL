@@ -1,0 +1,156 @@
+question_idx: 9
+question: mrs. hilt uses 2 ounces of detergent to wash a pound of clothes . how many ounces of soap will she use to wash 9 pounds of clothes ?
+golden answer: 18.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 10
+question: mrs. hilt went to a concert . a total of 65899 people attended the concert . the next week she went to a second concert which had 119 more people in attendance . how many people were at the second concert ?
+golden answer: 66018.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 23
+question: each bag contains 23 pounds of oranges . how many pounds of oranges are in 45 bags ?
+golden answer: 1035.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 27
+question: blithe has a lot of toys . he lost 6 of them and found 9 in his closet . if he had 43 after that how many toys did blithe have at first ?
+golden answer: 40.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 28
+question: lena had some pocket money . she lost $ 4 and her mom gave her $ 9 . if she had $ 66 after that how many dollars did lena have at first ?
+golden answer: 61.0
+held-out prompt: 9
+prompted answer: 9
+--------------------
+question_idx: 30
+question: bruno had some story books . he lost 4 of them and his dad gave him 10 more books . if he had 39 books after that how many books did bruno have at first ?
+golden answer: 33.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 36
+question: there are a total of 90 items at a bakery . 49 of them are bread rolls and 19 of them are croissants . how many bagels are there ?
+golden answer: 22.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 38
+question: a restaurant has 94 pieces of cutlery . 38 are forks 27 are knives and the rest are spoons . how many spoons are there ?
+golden answer: 29.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 62
+question: antonia has 79 barbie dolls . she packs away them in 2 wardrobes . if there are 35 barbie dolls in the first wardrobe how many more barbie dolls are there in the second wardrobe than the first ?
+golden answer: 9.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 64
+question: an online toy store stocked some toys . it sold 38 toys at the first week and 26 toys at the second week . if it had 19 toys left how many toys were in stock at the beginning ?
+golden answer: 83.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 65
+question: mother bought some potatoes . she used 15 of the potatoes to make salads and 24 of the potatoes for mashed potatoes . if there were 13 potatoes left how many potatoes did mother buy at first ?
+golden answer: 52.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 71
+question: a car dealer sold 14 cars on the first day 16 cars on the second day and 27 cars on the third day . how many cars did the car dealer sell on the 3 days ?
+golden answer: 57.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 73
+question: there are 757 pounds of sand to be filled into bags . if each bag has a capacity of 65 pounds how many bags are needed ?
+golden answer: 11.646153846153846
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 74
+question: if simon needs to make 519 gift bags at a rate of 42 bags per day how many days does he need to finish making all the gift boxes ?
+golden answer: 12.357142857142858
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 81
+question: mrs. smith gave 53 strawberries to 8 girls equally . how many strawberries did each girl get ?
+golden answer: 6.625
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 86
+question: there were 44 laptops in the shop and mike divided them equally into 5 rows . how many laptops are there in each row ?
+golden answer: 8.8
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 89
+question: the school bought 54 basketballs and distribute them into 7 classes equally . how many basketballs did each class get ?
+golden answer: 7.7142857142857135
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 90
+question: there are 32 students in the class . the teacher divided them into 5 equal groups . how many students are there in each group ?
+golden answer: 6.4
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 93
+question: 172 students are forming teams for a mountaineering competition . each team should have 18 students . how many teams can they form ?
+golden answer: 9.555555555555555
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 94
+question: mr. lee wants to load 134 tons of his fruits . a large truck can load 15 tons of fruits and small truck can load 7 tons . in order to use the least number of trucks and have every truck fully occupied how many large trucks should be used ?
+golden answer: 8.933333333333334
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 1887
+question: Nancy uploaded 41.0 pictures to Facebook . She put 37.0 pics into one album and put the rest into 2.0 different albums . How many pictures were in each album ?
+golden answer: 2.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Nancy uploaded 41.0 pictures to Facebook . She put 37.0 pics into one album and put the rest into 2.0 different albums . How many pictures were in each album ?"Like a bee pollinating flowers, let's gather the essence from each point: "Nancy uploaded 41.0 pictures to Facebook" means that Nancy uploaded 41 pictures to Facebook. "She put 37.0 pics into one album" means that Nancy put 37 pictures into one album. "She put the rest into 2.0 different albums" means that Nancy put the remaining 4 pictures into 2 different albums.So, the number of pictures in each album is:37 pictures in one album2 pictures in the other albumTherefore, the answer is 37 and 2.
+--------------------
+question_idx: 2469
+question: Ellen went to a garage sale to buy chairs . Each chair cost 15.0 dollars . How much money did Ellen spend for the 12.0 chairs she bought ?
+golden answer: 180.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Ellen went to a garage sale to buy chairs . Each chair cost 15.0 dollars . How much money did Ellen spend for the 12.0 chairs she bought ?"Like a bee pollinating flowers, let's gather the essence from each point: "Ellen went to a garage sale to buy chairs.""Each chair cost 15.0 dollars.""Ellen bought 12.0 chairs."Now, let's calculate the total amount Ellen spent:12 chairs x 15.0 dollars/chair = 180.0 dollarsTotal amount Ellen spent = 180.0 dollarsEureka! We have found the answer to the question.
+--------------------
+question_idx: 2629
+question: Lukas averages 12.0 points per game in basketball . How many points would he score in 5.0 games ?
+golden answer: 60.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Lukas averages 12.0 points per game in basketball . How many points would he score in 5.0 games ?"Like a bee pollinating flowers, let's gather the essence from each point: "Lukas averages 12.0 points per game in basketball" means that Lukas scores 12.0 points on average in each game he plays. "How many points would he score in 5.0 games?" means that we want to know how many points Lukas would score if he played 5.0 games.So, to find out how many points Lukas would score in 5.0 games, we can multiply the number of points he averages per game by the number of games he will play:12.0 points/game x 5.0 games = 60.0 pointsTotal points scored by Lukas in 5.0 games = 60.0 points.
+--------------------
+question_idx: 2989
+question: Bert runs 2.0 miles every day . How many miles will Bert run in 3.0 weeks ?
+golden answer: 42.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Bert runs 2.0 miles every day . How many miles will Bert run in 3.0 weeks ?"Like a bee pollinating flowers, let's gather the essence from each point: "Bert runs 2.0 miles every day" means that Bert runs 2.0 miles every 24 hours. "Bert runs in 3.0 weeks" means that Bert runs for 3.0 weeks, which is equal to 21 days (3.0 weeks x 7 days/week).So, to find out how many miles Bert will run in 3.0 weeks, we multiply the number of days he runs by the distance he runs per day:21 days x 2.0 miles/day = 42.0 milesIn 3.0 weeks, Bert will run a total of 42.0 miles.
+--------------------
+question_idx: 3047
+question: If Stephanie ran for 3.0 hours at 5.0 miles per hour . How far did Stephanie go ?
+golden answer: 15.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: If Stephanie ran for 3.0 hours at 5.0 miles per hour . How far did Stephanie go ?"Like a bee pollinating flowers, let's gather the essence from each point: "Stephanie ran for 3.0 hours" means she ran for 3.0 hours, "at 5.0 miles per hour" means she ran at a speed of 5.0 miles per hour, and "How far did Stephanie go?" means we want to know the distance she traveled.So, let's use the formula:Distance = Speed x TimeNow, we know the speed of Stephanie is 5.0 miles per hour, and she ran for 3.0 hours. So, we can plug these values into the formula:Distance = 5.0 miles/hour x 3.0 hours = 15.0 milesStephanie went 15.0 miles during her run!
+--------------------
+question_idx: 3089
+question: Sarah sold 24.0 boxes of Lemon Chalet Cremes . How many cases of 12.0 boxes , plus extra boxes does Sarah need ?
+golden answer: 2.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Sarah sold 24.0 boxes of Lemon Chalet Cremes . How many cases of 12.0 boxes , plus extra boxes does Sarah need ?"Like a bee pollinating flowers, let's gather the essence from each point: "Sold 24.0 boxes of Lemon Chalet Cremes" means Sarah sold 24 boxes of that product. To find out how many cases she needs, we need to divide the number of boxes she sold by 12, which is the number of boxes in a case:24 boxes / 12 boxes per case = 2 casesSarah needs 2 cases of Lemon Chalet Cremes.
+--------------------

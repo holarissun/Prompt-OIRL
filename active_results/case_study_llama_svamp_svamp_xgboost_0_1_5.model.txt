@@ -1,0 +1,519 @@
+question_idx: 4
+question: in 1 week an airplane pilot flew 1134 miles on tuesday and 1475 miles on thursday . if the pilot flies the same number of miles 3 weeks in a row how many miles does he fly in all ?
+golden answer: 7827.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 9
+question: mrs. hilt uses 2 ounces of detergent to wash a pound of clothes . how many ounces of soap will she use to wash 9 pounds of clothes ?
+golden answer: 18.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 10
+question: mrs. hilt went to a concert . a total of 65899 people attended the concert . the next week she went to a second concert which had 119 more people in attendance . how many people were at the second concert ?
+golden answer: 66018.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 14
+question: mrs. hilt is baking bread . she needs 5 cups of flour to bake 2 loaves of bread . how much flour will she need to make 1 loaf of bread ?
+golden answer: 2.5
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 26
+question: there are some children at a bakery . as they were deciding what to buy 24 girls came in and 31 boys left . if there are 78 children in the bakery in the end how many children were there at first ?
+golden answer: 85.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 27
+question: blithe has a lot of toys . he lost 6 of them and found 9 in his closet . if he had 43 after that how many toys did blithe have at first ?
+golden answer: 40.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 28
+question: lena had some pocket money . she lost $ 4 and her mom gave her $ 9 . if she had $ 66 after that how many dollars did lena have at first ?
+golden answer: 61.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 36
+question: there are a total of 90 items at a bakery . 49 of them are bread rolls and 19 of them are croissants . how many bagels are there ?
+golden answer: 22.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 38
+question: a restaurant has 94 pieces of cutlery . 38 are forks 27 are knives and the rest are spoons . how many spoons are there ?
+golden answer: 29.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 59
+question: sam has 58 power ranger stickers . he bundles them up in 2 boxes . if there are 23 power ranger stickers in the first box how many more power ranger stickers are there in the second box than the first box ?
+golden answer: 12.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 60
+question: beryl has 88 radishes . she puts them into 2 baskets . if there are 37 radishes in the first basket how many more radishes are there in the second basket than the first ?
+golden answer: 14.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 61
+question: there are 56 students in the class . the teacher wants to split them into 2 groups . the first group has 24 students . how many more students will there be in the second group ?
+golden answer: 8.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 64
+question: an online toy store stocked some toys . it sold 38 toys at the first week and 26 toys at the second week . if it had 19 toys left how many toys were in stock at the beginning ?
+golden answer: 83.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 69
+question: gary had some stickers . he gave 42 stickers to lucy and 26 stickers to alex . if he had 31 stickers left how many stickers did gary have at first ?
+golden answer: 99.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 72
+question: a washing machine can wash 28 pounds of clothes per day . if there are 200 pounds of clothes to be washed per day how many washing machines are needed ?
+golden answer: 7.142857142857142
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 73
+question: there are 757 pounds of sand to be filled into bags . if each bag has a capacity of 65 pounds how many bags are needed ?
+golden answer: 11.646153846153846
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 80
+question: the capacity of a tank is 32 gallons . if a company bought 728 gallons of oil how many tanks are needed to hold all the oil ?
+golden answer: 22.75
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 81
+question: mrs. smith gave 53 strawberries to 8 girls equally . how many strawberries did each girl get ?
+golden answer: 6.625
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 82
+question: tom had $ 19 and he wanted to buy as many folders as he could . if 1 folder costs $ 2 how many folders can tom buy ?
+golden answer: 9.5
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 83
+question: 86 students are going hiking . each school- bus can take 9 students . how many school-buses are needed ?
+golden answer: 9.555555555555555
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 1123
+question: nell collects cards . she had 246 baseball cards and 214 10 cards . she gave some of her cards to jeff and now has 404 baseball cards and 495 10 cards left . how many more 10 cards than baseball cards does nell have ?
+golden answer: 91.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: nell collects cards . she had 246 baseball cards and 214 10 cards . she gave some of her cards to jeff and now has 404 baseball cards and 495 10 cards left . how many more 10 cards than baseball cards does nell have ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+Љ Nell has 404 baseball cards and 495 10 cards. "
+Step 1: We know that Nell had 246 baseball cards and 214 10 cards initially.
+Step 2: We are given that she gave some of her cards to Jeff.
+Step 3: We know that Nell now has 404 baseball cards and 495 10 cards.
+Step 4: We want to find out how many more 10 cards than baseball cards Nell has.
+So, let's subtract the number of baseball cards from the total number of cards:
+495 (10 cards) - 404 (baseball cards) = 91
+Therefore, Nell has 91 more 10 cards than baseball cards.
+So, the answer is 91.
+--------------------
+question_idx: 1248
+question: there are 17 different movies and 11 different books in the ' crazy silly school ' series . if you read 13 of the books and watched 63 of the movies how many more movies than books are there in the ' crazy silly school ' series ?
+golden answer: 6.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: there are 17 different movies and 11 different books in the ' crazy silly school ' series . if you read 13 of the books and watched 63 of the movies how many more movies than books are there in the ' crazy silly school ' series ?"Let's approach this like a mathematician proving a theorem, step by logical step: "There are 17 books in the 'Crazy Silly School' series." (Assumption 1) "There are 11 books in the 'Crazy Silly School' series that you have read." (Assumption 2) "There are 63 movies in the 'Crazy Silly School' series that you have watched." (Assumption 3)From Assumptions 1 and 2, we can conclude that there are 17 - 11 = 6 more books in the series that you have not read.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 1651
+question: A store had 34.0 oranges in a bin . If they threw away 20.0 of the old ones and put 13.0 new ones in the bin how many would be in the bin ?
+golden answer: 27.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: A store had 34.0 oranges in a bin . If they threw away 20.0 of the old ones and put 13.0 new ones in the bin how many would be in the bin ?"Let's approach this like a mathematician proving a theorem, step by logical step: "The number of oranges in the bin before the store threw away 20.0 old ones is 34.0. "Now, we know that the store threw away 20.0 old oranges, so the number of oranges in the bin after that is:34.0 - 20.0 = 14.0 oranges in the bin after the store threw away 20.0 old ones. "Now, we know that the store put 13.0 new oranges in the bin, so the number of oranges in the bin after both actions is:14.0 + 13.0 = 27.0 oranges in the bin after the store threw away 20.0 old ones and put 13.0 new ones in the bin.Therefore, there are 27.0 oranges in the bin.
+--------------------
+question_idx: 2089
+question: Michelle began her pizza delivery route with 0.5 tank of gas in her car . When she made it back to the pizzeria , 0.16666666666666666 tank of gas was . How much gas did Michelle use ?
+golden answer: 0.3333333333333333
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Michelle began her pizza delivery route with 0.5 tank of gas in her car . When she made it back to the pizzeria , 0.16666666666666666 tank of gas was . How much gas did Michelle use ?"Let's approach this like a mathematician proving a theorem, step by logical step: "The problem states that Michelle began her pizza delivery route with 0.5 tank of gas in her car. Let's assume that the volume of gas in the tank is represented by the variable x. Therefore, the total volume of gas in the tank at the beginning of the route is 0.5x.Now, we are told that when Michelle made it back to the pizzeria, 0.16666666666666666 tank of gas was left in the tank. This means that the volume of gas left in the tank is 0.16666666666666666x.Now, we need to find out how much gas Michelle used during the route. To do this, we need to subtract the volume of gas left in the tank from the total volume of gas in the tank at the beginning of the route. Therefore, the amount of gas used by Michelle during the route is:0.5x - 0.16666666666666666x = 0.3333333333333333x = 0.3333333333333333 gallonsSo, Michelle used approximately 0.3333333333333333 gallons of gas during her pizza delivery route."
+--------------------
+question_idx: 2495
+question: Paige and her friends were recycling paper for their class . For every 4.0 pounds they recycled they earned one point . If Paige recycled 14.0 pounds and her friends recycled 2.0 pounds , how many points did they earn ?
+golden answer: 4.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Paige and her friends were recycling paper for their class . For every 4.0 pounds they recycled they earned one point . If Paige recycled 14.0 pounds and her friends recycled 2.0 pounds , how many points did they earn ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+Step 1: Write the problem as an equation.
+Let's say Paige recycled x pounds of paper.
+For every 4.0 pounds of paper recycled, Paige and her friends earn 1 point.
+So, the points earned by Paige and her friends is equal to x / 4.0.
+Step 2: Use the information given in the problem to find the value of x.
+We know that Paige recycled 14.0 pounds of paper and her friends recycled 2.0 pounds of paper.
+So, the total amount of paper recycled by Paige and her friends is 14.0 + 2.0 = 16.0 pounds.
+Step 3: Use the equation from step 1 to find the points earned by Paige and her friends.
+Points earned = x / 4.0
+Since the total amount of paper recycled is 16.0 pounds, we can find the value of x by dividing 16.0 by 4.0:
+x = 16.0 / 4.0 = 4.0
+So, Paige and her friends earned 4 points for recycling 16.0 pounds of paper.
+Therefore, the answer to the question is 4 points.
+--------------------
+question_idx: 2559
+question: Melanie , Benny , Sandy , and Jessica each have 9.0 dozen Pokemon cards . How many Pokemon cards do they have in all ?
+golden answer: 432.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: Melanie , Benny , Sandy , and Jessica each have 9.0 dozen Pokemon cards . How many Pokemon cards do they have in all ?"Let's approach this like a mathematician proving a theorem, step by logical step: "Step 1: Identify the given information. We are given that Melanie has 9.0 dozen Pokemon cards, Benny has 9.0 dozen Pokemon cards, Sandy has 9.0 dozen Pokemon cards, and Jessica has 9.0 dozen Pokemon cards. In total, they have 9.0 x 4 = 36.0 dozen Pokemon cards.Step 2: Determine the total number of Pokemon cards. Since each dozen contains 12 cards, the total number of Pokemon cards is 36.0 x 12 = 432.So, Melanie, Benny, Sandy, and Jessica have 432 Pokemon cards in all."
+--------------------
+question_idx: 3609
+question: mark has 13 trees in his backyard . if he plants 12 more how many trees will he have ?
+golden answer: 25.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: mark has 13 trees in his backyard . if he plants 12 more how many trees will he have ?"Let's approach this like a mathematician proving a theorem, step by logical step: "The problem states that the man has 13 trees in his backyard.
+Step 1: Let X be the number of trees the man has in his backyard initially.
+Step 2: The problem states that the man plants 12 more trees.
+Step 3: Let Y be the number of trees the man has after planting 12 more trees.
+Step 4: We are asked how many trees the man will have if he plants 12 more trees.
+Step 5: Using the information provided in the problem, we can write an equation:
+X + 12 = Y
+Step 6: Solving for Y, we get:
+Y = X + 12
+Step 7: Now we can find the number of trees the man will have after planting 12 more trees:
+Y = X + 12
+Substituting X = 13 (the number of trees the man already has):
+Y = 13 + 12
+Y = 25
+Therefore, the man will have 25 trees in his backyard after planting 12 more trees.
+So, the answer to the question is 25 trees."
+In summary, the man will have 25 trees in his backyard after planting 12 more trees, because initially he had 13 trees and he added 12 more, for a total of 25 trees.
+--------------------
+question_idx: 3930
+question: arthur baked 35 muffins . how many more muffins does arthur have to bake to have 83 muffins ?
+golden answer: 48.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: arthur baked 35 muffins . how many more muffins does arthur have to bake to have 83 muffins ?"Let's approach this like a mathematician proving a theorem, step by logical step: "Arthur baked 35 muffins." (Assumption 1) "Arthur has 83 muffins in total." (Assumption 2)Now, we need to find out how many more muffins Arthur has to bake to have 83 muffins.
+Step 1: Subtract the number of muffins Arthur already has from the total number of muffins he needs.
+83 - 35 = 48
+So, Arthur has to bake 48 more muffins to have 83 muffins in total.
+Therefore, the answer is 48 more muffins.
+--------------------

@@ -1,0 +1,176 @@
+question_idx: 9
+question: mrs. hilt uses 2 ounces of detergent to wash a pound of clothes . how many ounces of soap will she use to wash 9 pounds of clothes ?
+golden answer: 18.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 10
+question: mrs. hilt went to a concert . a total of 65899 people attended the concert . the next week she went to a second concert which had 119 more people in attendance . how many people were at the second concert ?
+golden answer: 66018.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 23
+question: each bag contains 23 pounds of oranges . how many pounds of oranges are in 45 bags ?
+golden answer: 1035.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 26
+question: there are some children at a bakery . as they were deciding what to buy 24 girls came in and 31 boys left . if there are 78 children in the bakery in the end how many children were there at first ?
+golden answer: 85.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 27
+question: blithe has a lot of toys . he lost 6 of them and found 9 in his closet . if he had 43 after that how many toys did blithe have at first ?
+golden answer: 40.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 31
+question: there 95 colored lights on a christmas tree . 26 of them are red 37 of them are yellow and the rest are blue . how many blue lights are there on the christmas tree ?
+golden answer: 32.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 36
+question: there are a total of 90 items at a bakery . 49 of them are bread rolls and 19 of them are croissants . how many bagels are there ?
+golden answer: 22.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 59
+question: sam has 58 power ranger stickers . he bundles them up in 2 boxes . if there are 23 power ranger stickers in the first box how many more power ranger stickers are there in the second box than the first box ?
+golden answer: 12.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 61
+question: there are 56 students in the class . the teacher wants to split them into 2 groups . the first group has 24 students . how many more students will there be in the second group ?
+golden answer: 8.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 64
+question: an online toy store stocked some toys . it sold 38 toys at the first week and 26 toys at the second week . if it had 19 toys left how many toys were in stock at the beginning ?
+golden answer: 83.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 69
+question: gary had some stickers . he gave 42 stickers to lucy and 26 stickers to alex . if he had 31 stickers left how many stickers did gary have at first ?
+golden answer: 99.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 72
+question: a washing machine can wash 28 pounds of clothes per day . if there are 200 pounds of clothes to be washed per day how many washing machines are needed ?
+golden answer: 7.142857142857142
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 74
+question: if simon needs to make 519 gift bags at a rate of 42 bags per day how many days does he need to finish making all the gift boxes ?
+golden answer: 12.357142857142858
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 75
+question: jane can arrange 16 vases of flowers in a day . if there are 248 vases of flowers to be arranged how many days are needed for her to finish all the flower arrangements ?
+golden answer: 15.5
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 82
+question: tom had $ 19 and he wanted to buy as many folders as he could . if 1 folder costs $ 2 how many folders can tom buy ?
+golden answer: 9.5
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 86
+question: there were 44 laptops in the shop and mike divided them equally into 5 rows . how many laptops are there in each row ?
+golden answer: 8.8
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 88
+question: divide 39 balloons into 7 equal groups . how many balloons are there in each group ?
+golden answer: 5.571428571428571
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 90
+question: there are 32 students in the class . the teacher divided them into 5 equal groups . how many students are there in each group ?
+golden answer: 6.4
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 91
+question: a transport company bought 95 tons of oil . a large barrel can hold 6 tons of oil and a small barrel can hold 5 tons of oil . in order to use the least number of barrels and have every barrel fully occupied how many large barrels should be used ?
+golden answer: 15.833333333333336
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 92
+question: 15 students split 122 portfolios of paintings . each student should get the same number of portfolios . how many portfolios of paintings will each of them get ?
+golden answer: 8.133333333333333
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 1275
+question: the cave is 1218 feet deep and they are already at 849 feet . if they are travelling at speed of 17 how much farther until they reach the end of the cave ?
+golden answer: 369.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: the cave is 1218 feet deep and they are already at 849 feet . if they are travelling at speed of 17 how much farther until they reach the end of the cave ?"Like a bee pollinating flowers, let's gather the essence from each point: "The cave is 1218 feet deep and they are already at 849 feet." To find out how much farther until they reach the end of the cave, we need to subtract the current depth from the total depth:1218 - 849 = 369 feetSo, they have 369 feet to go until they reach the end of the cave.
+
+
+
+
+
+
+
+--------------------
+question_idx: 1437
+question: the razorback shop makes $ 210 dollars off each jersey and $ 240 off each t-shirt . during the arkansas and texas tech game they sold 177 t-shirts and 23 jerseys . how much more does a t-shirt cost than a jersey ?
+golden answer: 30.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: the razorback shop makes $ 210 dollars off each jersey and $ 240 off each t-shirt . during the arkansas and texas tech game they sold 177 t-shirts and 23 jerseys . how much more does a t-shirt cost than a jersey ?"Like a bee pollinating flowers, let's gather the essence from each point: "The razorback shop makes $210 off each jersey and $240 off each t-shirt."
+Љ� Razorback shop makes $210 off each jersey and $240 off each t-shirt.
+Љ� During the Arkansas and Texas Tech game, they sold 177 t-shirts and 23 jerseys.
+Љ� To find out how much more a t-shirt costs than a jersey, we need to subtract the price of a t-shirt from the price of a jersey.
+Now, let's calculate the difference between the prices of t-shirts and jerseys:
+$240 (price of a t-shirt) - $210 (price of a jersey) = $30
+So, a t-shirt costs $30 more than a jersey.
+Therefore, the answer is $30.
+--------------------
+question_idx: 2629
+question: Lukas averages 12.0 points per game in basketball . How many points would he score in 5.0 games ?
+golden answer: 60.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Lukas averages 12.0 points per game in basketball . How many points would he score in 5.0 games ?"Like a bee pollinating flowers, let's gather the essence from each point: "Lukas averages 12.0 points per game in basketball" means that Lukas scores 12.0 points on average in each game he plays. "How many points would he score in 5.0 games?" means that we want to know how many points Lukas would score if he played 5.0 games.So, to find out how many points Lukas would score in 5.0 games, we can multiply the number of points he averages per game by the number of games he will play:12.0 points/game x 5.0 games = 60.0 pointsTotal points scored by Lukas in 5.0 games = 60.0 points.
+--------------------
+question_idx: 2876
+question: A cake recipe requires 0.6 cup of sugar for the frosting and 0.2 cup of sugar for the cake . How much sugar is that altogether ?
+golden answer: 0.8
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: A cake recipe requires 0.6 cup of sugar for the frosting and 0.2 cup of sugar for the cake . How much sugar is that altogether ?"Like a bee pollinating flowers, let's gather the essence from each point: "A cake recipe requires 0.6 cup of sugar for the frosting and 0.2 cup of sugar for the cake."Now, let's add the amounts together to find the total amount of sugar needed: 0.6 cup + 0.2 cup = 0.8 cupSo, altogether, the recipe requires 0.8 cup of sugar.
+--------------------
+question_idx: 2989
+question: Bert runs 2.0 miles every day . How many miles will Bert run in 3.0 weeks ?
+golden answer: 42.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Bert runs 2.0 miles every day . How many miles will Bert run in 3.0 weeks ?"Like a bee pollinating flowers, let's gather the essence from each point: "Bert runs 2.0 miles every day" means that Bert runs 2.0 miles every 24 hours. "Bert runs in 3.0 weeks" means that Bert runs for 3.0 weeks, which is equal to 21 days (3.0 weeks x 7 days/week).So, to find out how many miles Bert will run in 3.0 weeks, we multiply the number of days he runs by the distance he runs per day:21 days x 2.0 miles/day = 42.0 milesIn 3.0 weeks, Bert will run a total of 42.0 miles.
+--------------------
+question_idx: 3047
+question: If Stephanie ran for 3.0 hours at 5.0 miles per hour . How far did Stephanie go ?
+golden answer: 15.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: If Stephanie ran for 3.0 hours at 5.0 miles per hour . How far did Stephanie go ?"Like a bee pollinating flowers, let's gather the essence from each point: "Stephanie ran for 3.0 hours" means she ran for 3.0 hours, "at 5.0 miles per hour" means she ran at a speed of 5.0 miles per hour, and "How far did Stephanie go?" means we want to know the distance she traveled.So, let's use the formula:Distance = Speed x TimeNow, we know the speed of Stephanie is 5.0 miles per hour, and she ran for 3.0 hours. So, we can plug these values into the formula:Distance = 5.0 miles/hour x 3.0 hours = 15.0 milesStephanie went 15.0 miles during her run!
+--------------------
+question_idx: 3089
+question: Sarah sold 24.0 boxes of Lemon Chalet Cremes . How many cases of 12.0 boxes , plus extra boxes does Sarah need ?
+golden answer: 2.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Sarah sold 24.0 boxes of Lemon Chalet Cremes . How many cases of 12.0 boxes , plus extra boxes does Sarah need ?"Like a bee pollinating flowers, let's gather the essence from each point: "Sold 24.0 boxes of Lemon Chalet Cremes" means Sarah sold 24 boxes of that product. To find out how many cases she needs, we need to divide the number of boxes she sold by 12, which is the number of boxes in a case:24 boxes / 12 boxes per case = 2 casesSarah needs 2 cases of Lemon Chalet Cremes.
+--------------------

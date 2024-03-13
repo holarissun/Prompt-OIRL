@@ -1,0 +1,181 @@
+question_idx: 9
+question: mrs. hilt uses 2 ounces of detergent to wash a pound of clothes . how many ounces of soap will she use to wash 9 pounds of clothes ?
+golden answer: 18.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 19
+question: lucy has 212 fish . how many more fish does she need to buy to have 280 fish ?
+golden answer: 68.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 26
+question: there are some children at a bakery . as they were deciding what to buy 24 girls came in and 31 boys left . if there are 78 children in the bakery in the end how many children were there at first ?
+golden answer: 85.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 27
+question: blithe has a lot of toys . he lost 6 of them and found 9 in his closet . if he had 43 after that how many toys did blithe have at first ?
+golden answer: 40.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 31
+question: there 95 colored lights on a christmas tree . 26 of them are red 37 of them are yellow and the rest are blue . how many blue lights are there on the christmas tree ?
+golden answer: 32.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 36
+question: there are a total of 90 items at a bakery . 49 of them are bread rolls and 19 of them are croissants . how many bagels are there ?
+golden answer: 22.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 72
+question: a washing machine can wash 28 pounds of clothes per day . if there are 200 pounds of clothes to be washed per day how many washing machines are needed ?
+golden answer: 7.142857142857142
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 74
+question: if simon needs to make 519 gift bags at a rate of 42 bags per day how many days does he need to finish making all the gift boxes ?
+golden answer: 12.357142857142858
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 75
+question: jane can arrange 16 vases of flowers in a day . if there are 248 vases of flowers to be arranged how many days are needed for her to finish all the flower arrangements ?
+golden answer: 15.5
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 81
+question: mrs. smith gave 53 strawberries to 8 girls equally . how many strawberries did each girl get ?
+golden answer: 6.625
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 82
+question: tom had $ 19 and he wanted to buy as many folders as he could . if 1 folder costs $ 2 how many folders can tom buy ?
+golden answer: 9.5
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 85
+question: 9 boys went to water trees . there were 29 trees . if each of them watered the equal amount of trees how many trees did each boy water ?
+golden answer: 3.2222222222222223
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 92
+question: 15 students split 122 portfolios of paintings . each student should get the same number of portfolios . how many portfolios of paintings will each of them get ?
+golden answer: 8.133333333333333
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 93
+question: 172 students are forming teams for a mountaineering competition . each team should have 18 students . how many teams can they form ?
+golden answer: 9.555555555555555
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 97
+question: a ballet class wants to divide its 90 members into some large groups at 7 members each and some small groups at 3 members each . in order to make the least number of groups how many large groups should be made ?
+golden answer: 12.857142857142858
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 105
+question: rick and todd have the same number of candy bars . rick ate 11 candy bars . todd gave away 18 of his candy bars . how many more candy bars did rick have than todd then ?
+golden answer: 7.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 107
+question: annette and caitlin weigh 95 pounds together . caitlin and sara weigh 87 pounds together . how much more does annette weigh than sara ?
+golden answer: 8.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 118
+question: ralph has a photo album with 50 pages . he has 26 pictures of wild animals . ralph 's friend derrick has 34 pictures of wild animals . how many fewer pictures of wild animals does ralph have ?
+golden answer: 8.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 124
+question: kendra learns 12 new spelling words each week . her goal is to learn 60 new words before her 8 birthday . she has already learned 36 new words . how many more words does kendra need to learn ?
+golden answer: 24.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 139
+question: 94 students signed up for computer classes . there were 24 second graders and 29 third graders . the rest of the students were 4 graders . how many 4 graders took computer classes ?
+golden answer: 41.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 1186
+question: jake has 11 fewer peaches than steven . if jake has 17 peaches . how many peaches does steven have ?
+golden answer: 28.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: jake has 11 fewer peaches than steven . if jake has 17 peaches . how many peaches does steven have ?"Like a bee pollinating flowers, let's gather the essence from each point: "Jake has 11 fewer peaches than Steven." Let's represent this as "Jake has x peaches, and Steven has x - 11 peaches."Now, we are given that Jake has 17 peaches.
+So, we can set up the equation:
+Jake has x peaches = 17
+Now, we can use the information that Jake has 11 fewer peaches than Steven to solve for Steven's peaches:
+Steven has x - 11 peaches = Jake's peaches (17)
+Simplifying the equation, we get:
+Steven has x = 28
+So, Steven has 28 peaches.
+--------------------
+question_idx: 1695
+question: If Anne wandered for 3.0 hours at 2.0 miles per hour . How far did Anne go ?
+golden answer: 6.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: If Anne wandered for 3.0 hours at 2.0 miles per hour . How far did Anne go ?"Like a bee pollinating flowers, let's gather the essence from each point: "Anne wandered for 3.0 hours" means she walked for 3.0 hours, "at 2.0 miles per hour" means she walked 2.0 miles per hour. So, if Anne walked for 3.0 hours at 2.0 miles per hour, she went 6.0 miles.Anne went 6.0 miles.
+--------------------
+question_idx: 1757
+question: If Anne wandered for 3.0 hours at 2.0 miles per hour . How far did Anne go ?
+golden answer: 6.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: If Anne wandered for 3.0 hours at 2.0 miles per hour . How far did Anne go ?"Like a bee pollinating flowers, let's gather the essence from each point: "Anne wandered for 3.0 hours" means she walked for 3.0 hours, "at 2.0 miles per hour" means she walked 2.0 miles per hour. So, if Anne walked for 3.0 hours at 2.0 miles per hour, she went 6.0 miles.Anne went 6.0 miles.
+--------------------
+question_idx: 1887
+question: Nancy uploaded 41.0 pictures to Facebook . She put 37.0 pics into one album and put the rest into 2.0 different albums . How many pictures were in each album ?
+golden answer: 2.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Nancy uploaded 41.0 pictures to Facebook . She put 37.0 pics into one album and put the rest into 2.0 different albums . How many pictures were in each album ?"Like a bee pollinating flowers, let's gather the essence from each point: "Nancy uploaded 41.0 pictures to Facebook" means that Nancy uploaded 41 pictures to Facebook. "She put 37.0 pics into one album" means that Nancy put 37 pictures into one album. "She put the rest into 2.0 different albums" means that Nancy put the remaining 4 pictures into 2 different albums.So, the number of pictures in each album is:37 pictures in one album2 pictures in the other albumTherefore, the answer is 37 and 2.
+--------------------
+question_idx: 2629
+question: Lukas averages 12.0 points per game in basketball . How many points would he score in 5.0 games ?
+golden answer: 60.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Lukas averages 12.0 points per game in basketball . How many points would he score in 5.0 games ?"Like a bee pollinating flowers, let's gather the essence from each point: "Lukas averages 12.0 points per game in basketball" means that Lukas scores 12.0 points on average in each game he plays. "How many points would he score in 5.0 games?" means that we want to know how many points Lukas would score if he played 5.0 games.So, to find out how many points Lukas would score in 5.0 games, we can multiply the number of points he averages per game by the number of games he will play:12.0 points/game x 5.0 games = 60.0 pointsTotal points scored by Lukas in 5.0 games = 60.0 points.
+--------------------
+question_idx: 2989
+question: Bert runs 2.0 miles every day . How many miles will Bert run in 3.0 weeks ?
+golden answer: 42.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Bert runs 2.0 miles every day . How many miles will Bert run in 3.0 weeks ?"Like a bee pollinating flowers, let's gather the essence from each point: "Bert runs 2.0 miles every day" means that Bert runs 2.0 miles every 24 hours. "Bert runs in 3.0 weeks" means that Bert runs for 3.0 weeks, which is equal to 21 days (3.0 weeks x 7 days/week).So, to find out how many miles Bert will run in 3.0 weeks, we multiply the number of days he runs by the distance he runs per day:21 days x 2.0 miles/day = 42.0 milesIn 3.0 weeks, Bert will run a total of 42.0 miles.
+--------------------
+question_idx: 3047
+question: If Stephanie ran for 3.0 hours at 5.0 miles per hour . How far did Stephanie go ?
+golden answer: 15.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: If Stephanie ran for 3.0 hours at 5.0 miles per hour . How far did Stephanie go ?"Like a bee pollinating flowers, let's gather the essence from each point: "Stephanie ran for 3.0 hours" means she ran for 3.0 hours, "at 5.0 miles per hour" means she ran at a speed of 5.0 miles per hour, and "How far did Stephanie go?" means we want to know the distance she traveled.So, let's use the formula:Distance = Speed x TimeNow, we know the speed of Stephanie is 5.0 miles per hour, and she ran for 3.0 hours. So, we can plug these values into the formula:Distance = 5.0 miles/hour x 3.0 hours = 15.0 milesStephanie went 15.0 miles during her run!
+--------------------
+question_idx: 3089
+question: Sarah sold 24.0 boxes of Lemon Chalet Cremes . How many cases of 12.0 boxes , plus extra boxes does Sarah need ?
+golden answer: 2.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: Sarah sold 24.0 boxes of Lemon Chalet Cremes . How many cases of 12.0 boxes , plus extra boxes does Sarah need ?"Like a bee pollinating flowers, let's gather the essence from each point: "Sold 24.0 boxes of Lemon Chalet Cremes" means Sarah sold 24 boxes of that product. To find out how many cases she needs, we need to divide the number of boxes she sold by 12, which is the number of boxes in a case:24 boxes / 12 boxes per case = 2 casesSarah needs 2 cases of Lemon Chalet Cremes.
+--------------------
+question_idx: 4251
+question: debby had 873 quarters . if it costs 3 quarters for each coke from a coke machine how many could she buy ?
+golden answer: 291.0
+held-out prompt: "Like a bee pollinating flowers, let's gather the essence from each point: "
+prompted answer: debby had 873 quarters . if it costs 3 quarters for each coke from a coke machine how many could she buy ?"Like a bee pollinating flowers, let's gather the essence from each point: "Debby had 873 quarters." "It costs 3 quarters for each coke from a coke machine."Now, let's calculate how many coke Debby could buy:873 quarters / 3 quarters per coke = 291 cokeDebby could buy 291 coke from the machine!
+--------------------

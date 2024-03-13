@@ -1,0 +1,120 @@
+question_idx: 2
+question: Roger has 95.0 candies . He gives 3.0 to Stephanie . How many candies will Roger have ?
+golden answer: 92.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 9
+question: Joyce has 40.0 bananas that must be put away in boxes . Fred comes to help and brings 18.0 cookies to share with Joyce . If there are 10.0 boxes , how many bananas must go in each box ?
+golden answer: 4.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 13
+question: There were 3409.0 pieces of candy in a jar . If 145.0 pieces were red and the rest were blue , how many were blue ?
+golden answer: 3264.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 19
+question: Mike invited 13.0 friends to a birthday party , but 7.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 4.0 , how many should he buy ?
+golden answer: 24.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 22
+question: It took me 6.0 minutes to walk 500.0 meters . How fast was I travelling ?
+golden answer: 83.33
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 29
+question: Mike picked 8.0 pears and Jason picked 7.0 pears from the pear tree . Fred picked 6.0 apples from the apple tree . How many pears were picked in total ?
+golden answer: 15.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 34
+question: Megan earned 8.0 points for each bag of cans she recycled . If she had 14.0 bags , but did n't recycle 5.0 of them , how many points would she have earned ?
+golden answer: 72.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 43
+question: Tim found 37.0 seashells and Sally found 13.0 seashells on the beach . When they cleaned them , they discovered that 25.0 were cracked . How many seashells did they find together ?
+golden answer: 50.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 46
+question: Dale 's Vegetarian Restaurant bought 2.8333333333333335 pounds of green peppers and 2.8333333333333335 pounds of red peppers . How many pounds of peppers did Dale 's Vegetarian Restaurant buy in all ?
+golden answer: 5.666666666666667
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 47
+question: Wendy uploaded 45.0 pictures to Facebook . She put 27.0 pics into one album and put the rest into 9.0 different albums . How many pictures were in each album ?
+golden answer: 2.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 50
+question: Edward made 37.0 dollars mowing lawns over the summer . If he spent 21.0 dollars buying new mower blades , how many 2.0 dollar games could he buy with the money he had left ?
+golden answer: 8.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 52
+question: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?
+golden answer: 12.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 53
+question: Elisa has 37.0 dollars . How many more dollars does she have to earn to have 53.0 dollars ?
+golden answer: 16.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 57
+question: Melanie is selling 4.0 gumballs for eight cents each . How much money can Melanie get from selling the gumballs ?
+golden answer: 32.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 60
+question: Nancy grew 2.0 onions , Dan grew 9.0 onions , and Mike grew 4.0 onions . They worked for 6.0 days on the farm . How many onions did they grow in total ?
+golden answer: 15.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 64
+question: Mrs. Hilt looked at her car 's odometer before a trip . The odometer showed that she had traveled 212.3 miles . When she stopped for lunch , the odometer read 372.0 . How many miles had she traveled ?
+golden answer: 159.7
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 65
+question: Roger had 68.0 dollars . If he spent 47.0 bucks on a new game , how many 7.0 dollar toys could he buy with the money he had left ?
+golden answer: 3.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 69
+question: Paige had 43.0 math problems and 12.0 science problems for homework . If she finished 44.0 of the problems at school , how many problems did she have to do for homework ?
+golden answer: 11.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 70
+question: Will invited 9.0 friends to a birthday party , but 4.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 8.0 , how many should he buy ?
+golden answer: 40.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 71
+question: April 's discount flowers was having a sale where each rose was 7.0 dollars . If April started with 9.0 roses and had 4.0 roses left , how much money did she earn ?
+golden answer: 35.0
+held-out prompt: 1
+prompted answer: 1
+--------------------

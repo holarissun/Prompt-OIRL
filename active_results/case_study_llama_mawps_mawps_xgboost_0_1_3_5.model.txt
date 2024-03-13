@@ -1,0 +1,1512 @@
+question_idx: 37
+question: Janet picked 4.0 tulips and 11.0 roses to make flower bouquets . If she only used 11.0 of the flowers though , how many extra flowers did Janet pick ?
+golden answer: 4.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 38
+question: Melissa scored 120.0 points in each game . How many points did she score in 10.0 games ?
+golden answer: 1200.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 44
+question: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?
+golden answer: 7.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?"As a cartographer maps terrains, let's chart the nuances and details: "How many problems are on each page?" we ask. Megan has 40.0 homework problems, and she finished 26.0 of them. That means she has 14.0 problems left to do. Since each page has the same number of problems, we can divide the remaining problems by the number of pages to find out how many problems are on each page. In this case, dividing 14.0 problems by 2.0 pages gives us 7.0 problems per page. So, there are 7.0 problems on each page.
+--------------------
+question_idx: 46
+question: Dale 's Vegetarian Restaurant bought 2.8333333333333335 pounds of green peppers and 2.8333333333333335 pounds of red peppers . How many pounds of peppers did Dale 's Vegetarian Restaurant buy in all ?
+golden answer: 5.666666666666667
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 57
+question: Melanie is selling 4.0 gumballs for eight cents each . How much money can Melanie get from selling the gumballs ?
+golden answer: 32.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 67
+question: Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour . How long did Jeremy stroll ?
+golden answer: 10.0
+held-out prompt: "It's like sifting for gold, discarding the dirt to find the nuggets: "
+prompted answer: Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour . How long did Jeremy stroll ?"It's like sifting for gold, discarding the dirt to find the nuggets: " Jeremy strolled for 10.0 hours.
+To solve this problem, we need to use the formula: distance = speed x time. In this case, the distance traveled by Jeremy is 20.0 kilometers, and his speed is 2.0 kilometers per hour. Therefore, we can plug these values into the formula to find the time it took him to stroll:
+distance = speed x time
+20.0 km = 2.0 km/h x time
+time = distance / speed
+time = 20.0 km / 2.0 km/h
+time = 10.0 hours
+
+Therefore, Jeremy strolled for 10.0 hours.
+--------------------
+question_idx: 69
+question: Paige had 43.0 math problems and 12.0 science problems for homework . If she finished 44.0 of the problems at school , how many problems did she have to do for homework ?
+golden answer: 11.0
+held-out prompt: "This is like a gardener pruning a plant, every cut makes it flourish: "
+prompted answer: Paige had 43.0 math problems and 12.0 science problems for homework . If she finished 44.0 of the problems at school , how many problems did she have to do for homework ?"This is like a gardener pruning a plant, every cut makes it flourish: "Paige had 43.0 math problems and 12.0 science problems for homework. If she finished 44.0 of the problems at school, how many problems did she have to do for homework?"
+To solve this problem, we need to subtract the number of problems she finished at school from the total number of problems she had for homework.
+43.0 + 12.0 = 55.0
+55.0 - 44.0 = 11.0
+So, Paige had 11 problems left to do for homework.
+--------------------
+question_idx: 71
+question: April 's discount flowers was having a sale where each rose was 7.0 dollars . If April started with 9.0 roses and had 4.0 roses left , how much money did she earn ?
+golden answer: 35.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 75
+question: There was a stack of 700.0 sheets of used paper . Lexie wants to place it in boxes for recycling . If every box can contain 100.0 sheets , how many boxes does Lexie need ?
+golden answer: 7.0
+held-out prompt: 4
+prompted answer: 4
+--------------------
+question_idx: 151
+question: Conner has 25000.0 dollars in his bank account . Every month he spends 1500.0 dollars . He does not add money to the account . How much money will Conner have in his account after 8.0 months ?
+golden answer: 13000.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 156
+question: A chef needs to cook 15.0 potatoes . He has already cooked 8.0 . If each potato takes 9.0 minutes to cook , how long will it take him to cook the rest ?
+golden answer: 63.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 157
+question: It takes 4.0 apples to make 1.0 pie . How many apples does it take to make 504.0 pies ?
+golden answer: 2016.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 169
+question: An oil pipe in the sea broke . Before engineers started to fix the pipe , 6522.0 liters of oil leaked into the water . While the engineers worked , the pipe leaked 5165.0 liters of oil . In all , how many liters of oil leaked into the water ?
+golden answer: 11687.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: An oil pipe in the sea broke . Before engineers started to fix the pipe , 6522.0 liters of oil leaked into the water . While the engineers worked , the pipe leaked 5165.0 liters of oil . In all , how many liters of oil leaked into the water ?"As a librarian categorizes books, let's sort the information accordingly: "Before engineers started to fix the pipe," 6522.0 liters of oil leaked into the water. "While the engineers worked," 5165.0 liters of oil leaked into the water. In total, 6522 + 5165 = 11687 liters of oil leaked into the water.
+--------------------
+question_idx: 171
+question: A construction company ordered 0.16666666666666666 ton of concrete , 0.16666666666666666 ton of bricks , and 0.5 ton of stone . How many tons of material did the company order in all ?
+golden answer: 0.8333333333333334
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 184
+question: Haley and her friends were recycling paper for their class . For every 3.0 pounds they recycled they earned one point . If Haley recycled 11.0 pounds and her friends recycled 16.0 pounds , how many points did they earn ?
+golden answer: 9.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 209
+question: There are 64.0 students trying out for the school 's trivia teams . If 36.0 of them did n't get picked for the team and the rest were put into 4.0 groups , how many students would be in each group ?
+golden answer: 7.0
+held-out prompt: 4
+prompted answer: 4
+--------------------
+question_idx: 227
+question: There were originally 20817.0 houses in Lincoln County . During a housing boom , developers built 97741.0 . How many houses are there now in Lincoln County ?
+golden answer: 118558.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 231
+question: Paige had 43.0 math problems and 12.0 science problems for homework . If she finished 44.0 of the problems at school , how many problems did she have to do for homework ?
+golden answer: 11.0
+held-out prompt: "This is like a gardener pruning a plant, every cut makes it flourish: "
+prompted answer: Paige had 43.0 math problems and 12.0 science problems for homework . If she finished 44.0 of the problems at school , how many problems did she have to do for homework ?"This is like a gardener pruning a plant, every cut makes it flourish: "Paige had 43.0 math problems and 12.0 science problems for homework. If she finished 44.0 of the problems at school, how many problems did she have to do for homework?"
+To solve this problem, we need to subtract the number of problems she finished at school from the total number of problems she had for homework.
+43.0 + 12.0 = 55.0
+55.0 - 44.0 = 11.0
+So, Paige had 11 problems left to do for homework.
+--------------------
+question_idx: 233
+question: Mandy made an apple pie . She used 0.6666666666666666 tablespoon of cinnamon and 0.5 tablespoon of nutmeg . How much more cinnamon than nutmeg did Mandy use ?
+golden answer: 0.1666666666666666
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 283
+question: There are 8.0 calories in a candy bar . How many calories are there in 3.0 candy bars ?
+golden answer: 24.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: There are 8.0 calories in a candy bar . How many calories are there in 3.0 candy bars ?"As a cartographer maps terrains, let's chart the nuances and details: "3.0 candy bars" can be expressed as 3 x 8.0 = 24.0 calories.
+--------------------
+question_idx: 315
+question: Benny received 79.0 dollars and 9.0 movie tickets for his birthday . He went to a sporting goods store and bought a baseball glove , baseball , and bat . He had 32.0 dollars over , how much did he spent on the baseball gear ?
+golden answer: 47.0
+held-out prompt: 6
+prompted answer: 6
+--------------------
+question_idx: 317
+question: Before December , customers buy 1346.0 ear muffs from the mall . During December , they buy 6444.0 more , and there are none left . In all , how many ear muffs do the customers buy ?
+golden answer: 7790.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 328
+question: Mike joined his school 's band . He bought a trumpet for $ 145.16 , and a song book which was $ 5.84 . How much did Mike spend at the music store ?
+golden answer: 151.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 339
+question: The value of a sport utility vehicle this year is 16000.0 dollars , which is 0.8 of what its value was last year . Find the value of the vehicle last year .
+golden answer: 20000.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 353
+question: If Anne wandered for 3.0 hours at 2.0 miles per hour . How far did Anne go ?
+golden answer: 6.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 375
+question: Mrs. Hilt reads 5.0 books a day . How many books does she read in 3.0 days ?
+golden answer: 15.0
+held-out prompt: "This is like a gardener pruning a plant, every cut makes it flourish: "
+prompted answer: Mrs. Hilt reads 5.0 books a day . How many books does she read in 3.0 days ?"This is like a gardener pruning a plant, every cut makes it flourish: " Mrs. Hilt reads 5.0 books a day, so if she reads for 3.0 days, she will read 15.0 books in total.
+--------------------
+question_idx: 383
+question: Before December , customers buy 1346.0 ear muffs from the mall . During December , they buy 6444.0 , and there are none . In all , how many ear muffs do the customers buy ?
+golden answer: 7790.0
+held-out prompt: "Like a blacksmith forging metal, let's shape our understanding with precision: "
+prompted answer: Before December , customers buy 1346.0 ear muffs from the mall . During December , they buy 6444.0 , and there are none . In all , how many ear muffs do the customers buy ?"Like a blacksmith forging metal, let's shape our understanding with precision: "Customers buy 6444.0 ear muffs in December."Now, let's calculate the total number of ear muffs bought by customers:Total number of ear muffs = Number of ear muffs bought in December + Number of ear muffs bought before DecemberTotal number of ear muffs = 6444.0 + 1346.0 = 7790.0 ear muffsSo, the customers buy 7790.0 ear muffs in total.
+--------------------
+question_idx: 409
+question: Darnel sprinted 0.875 lap and then took a break by jogging 0.75 lap . How much farther did Darnel sprint than jog ?
+golden answer: 0.125
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 433
+question: A dealer pays 6000.0 dollars for a car . The dealer wants to make a profit that is 25.0 % of the selling price . For how much should the dealer sell the car ?
+golden answer: 7500.0
+held-out prompt: "Like an athlete training for an event, every exercise has a purpose: "
+prompted answer: A dealer pays 6000.0 dollars for a car . The dealer wants to make a profit that is 25.0 % of the selling price . For how much should the dealer sell the car ?"Like an athlete training for an event, every exercise has a purpose: "To make the dealer sell the car for 7500.0 dollars"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 453
+question: Kelly has 121.0 Nintendo games . How many does Kelly need to give away so that Kelly will have 22.0 games left ?
+golden answer: 99.0
+held-out prompt: "Like an athlete training for an event, every exercise has a purpose: "
+prompted answer: Kelly has 121.0 Nintendo games . How many does Kelly need to give away so that Kelly will have 22.0 games left ?"Like an athlete training for an event, every exercise has a purpose: "Kelly has 121.0 Nintendo games. To determine how many games Kelly needs to give away, we need to subtract the number of games Kelly wants to have left (22.0 games) from the number of games Kelly currently has (121.0 games). So, Kelly needs to give away 99.0 games."
+--------------------
+question_idx: 598
+question: If Karen sold 36.0 boxes of Tagalongs , how many cases of 12.0 boxes does Karen pickup from the cookie mom ?
+golden answer: 3.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: If Karen sold 36.0 boxes of Tagalongs , how many cases of 12.0 boxes does Karen pickup from the cookie mom ?"As a cartographer maps terrains, let's chart the nuances and details: "Karen sold 36.0 boxes of Tagalongs" implies that Karen sold a total of 36 boxes of Tagalongs. To find out how many cases of 12.0 boxes Karen picks up from the Cookie Mom, we need to divide the number of boxes Karen sold by the number of boxes in a case. Since there are 12.0 boxes in a case, we can calculate the number of cases Karen picks up as follows:
+36.0 boxes / 12.0 boxes per case = 3 cases
+Therefore, Karen picks up 3 cases of Tagalongs from the Cookie Mom.
+--------------------
+question_idx: 696
+question: A construction company is repaving a damaged road . So far , they have repaved a total of 4938.0 inches of the road . Today , they repaved 805.0 inches of the road . How many inches of the road had they repaved before today ?
+golden answer: 4133.0
+held-out prompt: "Let's mold our comprehension as a child shapes clay into forms: "
+prompted answer: A construction company is repaving a damaged road . So far , they have repaved a total of 4938.0 inches of the road . Today , they repaved 805.0 inches of the road . How many inches of the road had they repaved before today ?"Let's mold our comprehension as a child shapes clay into forms: "The road is like a long, straight line. The construction company is like a group of workers who are repairing the road. They have repaired a total of 4938 inches of the road so far. Today, they repaired 805 inches of the road. So, before today, they had repaired 4133 inches of the road."
+--------------------
+question_idx: 702
+question: Arthur baked 35.0 muffins . How many more muffins does Arthur have to bake to have 83.0 muffins ?
+golden answer: 48.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: Arthur baked 35.0 muffins . How many more muffins does Arthur have to bake to have 83.0 muffins ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "Arthur has 35 muffins, and he needs 83 muffins to complete the painting. So, he needs to mix 48 more muffins to finish the painting."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 708
+question: Joan had 695.0 Pokemon cards , and 6.0 were torn . Sara bought 133.0 of Joan 's Pokemon cards . How many Pokemon cards does Joan have now ?
+golden answer: 562.0
+held-out prompt: "Like a blacksmith forging metal, let's shape our understanding with precision: "
+prompted answer: Joan had 695.0 Pokemon cards , and 6.0 were torn . Sara bought 133.0 of Joan 's Pokemon cards . How many Pokemon cards does Joan have now ?"Like a blacksmith forging metal, let's shape our understanding with precision: "How many Pokemon cards does Joan have now?"We know that Joan had 695 Pokemon cards initially, and Sara bought 133 of Joan's cards. So, the total number of Pokemon cards Joan has now is:695 - 133 = 562 cardsJoan has 562 Pokemon cards now.
+--------------------
+question_idx: 891
+question: There are 22.0 oranges in a box . Paula takes 7.0 oranges . How many are left ?
+golden answer: 15.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: There are 22.0 oranges in a box . Paula takes 7.0 oranges . How many are left ?"As a cartographer maps terrains, let's chart the nuances and details: "Paula takes 7.0 oranges" means that Paula takes 7 oranges from the total number of oranges in the box. So, the number of oranges left in the box after Paula takes 7 oranges is:22.0 - 7.0 = 15.0 oranges left in the box.
+--------------------
+question_idx: 1005
+question: There are 8.0 apples in a pile on the desk . Each apple comes in a package of 11.0 . 5.0 apples are added to the pile . How many apples are there in the pile ?
+golden answer: 13.0
+held-out prompt: "As if we're crafting a potion, each herb and element has a purpose. Brew with me: "
+prompted answer: There are 8.0 apples in a pile on the desk . Each apple comes in a package of 11.0 . 5.0 apples are added to the pile . How many apples are there in the pile ?"As if we're crafting a potion, each herb and element has a purpose. Brew with me: "Ingredients: 8.0 apples (packaged in 11.0 packages) + 5.0 apples = 13.0 apples"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 1026
+question: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 more bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?
+golden answer: 48781.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 more bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?"As a librarian categorizes books, let's sort the information accordingly: "Harvest of Wheat" can be categorized under "Agriculture" and "Farming" topics.Now, let's solve the problem:The farmer estimates that he will harvest 48097.0 bushels of wheat. The weather is perfect during the growing season, so he harvests 684.0 more bushels of wheat than expected.To find the total number of bushels of wheat the farmer harvests, we need to add the estimated harvest to the additional bushels harvested:48097.0 + 684.0 = 48781.0 bushels of wheat the farmer harvests.Therefore, the farmer harvests 48781.0 bushels of wheat.
+--------------------
+question_idx: 1105
+question: Zoe had 15.0 songs on her mp3 player . If she deleted 8.0 old songs from it and then added 50.0 new songs , how many songs does she have on her mp3 player ?
+golden answer: 57.0
+held-out prompt: "Like a blacksmith forging metal, let's shape our understanding with precision: "
+prompted answer: Zoe had 15.0 songs on her mp3 player . If she deleted 8.0 old songs from it and then added 50.0 new songs , how many songs does she have on her mp3 player ?"Like a blacksmith forging metal, let's shape our understanding with precision: "Zoe had 15.0 songs on her mp3 player." This is the given information we will work with. To solve the problem, we need to find out how many songs Zoe has on her mp3 player after she deleted 8.0 old songs and added 50.0 new songs.
+Deleting 8.0 old songs:
+Let's subtract 8.0 from 15.0 to find out how many songs Zoe had after deleting the old songs:
+15.0 - 8.0 = 7.0
+So, Zoe had 7.0 songs on her mp3 player after deleting 8.0 old songs.
+Adding 50.0 new songs:
+Let's add 50.0 to 7.0 to find out how many songs Zoe has on her mp3 player now:
+7.0 + 50.0 = 57.0
+So, Zoe has 57.0 songs on her mp3 player after adding 50.0 new songs.
+Therefore, the answer is 57.0 songs.
+--------------------
+question_idx: 1128
+question: 3.0 friends own a car in Florida . One owns 0.5833 of the car the second owns 0.1667 . How much does the third own ?
+golden answer: 0.25
+held-out prompt: "This is like a gardener pruning a plant, every cut makes it flourish: "
+prompted answer: 3.0 friends own a car in Florida . One owns 0.5833 of the car the second owns 0.1667 . How much does the third own ?"This is like a gardener pruning a plant, every cut makes it flourish: "The third friend owns 0.25."
+
+
+
+--------------------
+question_idx: 1131
+question: Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour . How long did Jeremy stroll ?
+golden answer: 10.0
+held-out prompt: "It's like sifting for gold, discarding the dirt to find the nuggets: "
+prompted answer: Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour . How long did Jeremy stroll ?"It's like sifting for gold, discarding the dirt to find the nuggets: " Jeremy strolled for 10.0 hours.
+To solve this problem, we need to use the formula: distance = speed x time. In this case, the distance traveled by Jeremy is 20.0 kilometers, and his speed is 2.0 kilometers per hour. Therefore, we can plug these values into the formula to find the time it took him to stroll:
+distance = speed x time
+20.0 km = 2.0 km/h x time
+time = distance / speed
+time = 20.0 km / 2.0 km/h
+time = 10.0 hours
+
+Therefore, Jeremy strolled for 10.0 hours.
+--------------------

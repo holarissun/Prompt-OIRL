@@ -1,0 +1,120 @@
+question_idx: 1
+question: Chloe was playing a trivia game . In the first round she scored 40.0 points and in the second round she scored 50.0 points . In the last round she lost 4.0 points . How many points did she have at the end of the game ?
+golden answer: 86.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 3
+question: For the school bake sale Wendy made pastries . She baked 41.0 cupcakes and 31.0 cookies . After the sale she had 32.0 to take back home . How many pastries did she sell ?
+golden answer: 40.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 12
+question: Before starting her shift , a waitress checks to make sure there is enough mustard for her customers . She finds 0.25 bottle at the first table , 0.25 bottle at the second table , and 0.375 bottle at the third table . Altogether , how many bottles of mustard does the waitress find ?
+golden answer: 0.875
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 15
+question: Emily was playing a video game and had 42.0 lives . In a hard part of the game she lost 25.0 lives . If she got 24.0 more lives in the next level , how many lives would she have ?
+golden answer: 41.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 16
+question: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?
+golden answer: 0.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 19
+question: Mike invited 13.0 friends to a birthday party , but 7.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 4.0 , how many should he buy ?
+golden answer: 24.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 25
+question: Jason joined his school 's band . He bought a flute for $ 142.46 , a music tool for $ 8.89 , and a song book for $ 7.0 . How much did Jason spend at the music store ?
+golden answer: 158.35
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 34
+question: Megan earned 8.0 points for each bag of cans she recycled . If she had 14.0 bags , but did n't recycle 5.0 of them , how many points would she have earned ?
+golden answer: 72.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 43
+question: Tim found 37.0 seashells and Sally found 13.0 seashells on the beach . When they cleaned them , they discovered that 25.0 were cracked . How many seashells did they find together ?
+golden answer: 50.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 45
+question: John had 6.0 action figures , but needed 11.0 total for a complete collection . If each one costs $ 6.0 , how much money would he need to finish his collection ?
+golden answer: 30.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 46
+question: Dale 's Vegetarian Restaurant bought 2.8333333333333335 pounds of green peppers and 2.8333333333333335 pounds of red peppers . How many pounds of peppers did Dale 's Vegetarian Restaurant buy in all ?
+golden answer: 5.666666666666667
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 47
+question: Wendy uploaded 45.0 pictures to Facebook . She put 27.0 pics into one album and put the rest into 9.0 different albums . How many pictures were in each album ?
+golden answer: 2.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 50
+question: Edward made 37.0 dollars mowing lawns over the summer . If he spent 21.0 dollars buying new mower blades , how many 2.0 dollar games could he buy with the money he had left ?
+golden answer: 8.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 52
+question: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?
+golden answer: 12.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 53
+question: Elisa has 37.0 dollars . How many more dollars does she have to earn to have 53.0 dollars ?
+golden answer: 16.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 59
+question: A trivia team had 11.0 members total , but during a game 6.0 members did n't show up . If each member that did show up scored 9.0 points , how many points were scored total ?
+golden answer: 45.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 64
+question: Mrs. Hilt looked at her car 's odometer before a trip . The odometer showed that she had traveled 212.3 miles . When she stopped for lunch , the odometer read 372.0 . How many miles had she traveled ?
+golden answer: 159.7
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 66
+question: Lana was unboxing some of her old winter clothes . She found 4.0 boxes of clothing and inside each box there were 2.0 scarves and 6.0 mittens . How many pieces of winter clothing did Lana have total ?
+golden answer: 32.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 68
+question: While shopping for music online , Zoe bought 3.0 country albums and 5.0 pop albums . Each album came with a lyric sheet and had 3.0 songs . How many songs did Zoe buy total ?
+golden answer: 24.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 69
+question: Paige had 43.0 math problems and 12.0 science problems for homework . If she finished 44.0 of the problems at school , how many problems did she have to do for homework ?
+golden answer: 11.0
+held-out prompt: 1
+prompted answer: 1
+--------------------

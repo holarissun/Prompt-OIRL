@@ -1,0 +1,120 @@
+question_idx: 4
+question: in 1 week an airplane pilot flew 1134 miles on tuesday and 1475 miles on thursday . if the pilot flies the same number of miles 3 weeks in a row how many miles does he fly in all ?
+golden answer: 7827.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 8
+question: jill invited 37 people to her birthday party . they each ate 8 pieces of pizza . how many pieces of pizza did they eat ?
+golden answer: 296.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 9
+question: mrs. hilt uses 2 ounces of detergent to wash a pound of clothes . how many ounces of soap will she use to wash 9 pounds of clothes ?
+golden answer: 18.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 14
+question: mrs. hilt is baking bread . she needs 5 cups of flour to bake 2 loaves of bread . how much flour will she need to make 1 loaf of bread ?
+golden answer: 2.5
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 15
+question: mrs. hilt saw a rollercoaster . 7 students rode the rollercoaster every 5 minutes . how many students rode the rollercoaster in 15 minutes ?
+golden answer: 21.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 17
+question: mrs. hilt measured the distance from her desk to the water fountain . it was 30 feet . how many feet will mrs. hilt walk on her trips to the fountain if she goes to the water fountain 4 times today ?
+golden answer: 120.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 31
+question: there 95 colored lights on a christmas tree . 26 of them are red 37 of them are yellow and the rest are blue . how many blue lights are there on the christmas tree ?
+golden answer: 32.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 33
+question: there are 54 passengers on a bus . 18 of them are men 26 of them are women and the rest are children . how many children are there on the bus ?
+golden answer: 10.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 38
+question: a restaurant has 94 pieces of cutlery . 38 are forks 27 are knives and the rest are spoons . how many spoons are there ?
+golden answer: 29.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 43
+question: 67 medals are displayed in the sports center . there are 19 gold medals and 32 silver medals . how many bronze medals are displayed ?
+golden answer: 16.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 44
+question: at a store there are 92 computers . 31 are sold . 20 are shipped away to a company . how many computers are left ?
+golden answer: 41.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 47
+question: there are 96 trees in a park . 15 of them are huge ancient oaks and another 23 of them are medium-sized fir trees . the rest are saplings . how many saplings are in the park ?
+golden answer: 58.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 65
+question: mother bought some potatoes . she used 15 of the potatoes to make salads and 24 of the potatoes for mashed potatoes . if there were 13 potatoes left how many potatoes did mother buy at first ?
+golden answer: 52.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 69
+question: gary had some stickers . he gave 42 stickers to lucy and 26 stickers to alex . if he had 31 stickers left how many stickers did gary have at first ?
+golden answer: 99.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 72
+question: a washing machine can wash 28 pounds of clothes per day . if there are 200 pounds of clothes to be washed per day how many washing machines are needed ?
+golden answer: 7.142857142857142
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 73
+question: there are 757 pounds of sand to be filled into bags . if each bag has a capacity of 65 pounds how many bags are needed ?
+golden answer: 11.646153846153846
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 74
+question: if simon needs to make 519 gift bags at a rate of 42 bags per day how many days does he need to finish making all the gift boxes ?
+golden answer: 12.357142857142858
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 76
+question: a box can hold 18 pieces of chalk . if there are 3484 pieces of chalk how many boxes are full to hold all the chalk ?
+golden answer: 193.5555555555556
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 80
+question: the capacity of a tank is 32 gallons . if a company bought 728 gallons of oil how many tanks are needed to hold all the oil ?
+golden answer: 22.75
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 81
+question: mrs. smith gave 53 strawberries to 8 girls equally . how many strawberries did each girl get ?
+golden answer: 6.625
+held-out prompt: 0
+prompted answer: 0
+--------------------

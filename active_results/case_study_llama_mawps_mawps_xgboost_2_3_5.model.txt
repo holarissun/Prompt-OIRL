@@ -1,0 +1,120 @@
+question_idx: 1
+question: Chloe was playing a trivia game . In the first round she scored 40.0 points and in the second round she scored 50.0 points . In the last round she lost 4.0 points . How many points did she have at the end of the game ?
+golden answer: 86.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 2
+question: Roger has 95.0 candies . He gives 3.0 to Stephanie . How many candies will Roger have ?
+golden answer: 92.0
+held-out prompt: 4
+prompted answer: 4
+--------------------
+question_idx: 16
+question: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?
+golden answer: 0.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 19
+question: Mike invited 13.0 friends to a birthday party , but 7.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 4.0 , how many should he buy ?
+golden answer: 24.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 25
+question: Jason joined his school 's band . He bought a flute for $ 142.46 , a music tool for $ 8.89 , and a song book for $ 7.0 . How much did Jason spend at the music store ?
+golden answer: 158.35
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 31
+question: Mike had 16.0 video games but 8.0 of them were n't working . If he wanted to sell the working games for $ 7.0 each , how much money could he earn ?
+golden answer: 56.0
+held-out prompt: 4
+prompted answer: 4
+--------------------
+question_idx: 37
+question: Janet picked 4.0 tulips and 11.0 roses to make flower bouquets . If she only used 11.0 of the flowers though , how many extra flowers did Janet pick ?
+golden answer: 4.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 38
+question: Melissa scored 120.0 points in each game . How many points did she score in 10.0 games ?
+golden answer: 1200.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 47
+question: Wendy uploaded 45.0 pictures to Facebook . She put 27.0 pics into one album and put the rest into 9.0 different albums . How many pictures were in each album ?
+golden answer: 2.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 57
+question: Melanie is selling 4.0 gumballs for eight cents each . How much money can Melanie get from selling the gumballs ?
+golden answer: 32.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 59
+question: A trivia team had 11.0 members total , but during a game 6.0 members did n't show up . If each member that did show up scored 9.0 points , how many points were scored total ?
+golden answer: 45.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 61
+question: Arthur removes 4.0 pencils from a jar . There were originally 87.0 pencils in the jar . How many pencils are left in the jar ?
+golden answer: 83.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 62
+question: There are 48.0 pencils and 40.0 scissors in the drawer . Joan placed 29.0 pencils in the drawer . How many pencils are now there in all ?
+golden answer: 77.0
+held-out prompt: 4
+prompted answer: 4
+--------------------
+question_idx: 64
+question: Mrs. Hilt looked at her car 's odometer before a trip . The odometer showed that she had traveled 212.3 miles . When she stopped for lunch , the odometer read 372.0 . How many miles had she traveled ?
+golden answer: 159.7
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 66
+question: Lana was unboxing some of her old winter clothes . She found 4.0 boxes of clothing and inside each box there were 2.0 scarves and 6.0 mittens . How many pieces of winter clothing did Lana have total ?
+golden answer: 32.0
+held-out prompt: 4
+prompted answer: 4
+--------------------
+question_idx: 67
+question: Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour . How long did Jeremy stroll ?
+golden answer: 10.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 70
+question: Will invited 9.0 friends to a birthday party , but 4.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 8.0 , how many should he buy ?
+golden answer: 40.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 71
+question: April 's discount flowers was having a sale where each rose was 7.0 dollars . If April started with 9.0 roses and had 4.0 roses left , how much money did she earn ?
+golden answer: 35.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 72
+question: Our watermelons have 100.0 seeds each . If we have 4.0 watermelons , how many seeds should there be when all seeds are taken out of the watermelons ?
+golden answer: 400.0
+held-out prompt: 4
+prompted answer: 4
+--------------------
+question_idx: 89
+question: At the schools book fair Victor bought 32.0 adventure books and 37.0 mystery books . If 16.0 of the books were used , how many new books did he buy ?
+golden answer: 53.0
+held-out prompt: 4
+prompted answer: 4
+--------------------

@@ -1,0 +1,1515 @@
+question_idx: 16
+question: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?
+golden answer: 0.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?"This is like a pot of stew, simmering to meld the flavors: "There are 97.0 erasers in a box. Ernest has 17.0 erasers in a bag. Mark takes 97.0 erasers out of the box. How many erasers are left in the box?"
+Answer:
+There are 79.0 erasers left in the box.
+Explanation:
+To find the number of erasers left in the box, we need to subtract the number of erasers taken by Mark from the total number of erasers in the box.
+97.0 erasers in the box - 97.0 erasers taken by Mark = 0 erasers left in the box
+So, there are 0 erasers left in the box.
+--------------------
+question_idx: 25
+question: Jason joined his school 's band . He bought a flute for $ 142.46 , a music tool for $ 8.89 , and a song book for $ 7.0 . How much did Jason spend at the music store ?
+golden answer: 158.35
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 34
+question: Megan earned 8.0 points for each bag of cans she recycled . If she had 14.0 bags , but did n't recycle 5.0 of them , how many points would she have earned ?
+golden answer: 72.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 36
+question: A 12.0 ounce can of cranberry juice sells for 84.0 cents . What is the cost in cents per ounce .
+golden answer: 7.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 38
+question: Melissa scored 120.0 points in each game . How many points did she score in 10.0 games ?
+golden answer: 1200.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: Melissa scored 120.0 points in each game . How many points did she score in 10.0 games ?"This is like a pot of stew, simmering to meld the flavors: "Melissa scored 120.0 points in each game. If she played 10 games, then she scored 1200.0 points in total.""
+Answer: 1200.0 points
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 45
+question: John had 6.0 action figures , but needed 11.0 total for a complete collection . If each one costs $ 6.0 , how much money would he need to finish his collection ?
+golden answer: 30.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 52
+question: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?
+golden answer: 12.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?"This is like a pot of stew, simmering to meld the flavors: "Kimberly has 5.0 Skittles. She buys 7.0 more. Later, Kimberly buys 18.0 oranges at the store. How many Skittles does Kimberly have in all?"
+Answer:
+Kimberly has 5.0 Skittles initially.
+When she buys 7.0 more Skittles, she now has 5 + 7 = 12 Skittles.
+Later, when she buys 18.0 oranges at the store, she does not get any more Skittles. So, Kimberly still has 12 Skittles.
+Therefore, Kimberly has 12 Skittles in all.
+--------------------
+question_idx: 57
+question: Melanie is selling 4.0 gumballs for eight cents each . How much money can Melanie get from selling the gumballs ?
+golden answer: 32.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: Melanie is selling 4.0 gumballs for eight cents each . How much money can Melanie get from selling the gumballs ?"This is like a pot of stew, simmering to meld the flavors: "Melanie is selling 4.0 gumballs for eight cents each. How much money can Melanie get from selling the gumballs?""The answer is 32 cents. To find this, you can multiply the number of gumballs by the price per gumball: 4.0 gumballs x 8 cents/gumball = 32 cents."
+Answer: 32 cents
+--------------------
+question_idx: 66
+question: Lana was unboxing some of her old winter clothes . She found 4.0 boxes of clothing and inside each box there were 2.0 scarves and 6.0 mittens . How many pieces of winter clothing did Lana have total ?
+golden answer: 32.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 67
+question: Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour . How long did Jeremy stroll ?
+golden answer: 10.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour . How long did Jeremy stroll ?"This is like a pot of stew, simmering to meld the flavors: "Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour. How long did Jeremy stroll?""
+Answer:
+Jeremy strolled for 10 hours.
+
+Explanation:
+To find out how long Jeremy strolled, we need to multiply the distance he traveled (20.0 kilometers) by the speed at which he traveled (2.0 kilometers per hour).
+20.0 kilometers x 2.0 kilometers per hour = 40.0 hours
+Since there are 1000 meters in 1 kilometer, we can convert the distance traveled from kilometers to meters:
+20.0 kilometers x 1000 meters/kilometer = 20,000 meters
+Now, we can divide the distance traveled (20,000 meters) by the speed at which Jeremy traveled (2.0 kilometers per hour) to find out how long he strolled:
+20,000 meters ÷ 2.0 kilometers per hour = 10 hours
+Therefore, Jeremy strolled for 10 hours.
+--------------------
+question_idx: 71
+question: April 's discount flowers was having a sale where each rose was 7.0 dollars . If April started with 9.0 roses and had 4.0 roses left , how much money did she earn ?
+golden answer: 35.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: April 's discount flowers was having a sale where each rose was 7.0 dollars . If April started with 9.0 roses and had 4.0 roses left , how much money did she earn ?"This is like a pot of stew, simmering to meld the flavors: "April started with 9.0 roses and had 4.0 roses left, so she earned $35.00 (9 x $7.00 - 4 x $7.00)."
+Answer: $35.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 75
+question: There was a stack of 700.0 sheets of used paper . Lexie wants to place it in boxes for recycling . If every box can contain 100.0 sheets , how many boxes does Lexie need ?
+golden answer: 7.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: There was a stack of 700.0 sheets of used paper . Lexie wants to place it in boxes for recycling . If every box can contain 100.0 sheets , how many boxes does Lexie need ?"It's like mining for gems; we dig deep, assessing each discovery: "How many sheets of paper can fit in each box?", we calculate. Lexie needs 7 boxes to store the used paper.
+--------------------
+question_idx: 93
+question: Melanie had 10.0 quarters and 17.0 pennies in her bank . Her dad gave her 27.0 pennies and her mother gave her 19.0 pennies . How many pennies does Melanie have now ?
+golden answer: 63.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 135
+question: Wendy earned 5.0 points for each bag of cans she recycled . If she had 11.0 bags , but did n't recycle 2.0 of them , how many points would she have earned ?
+golden answer: 45.0
+held-out prompt: 9
+prompted answer: 9
+--------------------
+question_idx: 148
+question: Bryan took a look at his books as well . If Bryan has 56.0 books in each of his 9.0 bookshelves , how many books does he have in total ?
+golden answer: 504.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 151
+question: Conner has 25000.0 dollars in his bank account . Every month he spends 1500.0 dollars . He does not add money to the account . How much money will Conner have in his account after 8.0 months ?
+golden answer: 13000.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 157
+question: It takes 4.0 apples to make 1.0 pie . How many apples does it take to make 504.0 pies ?
+golden answer: 2016.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 179
+question: Dana earns $ 13.0 per hour . She worked 9.0 hours on Friday , 10.0 hours on Saturday , and 3.0 hours on Sunday . How much money did Dana earn in all ?
+golden answer: 286.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 230
+question: Soft drinks are on sale at the grocery store for 2.99 dollars for a 12.0 pack . How much would each can of soft drink cost if purchased individually , in dollars ?
+golden answer: 0.25
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 242
+question: A worksheet had 4.0 problems on it . If a teacher had 9.0 worksheets to grade and had already graded 5.0 of them , how many more problems does she have to grade ?
+golden answer: 16.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 261
+question: Lucy has 212.0 fish . How many more fish does she need to buy to have 280.0 fish ?
+golden answer: 68.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 274
+question: How much would 136.0 pieces of bubble gum cost if each piece costs 18.0 cents ?
+golden answer: 2448.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 292
+question: The Richmond Tigers sold a total of 9570.0 tickets last season . If they sold 3867.0 tickets in the first half of the season , how many tickets did they sell in the second half ?
+golden answer: 5703.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: The Richmond Tigers sold a total of 9570.0 tickets last season . If they sold 3867.0 tickets in the first half of the season , how many tickets did they sell in the second half ?"It's like mining for gems; we dig deep, assessing each discovery: "The Tigers sold 3867.0 tickets in the first half of the season. To find out how many tickets they sold in the second half, we need to subtract the number of tickets sold in the first half from the total number of tickets sold last season. So, the number of tickets sold in the second half is: 9570.0 - 3867.0 = 5703.0 tickets."
+--------------------
+question_idx: 307
+question: The schools debate team had 5.0 boys and 40.0 girls on it . If they were split into groups of 9.0 how many groups could they make ?
+golden answer: 5.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: The schools debate team had 5.0 boys and 40.0 girls on it . If they were split into groups of 9.0 how many groups could they make ?"It's like mining for gems; we dig deep, assessing each discovery: "How many groups of 9.0 can we make with 40.0 girls and 5.0 boys?" we ask ourselves.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 315
+question: Benny received 79.0 dollars and 9.0 movie tickets for his birthday . He went to a sporting goods store and bought a baseball glove , baseball , and bat . He had 32.0 dollars over , how much did he spent on the baseball gear ?
+golden answer: 47.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 332
+question: The Sumata family took a 5.0 day vacation by car . Each day they drove 250.0 miles . How many total miles did they drive ?
+golden answer: 1250.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 339
+question: The value of a sport utility vehicle this year is 16000.0 dollars , which is 0.8 of what its value was last year . Find the value of the vehicle last year .
+golden answer: 20000.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 349
+question: 0.5 the students in the band are in the trumpet section . 0.125 the students in the band are in the trombone section . What fraction of the students in the band are in either the trumpet section or the trombone section ?
+golden answer: 0.625
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 355
+question: Keith spent $ 6.51 on a rabbit toy , $ 5.79 on pet food , and a cage cost him $ 12.51 . He found a dollar bill on the ground . What was the total cost of Keith 's purchases ?
+golden answer: 24.81
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Keith spent $ 6.51 on a rabbit toy , $ 5.79 on pet food , and a cage cost him $ 12.51 . He found a dollar bill on the ground . What was the total cost of Keith 's purchases ?"It's like mining for gems; we dig deep, assessing each discovery: "Keith spent $6.51 on a rabbit toy, $5.79 on pet food, and a cage cost him $12.51. He found a dollar bill on the ground." We tally the expenses: $6.51 + $5.79 + $12.51 = $24.81. Keith spent a total of $24.81 on his purchases."
+--------------------
+question_idx: 375
+question: Mrs. Hilt reads 5.0 books a day . How many books does she read in 3.0 days ?
+golden answer: 15.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 469
+question: Sean has 45.0 whistles . He has 32.0 more whistles that Charles . How many whistles does Charles have ?
+golden answer: 13.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Sean has 45.0 whistles . He has 32.0 more whistles that Charles . How many whistles does Charles have ?"It's like mining for gems; we dig deep, assessing each discovery: "This one's a keeper!""
+
+To find out how many whistles Charles has, we need to subtract Sean's whistles from the total number of whistles Sean has.
+So, Charles has:
+
+Charles has 45.0 - 32.0 = 13.0 whistles.
+--------------------
+question_idx: 496
+question: At a restaurant each adult meal costs $ 7.0 and kids eat free . If a group of 13.0 people came in and 9.0 were kids , how much would it cost for the group to eat ?
+golden answer: 28.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: At a restaurant each adult meal costs $ 7.0 and kids eat free . If a group of 13.0 people came in and 9.0 were kids , how much would it cost for the group to eat ?"This is like a pot of stew, simmering to meld the flavors: "Let's see, if 9 of the 13 people are kids, that means 4 adults. So, if each adult meal costs $7.0, then the total cost for the 4 adults would be $7.0 x 4 = $28.0. And if kids eat free, then the total cost for the 9 kids would be $0.0! So, the total cost for the entire group of 13 people would be $28.0 - $0.0 = $28.0."
+--------------------
+question_idx: 520
+question: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?
+golden answer: 48781.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?"This is like a pot of stew, simmering to meld the flavors: "The farmer estimates that he will harvest 48097.0 bushels of wheat." This is the total amount of wheat the farmer expects to harvest. Now, we are given that the weather is perfect during the growing season, so the farmer harvests 684.0 bushels of wheat more than expected. To find the total amount of wheat the farmer harvests, we need to add the expected amount to the excess amount: 48097.0 bushels + 684.0 bushels = 48781.0 bushels of wheat the farmer harvests.
+--------------------
+question_idx: 593
+question: Jane had been saving large empty cans to serve as pots for sunflowers . If she has 54.0 sunflower seeds and there are 9.0 cans , how many seeds will be placed in each can if she places an equal number of seeds in each can ?
+golden answer: 6.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: Jane had been saving large empty cans to serve as pots for sunflowers . If she has 54.0 sunflower seeds and there are 9.0 cans , how many seeds will be placed in each can if she places an equal number of seeds in each can ?"This is like a pot of stew, simmering to meld the flavors: "Let's see, if Jane has 54.0 sunflower seeds and there are 9.0 cans, if she places an equal number of seeds in each can, then how many seeds will be placed in each can? Hmm, let's see...if there are 9.0 cans, and she wants to place an equal number of seeds in each can, then she will place 6.0 seeds in each can. That's right, 6.0 sunflower seeds in each can!"
+--------------------
+question_idx: 637
+question: A trivia team had 5.0 members total , but during a game 2.0 members did n't show up . If each member that did show up scored 6.0 points , how many points were scored total ?
+golden answer: 18.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: A trivia team had 5.0 members total , but during a game 2.0 members did n't show up . If each member that did show up scored 6.0 points , how many points were scored total ?"This is like a pot of stew, simmering to meld the flavors: "A trivia team had 5.0 members total, but during a game 2.0 members didn't show up. If each member that did show up scored 6.0 points, how many points were scored total?""The answer to this problem is 12 points. Here's how we can calculate it:
+1. The trivia team had 5.0 members total, so if 2.0 members didn't show up, that means there were 3.0 members who did show up.
+2. Each member who did show up scored 6.0 points, so the total number of points scored by the 3.0 members who did show up is 3 x 6 = 18 points.
+3. To find the total number of points scored, we add the points scored by the members who did show up to the points scored by the members who didn't show up: 18 + 0 = 18 points.
+Therefore, the total number of points scored by the trivia team was 18 points."
+--------------------
+question_idx: 690
+question: Luke was organizing his baseball cards in a binder with 3.0 on each page . If he had 3.0 new cards and 9.0 old cards to put in the binder , how many pages would he use ?
+golden answer: 4.0
+held-out prompt: "As a chemist mixing solutions, each ingredient alters the result. Let's mix: "
+prompted answer: Luke was organizing his baseball cards in a binder with 3.0 on each page . If he had 3.0 new cards and 9.0 old cards to put in the binder , how many pages would he use ?"As a chemist mixing solutions, each ingredient alters the result. Let's mix: "Luke's baseball cards" with "pages in binder" and see what happens!
+Let's start by identifying the given information:
+New cards: 3.0
+Old cards: 9.0
+Total number of cards: 3.0 + 9.0 = 12.0
+Since Luke wants to organize his cards in a binder with 3.0 cards per page, he will need:
+12.0 cards / 3.0 cards per page = 4 pages
+So, Luke will use 4 pages to organize his baseball cards in his binder.
+--------------------
+question_idx: 696
+question: A construction company is repaving a damaged road . So far , they have repaved a total of 4938.0 inches of the road . Today , they repaved 805.0 inches of the road . How many inches of the road had they repaved before today ?
+golden answer: 4133.0
+held-out prompt: "As a carpenter joins wood, every angle and joint is crucial: "
+prompted answer: A construction company is repaving a damaged road . So far , they have repaved a total of 4938.0 inches of the road . Today , they repaved 805.0 inches of the road . How many inches of the road had they repaved before today ?"As a carpenter joins wood, every angle and joint is crucial: "The construction company has repaved a total of 4938.0 inches of the road so far. Today, they repaved 805.0 inches of the road, so before today, they had repaved 4133.0 inches of the road."
+--------------------
+question_idx: 708
+question: Joan had 695.0 Pokemon cards , and 6.0 were torn . Sara bought 133.0 of Joan 's Pokemon cards . How many Pokemon cards does Joan have now ?
+golden answer: 562.0
+held-out prompt: "This is like a pot of stew, simmering to meld the flavors: "
+prompted answer: Joan had 695.0 Pokemon cards , and 6.0 were torn . Sara bought 133.0 of Joan 's Pokemon cards . How many Pokemon cards does Joan have now ?"This is like a pot of stew, simmering to meld the flavors: "Joan had 695.0 Pokemon cards, and 6.0 were torn." This means that Joan had 695 Pokemon cards in total, and 6 of them were torn or damaged.
+Now, let's add the amount of Pokemon cards that Sara bought: "Sara bought 133.0 of Joan's Pokemon cards." This means that Sara bought 133 Pokemon cards from Joan.
+So, how many Pokemon cards does Joan have now? We can find this out by subtracting the number of cards that Sara bought from Joan's original total: "695.0 - 133.0 = 562.0."
+Joan now has 562 Pokemon cards.
+--------------------
+question_idx: 808
+question: Eve ran 0.7 mile and walked 0.6 mile . How much farther did Eve run than walk ?
+golden answer: 0.1
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: Eve ran 0.7 mile and walked 0.6 mile . How much farther did Eve run than walk ?"It's like mining for gems; we dig deep, assessing each discovery: "What is the distance Eve ran?" and "What is the distance Eve walked?" We compare the two distances and find that Eve ran 0.7 mile and walked 0.6 mile. Therefore, Eve ran 0.1 mile farther than she walked."
+Answer: Eve ran 0.1 mile farther than she walked.
+--------------------
+question_idx: 824
+question: If Heather bicycled 40.0 kilometers at 8.0 kilometers per hour , how long was Heather bicycling ?
+golden answer: 5.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: If Heather bicycled 40.0 kilometers at 8.0 kilometers per hour , how long was Heather bicycling ?"It's like mining for gems; we dig deep, assessing each discovery: "What is the context? What are the variables? What are the patterns?".
+We must be careful not to jump to conclusions, to avoid the pitfalls of confirmation bias. We must be open to alternative explanations, to consider the possibility that our initial assumptions may be wrong.
+In this case, we know that Heather bicycled for 40.0 kilometers, and we know her speed was 8.0 kilometers per hour. To find out how long she bicycled, we can use the formula:
+Time = Distance / Speed
+Plugging in the values we know, we get:
+Time = 40.0 kilometers / 8.0 kilometers per hour = 5.0 hours
+So Heather bicycled for 5.0 hours.
+--------------------

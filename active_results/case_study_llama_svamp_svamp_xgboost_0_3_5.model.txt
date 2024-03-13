@@ -1,0 +1,285 @@
+question_idx: 4
+question: in 1 week an airplane pilot flew 1134 miles on tuesday and 1475 miles on thursday . if the pilot flies the same number of miles 3 weeks in a row how many miles does he fly in all ?
+golden answer: 7827.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 19
+question: lucy has 212 fish . how many more fish does she need to buy to have 280 fish ?
+golden answer: 68.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 26
+question: there are some children at a bakery . as they were deciding what to buy 24 girls came in and 31 boys left . if there are 78 children in the bakery in the end how many children were there at first ?
+golden answer: 85.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 27
+question: blithe has a lot of toys . he lost 6 of them and found 9 in his closet . if he had 43 after that how many toys did blithe have at first ?
+golden answer: 40.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 28
+question: lena had some pocket money . she lost $ 4 and her mom gave her $ 9 . if she had $ 66 after that how many dollars did lena have at first ?
+golden answer: 61.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 30
+question: bruno had some story books . he lost 4 of them and his dad gave him 10 more books . if he had 39 books after that how many books did bruno have at first ?
+golden answer: 33.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 36
+question: there are a total of 90 items at a bakery . 49 of them are bread rolls and 19 of them are croissants . how many bagels are there ?
+golden answer: 22.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 59
+question: sam has 58 power ranger stickers . he bundles them up in 2 boxes . if there are 23 power ranger stickers in the first box how many more power ranger stickers are there in the second box than the first box ?
+golden answer: 12.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 60
+question: beryl has 88 radishes . she puts them into 2 baskets . if there are 37 radishes in the first basket how many more radishes are there in the second basket than the first ?
+golden answer: 14.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 61
+question: there are 56 students in the class . the teacher wants to split them into 2 groups . the first group has 24 students . how many more students will there be in the second group ?
+golden answer: 8.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 71
+question: a car dealer sold 14 cars on the first day 16 cars on the second day and 27 cars on the third day . how many cars did the car dealer sell on the 3 days ?
+golden answer: 57.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 73
+question: there are 757 pounds of sand to be filled into bags . if each bag has a capacity of 65 pounds how many bags are needed ?
+golden answer: 11.646153846153846
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 81
+question: mrs. smith gave 53 strawberries to 8 girls equally . how many strawberries did each girl get ?
+golden answer: 6.625
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 83
+question: 86 students are going hiking . each school- bus can take 9 students . how many school-buses are needed ?
+golden answer: 9.555555555555555
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 84
+question: the teacher gave 42 pencils to 12 students equally . how many pencils did each student get ?
+golden answer: 3.5
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 86
+question: there were 44 laptops in the shop and mike divided them equally into 5 rows . how many laptops are there in each row ?
+golden answer: 8.8
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 90
+question: there are 32 students in the class . the teacher divided them into 5 equal groups . how many students are there in each group ?
+golden answer: 6.4
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 91
+question: a transport company bought 95 tons of oil . a large barrel can hold 6 tons of oil and a small barrel can hold 5 tons of oil . in order to use the least number of barrels and have every barrel fully occupied how many large barrels should be used ?
+golden answer: 15.833333333333336
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 92
+question: 15 students split 122 portfolios of paintings . each student should get the same number of portfolios . how many portfolios of paintings will each of them get ?
+golden answer: 8.133333333333333
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 93
+question: 172 students are forming teams for a mountaineering competition . each team should have 18 students . how many teams can they form ?
+golden answer: 9.555555555555555
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 204
+question: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?
+golden answer: 8.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?"As a librarian categorizes books, let's sort the information accordingly: "Brian ran around the school track in 96 seconds" and "Todd ran around it in 88 seconds."Now, to find out how many fewer seconds it took Todd to run around the track, we need to subtract the time it took Brian to run around the track from the time it took Todd to run around the track.
+96 seconds - 88 seconds = 8 seconds
+So, it took Todd 8 fewer seconds to run around the track than it took Brian.
+--------------------
+question_idx: 312
+question: a mailman has to give out 192 pieces of junk mail . if he goes to 4 blocks how many pieces of junk mail should he give each block ?
+golden answer: 48.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: a mailman has to give out 192 pieces of junk mail . if he goes to 4 blocks how many pieces of junk mail should he give each block ?"As a librarian categorizes books, let's sort the information accordingly: "A mailman has to deliver 192 pieces of junk mail.
+To determine how many pieces of junk mail the mailman should give to each block, we need to divide the total number of pieces of junk mail by the number of blocks he needs to deliver to.
+Let's assume the mailman needs to deliver the junk mail to 4 blocks.
+So, to calculate the number of pieces of junk mail each block should receive, we can divide the total number of pieces of junk mail (192) by the number of blocks (4):
+192 ÷ 4 = 48
+So, each block should receive 48 pieces of junk mail.
+--------------------
+question_idx: 898
+question: julia played tag with 7 kids on monday and 13 kids on tuesday . she played cards wtih 20 kids on wednesday . how many kids did she play tag with altogether ?
+golden answer: 20.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: julia played tag with 7 kids on monday and 13 kids on tuesday . she played cards wtih 20 kids on wednesday . how many kids did she play tag with altogether ?"As a librarian categorizes books, let's sort the information accordingly: "Tag" is a specific activity that Julia played with different groups of kids.
+1. Monday: Julia played tag with 7 kids.
+2. Tuesday: Julia played tag with 13 kids.
+3. Wednesday: Julia played cards with 20 kids.
+Now, let's calculate the total number of kids Julia played tag with:
+Total number of kids Julia played tag with = 7 + 13 = 20
+Therefore, Julia played tag with 20 kids altogether.
+--------------------
+question_idx: 1002
+question: 6 birds and 3 storks were sitting on the fence . 2 more storks came to join them . how many more birds than storks are sitting on the fence ?
+golden answer: 1.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: 6 birds and 3 storks were sitting on the fence . 2 more storks came to join them . how many more birds than storks are sitting on the fence ?"As a librarian categorizes books, let's sort the information accordingly: "Birds" and "Storks" are two different categories.
+Let's start by identifying the number of birds and storks initially sitting on the fence:
+Birds: 6
+Storks: 3
+Now, let's find out how many more storks came to join them:
+New storks: 2
+So, the total number of storks sitting on the fence after the new ones arrived is:
+Storks: 3 + 2 = 5
+Now, let's find out how many more birds than storks are sitting on the fence:
+Birds: 6 - 5 = 1
+Therefore, there is 1 more bird than stork sitting on the fence.
+--------------------
+question_idx: 1010
+question: after eating a hearty meal they went to see the buckingham palace . there rachel learned that 317 visitors came to the buckingham palace that day . if there were 295 visitors the previous day how many more visitors visited the buckingham palace on that day than on the previous day ?
+golden answer: 22.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: after eating a hearty meal they went to see the buckingham palace . there rachel learned that 317 visitors came to the buckingham palace that day . if there were 295 visitors the previous day how many more visitors visited the buckingham palace on that day than on the previous day ?"As a librarian categorizes books, let's sort the information accordingly: "Number of visitors to Buckingham Palace" = 317 - 295 = 22 visitors more than the previous day.
+So, 22 visitors visited Buckingham Palace on that day more than on the previous day.
+--------------------
+question_idx: 1079
+question: there were 5 roses and 3 orchids in the vase . jessica cut some more roses and orchids from her flower garden . there are now 12 roses and 2 orchids in the vase . how many more roses than orchids are there in the vase now ?
+golden answer: 10.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: there were 5 roses and 3 orchids in the vase . jessica cut some more roses and orchids from her flower garden . there are now 12 roses and 2 orchids in the vase . how many more roses than orchids are there in the vase now ?"As a librarian categorizes books, let's sort the information accordingly: "How many roses are there in the vase now?" and "How many orchids are there in the vase now?"
+Љ�
+Let's start by identifying the information given in the problem:
+1. There were 5 roses and 3 orchids in the vase initially.
+2. Jessica cut some more roses and orchids from her flower garden.
+3. There are now 12 roses and 2 orchids in the vase.
+Now, let's analyze the information:
+1. The number of roses in the vase increased from 5 to 12.
+2. The number of orchids in the vase increased from 3 to 2.
+So, the difference between the number of roses and orchids in the vase now is:
+12 - 2 = 10
+There are 10 more roses than orchids in the vase now.
+--------------------
+question_idx: 1240
+question: there are 16 different books and 14 different movies in the ' crazy silly school ' series . if you read 19 of the books and watched 13 of the movies how many more books than movies are there in the ' crazy silly school ' series ?
+golden answer: 2.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: there are 16 different books and 14 different movies in the ' crazy silly school ' series . if you read 19 of the books and watched 13 of the movies how many more books than movies are there in the ' crazy silly school ' series ?"As a librarian categorizes books, let's sort the information accordingly: "Crazy Silly School" series consists of 16 books and 14 movies.
+To find out how many more books than movies are in the series, we need to subtract the number of movies from the number of books:
+16 books - 14 movies = 2 more books
+So, there are 2 more books in the "Crazy Silly School" series than movies.
+--------------------
+question_idx: 1500
+question: frank was reading through his favorite book . it took him 16 days to finish the book . if the book had 112 pages how many pages did he read per day ?
+golden answer: 7.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: frank was reading through his favorite book . it took him 16 days to finish the book . if the book had 112 pages how many pages did he read per day ?"As a librarian categorizes books, let's sort the information accordingly: "Book Length" and "Reading Speed"Let's start by identifying the length of the book: "The book had 112 pages."Now, let's calculate Frank's reading speed: "It took him 16 days to finish the book."To find out how many pages Frank read per day, we can use the following formula:Pages Read per Day = Total Number of Pages / Number of DaysTo calculate the number of pages Frank read per day, we need to divide the total number of pages in the book (112 pages) by the number of days it took him to finish the book (16 days):Pages Read per Day = 112 pages / 16 days = 7 pages per dayFrank read 7 pages per day.
+
+
+
+--------------------
+question_idx: 1812
+question: I have 80.0 cents to buy candy . If each gumdrop costs 4.0 cents , how many gumdrops can I buy ?
+golden answer: 20.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: I have 80.0 cents to buy candy . If each gumdrop costs 4.0 cents , how many gumdrops can I buy ?"As a librarian categorizes books, let's sort the information accordingly: "Cents" is a unit of measurement, and "gumdrops" is a specific item that can be bought with the cents.So, to answer your question, you can buy 80.0 cents / 4.0 cents per gumdrop = 20 gumdrops.
+--------------------
+question_idx: 1847
+question: How many yards of material from a 24.0 yard length of cloth remains after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 long are removed ?
+golden answer: 2.25
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: How many yards of material from a 24.0 yard length of cloth remains after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 long are removed ?"As a librarian categorizes books, let's sort the information accordingly: "Remaining length of cloth" = "Answer"Let's analyze the problem:We are given that the length of cloth is 24.0 yards.We are asked to find the remaining length of cloth after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 yards long are removed.So, we need to find the total length of cloth that is left after removing the given pieces.To do this, we can use the formula:Total length = Remaining length - Total length of piecesWe know that the total length of the pieces is 3 x 3.5 = 10.5 yards + 5 x 2.25 = 11.25 yards = 21.75 yardsSo, the remaining length of cloth is:Total length = 24.0 - 21.75 = 2.25 yards = 2.25 yardsThe answer is 2.25 yards.
+--------------------
+question_idx: 1866
+question: A store had 50.0 oranges in a bin . If they threw away 40.0 of the old ones and put 24.0 new ones in the bin how many would be in the bin ?
+golden answer: 34.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A store had 50.0 oranges in a bin . If they threw away 40.0 of the old ones and put 24.0 new ones in the bin how many would be in the bin ?"As a librarian categorizes books, let's sort the information accordingly: "A store had 50.0 oranges in a bin."This statement is a factual statement about the quantity of oranges in the bin. It does not provide any information about the age or condition of the oranges. "If they threw away 40.0 of the old ones and put 24.0 new ones in the bin."This statement is also a factual statement about the quantity of oranges in the bin, but it provides additional information about the number of oranges that were thrown away and the number of new oranges that were added to the bin. "How many would be in the bin?"This is a question asking for an estimate or calculation of the total number of oranges in the bin after the old ones were thrown away and the new ones were added.To answer this question, we need to use the information provided in the passage: "A store had 50.0 oranges in a bin."So, the total number of oranges in the bin before any were thrown away or added is 50.0.Then, we are told that 40.0 of the old oranges were thrown away, leaving 10.0 oranges in the bin.Additionally, 24.0 new oranges were added to the bin, bringing the total number of oranges in the bin to 10.0 + 24.0 = 34.0 oranges.Therefore, there would be 34.0 oranges in the bin after the old ones were thrown away and the new ones were added.
+--------------------
+question_idx: 1924
+question: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?
+golden answer: 48781.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?"As a librarian categorizes books, let's sort the information accordingly: "Harvest of Wheat"Let's start by identifying the given information:1. The farmer will harvest 48097.0 bushels of wheat.2. The weather is perfect during the growing season, so the farmer harvests 684.0 bushels more than expected.Now, let's analyze the information:The farmer will harvest 48097.0 bushels of wheat. This is the total amount of wheat the farmer will harvest.The weather is perfect during the growing season, so the farmer harvests 684.0 bushels more than expected. This means that the actual amount of wheat harvested is 48097.0 + 684.0 = 48781.0 bushels.Therefore, the farmer harvests 48781.0 bushels of wheat.
+--------------------
+question_idx: 2063
+question: Will had 83.0 dollars . If he spent 47.0 bucks on a new game , how many 4.0 dollar toys could he buy with the money he had left ?
+golden answer: 9.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Will had 83.0 dollars . If he spent 47.0 bucks on a new game , how many 4.0 dollar toys could he buy with the money he had left ?"As a librarian categorizes books, let's sort the information accordingly: "Money" is the key term here, so we'll put it in a separate category. Will had 83.0 dollars, and he spent 47.0 dollars on a new game. So, he has 83.0 - 47.0 = 36.0 dollars left.Now, let's see how many 4.0 dollar toys Will could buy with the money he has left:36.0 dollars / 4.0 dollars per toy = 9 toysNow, we can answer the question: Will could buy 9 toys with the money he had left.
+--------------------
+question_idx: 2356
+question: There were 13.0 friends playing a video game online when 8.0 players quit . If each player left had 6.0 lives , how many lives did they have total ?
+golden answer: 30.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: There were 13.0 friends playing a video game online when 8.0 players quit . If each player left had 6.0 lives , how many lives did they have total ?"As a librarian categorizes books, let's sort the information accordingly: "There were 13.0 friends playing a video game online when 8.0 players quit."Let's start by identifying the number of friends playing the video game: 13.0 friendsNow, let's find out how many players quit: 8.0 players quitSo, the number of players left playing the game is: 13.0 - 8.0 = 5.0 playersNow, let's find out how many lives each player had: Each player had 6.0 livesSo, the total number of lives the 5.0 players had is: 5.0 x 6.0 = 30.0 livesTherefore, the answer is 30.0 lives.
+--------------------
+question_idx: 2590
+question: There are 8.0 marbles in each box . How many marbles are in 6.0 boxes ?
+golden answer: 48.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: There are 8.0 marbles in each box . How many marbles are in 6.0 boxes ?"As a librarian categorizes books, let's sort the information accordingly: "There are 8.0 marbles in each box" can be categorized under "Quantity of marbles per box" and "How many marbles are in 6.0 boxes" can be categorized under "Total number of marbles".So, the answer to the question "How many marbles are in 6.0 boxes?" is:Total number of marbles = 6.0 boxes x Quantity of marbles per box = 6.0 boxes x 8.0 marbles/box = 48.0 marbles
+--------------------
+question_idx: 2609
+question: Wendy picked 103.0 flowers for her friend ’ s wedding . She was making bouquets with 8.0 flowers in each one . If 47.0 of the flowers wilted before the wedding , how many bouquets could she still make ?
+golden answer: 7.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Wendy picked 103.0 flowers for her friend ’ s wedding . She was making bouquets with 8.0 flowers in each one . If 47.0 of the flowers wilted before the wedding , how many bouquets could she still make ?"As a librarian categorizes books, let's sort the information accordingly: "Flowers picked for wedding: 103.0" "Bouquets made with 8.0 flowers each: 103.0 / 8.0 = 13.0 bouquets" "Flowers that wilted before wedding: 47.0" "Number of bouquets left: 13.0 - 47.0 = 7.0 bouquets"So, Wendy could still make 7 bouquets for her friend's wedding.
+--------------------
+question_idx: 2888
+question: A store had 40.0 oranges in a bin . If they threw away 37.0 of the old ones and put 7.0 new ones in the bin how many would be in the bin ?
+golden answer: 10.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A store had 40.0 oranges in a bin . If they threw away 37.0 of the old ones and put 7.0 new ones in the bin how many would be in the bin ?"As a librarian categorizes books, let's sort the information accordingly: "Oranges in the bin" can be categorized under "Quantities" and "New oranges" can be categorized under "Addition."Now, let's solve the problem:The original number of oranges in the bin was 40.0 oranges.This means that the quantity of oranges in the bin before any changes was 40.0.Now, the problem states that 37.0 of the old oranges were thrown away, which means that the quantity of oranges in the bin after the old oranges were thrown away is:40.0 - 37.0 = 3.0 oranges.Finally, the problem states that 7.0 new oranges were added to the bin, which means that the updated quantity of oranges in the bin is:3.0 + 7.0 = 10.0 oranges.Therefore, there are 10.0 oranges in the bin after the changes.
+--------------------
+question_idx: 3040
+question: The schools debate team had 11.0 boys and 45.0 girls on it . If they were split into groups of 7.0 how many groups could they make ?
+golden answer: 8.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: The schools debate team had 11.0 boys and 45.0 girls on it . If they were split into groups of 7.0 how many groups could they make ?"As a librarian categorizes books, let's sort the information accordingly: "Schools Debate Team" is the context, "11.0 boys" and "45.0 girls" are the given numbers, and "groups of 7.0" is the problem.
+To solve this problem, we need to divide the total number of students (11 + 45 = 56) by 7, which gives us 8 groups.
+So, the answer is 8 groups.
+--------------------
+question_idx: 3205
+question: Ruby has 63.0 apples . Emily takes 55.0 away . How many apples will Ruby have ?
+golden answer: 8.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Ruby has 63.0 apples . Emily takes 55.0 away . How many apples will Ruby have ?"As a librarian categorizes books, let's sort the information accordingly: "Ruby has 63.0 apples" can be categorized under "Initial Information" since it provides the initial quantity of apples that Ruby has. "Emily takes 55.0 away" can be categorized under "Subtraction" since it describes the action of subtracting a quantity from Ruby's initial apples.Now, let's solve the problem:To find out how many apples Ruby will have after Emily takes 55.0 away, we need to subtract 55.0 from Ruby's initial quantity of 63.0. So, the answer is:Ruby will have 63.0 - 55.0 = 8.0 apples left after Emily takes them away.
+--------------------
+question_idx: 4158
+question: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?
+golden answer: 8.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?"As a librarian categorizes books, let's sort the information accordingly: "Brian ran around the school track in 96 seconds" and "Todd ran around it in 88 seconds."Now, to find out how many fewer seconds it took Todd to run around the track, we need to subtract the time it took Brian to run around the track from the time it took Todd to run around the track.
+96 seconds - 88 seconds = 8 seconds
+So, it took Todd 8 fewer seconds to run around the track than it took Brian.
+--------------------

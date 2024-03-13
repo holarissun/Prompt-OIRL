@@ -1,0 +1,121 @@
+question_idx: 1
+question_idx: 1
+question: Chloe was playing a trivia game . In the first round she scored 40.0 points and in the second round she scored 50.0 points . In the last round she lost 4.0 points . How many points did she have at the end of the game ?
+golden answer: 86.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 12
+question: Before starting her shift , a waitress checks to make sure there is enough mustard for her customers . She finds 0.25 bottle at the first table , 0.25 bottle at the second table , and 0.375 bottle at the third table . Altogether , how many bottles of mustard does the waitress find ?
+golden answer: 0.875
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 16
+question: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?
+golden answer: 0.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 19
+question: Mike invited 13.0 friends to a birthday party , but 7.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 4.0 , how many should he buy ?
+golden answer: 24.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 25
+question: Jason joined his school 's band . He bought a flute for $ 142.46 , a music tool for $ 8.89 , and a song book for $ 7.0 . How much did Jason spend at the music store ?
+golden answer: 158.35
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 36
+question: A 12.0 ounce can of cranberry juice sells for 84.0 cents . What is the cost in cents per ounce .
+golden answer: 7.0
+held-out prompt: 9
+prompted answer: 9
+--------------------
+question_idx: 44
+question: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?
+golden answer: 7.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 46
+question: Dale 's Vegetarian Restaurant bought 2.8333333333333335 pounds of green peppers and 2.8333333333333335 pounds of red peppers . How many pounds of peppers did Dale 's Vegetarian Restaurant buy in all ?
+golden answer: 5.666666666666667
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 52
+question: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?
+golden answer: 12.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 59
+question: A trivia team had 11.0 members total , but during a game 6.0 members did n't show up . If each member that did show up scored 9.0 points , how many points were scored total ?
+golden answer: 45.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 64
+question: Mrs. Hilt looked at her car 's odometer before a trip . The odometer showed that she had traveled 212.3 miles . When she stopped for lunch , the odometer read 372.0 . How many miles had she traveled ?
+golden answer: 159.7
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 67
+question: Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour . How long did Jeremy stroll ?
+golden answer: 10.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 91
+question: Tom bought a skateboard for $ 9.46 , and spent $ 9.56 on marbles . Tom also spent $ 14.5 on shorts . In total , how much did Tom spend on toys ?
+golden answer: 19.02
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 103
+question: A store had 40.0 coloring books in stock . They ended up putting them on sale and getting rid of 20.0 of them . The put the ones they still had onto shelves with 4.0 on each shelf . How many shelves did they use ?
+golden answer: 5.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 123
+question: A trivia team had 12.0 members total , but during a game 4.0 members did n't show up . If each member that did show up scored 8.0 points , how many points were scored total ?
+golden answer: 64.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 140
+question: A furniture store has a chair , originally priced at 78.0 dollars , on sale for 46.0 dollars . What is the percent of decrease , rounded to the nearest tenth ?
+golden answer: 41.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 151
+question: Conner has 25000.0 dollars in his bank account . Every month he spends 1500.0 dollars . He does not add money to the account . How much money will Conner have in his account after 8.0 months ?
+golden answer: 13000.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 156
+question: A chef needs to cook 15.0 potatoes . He has already cooked 8.0 . If each potato takes 9.0 minutes to cook , how long will it take him to cook the rest ?
+golden answer: 63.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 158
+question: Isabel baked 3.0 brownies , but needed 5.0 total for her party . If she used 5.0 cups of flour on each one , how much cups of flour does she still need ?
+golden answer: 10.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 164
+question: Frank made 19.0 dollars mowing lawns over the summer . If he spent 11.0 dollars buying new mower blades , how many 2.0 dollar games could he buy with the money he had left ?
+golden answer: 4.0
+held-out prompt: 0
+prompted answer: 0
+--------------------

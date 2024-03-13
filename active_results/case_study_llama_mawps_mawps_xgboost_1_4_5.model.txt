@@ -1,0 +1,126 @@
+question_idx: 13
+question: There were 3409.0 pieces of candy in a jar . If 145.0 pieces were red and the rest were blue , how many were blue ?
+golden answer: 3264.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 25
+question: Jason joined his school 's band . He bought a flute for $ 142.46 , a music tool for $ 8.89 , and a song book for $ 7.0 . How much did Jason spend at the music store ?
+golden answer: 158.35
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 34
+question: Megan earned 8.0 points for each bag of cans she recycled . If she had 14.0 bags , but did n't recycle 5.0 of them , how many points would she have earned ?
+golden answer: 72.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 37
+question: Janet picked 4.0 tulips and 11.0 roses to make flower bouquets . If she only used 11.0 of the flowers though , how many extra flowers did Janet pick ?
+golden answer: 4.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 44
+question: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?
+golden answer: 7.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 46
+question: Dale 's Vegetarian Restaurant bought 2.8333333333333335 pounds of green peppers and 2.8333333333333335 pounds of red peppers . How many pounds of peppers did Dale 's Vegetarian Restaurant buy in all ?
+golden answer: 5.666666666666667
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 53
+question: Elisa has 37.0 dollars . How many more dollars does she have to earn to have 53.0 dollars ?
+golden answer: 16.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 59
+question: A trivia team had 11.0 members total , but during a game 6.0 members did n't show up . If each member that did show up scored 9.0 points , how many points were scored total ?
+golden answer: 45.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 61
+question: Arthur removes 4.0 pencils from a jar . There were originally 87.0 pencils in the jar . How many pencils are left in the jar ?
+golden answer: 83.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 65
+question: Roger had 68.0 dollars . If he spent 47.0 bucks on a new game , how many 7.0 dollar toys could he buy with the money he had left ?
+golden answer: 3.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 69
+question: Paige had 43.0 math problems and 12.0 science problems for homework . If she finished 44.0 of the problems at school , how many problems did she have to do for homework ?
+golden answer: 11.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 71
+question: April 's discount flowers was having a sale where each rose was 7.0 dollars . If April started with 9.0 roses and had 4.0 roses left , how much money did she earn ?
+golden answer: 35.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 75
+question: There was a stack of 700.0 sheets of used paper . Lexie wants to place it in boxes for recycling . If every box can contain 100.0 sheets , how many boxes does Lexie need ?
+golden answer: 7.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 87
+question: In a video game , each enemy defeated gives you 3.0 points . If a level has 6.0 enemies total and you destroy all but 2.0 of them , how many points would you earn ?
+golden answer: 12.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 91
+question: Tom bought a skateboard for $ 9.46 , and spent $ 9.56 on marbles . Tom also spent $ 14.5 on shorts . In total , how much did Tom spend on toys ?
+golden answer: 19.02
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 93
+question: Melanie had 10.0 quarters and 17.0 pennies in her bank . Her dad gave her 27.0 pennies and her mother gave her 19.0 pennies . How many pennies does Melanie have now ?
+golden answer: 63.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 110
+question: At Lindsey 's Vacation Wear , 0.375 the garments are bikinis and 0.25 are trunks . What fraction of the garments are either bikinis or trunks ?
+golden answer: 0.625
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 126
+question: A waiter had 14.0 customers to wait on . If 3.0 customers left and he got another 39.0 customers , how many customers would he have ?
+golden answer: 50.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 136
+question: Lena drove 204.0 miles . Using 10.0 gallons of gas at this rate , how many gallons of gas would she need to drive 255.0 miles ?
+golden answer: 12.5
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 139
+question: I have 224.0 cents to buy candy . If each piece of bulk candy costs 8.0 cents , how many gumdrops can I buy ?
+golden answer: 28.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 1656
+question: Ellen made smoothies in the blender . She used 0.2 cup of strawberries , 0.1 cup of yogurt , and 0.2 cup of orange juice . How many cups of ingredients did Ellen use for the smoothies ?
+golden answer: 0.5
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: Ellen made smoothies in the blender . She used 0.2 cup of strawberries , 0.1 cup of yogurt , and 0.2 cup of orange juice . How many cups of ingredients did Ellen use for the smoothies ?"As a cartographer maps terrains, let's chart the nuances and details: "Ellen used 0.1 cup of yogurt, 0.2 cup of strawberries, and 0.2 cup of orange juice to make the smoothies. Therefore, the total number of cups of ingredients used by Ellen is 0.1 + 0.2 + 0.2 = 0.5 cups."
+--------------------

@@ -1,0 +1,255 @@
+question_idx: 4
+question: in 1 week an airplane pilot flew 1134 miles on tuesday and 1475 miles on thursday . if the pilot flies the same number of miles 3 weeks in a row how many miles does he fly in all ?
+golden answer: 7827.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 14
+question: mrs. hilt is baking bread . she needs 5 cups of flour to bake 2 loaves of bread . how much flour will she need to make 1 loaf of bread ?
+golden answer: 2.5
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 17
+question: mrs. hilt measured the distance from her desk to the water fountain . it was 30 feet . how many feet will mrs. hilt walk on her trips to the fountain if she goes to the water fountain 4 times today ?
+golden answer: 120.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 18
+question: lucy has an aquarium with 212 fish . she wants to buy 68 more fish . how many fish would lucy have then ?
+golden answer: 280.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 23
+question: each bag contains 23 pounds of oranges . how many pounds of oranges are in 45 bags ?
+golden answer: 1035.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 28
+question: lena had some pocket money . she lost $ 4 and her mom gave her $ 9 . if she had $ 66 after that how many dollars did lena have at first ?
+golden answer: 61.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 30
+question: bruno had some story books . he lost 4 of them and his dad gave him 10 more books . if he had 39 books after that how many books did bruno have at first ?
+golden answer: 33.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 49
+question: a mirror store has 78 mirrors in stock . 8 mirrors are broken and 57 mirrors are sold . how many mirrors are left ?
+golden answer: 13.0
+held-out prompt: 9
+prompted answer: 9
+--------------------
+question_idx: 64
+question: an online toy store stocked some toys . it sold 38 toys at the first week and 26 toys at the second week . if it had 19 toys left how many toys were in stock at the beginning ?
+golden answer: 83.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 69
+question: gary had some stickers . he gave 42 stickers to lucy and 26 stickers to alex . if he had 31 stickers left how many stickers did gary have at first ?
+golden answer: 99.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 76
+question: a box can hold 18 pieces of chalk . if there are 3484 pieces of chalk how many boxes are full to hold all the chalk ?
+golden answer: 193.5555555555556
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 77
+question: a paper bag can hold 16 cookies . if edgar buys 292 cookies how many paper bags does he need ?
+golden answer: 18.25
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 80
+question: the capacity of a tank is 32 gallons . if a company bought 728 gallons of oil how many tanks are needed to hold all the oil ?
+golden answer: 22.75
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 82
+question: tom had $ 19 and he wanted to buy as many folders as he could . if 1 folder costs $ 2 how many folders can tom buy ?
+golden answer: 9.5
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 86
+question: there were 44 laptops in the shop and mike divided them equally into 5 rows . how many laptops are there in each row ?
+golden answer: 8.8
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 87
+question: there are 22 dogs in the farm . they live in 5 dog-houses equally . how many dogs are there in each dog-house ?
+golden answer: 4.4
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 88
+question: divide 39 balloons into 7 equal groups . how many balloons are there in each group ?
+golden answer: 5.571428571428571
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 91
+question: a transport company bought 95 tons of oil . a large barrel can hold 6 tons of oil and a small barrel can hold 5 tons of oil . in order to use the least number of barrels and have every barrel fully occupied how many large barrels should be used ?
+golden answer: 15.833333333333336
+held-out prompt: 9
+prompted answer: 9
+--------------------
+question_idx: 93
+question: 172 students are forming teams for a mountaineering competition . each team should have 18 students . how many teams can they form ?
+golden answer: 9.555555555555555
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 97
+question: a ballet class wants to divide its 90 members into some large groups at 7 members each and some small groups at 3 members each . in order to make the least number of groups how many large groups should be made ?
+golden answer: 12.857142857142858
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 571
+question: while shopping maria bought 35 green towels and 21 white towels . if she gave her mother 34 of them how many towels did maria end up with ?
+golden answer: 22.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: while shopping maria bought 35 green towels and 21 white towels . if she gave her mother 34 of them how many towels did maria end up with ?"Let's approach this like a mathematician proving a theorem, step by logical step: "Maria bought 35 green towels and 21 white towels." (Assumption 1) "Maria gave her mother 34 of them." (Assumption 2)Now, let's use the information given in the problem to find out how many towels Maria ended up with:Total number of towels = Number of green towels + Number of white towels = 35 + 21 = 56Now, we are given that Maria gave her mother 34 towels, so the number of towels Maria ended up with is:Number of towels Maria ended up with = Total number of towels - Number of towels given to mother = 56 - 34 = 22Therefore, Maria ended up with 22 towels."
+--------------------
+question_idx: 589
+question: zoe bought an app that cost $ 5 dollars . then each month you have to pay $ 8 to play online . if she played the game online for 2 months how much money would she have spent total for the app and the online access ?
+golden answer: 21.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: zoe bought an app that cost $ 5 dollars . then each month you have to pay $ 8 to play online . if she played the game online for 2 months how much money would she have spent total for the app and the online access ?"Let's approach this like a mathematician proving a theorem, step by logical step: "Step 1: Let's identify the given information.
+Zoe bought an app that cost $5 dollars.
+Each month, Zoe has to pay $8 to play the game online.
+Step 2: Let's find out how many months Zoe played the game online.
+If Zoe played the game online for 2 months, then the number of months she played the game online is 2.
+Step 3: Let's find out how much money Zoe spent on the app and online access.
+Since Zoe played the game online for 2 months, she spent $8 x 2 = $16 on online access.
+Adding the cost of the app ($5) to the amount she spent on online access ($16), we get: $5 + $16 = $21.
+Therefore, Zoe spent a total of $21 on the app and online access.
+--------------------
+question_idx: 942
+question: jerry had 3 action figures on a shelf in his room . later he added 4 more action figures to the shelf and removed some of the old ones . if there are 6 action figures on his shelf now how many action figures did he remove from the shelf ?
+golden answer: 1.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: jerry had 3 action figures on a shelf in his room . later he added 4 more action figures to the shelf and removed some of the old ones . if there are 6 action figures on his shelf now how many action figures did he remove from the shelf ?"Let's approach this like a mathematician proving a theorem, step by logical step: " Jerry had 3 action figures on a shelf in his room.
+Step 1: Jerry added 4 more action figures to the shelf.
+So, the total number of action figures on the shelf now is 3 + 4 = 7.
+Step 2: Jerry removed some of the old action figures from the shelf.
+We are told that Jerry removed some of the old action figures from the shelf, but we are not given the exact number of action figures he removed.
+Step 3: We want to find out how many action figures Jerry removed from the shelf.
+Since Jerry had 3 action figures on the shelf initially, and he removed some of them, the number of action figures he removed must be equal to the number of action figures he had initially minus the number of action figures he added to the shelf.
+So, the number of action figures Jerry removed from the shelf is: 3 - 4 = -1.
+Therefore, Jerry removed 1 action figure from the shelf.
+Conclusion: Jerry removed 1 action figure from the shelf.
+--------------------
+question_idx: 1438
+question: the razorback shop makes $ 115 dollars off each jersey and $ 25 off each t-shirt . during the arkansas and texas tech game they sold 113 t-shirts and 78 jerseys . how much more does a jersey cost than a t-shirt ?
+golden answer: 90.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: the razorback shop makes $ 115 dollars off each jersey and $ 25 off each t-shirt . during the arkansas and texas tech game they sold 113 t-shirts and 78 jerseys . how much more does a jersey cost than a t-shirt ?"Let's approach this like a mathematician proving a theorem, step by logical step: "The razorback shop makes $115 for each jersey and $25 for each t-shirt."Let's assume that the number of jerseys sold is x.
+We know that the total revenue from jerseys is $115x.
+The total revenue from t-shirts is $25(113) = $2775.
+So, the total revenue from both jerseys and t-shirts is $115x + $2775 = $2990.
+Now, we want to find out how much more a jersey costs than a t-shirt. Let's call the difference between the cost of a jersey and a t-shirt, "d".
+We know that d is greater than 0 because the razorback shop makes more money from jerseys than from t-shirts.
+We can set up the equation:
+d = $115 - $25
+d = $90
+So, a jersey costs $90 more than a t-shirt.
+Therefore, the answer is $90.
+--------------------
+question_idx: 1456
+question: faye had 35 packs of pencils each one having 4 pencils . she was placing her pencils into rows with 2 pencils in each row . how many rows could she make ?
+golden answer: 70.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: faye had 35 packs of pencils each one having 4 pencils . she was placing her pencils into rows with 2 pencils in each row . how many rows could she make ?"Let's approach this like a mathematician proving a theorem, step by logical step: "1.
+Step 1: Understand the problem statement. We are given that Faye has 35 packs of pencils, and each pack contains 4 pencils. We are also told that Faye is placing her pencils into rows with 2 pencils in each row.
+Step 2: Define the variables. Let's define the number of rows Faye can make as "r".
+Step 3: Use the information given in the problem to find the total number of pencils Faye has. Since Faye has 35 packs of pencils, and each pack contains 4 pencils, the total number of pencils Faye has is:
+35 packs x 4 pencils/pack = 140 pencils
+Step 4: Find the ratio of the number of pencils in each row to the total number of pencils Faye has. Since Faye is placing her pencils into rows with 2 pencils in each row, the ratio of the number of pencils in each row to the total number of pencils Faye has is:
+2 pencils/row / 140 pencils = 1/70
+Step 5: Use the ratio to find the number of rows Faye can make. Since Faye has 140 pencils and she wants to place them into rows with 2 pencils in each row, the number of rows Faye can make is:
+140 pencils / 2 pencils/row = 70 rows
+Therefore, Faye can make 70 rows of pencils.
+--------------------
+question_idx: 1671
+question: For Halloween Janet and her sister combined the candy they received . Janet had 34.0 pieces of candy while her sister had 33.0 . If they ate 4.0 pieces the first night , how many pieces do they have left ?
+golden answer: 63.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: For Halloween Janet and her sister combined the candy they received . Janet had 34.0 pieces of candy while her sister had 33.0 . If they ate 4.0 pieces the first night , how many pieces do they have left ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+Let Janet have x pieces of candy. Since her sister had 33.0 pieces of candy, the total number of pieces of candy they received is 34.0 + 33.0 = 67.0 pieces.
+If they ate 4.0 pieces on the first night, then the number of pieces of candy they have left is:
+x - 4 = 67.0
+Now we can solve for x, the number of pieces of candy Janet has left:
+x = 67.0 - 4 = 63.0
+So Janet has 63.0 pieces of candy left."
+Answer: Janet has 63.0 pieces of candy left.
+--------------------
+question_idx: 1772
+question: James rode 80.0 miles at 16.0 miles per hour . How long did James ride ?
+golden answer: 5.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: James rode 80.0 miles at 16.0 miles per hour . How long did James ride ?"Let's approach this like a mathematician proving a theorem, step by logical step: "James rode 80.0 miles" means that James traveled a distance of 80.0 miles. "James rode at a speed of 16.0 miles per hour" means that James traveled that distance in a time of 80.0 miles / 16.0 miles per hour = 5 hours.So, James rode for 5 hours.
+--------------------
+question_idx: 2041
+question: A trivia team had 5.0 members total , but during a game 2.0 members did n't show up . If each member that did show up scored 6.0 points , how many points were scored total ?
+golden answer: 18.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: A trivia team had 5.0 members total , but during a game 2.0 members did n't show up . If each member that did show up scored 6.0 points , how many points were scored total ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+Step 1: Identify the given information:
+* The trivia team had 5.0 members total.
+* 2.0 members did not show up.
+* Each member that did show up scored 6.0 points.
+Step 2: Use the information provided to find the total number of members that showed up:
+* Total number of members = 5.0 - 2.0 = 3.0
+Step 3: Find the total number of points scored by the members who showed up:
+* Total points scored = 3.0 x 6.0 = 18.0
+Therefore, the trivia team scored 18.0 points in the game.
+--------------------
+question_idx: 2783
+question: While shopping , Maria bought 35.0 green towels and 21.0 white towels . If she gave her mother 34.0 of them , how many towels did Maria end up with ?
+golden answer: 22.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: While shopping , Maria bought 35.0 green towels and 21.0 white towels . If she gave her mother 34.0 of them , how many towels did Maria end up with ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+Step 1: Read the problem carefully.
+"Maria bought 35.0 green towels and 21.0 white towels."
+So, Maria has a total of 35 + 21 = 56 towels.
+Step 2: Use the information given in the problem to find out how many towels Maria gave to her mother.
+"If she gave her mother 34.0 of them."
+So, Maria gave her mother 34 towels.
+Step 3: Find out how many towels Maria ended up with.
+"If she gave her mother 34.0 of them, then Maria ended up with 56 - 34 = 22 towels."
+Therefore, Maria ended up with 22 towels.
+--------------------
+question_idx: 4525
+question: while shopping maria bought 35 green towels and 21 white towels . if she gave her mother 34 of them how many towels did maria end up with ?
+golden answer: 22.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: while shopping maria bought 35 green towels and 21 white towels . if she gave her mother 34 of them how many towels did maria end up with ?"Let's approach this like a mathematician proving a theorem, step by logical step: "Maria bought 35 green towels and 21 white towels." (Assumption 1) "Maria gave her mother 34 of them." (Assumption 2)Now, let's use the information given in the problem to find out how many towels Maria ended up with:Total number of towels = Number of green towels + Number of white towels = 35 + 21 = 56Now, we are given that Maria gave her mother 34 towels, so the number of towels Maria ended up with is:Number of towels Maria ended up with = Total number of towels - Number of towels given to mother = 56 - 34 = 22Therefore, Maria ended up with 22 towels."
+--------------------
+question_idx: 4543
+question: zoe bought an app that cost $ 5 dollars . then each month you have to pay $ 8 to play online . if she played the game online for 2 months how much money would she have spent total for the app and the online access ?
+golden answer: 21.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: zoe bought an app that cost $ 5 dollars . then each month you have to pay $ 8 to play online . if she played the game online for 2 months how much money would she have spent total for the app and the online access ?"Let's approach this like a mathematician proving a theorem, step by logical step: "Step 1: Let's identify the given information.
+Zoe bought an app that cost $5 dollars.
+Each month, Zoe has to pay $8 to play the game online.
+Step 2: Let's find out how many months Zoe played the game online.
+If Zoe played the game online for 2 months, then the number of months she played the game online is 2.
+Step 3: Let's find out how much money Zoe spent on the app and online access.
+Since Zoe played the game online for 2 months, she spent $8 x 2 = $16 on online access.
+Adding the cost of the app ($5) to the amount she spent on online access ($16), we get: $5 + $16 = $21.
+Therefore, Zoe spent a total of $21 on the app and online access.
+--------------------

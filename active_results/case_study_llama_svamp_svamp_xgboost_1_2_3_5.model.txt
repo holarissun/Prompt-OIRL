@@ -1,0 +1,308 @@
+question_idx: 4
+question: in 1 week an airplane pilot flew 1134 miles on tuesday and 1475 miles on thursday . if the pilot flies the same number of miles 3 weeks in a row how many miles does he fly in all ?
+golden answer: 7827.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 18
+question: lucy has an aquarium with 212 fish . she wants to buy 68 more fish . how many fish would lucy have then ?
+golden answer: 280.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 19
+question: lucy has 212 fish . how many more fish does she need to buy to have 280 fish ?
+golden answer: 68.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 23
+question: each bag contains 23 pounds of oranges . how many pounds of oranges are in 45 bags ?
+golden answer: 1035.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 30
+question: bruno had some story books . he lost 4 of them and his dad gave him 10 more books . if he had 39 books after that how many books did bruno have at first ?
+golden answer: 33.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 59
+question: sam has 58 power ranger stickers . he bundles them up in 2 boxes . if there are 23 power ranger stickers in the first box how many more power ranger stickers are there in the second box than the first box ?
+golden answer: 12.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 62
+question: antonia has 79 barbie dolls . she packs away them in 2 wardrobes . if there are 35 barbie dolls in the first wardrobe how many more barbie dolls are there in the second wardrobe than the first ?
+golden answer: 9.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 68
+question: mr. peter harvested some pears . he picked 43 kg of the pears into a bag and 35 kg of the pears into another bag . if there were still 15 kg of pears left unpacked how many kilograms of pears did mr. peter harvest ?
+golden answer: 93.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 75
+question: jane can arrange 16 vases of flowers in a day . if there are 248 vases of flowers to be arranged how many days are needed for her to finish all the flower arrangements ?
+golden answer: 15.5
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 76
+question: a box can hold 18 pieces of chalk . if there are 3484 pieces of chalk how many boxes are full to hold all the chalk ?
+golden answer: 193.5555555555556
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 79
+question: if tom plans to fix 158 watches at the rate of 12 watches per day how many days does he need to fix the watches ?
+golden answer: 13.166666666666664
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 84
+question: the teacher gave 42 pencils to 12 students equally . how many pencils did each student get ?
+golden answer: 3.5
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 85
+question: 9 boys went to water trees . there were 29 trees . if each of them watered the equal amount of trees how many trees did each boy water ?
+golden answer: 3.2222222222222223
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 86
+question: there were 44 laptops in the shop and mike divided them equally into 5 rows . how many laptops are there in each row ?
+golden answer: 8.8
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 88
+question: divide 39 balloons into 7 equal groups . how many balloons are there in each group ?
+golden answer: 5.571428571428571
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 89
+question: the school bought 54 basketballs and distribute them into 7 classes equally . how many basketballs did each class get ?
+golden answer: 7.7142857142857135
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 92
+question: 15 students split 122 portfolios of paintings . each student should get the same number of portfolios . how many portfolios of paintings will each of them get ?
+golden answer: 8.133333333333333
+held-out prompt: 9
+prompted answer: 9
+--------------------
+question_idx: 95
+question: a tourist group has 26 people . at a hotel they want to rent some large rooms for 3 people each and some small rooms for 2 each . in order to rent the least number of rooms and have every room fully occupied how many large rooms should be rented ?
+golden answer: 8.666666666666666
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 96
+question: mr. lee harvested 495 apples and he packed them evenly in some baskets . if there are 25 apples in each basket how many baskets of apples are there ?
+golden answer: 19.8
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 97
+question: a ballet class wants to divide its 90 members into some large groups at 7 members each and some small groups at 3 members each . in order to make the least number of groups how many large groups should be made ?
+golden answer: 12.857142857142858
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 204
+question: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?
+golden answer: 8.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?"As a librarian categorizes books, let's sort the information accordingly: "Brian ran around the school track in 96 seconds" and "Todd ran around it in 88 seconds."Now, to find out how many fewer seconds it took Todd to run around the track, we need to subtract the time it took Brian to run around the track from the time it took Todd to run around the track.
+96 seconds - 88 seconds = 8 seconds
+So, it took Todd 8 fewer seconds to run around the track than it took Brian.
+--------------------
+question_idx: 312
+question: a mailman has to give out 192 pieces of junk mail . if he goes to 4 blocks how many pieces of junk mail should he give each block ?
+golden answer: 48.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: a mailman has to give out 192 pieces of junk mail . if he goes to 4 blocks how many pieces of junk mail should he give each block ?"As a librarian categorizes books, let's sort the information accordingly: "A mailman has to deliver 192 pieces of junk mail.
+To determine how many pieces of junk mail the mailman should give to each block, we need to divide the total number of pieces of junk mail by the number of blocks he needs to deliver to.
+Let's assume the mailman needs to deliver the junk mail to 4 blocks.
+So, to calculate the number of pieces of junk mail each block should receive, we can divide the total number of pieces of junk mail (192) by the number of blocks (4):
+192 ÷ 4 = 48
+So, each block should receive 48 pieces of junk mail.
+--------------------
+question_idx: 475
+question: ned gave away 13 of his video games to a friend . now ned has 6 games . how many games did ned have before he gave the games away ?
+golden answer: 19.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: ned gave away 13 of his video games to a friend . now ned has 6 games . how many games did ned have before he gave the games away ?"Let's approach this like a mathematician proving a theorem, step by logical step: "Before Ned gave away 13 games, he had 6 games."This is the given information:Ned had 6 games before he gave away 13 games.
+So, if Ned had 6 games before he gave away 13 games, then he had 6 + 13 = 19 games in total before he gave away any games.
+--------------------
+question_idx: 520
+question: a chef used 39 cherries to make a pie . now he has 58 cherries left . how many cherries did he have before he made the pie ?
+golden answer: 97.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: a chef used 39 cherries to make a pie . now he has 58 cherries left . how many cherries did he have before he made the pie ?"As a librarian categorizes books, let's sort the information accordingly: "Before Making the Pie" = 39 cherries"After Making the Pie" = 58 cherriesNow, let's solve the problem:Before making the pie, the chef had 39 cherries.
+Let's assume the chef had x cherries before making the pie.
+After making the pie, the chef has 58 cherries left.
+So, the difference between the number of cherries the chef had before making the pie and the number of cherries he has after making the pie is:
+x - 58 = 39
+Now, we can solve for x:
+x = 97
+So, the chef had 97 cherries before making the pie.
+--------------------
+question_idx: 667
+question: chloe was making baggies of cookies with 7 cookies in each bag . if she had 34 chocolate chip cookies and 29 oatmeal cookies how many baggies could she make ?
+golden answer: 9.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: chloe was making baggies of cookies with 7 cookies in each bag . if she had 34 chocolate chip cookies and 29 oatmeal cookies how many baggies could she make ?"As a librarian categorizes books, let's sort the information accordingly: "Chloe is making baggies of cookies with 7 cookies in each bag."Let's start by identifying the information we have:1.
+Total number of cookies: 34 (chocolate chip) + 29 (oatmeal) = 63 cookies.
+Number of cookies per bag: 7.
+Now, we can calculate the number of baggies Chloe can make:63 cookies / 7 cookies per bag = 9 baggies.So, Chloe can make 9 baggies of cookies.
+--------------------
+question_idx: 690
+question: for halloween bianca received 17 pieces of candy . she ate 2 pieces then placed the rest into piles with 3 in each pile . how many piles could she make ?
+golden answer: 5.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: for halloween bianca received 17 pieces of candy . she ate 2 pieces then placed the rest into piles with 3 in each pile . how many piles could she make ?"As a librarian categorizes books, let's sort the information accordingly: "Bianca received 17 pieces of candy for Halloween."" Bianca ate 2 pieces of candy."" Bianca placed the rest of the candy into piles with 3 pieces in each pile.""So, the number of piles Bianca could make is 17 / 3 = 5.""
+--------------------
+question_idx: 898
+question: julia played tag with 7 kids on monday and 13 kids on tuesday . she played cards wtih 20 kids on wednesday . how many kids did she play tag with altogether ?
+golden answer: 20.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: julia played tag with 7 kids on monday and 13 kids on tuesday . she played cards wtih 20 kids on wednesday . how many kids did she play tag with altogether ?"As a librarian categorizes books, let's sort the information accordingly: "Tag" is a specific activity that Julia played with different groups of kids.
+1. Monday: Julia played tag with 7 kids.
+2. Tuesday: Julia played tag with 13 kids.
+3. Wednesday: Julia played cards with 20 kids.
+Now, let's calculate the total number of kids Julia played tag with:
+Total number of kids Julia played tag with = 7 + 13 = 20
+Therefore, Julia played tag with 20 kids altogether.
+--------------------
+question_idx: 1141
+question: baker made 144 cakes . he sold 71 of them . then he made 111 more cakes . how many more cakes did baker make than those he sold ?
+golden answer: 184.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: baker made 144 cakes . he sold 71 of them . then he made 111 more cakes . how many more cakes did baker make than those he sold ?"Let's approach this like a mathematician proving a theorem, step by logical step: "More" means "greater than". So, if Baker made more cakes than he sold, that means he made cakes that he did not sell.
+In the first part of the problem, the baker made 144 cakes and sold 71 of them, so he had 73 cakes left (144 - 71 = 73).
+In the second part of the problem, the baker made 111 more cakes, bringing the total number of cakes he made to 144 + 111 = 255 cakes.
+Now, we need to find out how many more cakes the baker made than he sold. To do this, we subtract the number of cakes he sold (71) from the total number of cakes he made (255):
+255 - 71 = 184
+So, the baker made 184 more cakes than he sold.
+--------------------
+question_idx: 1175
+question: paul got a box of 531 crayons and 38 erasers for his birthday . at the end of the school year he only had 391 left while not having lost a single erasers . how many more crayons than erasers did he have left ?
+golden answer: 353.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: paul got a box of 531 crayons and 38 erasers for his birthday . at the end of the school year he only had 391 left while not having lost a single erasers . how many more crayons than erasers did he have left ?"As a librarian categorizes books, let's sort the information accordingly: "Crayons" and "Erasers" are two separate categories.
+Crayons:
+* Number of crayons Paul received: 531
+* Number of crayons Paul had left at the end of the school year: 391
+Erasers:
+* Number of erasers Paul received: 38
+* Number of erasers Paul had left at the end of the school year: 38
+Now, let's find out how many more crayons than erasers Paul had left:
+Number of crayons Paul had left = 391
+Number of erasers Paul had left = 38
+To find out how many more crayons than erasers Paul had left, we need to subtract the number of erasers from the number of crayons:
+391 - 38 = 353
+So, Paul had 353 more crayons than erasers left at the end of the school year.
+--------------------
+question_idx: 1240
+question: there are 16 different books and 14 different movies in the ' crazy silly school ' series . if you read 19 of the books and watched 13 of the movies how many more books than movies are there in the ' crazy silly school ' series ?
+golden answer: 2.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: there are 16 different books and 14 different movies in the ' crazy silly school ' series . if you read 19 of the books and watched 13 of the movies how many more books than movies are there in the ' crazy silly school ' series ?"As a librarian categorizes books, let's sort the information accordingly: "Crazy Silly School" series consists of 16 books and 14 movies.
+To find out how many more books than movies are in the series, we need to subtract the number of movies from the number of books:
+16 books - 14 movies = 2 more books
+So, there are 2 more books in the "Crazy Silly School" series than movies.
+--------------------
+question_idx: 1436
+question: the razorback shop makes $ 76 dollars off each jersey and $ 204 off each t-shirt . during the arkansas and texas tech game they sold 158 t-shirts and 2 jerseys . how much money did they make from selling the jerseys ?
+golden answer: 152.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: the razorback shop makes $ 76 dollars off each jersey and $ 204 off each t-shirt . during the arkansas and texas tech game they sold 158 t-shirts and 2 jerseys . how much money did they make from selling the jerseys ?"As a librarian categorizes books, let's sort the information accordingly: " Razorback Shop Sales "Let's start by identifying the information given in the problem:1.
+The Razorback shop makes $76 per jersey and $204 per t-shirt.
+During the Arkansas and Texas Tech game, they sold 2 jerseys and 158 t-shirts.
+To find out how much money the Razorback shop made from selling jerseys, we need to multiply the number of jerseys sold by the price per jersey:
+2 jerseys x $76 per jersey = $152
+So, the Razorback shop made $152 from selling jerseys during the Arkansas and Texas Tech game.
+--------------------
+question_idx: 1438
+question: the razorback shop makes $ 115 dollars off each jersey and $ 25 off each t-shirt . during the arkansas and texas tech game they sold 113 t-shirts and 78 jerseys . how much more does a jersey cost than a t-shirt ?
+golden answer: 90.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: the razorback shop makes $ 115 dollars off each jersey and $ 25 off each t-shirt . during the arkansas and texas tech game they sold 113 t-shirts and 78 jerseys . how much more does a jersey cost than a t-shirt ?"Let's approach this like a mathematician proving a theorem, step by logical step: "The razorback shop makes $115 for each jersey and $25 for each t-shirt."Let's assume that the number of jerseys sold is x.
+We know that the total revenue from jerseys is $115x.
+The total revenue from t-shirts is $25(113) = $2775.
+So, the total revenue from both jerseys and t-shirts is $115x + $2775 = $2990.
+Now, we want to find out how much more a jersey costs than a t-shirt. Let's call the difference between the cost of a jersey and a t-shirt, "d".
+We know that d is greater than 0 because the razorback shop makes more money from jerseys than from t-shirts.
+We can set up the equation:
+d = $115 - $25
+d = $90
+So, a jersey costs $90 more than a t-shirt.
+Therefore, the answer is $90.
+--------------------
+question_idx: 1676
+question: James rode 80.0 miles at 16.0 miles per hour . How long did James ride ?
+golden answer: 5.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: James rode 80.0 miles at 16.0 miles per hour . How long did James ride ?"Let's approach this like a mathematician proving a theorem, step by logical step: "James rode 80.0 miles" means that James traveled a distance of 80.0 miles. "James rode at a speed of 16.0 miles per hour" means that James traveled that distance in a time of 80.0 miles / 16.0 miles per hour = 5 hours.So, James rode for 5 hours.
+--------------------
+question_idx: 1847
+question: How many yards of material from a 24.0 yard length of cloth remains after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 long are removed ?
+golden answer: 2.25
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: How many yards of material from a 24.0 yard length of cloth remains after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 long are removed ?"As a librarian categorizes books, let's sort the information accordingly: "Remaining length of cloth" = "Answer"Let's analyze the problem:We are given that the length of cloth is 24.0 yards.We are asked to find the remaining length of cloth after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 yards long are removed.So, we need to find the total length of cloth that is left after removing the given pieces.To do this, we can use the formula:Total length = Remaining length - Total length of piecesWe know that the total length of the pieces is 3 x 3.5 = 10.5 yards + 5 x 2.25 = 11.25 yards = 21.75 yardsSo, the remaining length of cloth is:Total length = 24.0 - 21.75 = 2.25 yards = 2.25 yardsThe answer is 2.25 yards.
+--------------------
+question_idx: 1867
+question: A new building needed 14.0 windows . The builder had already installed 5.0 of them . If it takes 4.0 hours to install each window , how long will it take him to install the rest ?
+golden answer: 36.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: A new building needed 14.0 windows . The builder had already installed 5.0 of them . If it takes 4.0 hours to install each window , how long will it take him to install the rest ?"Let's approach this like a mathematician proving a theorem, step by logical step: "The builder has already installed 5.0 windows, which means he has 9.0 windows left to install (14.0 - 5.0 = 9.0)."Now, we know that it takes 4.0 hours to install each window, so the total time it will take the builder to install the remaining 9.0 windows is:9.0 windows x 4.0 hours/window = 36.0 hoursIn other words, it will take the builder 36.0 hours to install the rest of the windows.
+--------------------
+question_idx: 1898
+question: Luke was organizing his baseball cards in a binder with 3.0 on each page . If he had 3.0 new cards and 9.0 old cards to put in the binder , how many pages would he use ?
+golden answer: 4.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: Luke was organizing his baseball cards in a binder with 3.0 on each page . If he had 3.0 new cards and 9.0 old cards to put in the binder , how many pages would he use ?"As a librarian categorizes books, let's sort the information accordingly: "New cards" = 3.0 cards, and "Old cards" = 9.0 cards.To determine the number of pages Luke would use, we need to divide the total number of cards by 3.0. So, 3.0 cards / 3 = 1 page.Since Luke has 9.0 old cards, he would use 9 pages to organize them: 9.0 cards / 3 = 3 pages.Therefore, Luke would use a total of 1 + 3 = 4 pages to organize his baseball cards in the binder.
+--------------------
+question_idx: 1924
+question: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?
+golden answer: 48781.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?"As a librarian categorizes books, let's sort the information accordingly: "Harvest of Wheat"Let's start by identifying the given information:1. The farmer will harvest 48097.0 bushels of wheat.2. The weather is perfect during the growing season, so the farmer harvests 684.0 bushels more than expected.Now, let's analyze the information:The farmer will harvest 48097.0 bushels of wheat. This is the total amount of wheat the farmer will harvest.The weather is perfect during the growing season, so the farmer harvests 684.0 bushels more than expected. This means that the actual amount of wheat harvested is 48097.0 + 684.0 = 48781.0 bushels.Therefore, the farmer harvests 48781.0 bushels of wheat.
+--------------------
+question_idx: 1968
+question: A garden has 52.0 rows and 15.0 columns of bean plans . How many plants are there in all ?
+golden answer: 780.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A garden has 52.0 rows and 15.0 columns of bean plans . How many plants are there in all ?"As a librarian categorizes books, let's sort the information accordingly: "A garden has 52 rows and 15 columns of bean plants."To find the total number of plants in the garden, we need to multiply the number of rows by the number of columns:52 rows x 15 columns = 780 plantsSo, there are 780 plants in the garden.
+--------------------
+question_idx: 2041
+question: A trivia team had 5.0 members total , but during a game 2.0 members did n't show up . If each member that did show up scored 6.0 points , how many points were scored total ?
+golden answer: 18.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: A trivia team had 5.0 members total , but during a game 2.0 members did n't show up . If each member that did show up scored 6.0 points , how many points were scored total ?"Let's approach this like a mathematician proving a theorem, step by logical step: "
+Step 1: Identify the given information:
+* The trivia team had 5.0 members total.
+* 2.0 members did not show up.
+* Each member that did show up scored 6.0 points.
+Step 2: Use the information provided to find the total number of members that showed up:
+* Total number of members = 5.0 - 2.0 = 3.0
+Step 3: Find the total number of points scored by the members who showed up:
+* Total points scored = 3.0 x 6.0 = 18.0
+Therefore, the trivia team scored 18.0 points in the game.
+--------------------
+question_idx: 2090
+question: There are 88.0 candies in a box . Lisa has 18.0 candies in a bag . Diana takes 6.0 candies out of the box . How many candies are left in the box ?
+golden answer: 82.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: There are 88.0 candies in a box . Lisa has 18.0 candies in a bag . Diana takes 6.0 candies out of the box . How many candies are left in the box ?"As a librarian categorizes books, let's sort the information accordingly: "Candies in a box" = 88.0 candies"Candies in a bag" = 18.0 candies"Candies taken out of the box" = 6.0 candiesNow, let's solve the problem:The total number of candies in the box = 88.0 candiesThe number of candies taken out of the box = 6.0 candiesThe number of candies left in the box = 88.0 - 6.0 = 82.0 candiesSo, there are 82 candies left in the box.
+--------------------

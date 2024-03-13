@@ -1,0 +1,120 @@
+question_idx: 9
+question: Joyce has 40.0 bananas that must be put away in boxes . Fred comes to help and brings 18.0 cookies to share with Joyce . If there are 10.0 boxes , how many bananas must go in each box ?
+golden answer: 4.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 16
+question: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?
+golden answer: 0.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 19
+question: Mike invited 13.0 friends to a birthday party , but 7.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 4.0 , how many should he buy ?
+golden answer: 24.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 22
+question: It took me 6.0 minutes to walk 500.0 meters . How fast was I travelling ?
+golden answer: 83.33
+held-out prompt: 6
+prompted answer: 6
+--------------------
+question_idx: 25
+question: Jason joined his school 's band . He bought a flute for $ 142.46 , a music tool for $ 8.89 , and a song book for $ 7.0 . How much did Jason spend at the music store ?
+golden answer: 158.35
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 34
+question: Megan earned 8.0 points for each bag of cans she recycled . If she had 14.0 bags , but did n't recycle 5.0 of them , how many points would she have earned ?
+golden answer: 72.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 39
+question: A clothing store offers a 20.0 % discount on all purchases . How much would a shopper pay for an item originally costing 21.0 dollars dollars ?
+golden answer: 16.8
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 43
+question: Tim found 37.0 seashells and Sally found 13.0 seashells on the beach . When they cleaned them , they discovered that 25.0 were cracked . How many seashells did they find together ?
+golden answer: 50.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 53
+question: Elisa has 37.0 dollars . How many more dollars does she have to earn to have 53.0 dollars ?
+golden answer: 16.0
+held-out prompt: 7
+prompted answer: 7
+--------------------
+question_idx: 57
+question: Melanie is selling 4.0 gumballs for eight cents each . How much money can Melanie get from selling the gumballs ?
+golden answer: 32.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 60
+question: Nancy grew 2.0 onions , Dan grew 9.0 onions , and Mike grew 4.0 onions . They worked for 6.0 days on the farm . How many onions did they grow in total ?
+golden answer: 15.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 71
+question: April 's discount flowers was having a sale where each rose was 7.0 dollars . If April started with 9.0 roses and had 4.0 roses left , how much money did she earn ?
+golden answer: 35.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 87
+question: In a video game , each enemy defeated gives you 3.0 points . If a level has 6.0 enemies total and you destroy all but 2.0 of them , how many points would you earn ?
+golden answer: 12.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 128
+question: There were 6.0 girls and 48.0 boys trying out for the schools basketball team . If only 7.0 of them got called back , how many students did n't make the cut ?
+golden answer: 47.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 135
+question: Wendy earned 5.0 points for each bag of cans she recycled . If she had 11.0 bags , but did n't recycle 2.0 of them , how many points would she have earned ?
+golden answer: 45.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 148
+question: Bryan took a look at his books as well . If Bryan has 56.0 books in each of his 9.0 bookshelves , how many books does he have in total ?
+golden answer: 504.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 157
+question: It takes 4.0 apples to make 1.0 pie . How many apples does it take to make 504.0 pies ?
+golden answer: 2016.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 158
+question: Isabel baked 3.0 brownies , but needed 5.0 total for her party . If she used 5.0 cups of flour on each one , how much cups of flour does she still need ?
+golden answer: 10.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 161
+question: Sean has 9.0 apples . Susan gives Sean 8.0 more . Later , Sean buys 18.0 tickets at the store . How many apples does Sean have in all ?
+golden answer: 17.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 164
+question: Frank made 19.0 dollars mowing lawns over the summer . If he spent 11.0 dollars buying new mower blades , how many 2.0 dollar games could he buy with the money he had left ?
+golden answer: 4.0
+held-out prompt: 2
+prompted answer: 2
+--------------------

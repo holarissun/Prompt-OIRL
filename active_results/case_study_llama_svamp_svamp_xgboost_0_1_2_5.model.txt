@@ -1,0 +1,1152 @@
+question_idx: 4
+question: in 1 week an airplane pilot flew 1134 miles on tuesday and 1475 miles on thursday . if the pilot flies the same number of miles 3 weeks in a row how many miles does he fly in all ?
+golden answer: 7827.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 9
+question: mrs. hilt uses 2 ounces of detergent to wash a pound of clothes . how many ounces of soap will she use to wash 9 pounds of clothes ?
+golden answer: 18.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 10
+question: mrs. hilt went to a concert . a total of 65899 people attended the concert . the next week she went to a second concert which had 119 more people in attendance . how many people were at the second concert ?
+golden answer: 66018.0
+held-out prompt: 7
+prompted answer: 7
+--------------------
+question_idx: 23
+question: each bag contains 23 pounds of oranges . how many pounds of oranges are in 45 bags ?
+golden answer: 1035.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 27
+question: blithe has a lot of toys . he lost 6 of them and found 9 in his closet . if he had 43 after that how many toys did blithe have at first ?
+golden answer: 40.0
+held-out prompt: 7
+prompted answer: 7
+--------------------
+question_idx: 28
+question: lena had some pocket money . she lost $ 4 and her mom gave her $ 9 . if she had $ 66 after that how many dollars did lena have at first ?
+golden answer: 61.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 30
+question: bruno had some story books . he lost 4 of them and his dad gave him 10 more books . if he had 39 books after that how many books did bruno have at first ?
+golden answer: 33.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 60
+question: beryl has 88 radishes . she puts them into 2 baskets . if there are 37 radishes in the first basket how many more radishes are there in the second basket than the first ?
+golden answer: 14.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 61
+question: there are 56 students in the class . the teacher wants to split them into 2 groups . the first group has 24 students . how many more students will there be in the second group ?
+golden answer: 8.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: there are 56 students in the class . the teacher wants to split them into 2 groups . the first group has 24 students . how many more students will there be in the second group ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "The teacher wants to split the 56 students into 2 groups. The first group has 24 students, so there are 32 students left. To find out how many more students will be in the second group, we need to subtract the number of students in the first group from the total number of students. In this case, 32 students minus 24 students equals 8 students. So, there will be 8 more students in the second group."
+--------------------
+question_idx: 64
+question: an online toy store stocked some toys . it sold 38 toys at the first week and 26 toys at the second week . if it had 19 toys left how many toys were in stock at the beginning ?
+golden answer: 83.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 72
+question: a washing machine can wash 28 pounds of clothes per day . if there are 200 pounds of clothes to be washed per day how many washing machines are needed ?
+golden answer: 7.142857142857142
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 73
+question: there are 757 pounds of sand to be filled into bags . if each bag has a capacity of 65 pounds how many bags are needed ?
+golden answer: 11.646153846153846
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 80
+question: the capacity of a tank is 32 gallons . if a company bought 728 gallons of oil how many tanks are needed to hold all the oil ?
+golden answer: 22.75
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 81
+question: mrs. smith gave 53 strawberries to 8 girls equally . how many strawberries did each girl get ?
+golden answer: 6.625
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 82
+question: tom had $ 19 and he wanted to buy as many folders as he could . if 1 folder costs $ 2 how many folders can tom buy ?
+golden answer: 9.5
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 83
+question: 86 students are going hiking . each school- bus can take 9 students . how many school-buses are needed ?
+golden answer: 9.555555555555555
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 85
+question: 9 boys went to water trees . there were 29 trees . if each of them watered the equal amount of trees how many trees did each boy water ?
+golden answer: 3.2222222222222223
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 89
+question: the school bought 54 basketballs and distribute them into 7 classes equally . how many basketballs did each class get ?
+golden answer: 7.7142857142857135
+held-out prompt: 6
+prompted answer: 6
+--------------------
+question_idx: 90
+question: there are 32 students in the class . the teacher divided them into 5 equal groups . how many students are there in each group ?
+golden answer: 6.4
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 92
+question: 15 students split 122 portfolios of paintings . each student should get the same number of portfolios . how many portfolios of paintings will each of them get ?
+golden answer: 8.133333333333333
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 96
+question: mr. lee harvested 495 apples and he packed them evenly in some baskets . if there are 25 apples in each basket how many baskets of apples are there ?
+golden answer: 19.8
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 141
+question: evan has a large collection of books . he gave his best friend 14 books . he gave his little brother 8 books . now evan has 60 books in his collection . how many books did he have at first ?
+golden answer: 82.0
+held-out prompt: "Let's dive into this like a marine biologist exploring the ocean's depths: "
+prompted answer: evan has a large collection of books . he gave his best friend 14 books . he gave his little brother 8 books . now evan has 60 books in his collection . how many books did he have at first ?"Let's dive into this like a marine biologist exploring the ocean's depths: "Evan had a large collection of books at first.
+Let's call the number of books he had at first x.
+We know that he gave 14 books to his best friend, so the number of books he had left is x - 14.
+He also gave 8 books to his little brother, so the number of books he had left is x - 14 - 8 = x - 22.
+Now, we are told that Evan has 60 books in his collection. So, we can set up the equation: x - 22 = 60.
+Solving for x, we get: x = 82.
+So, Evan had 82 books in his collection at first!"
+--------------------
+question_idx: 376
+question: mike has 64 action figures he wants to display . if each shelf in his room can hold 8 figures how many shelves does he need ?
+golden answer: 8.0
+held-out prompt: "Let's dive into this like a marine biologist exploring the ocean's depths: "
+prompted answer: mike has 64 action figures he wants to display . if each shelf in his room can hold 8 figures how many shelves does he need ?"Let's dive into this like a marine biologist exploring the ocean's depths: "Mike has 64 action figures he wants to display." Hmm, that's a lot of action figures! Let's see...if each shelf in his room can hold 8 figures, then we can use division to find out how many shelves Mike needs.
+"If each shelf can hold 8 figures, then Mike needs 64 / 8 = 8 shelves."
+So, Mike needs 8 shelves to display all of his action figures! 🎯
+--------------------
+question_idx: 709
+question: shirley sold 54 boxes of trefoils . how many cases of 6 boxes does shirley need to deliver ?
+golden answer: 9.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: shirley sold 54 boxes of trefoils . how many cases of 6 boxes does shirley need to deliver ?"It's like mining for gems; we dig deep, assessing each discovery: "Is this a gem? Is this a diamond in the rough?".
+Љ� Shirley sold 54 boxes of Trefoils.
+To find out how many cases of 6 boxes Shirley needs to deliver, we can divide the number of boxes she sold by the number of boxes in a case:
+54 boxes / 6 boxes per case = 9 cases
+So Shirley needs to deliver 9 cases of Trefoils.
+--------------------
+question_idx: 756
+question: every day ryan spends 6 hours on learning english and 5 hours on learning chinese . if he learns for 2 days how many hours does he spend on learning english in all ?
+golden answer: 12.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: every day ryan spends 6 hours on learning english and 5 hours on learning chinese . if he learns for 2 days how many hours does he spend on learning english in all ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "Ryan spends 6 hours on learning English and 5 hours on learning Chinese every day. If he learns for 2 days, he spends 12 hours on learning English in all."
+
+
+
+--------------------
+question_idx: 1205
+question: jake has 84 more apples and 10 fewer peaches than steven . steven has 13 peaches and 52 apples . how many peaches does jake have ?
+golden answer: 3.0
+held-out prompt: "Let's dive into this like a marine biologist exploring the ocean's depths: "
+prompted answer: jake has 84 more apples and 10 fewer peaches than steven . steven has 13 peaches and 52 apples . how many peaches does jake have ?"Let's dive into this like a marine biologist exploring the ocean's depths: "Jake has 84 more apples than Steven, which means Jake has 84 + 52 = 136 apples.
+Now, Jake has 10 fewer peaches than Steven, which means Jake has 13 - 10 = 3 peaches fewer than Steven.
+So, Jake has 3 peaches."
+--------------------
+question_idx: 1219
+question: paco had 17 cookies . he ate 14 cookies and gave 13 of them to his friend . how many more cookies did he eat than those he gave to his friend ?
+golden answer: 1.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: paco had 17 cookies . he ate 14 cookies and gave 13 of them to his friend . how many more cookies did he eat than those he gave to his friend ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "The more colors you use, the more interesting the painting will be." In this case, we are using different strategies to solve the problem, which will help us understand the concept better.
+So, let's start with the information given in the problem:
+Paco had 17 cookies.
+He ate 14 cookies.
+He gave 13 of them to his friend.
+Now, let's analyze the information:
+Paco had 17 cookies and ate 14 of them, so he had 17 - 14 = 3 remaining cookies.
+He gave 13 of the cookies to his friend, so he had 3 - 13 = -10 cookies left.
+Now, we need to find out how many more cookies Paco ate than the ones he gave to his friend.
+To do this, we need to subtract the number of cookies he gave to his friend from the number of cookies he ate:
+14 (cookies eaten) - 13 (cookies given to friend) = 1
+So, Paco ate 1 more cookie than the ones he gave to his friend.
+In summary, Paco ate 1 more cookie than the ones he gave to his friend.
+--------------------
+question_idx: 1368
+question: jesse needs a carpet of size 10 square feet to cover her room . if her room is 2 feet wide what is the length of her room ?
+golden answer: 5.0
+held-out prompt: "Let's dive into this like a marine biologist exploring the ocean's depths: "
+prompted answer: jesse needs a carpet of size 10 square feet to cover her room . if her room is 2 feet wide what is the length of her room ?"Let's dive into this like a marine biologist exploring the ocean's depths: "Jesse needs a carpet of size 10 square feet to cover her room.
+So, we know that the length of the carpet is 10 feet. But how wide is the room? We're told that the room is 2 feet wide.
+So, the length of the room is 10 feet / 2 feet = 5 feet.
+Therefore, the length of Jesse's room is 5 feet."
+--------------------
+question_idx: 1393
+question: they decided to hold the party in their backyard . if they have 5 sets of tables and each set has 10 chairs how many more chairs than tables do they have ?
+golden answer: 45.0
+held-out prompt: "Let's dive into this like a marine biologist exploring the ocean's depths: "
+prompted answer: they decided to hold the party in their backyard . if they have 5 sets of tables and each set has 10 chairs how many more chairs than tables do they have ?"Let's dive into this like a marine biologist exploring the ocean's depths: "Whoa, that's a great question! So, if they have 5 sets of tables and each set has 10 chairs, that means they have a total of 5 x 10 = 50 chairs.
+Now, to find out how many more chairs than tables they have, we need to subtract the number of tables from the total number of chairs. So, 50 chairs - 5 tables = 45 chairs more than tables.
+Woah, that's a lot of chairs! I bet the party is going to be super comfy and cozy with all those chairs to sit on. Thanks for sharing this question with me, it was a blast to solve!"
+--------------------
+question_idx: 1438
+question: the razorback shop makes $ 115 dollars off each jersey and $ 25 off each t-shirt . during the arkansas and texas tech game they sold 113 t-shirts and 78 jerseys . how much more does a jersey cost than a t-shirt ?
+golden answer: 90.0
+held-out prompt: "Let's approach this like a mathematician proving a theorem, step by logical step: "
+prompted answer: the razorback shop makes $ 115 dollars off each jersey and $ 25 off each t-shirt . during the arkansas and texas tech game they sold 113 t-shirts and 78 jerseys . how much more does a jersey cost than a t-shirt ?"Let's approach this like a mathematician proving a theorem, step by logical step: "The razorback shop makes $115 for each jersey and $25 for each t-shirt."Let's assume that the number of jerseys sold is x.
+We know that the total revenue from jerseys is $115x.
+The total revenue from t-shirts is $25(113) = $2775.
+So, the total revenue from both jerseys and t-shirts is $115x + $2775 = $2990.
+Now, we want to find out how much more a jersey costs than a t-shirt. Let's call the difference between the cost of a jersey and a t-shirt, "d".
+We know that d is greater than 0 because the razorback shop makes more money from jerseys than from t-shirts.
+We can set up the equation:
+d = $115 - $25
+d = $90
+So, a jersey costs $90 more than a t-shirt.
+Therefore, the answer is $90.
+--------------------
+question_idx: 1695
+question: If Anne wandered for 3.0 hours at 2.0 miles per hour . How far did Anne go ?
+golden answer: 6.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: If Anne wandered for 3.0 hours at 2.0 miles per hour . How far did Anne go ?"It's like mining for gems; we dig deep, assessing each discovery: "What is the distance traveled by Anne?".
+"Ah, a gem! Anne wandered for 3.0 hours at 2.0 miles per hour, so she traveled 6.0 miles."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 1696
+question: The Richmond Tigers sold a total of 9570.0 tickets last season . If they sold 3867.0 tickets in the first half of the season , how many tickets did they sell in the second half ?
+golden answer: 5703.0
+held-out prompt: "Let's dive into this like a marine biologist exploring the ocean's depths: "
+prompted answer: The Richmond Tigers sold a total of 9570.0 tickets last season . If they sold 3867.0 tickets in the first half of the season , how many tickets did they sell in the second half ?"Let's dive into this like a marine biologist exploring the ocean's depths: "The Tigers sold 9570.0 tickets last season," you say. "If they sold 3867.0 tickets in the first half of the season, how many tickets did they sell in the second half?"To solve this problem, we need to subtract the number of tickets sold in the first half from the total number of tickets sold last season. So, we subtract 3867.0 from 9570.0:9570.0 - 3867.0 = 5703.0 tickets sold in the second half of the season.Therefore, the Tigers sold 5703.0 tickets in the second half of the season.
+--------------------
+question_idx: 1757
+question: If Anne wandered for 3.0 hours at 2.0 miles per hour . How far did Anne go ?
+golden answer: 6.0
+held-out prompt: "It's like mining for gems; we dig deep, assessing each discovery: "
+prompted answer: If Anne wandered for 3.0 hours at 2.0 miles per hour . How far did Anne go ?"It's like mining for gems; we dig deep, assessing each discovery: "What is the distance traveled by Anne?".
+"Ah, a gem! Anne wandered for 3.0 hours at 2.0 miles per hour, so she traveled 6.0 miles."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 1924
+question: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?
+golden answer: 48781.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+A farmer estimates that he will harvest 48097.0 bushels of wheat. The weather is perfect during the growing season, so he harvests 684.0 bushels of wheat than expected. How many bushels of wheat does the farmer harvest?
+To find the total number of bushels of wheat the farmer harvests, you need to add the expected harvest to the excess harvest.
+Expected harvest = 48097.0 bushels
+Excess harvest = 684.0 bushels
+Total harvest = Expected harvest + Excess harvest
+Total harvest = 48097.0 + 684.0 = 48781.0 bushels
+So the farmer harvests 48781.0 bushels of wheat.
+--------------------
+question_idx: 2012
+question: Wendy bought 4.0 new chairs and 4.0 new tables for her house . If she spent 6.0 minutes on each piece furniture putting it together , how many minutes did it take her to finish ?
+golden answer: 48.0
+held-out prompt: "Let's dive into this like a marine biologist exploring the ocean's depths: "
+prompted answer: Wendy bought 4.0 new chairs and 4.0 new tables for her house . If she spent 6.0 minutes on each piece furniture putting it together , how many minutes did it take her to finish ?"Let's dive into this like a marine biologist exploring the ocean's depths: "
+First, let's identify the information given in the problem:
+1. Wendy bought 4.0 new chairs and 4.0 new tables.
+2. She spent 6.0 minutes on each piece of furniture putting it together.
+Now, let's calculate the total time it took Wendy to finish assembling all the furniture:
+Total time = Number of pieces x Time per piece
+= 4.0 chairs x 6.0 minutes/chair + 4.0 tables x 6.0 minutes/table
+= 24.0 minutes + 24.0 minutes
+= 48.0 minutes
+Therefore, it took Wendy 48.0 minutes to finish assembling all the furniture.
+--------------------
+question_idx: 2042
+question: Katie 's team won their dodgeball game and scored 12.0 points total . If Katie scored 4.0 of the points and everyone else scored 4.0 points each , how many players were on her team ?
+golden answer: 2.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: Katie 's team won their dodgeball game and scored 12.0 points total . If Katie scored 4.0 of the points and everyone else scored 4.0 points each , how many players were on her team ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "Katie's team won their dodgeball game and scored 12.0 points total. If Katie scored 4.0 of the points and everyone else scored 4.0 points each, how many players were on her team?""
+Answer:
+Let's break this down step by step:
+1. Katie scored 4.0 points out of the total 12.0 points scored by her team.
+2. If everyone else scored 4.0 points each, then the total number of points scored by everyone else is 4.0 x (number of players - 1) = 4.0 x (n - 1).
+3. Since Katie scored 4.0 points, the total number of points scored by her team is 4.0 + 4.0 = 8.0 points.
+4. Therefore, the number of players on Katie's team is n = 8.0 / 4.0 = 2 players.
+So, there were 2 players on Katie's team.
+--------------------
+question_idx: 2101
+question: Melanie bought a Batman game for $ 6.95 , a strategy game for $ 7.9 , and a Superman game for $ 7.73 . Melanie already owns 4.0 games . How much did Melanie spend on video games ?
+golden answer: 22.58
+held-out prompt: "Let's dive into this like a marine biologist exploring the ocean's depths: "
+prompted answer: Melanie bought a Batman game for $ 6.95 , a strategy game for $ 7.9 , and a Superman game for $ 7.73 . Melanie already owns 4.0 games . How much did Melanie spend on video games ?"Let's dive into this like a marine biologist exploring the ocean's depths: "
+Melanie bought 3 games:
+1. Batman game for $ 6.95
+2. Strategy game for $ 7.90
+3. Superman game for $ 7.73
+Total cost of games = $ 6.95 + $ 7.90 + $ 7.73 = $ 22.58
+Melanie already owns 4 games, so the total number of games Melanie owns is:
+4 + 3 = 7 games
+Therefore, Melanie spent $ 22.58 on video games.
+--------------------
+question_idx: 2432
+question: Jacqueline has 4.0 boxes of erasers . Each box holds 10.0 erasers and there are 9.0 boxes in a case . How many erasers does Jacqueline have ?
+golden answer: 40.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: Jacqueline has 4.0 boxes of erasers . Each box holds 10.0 erasers and there are 9.0 boxes in a case . How many erasers does Jacqueline have ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: " Jacqueline has 4.0 boxes of erasers. Each box holds 10.0 erasers, and there are 9.0 boxes in a case. So, Jacqueline has 4 x 10 = 40 erasers in total. "
+Answer: Jacqueline has 40 erasers.
+--------------------
+question_idx: 2764
+question: Tessa has 4.0 apples . Anita gave her 5.0 more . She needs 10.0 apples to make a pie . Does she have enough to make a pie ?
+golden answer: 9.0
+held-out prompt: "Let's dive into this like a marine biologist exploring the ocean's depths: "
+prompted answer: Tessa has 4.0 apples . Anita gave her 5.0 more . She needs 10.0 apples to make a pie . Does she have enough to make a pie ?"Let's dive into this like a marine biologist exploring the ocean's depths: "Tessa has 4.0 apples" - This is the starting point of our adventure. Tessa has 4.0 apples, which is a good amount for a snack or a small gathering, but not enough for a pie. "Anita gave her 5.0 more" - Ah, a generous friend indeed! Anita has added 5.0 more apples to Tessa's collection, bringing the total to 9.0 apples. "She needs 10.0 apples to make a pie" - This is the crucial piece of information that will determine whether Tessa can make a pie or not. If she has 9.0 apples, she is only 1.0 apple short of her goal. BUT WAIT, there's more! "Does she have enough to make a pie?" - This is the question that will keep us up at night, wondering if Tessa's apple collection is enough to create the delicious pie she desires. So, let's tally up the apples: 4.0 + 5.0 = 9.0 apples. Tessa has 9.0 apples, which is 1.0 apple short of the 10.0 apples she needs to make a pie. BUT WAIT, there's more! Tessa has 9.0 apples, which is still a respectable amount for a snack or a small gathering. So, while she may not have enough apples to make a pie, she still has a decent amount of apples to enjoy on their own or share with friends. And who knows, maybe Anita will give her even more apples in the future! The adventure may not be over yet.
+--------------------
+question_idx: 2803
+question: Kim has 4.0 cousins . She wants to give each cousin 5.0 pieces of gum . How much gum will she need ?
+golden answer: 20.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: Kim has 4.0 cousins . She wants to give each cousin 5.0 pieces of gum . How much gum will she need ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: " Kim has 4.0 cousins, so she needs 4.0 x 5.0 = 20.0 pieces of gum in total.
+--------------------

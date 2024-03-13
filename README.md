@@ -96,6 +96,8 @@ torchrun --nproc_per_node 1 llama_step1_gen_offline.py \
  ```
  python3 llama_step5_offline_optimization.py
  ```
+- Note: you may need to download a missing embedding file from [this link](https://drive.google.com/file/d/1ER50FoLInO1pTr50dDjjZMBGPX-pXVA1/view?usp=sharing). (oversized for Github, ~ 230Mb)
+
 
 
 ## 🚀 A Related Discussion on RLHF:

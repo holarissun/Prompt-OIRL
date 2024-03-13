@@ -1,0 +1,120 @@
+question_idx: 4
+question: in 1 week an airplane pilot flew 1134 miles on tuesday and 1475 miles on thursday . if the pilot flies the same number of miles 3 weeks in a row how many miles does he fly in all ?
+golden answer: 7827.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 9
+question: mrs. hilt uses 2 ounces of detergent to wash a pound of clothes . how many ounces of soap will she use to wash 9 pounds of clothes ?
+golden answer: 18.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 15
+question: mrs. hilt saw a rollercoaster . 7 students rode the rollercoaster every 5 minutes . how many students rode the rollercoaster in 15 minutes ?
+golden answer: 21.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 17
+question: mrs. hilt measured the distance from her desk to the water fountain . it was 30 feet . how many feet will mrs. hilt walk on her trips to the fountain if she goes to the water fountain 4 times today ?
+golden answer: 120.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 18
+question: lucy has an aquarium with 212 fish . she wants to buy 68 more fish . how many fish would lucy have then ?
+golden answer: 280.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 19
+question: lucy has 212 fish . how many more fish does she need to buy to have 280 fish ?
+golden answer: 68.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 27
+question: blithe has a lot of toys . he lost 6 of them and found 9 in his closet . if he had 43 after that how many toys did blithe have at first ?
+golden answer: 40.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 29
+question: there are some passengers on a bus . at a bus stop 7 more passengers got on the bus and 9 passengers got off . if there are 26 passengers in the bus in the end how many passengers were there at first ?
+golden answer: 28.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 34
+question: robert made $ 76 at work . he spent $ 6 on a pen and $ 14 for a calculator . how much money did he have left ?
+golden answer: 56.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 36
+question: there are a total of 90 items at a bakery . 49 of them are bread rolls and 19 of them are croissants . how many bagels are there ?
+golden answer: 22.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 38
+question: a restaurant has 94 pieces of cutlery . 38 are forks 27 are knives and the rest are spoons . how many spoons are there ?
+golden answer: 29.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 43
+question: 67 medals are displayed in the sports center . there are 19 gold medals and 32 silver medals . how many bronze medals are displayed ?
+golden answer: 16.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 49
+question: a mirror store has 78 mirrors in stock . 8 mirrors are broken and 57 mirrors are sold . how many mirrors are left ?
+golden answer: 13.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 59
+question: sam has 58 power ranger stickers . he bundles them up in 2 boxes . if there are 23 power ranger stickers in the first box how many more power ranger stickers are there in the second box than the first box ?
+golden answer: 12.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 73
+question: there are 757 pounds of sand to be filled into bags . if each bag has a capacity of 65 pounds how many bags are needed ?
+golden answer: 11.646153846153846
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 75
+question: jane can arrange 16 vases of flowers in a day . if there are 248 vases of flowers to be arranged how many days are needed for her to finish all the flower arrangements ?
+golden answer: 15.5
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 76
+question: a box can hold 18 pieces of chalk . if there are 3484 pieces of chalk how many boxes are full to hold all the chalk ?
+golden answer: 193.5555555555556
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 78
+question: a bus can transport 48 passengers . if a school of 1230 students and teachers are going on a field trip how many buses should be rented ?
+golden answer: 25.625
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 81
+question: mrs. smith gave 53 strawberries to 8 girls equally . how many strawberries did each girl get ?
+golden answer: 6.625
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 82
+question: tom had $ 19 and he wanted to buy as many folders as he could . if 1 folder costs $ 2 how many folders can tom buy ?
+golden answer: 9.5
+held-out prompt: 0
+prompted answer: 0
+--------------------

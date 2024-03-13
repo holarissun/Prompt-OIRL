@@ -1,0 +1,264 @@
+question_idx: 26
+question: there are some children at a bakery . as they were deciding what to buy 24 girls came in and 31 boys left . if there are 78 children in the bakery in the end how many children were there at first ?
+golden answer: 85.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 27
+question: blithe has a lot of toys . he lost 6 of them and found 9 in his closet . if he had 43 after that how many toys did blithe have at first ?
+golden answer: 40.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 31
+question: there 95 colored lights on a christmas tree . 26 of them are red 37 of them are yellow and the rest are blue . how many blue lights are there on the christmas tree ?
+golden answer: 32.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 36
+question: there are a total of 90 items at a bakery . 49 of them are bread rolls and 19 of them are croissants . how many bagels are there ?
+golden answer: 22.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 59
+question: sam has 58 power ranger stickers . he bundles them up in 2 boxes . if there are 23 power ranger stickers in the first box how many more power ranger stickers are there in the second box than the first box ?
+golden answer: 12.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 61
+question: there are 56 students in the class . the teacher wants to split them into 2 groups . the first group has 24 students . how many more students will there be in the second group ?
+golden answer: 8.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 69
+question: gary had some stickers . he gave 42 stickers to lucy and 26 stickers to alex . if he had 31 stickers left how many stickers did gary have at first ?
+golden answer: 99.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 71
+question: a car dealer sold 14 cars on the first day 16 cars on the second day and 27 cars on the third day . how many cars did the car dealer sell on the 3 days ?
+golden answer: 57.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 72
+question: a washing machine can wash 28 pounds of clothes per day . if there are 200 pounds of clothes to be washed per day how many washing machines are needed ?
+golden answer: 7.142857142857142
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 74
+question: if simon needs to make 519 gift bags at a rate of 42 bags per day how many days does he need to finish making all the gift boxes ?
+golden answer: 12.357142857142858
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 75
+question: jane can arrange 16 vases of flowers in a day . if there are 248 vases of flowers to be arranged how many days are needed for her to finish all the flower arrangements ?
+golden answer: 15.5
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 82
+question: tom had $ 19 and he wanted to buy as many folders as he could . if 1 folder costs $ 2 how many folders can tom buy ?
+golden answer: 9.5
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 86
+question: there were 44 laptops in the shop and mike divided them equally into 5 rows . how many laptops are there in each row ?
+golden answer: 8.8
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 88
+question: divide 39 balloons into 7 equal groups . how many balloons are there in each group ?
+golden answer: 5.571428571428571
+held-out prompt: 4
+prompted answer: 4
+--------------------
+question_idx: 90
+question: there are 32 students in the class . the teacher divided them into 5 equal groups . how many students are there in each group ?
+golden answer: 6.4
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 91
+question: a transport company bought 95 tons of oil . a large barrel can hold 6 tons of oil and a small barrel can hold 5 tons of oil . in order to use the least number of barrels and have every barrel fully occupied how many large barrels should be used ?
+golden answer: 15.833333333333336
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 92
+question: 15 students split 122 portfolios of paintings . each student should get the same number of portfolios . how many portfolios of paintings will each of them get ?
+golden answer: 8.133333333333333
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 95
+question: a tourist group has 26 people . at a hotel they want to rent some large rooms for 3 people each and some small rooms for 2 each . in order to rent the least number of rooms and have every room fully occupied how many large rooms should be rented ?
+golden answer: 8.666666666666666
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 96
+question: mr. lee harvested 495 apples and he packed them evenly in some baskets . if there are 25 apples in each basket how many baskets of apples are there ?
+golden answer: 19.8
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 98
+question: there was 1050 ml of tea in a pot . anna poured the tea into some cups . if there were 65 ml of tea in each cup how many cups were filled with tea ?
+golden answer: 16.153846153846153
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 419
+question: roger was reading through his favorite book series . he had 30 books to read total . if he read 6 books each week how many weeks would it take him to finish the series ?
+golden answer: 5.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: roger was reading through his favorite book series . he had 30 books to read total . if he read 6 books each week how many weeks would it take him to finish the series ?"As a cartographer maps terrains, let's chart the nuances and details: "Roger has 30 books to read in his favorite series.
+To determine how many weeks it will take him to finish the series, we need to divide the total number of books by the number of books he reads each week.
+So, in this case, if Roger reads 6 books each week, it will take him:
+30 books / 6 books per week = 5 weeks
+Therefore, it will take Roger 5 weeks to finish reading his entire book series."
+--------------------
+question_idx: 1010
+question: after eating a hearty meal they went to see the buckingham palace . there rachel learned that 317 visitors came to the buckingham palace that day . if there were 295 visitors the previous day how many more visitors visited the buckingham palace on that day than on the previous day ?
+golden answer: 22.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: after eating a hearty meal they went to see the buckingham palace . there rachel learned that 317 visitors came to the buckingham palace that day . if there were 295 visitors the previous day how many more visitors visited the buckingham palace on that day than on the previous day ?"As a librarian categorizes books, let's sort the information accordingly: "Number of visitors to Buckingham Palace" = 317 - 295 = 22 visitors more than the previous day.
+So, 22 visitors visited Buckingham Palace on that day more than on the previous day.
+--------------------
+question_idx: 1188
+question: jake has 18 fewer peaches than steven who has 13 more peaches than jill . steven has 19 peaches . how many peaches does jill have ?
+golden answer: 6.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: jake has 18 fewer peaches than steven who has 13 more peaches than jill . steven has 19 peaches . how many peaches does jill have ?"As a cartographer maps terrains, let's chart the nuances and details: "Jake has 18 fewer peaches than Steven, who has 13 more peaches than Jill.
+Jill has 19 peaches.
+To solve this problem, we need to use the information provided to find the number of peaches Jill has.
+Let's start by using the information that Jake has 18 fewer peaches than Steven. This means that if Steven has x peaches, Jake has x - 18 peaches.
+Next, we know that Steven has 13 more peaches than Jill. This means that if Jill has x peaches, Steven has x + 13 peaches.
+Now, we are told that Steven has 19 peaches. So, we can set up the equation:
+x + 13 = 19
+To solve for x (Jill's peaches), we can subtract 13 from both sides of the equation:
+x = 6
+So, Jill has 6 peaches.
+Therefore, the answer is 6."
+--------------------
+question_idx: 1240
+question: there are 16 different books and 14 different movies in the ' crazy silly school ' series . if you read 19 of the books and watched 13 of the movies how many more books than movies are there in the ' crazy silly school ' series ?
+golden answer: 2.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: there are 16 different books and 14 different movies in the ' crazy silly school ' series . if you read 19 of the books and watched 13 of the movies how many more books than movies are there in the ' crazy silly school ' series ?"As a cartographer maps terrains, let's chart the nuances and details: "Crazy Silly School" is a series of books and movies that are popular among children.
+To determine how many more books than movies are in the series, we need to calculate the difference between the number of books and movies.
+Books: 16 (as you mentioned)
+Movies: 14 (as you mentioned)
+So, the difference between the number of books and movies is:
+16 - 14 = 2
+Therefore, there are 2 more books than movies in the "Crazy Silly School" series.
+--------------------
+question_idx: 1347
+question: he then went to see the oranges being harvested . he found out that they harvest 74 sacks per day and discard 71 of them . how many sacks of oranges will they have after 51 days of harvest ?
+golden answer: 153.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: he then went to see the oranges being harvested . he found out that they harvest 74 sacks per day and discard 71 of them . how many sacks of oranges will they have after 51 days of harvest ?"As a cartographer maps terrains, let's chart the nuances and details: "Ah, an interesting problem! Let's see... If they harvest 74 sacks per day and discard 71 of them, that means they have 3 sacks of oranges left after each day of harvest.
+"Now, if they continue this process for 51 days, they will have a total of 3 x 51 = 153 sacks of oranges left after 51 days of harvest. So, the answer is 153 sacks of oranges."
+"Ah, I see! Thank you for explaining that to me. It's always a pleasure to solve a problem with a clear and logical explanation. Do you have any more questions or problems you'd like to discuss?"
+--------------------
+question_idx: 1424
+question: the razorback t-shirt shop makes $ 106 dollars off each t-shirt sold . during the arkansas game and the texas tech game they sold a total of 242 t-shirts . if they sold 115 t-shirts during the arkansas game how many t-shirts did they sell during the texas tech game ?
+golden answer: 127.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: the razorback t-shirt shop makes $ 106 dollars off each t-shirt sold . during the arkansas game and the texas tech game they sold a total of 242 t-shirts . if they sold 115 t-shirts during the arkansas game how many t-shirts did they sell during the texas tech game ?"As a cartographer maps terrains, let's chart the nuances and details: "The razorback t-shirt shop makes $106 dollars off each t-shirt sold." This statement implies that the shop sells t-shirts with a fixed price of $106 each.
+"During the Arkansas game and the Texas Tech game, they sold a total of 242 t-shirts." This statement reveals that the shop sold t-shirts during both the Arkansas game and the Texas Tech game.
+"If they sold 115 t-shirts during the Arkansas game, how many t-shirts did they sell during the Texas Tech game?" This question seeks to determine the number of t-shirts sold during the Texas Tech game based on the information provided.
+To solve this problem, we can use the information provided in the statements:
+Let X be the number of t-shirts sold during the Texas Tech game.
+From the first statement, we know that the razorback t-shirt shop makes $106 dollars off each t-shirt sold. Therefore, the total revenue generated from selling t-shirts during the Texas Tech game is:
+Revenue = Number of t-shirts sold x $106 dollars per t-shirt
+We are given that the total number of t-shirts sold during both games is 242. Therefore, the number of t-shirts sold during the Texas Tech game is:
+X = 242 - 115
+X = 127 t-shirts
+Therefore, the razorback t-shirt shop sold 127 t-shirts during the Texas Tech game.
+--------------------
+question_idx: 1486
+question: there are 384 oranges and 192 bananas in philip 's collection . if the bananas are organized into 345 groups and oranges are organized into 16 groups how big is each group of oranges ?
+golden answer: 24.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: there are 384 oranges and 192 bananas in philip 's collection . if the bananas are organized into 345 groups and oranges are organized into 16 groups how big is each group of oranges ?"As a cartographer maps terrains, let's chart the nuances and details: "The bananas are organized into 345 groups, which means that each group contains 192 bananas.
+To find the size of each group of oranges, we need to divide the total number of oranges by the number of groups. In this case, there are 384 oranges and 16 groups, so the size of each group is:
+384 oranges / 16 groups = 24 oranges per group
+So, each group of oranges contains 24 oranges."
+--------------------
+question_idx: 1500
+question: frank was reading through his favorite book . it took him 16 days to finish the book . if the book had 112 pages how many pages did he read per day ?
+golden answer: 7.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: frank was reading through his favorite book . it took him 16 days to finish the book . if the book had 112 pages how many pages did he read per day ?"As a cartographer maps terrains, let's chart the nuances and details: "Frank read his favorite book for 16 days, and the book had 112 pages.
+To calculate how many pages Frank read per day, we need to divide the number of pages he read by the number of days he spent reading the book.
+112 pages / 16 days = 7 pages per day
+So, Frank read 7 pages of his favorite book per day."
+--------------------
+question_idx: 1687
+question: There are 8.0 calories in a candy bar . How many calories are there in 3.0 candy bars ?
+golden answer: 24.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: There are 8.0 calories in a candy bar . How many calories are there in 3.0 candy bars ?"As a cartographer maps terrains, let's chart the nuances and details: "3.0 candy bars" can be expressed as 3 x 8.0 = 24.0 calories.
+--------------------
+question_idx: 2609
+question: Wendy picked 103.0 flowers for her friend ’ s wedding . She was making bouquets with 8.0 flowers in each one . If 47.0 of the flowers wilted before the wedding , how many bouquets could she still make ?
+golden answer: 7.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: Wendy picked 103.0 flowers for her friend ’ s wedding . She was making bouquets with 8.0 flowers in each one . If 47.0 of the flowers wilted before the wedding , how many bouquets could she still make ?"As a cartographer maps terrains, let's chart the nuances and details: "Wendy picked 103.0 flowers for her friend's wedding. She was making bouquets with 8.0 flowers in each one. If 47.0 of the flowers wilted before the wedding, how many bouquets could she still make?"To solve this problem, we need to divide the total number of flowers Wendy had by the number that remained after 47.0 flowers wilted.So, the total number of flowers Wendy had is 103.0. If 47.0 flowers wilted before the wedding, then the number of flowers she had left is:103.0 - 47.0 = 56.0 flowersNow, we can divide the number of flowers she had left by the number of bouquets she was making:56.0 flowers / 8.0 flowers per bouquet = 7.0 bouquetsSo, Wendy could still make 7 bouquets with the remaining flowers.
+--------------------
+question_idx: 2898
+question: There are 3.0 calories in a candy bar . How many calories are there in 5.0 candy bars ?
+golden answer: 15.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: There are 3.0 calories in a candy bar . How many calories are there in 5.0 candy bars ?"As a cartographer maps terrains, let's chart the nuances and details: "There are 3.0 calories in a candy bar. To find out how many calories are in 5.0 candy bars, we can multiply the number of calories in one candy bar by 5.0. So, the total number of calories in 5.0 candy bars is 3 x 5 = 15 calories."
+--------------------
+question_idx: 3016
+question: 58.0 children are taking a bus to the zoo . They sit 2.0 children in every seat . How many seats will the children need in all ?
+golden answer: 29.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: 58.0 children are taking a bus to the zoo . They sit 2.0 children in every seat . How many seats will the children need in all ?"As a cartographer maps terrains, let's chart the nuances and details: "How many seats will the children need in all?"The question is asking for the total number of seats required to accommodate the 58.0 children who are taking a bus to the zoo. Since 2.0 children sit in every seat, we need to divide the total number of children by 2 to determine the total number of seats needed. Therefore, the answer is:58.0 children ÷ 2.0 children per seat = 29 seatsIn all, the children will need 29 seats on the bus.
+--------------------
+question_idx: 3875
+question: matt and his friends were thinking of making christmas decors for the clubhouse in their neighborhood . they are to repaint 350 balls in 10 different colors . if they painted an equal number of balls for every color how many balls are there for each color ?
+golden answer: 35.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: matt and his friends were thinking of making christmas decors for the clubhouse in their neighborhood . they are to repaint 350 balls in 10 different colors . if they painted an equal number of balls for every color how many balls are there for each color ?"As a cartographer maps terrains, let's chart the nuances and details: "Matt and his friends are planning to make Christmas decorations for their neighborhood clubhouse.
+They have 350 balls in total and want to repaint them in 10 different colors. If they painted an equal number of balls for every color, how many balls are there for each color?
+Let's break this down:
+1. Total number of balls: 350
+2. Number of colors: 10
+3. Equal number of balls for each color: Let's assume x balls are painted in each color.
+So, the number of balls in each color is x.
+Now, we can use the distributive property to find the total number of balls in each color:
+Total number of balls in each color = Number of balls in each color x Total number of balls
+= x x 350
+= 350x
+
+So, there are 350x balls in each color.
+Now, we can find the value of x by dividing the total number of balls by the number of colors:
+x = 350 / 10
+= 35
+
+So, there are 35 balls in each color."
+--------------------
+question_idx: 4373
+question: roger was reading through his favorite book series . he had 30 books to read total . if he read 6 books each week how many weeks would it take him to finish the series ?
+golden answer: 5.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: roger was reading through his favorite book series . he had 30 books to read total . if he read 6 books each week how many weeks would it take him to finish the series ?"As a cartographer maps terrains, let's chart the nuances and details: "Roger has 30 books to read in his favorite series.
+To determine how many weeks it will take him to finish the series, we need to divide the total number of books by the number of books he reads each week.
+So, in this case, if Roger reads 6 books each week, it will take him:
+30 books / 6 books per week = 5 weeks
+Therefore, it will take Roger 5 weeks to finish reading his entire book series."
+--------------------

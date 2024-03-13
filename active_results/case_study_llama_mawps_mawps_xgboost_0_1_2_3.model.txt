@@ -1,0 +1,717 @@
+question_idx: 9
+question: Joyce has 40.0 bananas that must be put away in boxes . Fred comes to help and brings 18.0 cookies to share with Joyce . If there are 10.0 boxes , how many bananas must go in each box ?
+golden answer: 4.0
+held-out prompt: "As if we're crafting a potion, each herb and element has a purpose. Brew with me: "
+prompted answer: Joyce has 40.0 bananas that must be put away in boxes . Fred comes to help and brings 18.0 cookies to share with Joyce . If there are 10.0 boxes , how many bananas must go in each box ?"As if we're crafting a potion, each herb and element has a purpose. Brew with me: "
+Joyce has 40.0 bananas that must be put away in boxes. Fred comes to help and brings 18.0 cookies to share with Joyce. If there are 10.0 boxes, how many bananas must go in each box?
+Let's start by dividing the total number of bananas by the number of boxes:
+40.0 bananas ÷ 10.0 boxes = 4.0 bananas per box
+Now, let's check if this answer makes sense. If Joyce has 40.0 bananas and there are 10.0 boxes, then each box should contain 4.0 bananas on average.
+But wait, there's more! Fred also brought 18.0 cookies to share with Joyce. Let's add that to the mix:
+4.0 bananas per box + 18.0 cookies = 22.0 total items per box
+So, Joyce needs to put away 4.0 bananas in each box, and there will be 22.0 total items in each box, including both bananas and cookies.
+Now, let's put it all together:
+Joyce has 40.0 bananas that must be put away in boxes. Fred comes to help and brings 18.0 cookies to share with Joyce. If there are 10.0 boxes, how many bananas must go in each box?
+Answer: 4.0 bananas per box
+I hope this helps you brew up a solution to Joyce's problem!
+--------------------
+question_idx: 34
+question: Megan earned 8.0 points for each bag of cans she recycled . If she had 14.0 bags , but did n't recycle 5.0 of them , how many points would she have earned ?
+golden answer: 72.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 44
+question: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?
+golden answer: 7.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?"As a cartographer maps terrains, let's chart the nuances and details: "How many problems are on each page?" we ask. Megan has 40.0 homework problems, and she finished 26.0 of them. That means she has 14.0 problems left to do. Since each page has the same number of problems, we can divide the remaining problems by the number of pages to find out how many problems are on each page. In this case, dividing 14.0 problems by 2.0 pages gives us 7.0 problems per page. So, there are 7.0 problems on each page.
+--------------------
+question_idx: 52
+question: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?
+golden answer: 12.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 60
+question: Nancy grew 2.0 onions , Dan grew 9.0 onions , and Mike grew 4.0 onions . They worked for 6.0 days on the farm . How many onions did they grow in total ?
+golden answer: 15.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 75
+question: There was a stack of 700.0 sheets of used paper . Lexie wants to place it in boxes for recycling . If every box can contain 100.0 sheets , how many boxes does Lexie need ?
+golden answer: 7.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 89
+question: At the schools book fair Victor bought 32.0 adventure books and 37.0 mystery books . If 16.0 of the books were used , how many new books did he buy ?
+golden answer: 53.0
+held-out prompt: "As if we're crafting a potion, each herb and element has a purpose. Brew with me: "
+prompted answer: At the schools book fair Victor bought 32.0 adventure books and 37.0 mystery books . If 16.0 of the books were used , how many new books did he buy ?"As if we're crafting a potion, each herb and element has a purpose. Brew with me: "Victor bought 32.0 adventure books and 37.0 mystery books at the school book fair. If 16.0 of the books were used, how many new books did he buy?""
+Victor bought 32.0 adventure books and 37.0 mystery books at the school book fair. If 16.0 of the books were used, how many new books did he buy?
+To find out how many new books Victor bought, we need to subtract the number of used books from the total number of books he bought.
+32.0 adventure books + 37.0 mystery books = 69.0 books
+If 16.0 of the books were used, then the number of new books Victor bought is:
+69.0 - 16.0 = 53.0 books
+So, Victor bought 53.0 new books at the school book fair.
+--------------------
+question_idx: 93
+question: Melanie had 10.0 quarters and 17.0 pennies in her bank . Her dad gave her 27.0 pennies and her mother gave her 19.0 pennies . How many pennies does Melanie have now ?
+golden answer: 63.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 148
+question: Bryan took a look at his books as well . If Bryan has 56.0 books in each of his 9.0 bookshelves , how many books does he have in total ?
+golden answer: 504.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 161
+question: Sean has 9.0 apples . Susan gives Sean 8.0 more . Later , Sean buys 18.0 tickets at the store . How many apples does Sean have in all ?
+golden answer: 17.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 164
+question: Frank made 19.0 dollars mowing lawns over the summer . If he spent 11.0 dollars buying new mower blades , how many 2.0 dollar games could he buy with the money he had left ?
+golden answer: 4.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 179
+question: Dana earns $ 13.0 per hour . She worked 9.0 hours on Friday , 10.0 hours on Saturday , and 3.0 hours on Sunday . How much money did Dana earn in all ?
+golden answer: 286.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: Dana earns $ 13.0 per hour . She worked 9.0 hours on Friday , 10.0 hours on Saturday , and 3.0 hours on Sunday . How much money did Dana earn in all ?"As a cartographer maps terrains, let's chart the nuances and details: "Dana earns $13.0 per hour." This is the rate at which Dana is paid for her work. "She worked 9.0 hours on Friday," this is the number of hours Dana worked on Friday. "10.0 hours on Saturday," this is the number of hours Dana worked on Saturday. "and 3.0 hours on Sunday," this is the number of hours Dana worked on Sunday.Now, let's calculate the total number of hours Dana worked:9 hours + 10 hours + 3 hours = 22 hoursNow, let's multiply the total number of hours worked by Dana's hourly wage:22 hours x $13.0 per hour = $286.00So, Dana earned $286.00 in total.
+--------------------
+question_idx: 189
+question: Todd has some gum . Steve gave him 16.0 more pieces of gum . Now Todd has 54.0 pieces of gum . How many pieces did Todd have to start with ?
+golden answer: 38.0
+held-out prompt: "As if we're crafting a potion, each herb and element has a purpose. Brew with me: "
+prompted answer: Todd has some gum . Steve gave him 16.0 more pieces of gum . Now Todd has 54.0 pieces of gum . How many pieces did Todd have to start with ?"As if we're crafting a potion, each herb and element has a purpose. Brew with me: "Todd has 54 pieces of gum now. Let's see, if Steve gave him 16 more pieces, that means Todd had x pieces of gum to start with. We can set up an equation to solve for x: 54 = x + 16. Subtract 16 from both sides: 38 = x. So, Todd had 38 pieces of gum to start with."
+--------------------
+question_idx: 197
+question: There are 115.0 pencils in the drawer . Sara placed 100.0 pencils in the drawer . How many pencils are now there in all ?
+golden answer: 215.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 215
+question: A sandbox is 312.0 centimeters long and 146.0 centimeters wide . How many square centimeters of ground does the sandbox cover ?
+golden answer: 45552.0
+held-out prompt: 6
+prompted answer: 6
+--------------------
+question_idx: 230
+question: Soft drinks are on sale at the grocery store for 2.99 dollars for a 12.0 pack . How much would each can of soft drink cost if purchased individually , in dollars ?
+golden answer: 0.25
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 242
+question: A worksheet had 4.0 problems on it . If a teacher had 9.0 worksheets to grade and had already graded 5.0 of them , how many more problems does she have to grade ?
+golden answer: 16.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 262
+question: There are 2.0 bananas in a pile on the desk . Each banana comes in a package of 13.0 . 7.0 bananas are added to the pile . How many bananas are there in the pile ?
+golden answer: 9.0
+held-out prompt: "Like a blacksmith forging metal, let's shape our understanding with precision: "
+prompted answer: There are 2.0 bananas in a pile on the desk . Each banana comes in a package of 13.0 . 7.0 bananas are added to the pile . How many bananas are there in the pile ?"Like a blacksmith forging metal, let's shape our understanding with precision: "There are 2.0 bananas in a pile on the desk." This is the starting point, the foundation upon which we build our solution. "Each banana comes in a package of 13.0." This is the context, the container that holds the bananas. "7.0 bananas are added to the pile." This is the input, the additional amount of bananas added to the pile.Now, let's combine these pieces of information to find the total number of bananas in the pile:2.0 + 7.0 = 9.0 bananasSo, there are 9 bananas in the pile on the desk.
+--------------------
+question_idx: 281
+question: A waitress put leftover tarts into the fridge on Thursday night . She noticed that the restaurant had 0.08333333333333333 tart filled with cherries , 0.75 tart filled with blueberries , and 0.08333333333333333 tart filled with peaches . How many leftover tarts did the restaurant have in all ?
+golden answer: 0.9166666666666666
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 295
+question: Kelly has 50.0 Nintendo games . How many does she need to give away so that she will have 35.0 games left ?
+golden answer: 15.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 300
+question: Lewis saved checking on the grapevines for his last stop . He was told by one of the pickers that they fill 324.0 drums of grapes per day . How many drums of grapes would be filled in 9.0 days ?
+golden answer: 2916.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 303
+question: Sue ’ s family went on vacation . Her mom drove the car at 60.0 mph . They camped at a campground after traveling for 5.0 hours . How far was the campground from their home ?
+golden answer: 300.0
+held-out prompt: 6
+prompted answer: 6
+--------------------
+question_idx: 349
+question: 0.5 the students in the band are in the trumpet section . 0.125 the students in the band are in the trombone section . What fraction of the students in the band are in either the trumpet section or the trombone section ?
+golden answer: 0.625
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 355
+question: Keith spent $ 6.51 on a rabbit toy , $ 5.79 on pet food , and a cage cost him $ 12.51 . He found a dollar bill on the ground . What was the total cost of Keith 's purchases ?
+golden answer: 24.81
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 385
+question: A lawyer bills her clients 200.0 dollars per hour of service . If a client 's case requires 39.0 hours to complete , use proportion to calculate how much the client will owe the lawyer in dollars .
+golden answer: 7800.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 393
+question: Each year , salmon travel upstream , going from the ocean to the rivers where they were born . This year , 712261.0 male and 259378.0 female salmon returned to their rivers . How many salmon made the trip ?
+golden answer: 971639.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 454
+question: There are 47.0 eggs in a box . Harry takes 5.0 eggs . How many are left ?
+golden answer: 42.0
+held-out prompt: "Like a blacksmith forging metal, let's shape our understanding with precision: "
+prompted answer: There are 47.0 eggs in a box . Harry takes 5.0 eggs . How many are left ?"Like a blacksmith forging metal, let's shape our understanding with precision: "There are 47.0 eggs in a box." A box, you say? Like a treasure chest overflowing with eggs, "Harry takes 5.0 eggs." Ah, a thief in the night, stealing eggs from the box. "How many are left?" we must ask.Let's count the remaining eggs: 47 - 5 = 42 eggs left in the box. The answer is 42 eggs.
+--------------------
+question_idx: 487
+question: There are 112.0 short trees and 119.0 tall trees currently in the park . Park workers will plant 105.0 short trees today . How many short trees will the park have when the workers are finished ?
+golden answer: 217.0
+held-out prompt: "It's like flying a kite. Every tug and adjustment affects its flight: "
+prompted answer: There are 112.0 short trees and 119.0 tall trees currently in the park . Park workers will plant 105.0 short trees today . How many short trees will the park have when the workers are finished ?"It's like flying a kite. Every tug and adjustment affects its flight: "The park will have 112.0 short trees when the workers are finished. The statement "Park workers will plant 105.0 short trees today" means that the number of short trees in the park will increase by 105.0, so the total number of short trees in the park after the workers are finished will be 112.0 + 105.0 = 217.0 short trees.
+--------------------
+question_idx: 586
+question: A store had 31.0 oranges in a bin . If they threw away 9.0 of the old ones and put 38.0 new ones in the bin how many would be in the bin ?
+golden answer: 60.0
+held-out prompt: "Let's examine this as a doctor diagnoses symptoms to understand the ailment: "
+prompted answer: A store had 31.0 oranges in a bin . If they threw away 9.0 of the old ones and put 38.0 new ones in the bin how many would be in the bin ?"Let's examine this as a doctor diagnoses symptoms to understand the ailment: "Okay, so we have 31.0 oranges in a bin initially. Then, we're told that 9.0 of the old oranges were thrown away, leaving us with 31.0 - 9.0 = 22.0 oranges in the bin. Finally, we're told that 38.0 new oranges were added to the bin, so the total number of oranges in the bin now is 22.0 + 38.0 = 60.0 oranges."
+--------------------
+question_idx: 592
+question: Hoping to be named Salesperson of the Month , Rosa called the names from 10.2 pages of the phone book last week . This week , she called the people listed on another 8.6 pages of the same phone book . How many pages worth of people did Rosa call in all ?
+golden answer: 18.8
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: Hoping to be named Salesperson of the Month , Rosa called the names from 10.2 pages of the phone book last week . This week , she called the people listed on another 8.6 pages of the same phone book . How many pages worth of people did Rosa call in all ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: " Rosa called 18.8 pages worth of people in all.
+--------------------
+question_idx: 598
+question: If Karen sold 36.0 boxes of Tagalongs , how many cases of 12.0 boxes does Karen pickup from the cookie mom ?
+golden answer: 3.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: If Karen sold 36.0 boxes of Tagalongs , how many cases of 12.0 boxes does Karen pickup from the cookie mom ?"As a cartographer maps terrains, let's chart the nuances and details: "Karen sold 36.0 boxes of Tagalongs" implies that Karen sold a total of 36 boxes of Tagalongs. To find out how many cases of 12.0 boxes Karen picks up from the Cookie Mom, we need to divide the number of boxes Karen sold by the number of boxes in a case. Since there are 12.0 boxes in a case, we can calculate the number of cases Karen picks up as follows:
+36.0 boxes / 12.0 boxes per case = 3 cases
+Therefore, Karen picks up 3 cases of Tagalongs from the Cookie Mom.
+--------------------
+question_idx: 637
+question: A trivia team had 5.0 members total , but during a game 2.0 members did n't show up . If each member that did show up scored 6.0 points , how many points were scored total ?
+golden answer: 18.0
+held-out prompt: "As if we're crafting a potion, each herb and element has a purpose. Brew with me: "
+prompted answer: A trivia team had 5.0 members total , but during a game 2.0 members did n't show up . If each member that did show up scored 6.0 points , how many points were scored total ?"As if we're crafting a potion, each herb and element has a purpose. Brew with me: "
+A trivia team had 5.0 members total, but during a game, 2.0 members didn't show up. If each member that did show up scored 6.0 points, how many points were scored total?
+Let's start by identifying the information given in the problem:
+* The trivia team had 5.0 members total.
+* 2.0 members didn't show up during the game.
+* Each member that did show up scored 6.0 points.
+Now, let's think about how we can use this information to find the total number of points scored:
+If the trivia team had 5.0 members total and 2.0 members didn't show up, that means there were 3.0 members who did show up.
+If each member who did show up scored 6.0 points, then the total number of points scored by the 3.0 members who showed up is 3 x 6.0 = 18.0 points.
+So, the total number of points scored by the trivia team is 18.0 points.
+Therefore, the answer to the problem is 18.0 points.
+--------------------
+question_idx: 816
+question: On 3.0 consecutive passes , a football team gain 7.0 yards , loses 31.0 yards , gains 24.0 yards . What number represents the total net net yardage ?
+golden answer: 0.0
+held-out prompt: "Let's dive into this like a marine biologist exploring the ocean's depths: "
+prompted answer: On 3.0 consecutive passes , a football team gain 7.0 yards , loses 31.0 yards , gains 24.0 yards . What number represents the total net net yardage ?"Let's dive into this like a marine biologist exploring the ocean's depths: "The question states that on 3.0 consecutive passes, a football team gained 7.0 yards, lost 31.0 yards, and gained 24.0 yards. To calculate the total net yardage, we need to subtract the yards lost from the yards gained. So, we will subtract 31.0 yards from 7.0 yards, which gives us 24.0 yards. Then, we will subtract 24.0 yards from 24.0 yards, which gives us 0.0 yards. Therefore, the total net yardage is 0.0 yards."
+--------------------
+question_idx: 953
+question: Sarah had some trucks . She gave 13.0 to Jeff , and now she has 38.0 trucks left . How many trucks did Sarah have to start with ?
+golden answer: 51.0
+held-out prompt: "As if we're crafting a potion, each herb and element has a purpose. Brew with me: "
+prompted answer: Sarah had some trucks . She gave 13.0 to Jeff , and now she has 38.0 trucks left . How many trucks did Sarah have to start with ?"As if we're crafting a potion, each herb and element has a purpose. Brew with me: "Sarah had 51 trucks to start with."
+--------------------
+question_idx: 1005
+question: There are 8.0 apples in a pile on the desk . Each apple comes in a package of 11.0 . 5.0 apples are added to the pile . How many apples are there in the pile ?
+golden answer: 13.0
+held-out prompt: "It's like flying a kite. Every tug and adjustment affects its flight: "
+prompted answer: There are 8.0 apples in a pile on the desk . Each apple comes in a package of 11.0 . 5.0 apples are added to the pile . How many apples are there in the pile ?"It's like flying a kite. Every tug and adjustment affects its flight: "There are 8.0 apples in a pile on the desk. Each apple comes in a package of 11.0. 5.0 apples are added to the pile. How many apples are there in the pile?"
+To solve this problem, we need to use the information given in the problem to find the total number of apples in the pile.
+First, we are told that there are 8.0 apples in a pile on the desk. This means that the total number of apples in the pile is 8.0 x 1 = 8.
+Next, we are told that each apple comes in a package of 11.0. This means that for every apple in the pile, there are 11.0 packages of apples.
+Finally, we are told that 5.0 apples are added to the pile. This means that the total number of apples in the pile is now 8.0 + 5.0 = 13.0 apples.
+Therefore, there are 13.0 apples in the pile on the desk.
+--------------------
+question_idx: 1128
+question: 3.0 friends own a car in Florida . One owns 0.5833 of the car the second owns 0.1667 . How much does the third own ?
+golden answer: 0.25
+held-out prompt: "It's like flying a kite. Every tug and adjustment affects its flight: "
+prompted answer: 3.0 friends own a car in Florida . One owns 0.5833 of the car the second owns 0.1667 . How much does the third own ?"It's like flying a kite. Every tug and adjustment affects its flight: "The third friend owns 0.25."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+question_idx: 1208
+question: If Karen sold 36.0 boxes of Tagalongs , how many cases of 12.0 boxes does Karen pickup from the cookie mom ?
+golden answer: 3.0
+held-out prompt: "As a cartographer maps terrains, let's chart the nuances and details: "
+prompted answer: If Karen sold 36.0 boxes of Tagalongs , how many cases of 12.0 boxes does Karen pickup from the cookie mom ?"As a cartographer maps terrains, let's chart the nuances and details: "Karen sold 36.0 boxes of Tagalongs" implies that Karen sold a total of 36 boxes of Tagalongs. To find out how many cases of 12.0 boxes Karen picks up from the Cookie Mom, we need to divide the number of boxes Karen sold by the number of boxes in a case. Since there are 12.0 boxes in a case, we can calculate the number of cases Karen picks up as follows:
+36.0 boxes / 12.0 boxes per case = 3 cases
+Therefore, Karen picks up 3 cases of Tagalongs from the Cookie Mom.
+--------------------
+question_idx: 1293
+question: It takes 7.0 minutes to bake one pan of cookies . How long will it take to bake 4.0 pans of cookies ?
+golden answer: 28.0
+held-out prompt: "Like an athlete training for an event, every exercise has a purpose: "
+prompted answer: It takes 7.0 minutes to bake one pan of cookies . How long will it take to bake 4.0 pans of cookies ?"Like an athlete training for an event, every exercise has a purpose: "To bake 4.0 pans of cookies, it will take 28.0 minutes."
+
+
+--------------------
+question_idx: 1388
+question: At a sale , the cost of a pair of shoes was reduced from 42.0 dollars to 33.6 dollars . What was the percent of discount ?
+golden answer: 20.0
+held-out prompt: "As if we're crafting a potion, each herb and element has a purpose. Brew with me: "
+prompted answer: At a sale , the cost of a pair of shoes was reduced from 42.0 dollars to 33.6 dollars . What was the percent of discount ?"As if we're crafting a potion, each herb and element has a purpose. Brew with me: "
+To find the percent of discount, we need to divide the amount of discount (33.6 - 42.0) by the original price (42.0):
+Percent of discount = (33.6 - 42.0) / 42.0 = -20%
+So, the percent of discount is -20%.
+--------------------
+question_idx: 1442
+question: Lisa starts with 91.0 bananas . Maria gives Lisa 8.0 more . How many bananas does Lisa end with ?
+golden answer: 99.0
+held-out prompt: "Like an athlete training for an event, every exercise has a purpose: "
+prompted answer: Lisa starts with 91.0 bananas . Maria gives Lisa 8.0 more . How many bananas does Lisa end with ?"Like an athlete training for an event, every exercise has a purpose: "How many bananas does Lisa end with?" is the question we want to answer. The answer is 99.0 bananas.
+--------------------

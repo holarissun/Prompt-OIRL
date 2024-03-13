@@ -1,0 +1,505 @@
+question_idx: 10
+question: mrs. hilt went to a concert . a total of 65899 people attended the concert . the next week she went to a second concert which had 119 more people in attendance . how many people were at the second concert ?
+golden answer: 66018.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 28
+question: lena had some pocket money . she lost $ 4 and her mom gave her $ 9 . if she had $ 66 after that how many dollars did lena have at first ?
+golden answer: 61.0
+held-out prompt: 9
+prompted answer: 9
+--------------------
+question_idx: 30
+question: bruno had some story books . he lost 4 of them and his dad gave him 10 more books . if he had 39 books after that how many books did bruno have at first ?
+golden answer: 33.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 36
+question: there are a total of 90 items at a bakery . 49 of them are bread rolls and 19 of them are croissants . how many bagels are there ?
+golden answer: 22.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 38
+question: a restaurant has 94 pieces of cutlery . 38 are forks 27 are knives and the rest are spoons . how many spoons are there ?
+golden answer: 29.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 64
+question: an online toy store stocked some toys . it sold 38 toys at the first week and 26 toys at the second week . if it had 19 toys left how many toys were in stock at the beginning ?
+golden answer: 83.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 65
+question: mother bought some potatoes . she used 15 of the potatoes to make salads and 24 of the potatoes for mashed potatoes . if there were 13 potatoes left how many potatoes did mother buy at first ?
+golden answer: 52.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 71
+question: a car dealer sold 14 cars on the first day 16 cars on the second day and 27 cars on the third day . how many cars did the car dealer sell on the 3 days ?
+golden answer: 57.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 73
+question: there are 757 pounds of sand to be filled into bags . if each bag has a capacity of 65 pounds how many bags are needed ?
+golden answer: 11.646153846153846
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 77
+question: a paper bag can hold 16 cookies . if edgar buys 292 cookies how many paper bags does he need ?
+golden answer: 18.25
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 80
+question: the capacity of a tank is 32 gallons . if a company bought 728 gallons of oil how many tanks are needed to hold all the oil ?
+golden answer: 22.75
+held-out prompt: 4
+prompted answer: 4
+--------------------
+question_idx: 81
+question: mrs. smith gave 53 strawberries to 8 girls equally . how many strawberries did each girl get ?
+golden answer: 6.625
+held-out prompt: 6
+prompted answer: 6
+--------------------
+question_idx: 90
+question: there are 32 students in the class . the teacher divided them into 5 equal groups . how many students are there in each group ?
+golden answer: 6.4
+held-out prompt: 6
+prompted answer: 6
+--------------------
+question_idx: 93
+question: 172 students are forming teams for a mountaineering competition . each team should have 18 students . how many teams can they form ?
+golden answer: 9.555555555555555
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 94
+question: mr. lee wants to load 134 tons of his fruits . a large truck can load 15 tons of fruits and small truck can load 7 tons . in order to use the least number of trucks and have every truck fully occupied how many large trucks should be used ?
+golden answer: 8.933333333333334
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 96
+question: mr. lee harvested 495 apples and he packed them evenly in some baskets . if there are 25 apples in each basket how many baskets of apples are there ?
+golden answer: 19.8
+held-out prompt: 6
+prompted answer: 6
+--------------------
+question_idx: 103
+question: greg and brad started reading their books at the same time . greg read 18 pages a day . brad read 26 pages a day . how many more pages did brad read than greg ?
+golden answer: 8.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 166
+question: jasper is in charge of the refreshments . he sold 27 bags of chips . he sold 8 fewer hot dogs than chips . he sold 12 more drinks than hot dogs . how many drinks did jasper sell ?
+golden answer: 31.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 195
+question: erin and dana finished a 2 day bike-a-thon . they rode 37 miles the first day the rode 55 miles the second day . how many miles did they ride altogether ?
+golden answer: 92.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 204
+question: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?
+golden answer: 8.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?"As a librarian categorizes books, let's sort the information accordingly: "Brian ran around the school track in 96 seconds" and "Todd ran around it in 88 seconds."Now, to find out how many fewer seconds it took Todd to run around the track, we need to subtract the time it took Brian to run around the track from the time it took Todd to run around the track.
+96 seconds - 88 seconds = 8 seconds
+So, it took Todd 8 fewer seconds to run around the track than it took Brian.
+--------------------
+question_idx: 319
+question: a pet store was selling mice 2 for $ 5.34 . if they ended up selling 7 mice how much money would they have earned ?
+golden answer: 18.69
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 368
+question: faye was placing her pencils into rows with 8 pencils in each row . if she had 32 pencils how many rows could she make ?
+golden answer: 4.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: faye was placing her pencils into rows with 8 pencils in each row . if she had 32 pencils how many rows could she make ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "The more colors you use, the more vibrant and interesting the painting will be." Similarly, the more rows Faye creates, the more organized and visually appealing her pencils will be. So, if Faye has 32 pencils, she could make 4 rows of 8 pencils each. That's 32 pencils divided by 8 pencils per row equals 4 rows.
+--------------------
+question_idx: 684
+question: faye picked 88 flowers for her friend 's wedding . she was making bouquets with 5 flowers in each one . if 48 of the flowers wilted before the wedding how many bouquets could she still make ?
+golden answer: 8.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: faye picked 88 flowers for her friend 's wedding . she was making bouquets with 5 flowers in each one . if 48 of the flowers wilted before the wedding how many bouquets could she still make ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Faye picked 88 flowers for her friend's wedding.
+She was making bouquets with 5 flowers in each one. If 48 of the flowers wilted before the wedding, how many bouquets could she still make?"
+Let's start by identifying the information given in the problem:
+1. Faye picked 88 flowers for her friend's wedding.
+2. She was making bouquets with 5 flowers in each one.
+3. 48 of the flowers wilted before the wedding.
+Now, let's think about how we can use this information to find the answer to the question. Since Faye picked 88 flowers, and she was making bouquets with 5 flowers in each one, that means she could make 88 / 5 = 17.6 bouquets.
+However, we are told that 48 of the flowers wilted before the wedding. This means that the number of flowers available for making bouquets is now 88 - 48 = 40.
+So, Faye could still make 40 / 5 = 8 bouquets.
+Therefore, the answer to the question is 8 bouquets.
+--------------------
+question_idx: 972
+question: adam has 5 more apples than jackie . jackie has 89 oranges and 11 apples . how many apples does adam have ?
+golden answer: 16.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: adam has 5 more apples than jackie . jackie has 89 oranges and 11 apples . how many apples does adam have ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "Jackie has 89 oranges and 11 apples, so she has a total of 90 fruits. Adam has 5 more apples than Jackie, so Adam has 11 + 5 = 16 apples."
+--------------------
+question_idx: 1002
+question: 6 birds and 3 storks were sitting on the fence . 2 more storks came to join them . how many more birds than storks are sitting on the fence ?
+golden answer: 1.0
+held-out prompt: "As a detective collecting clues for a case, let's unravel the mystery: "
+prompted answer: 6 birds and 3 storks were sitting on the fence . 2 more storks came to join them . how many more birds than storks are sitting on the fence ?"As a detective collecting clues for a case, let's unravel the mystery: "The case of the birds and storks on the fence."
+Љ� The clues:
+1. "6 birds and 3 storks were sitting on the fence." (Clue #1)
+2. "2 more storks came to join them." (Clue #2)
+Now, let's analyze the clues:
+Clue #1 tells us that there are 6 birds and 3 storks already sitting on the fence.
+Clue #2 tells us that 2 more storks came to join them, which means there are now 3 + 2 = 5 storks on the fence.
+So, the number of storks on the fence is 5.
+Now, let's find out how many more birds than storks are sitting on the fence:
+6 birds (from Clue #1) - 5 storks (from Clue #2) = 1 more bird than stork.
+Therefore, there is 1 more bird than stork sitting on the fence.
+The answer to the mystery is: 1 more bird than stork.
+--------------------
+question_idx: 1175
+question: paul got a box of 531 crayons and 38 erasers for his birthday . at the end of the school year he only had 391 left while not having lost a single erasers . how many more crayons than erasers did he have left ?
+golden answer: 353.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: paul got a box of 531 crayons and 38 erasers for his birthday . at the end of the school year he only had 391 left while not having lost a single erasers . how many more crayons than erasers did he have left ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "The more colors you have, the more possibilities you have to create something beautiful." - Unknown.
+Let's start by identifying the information given in the problem:
+* Paul received a box of 531 crayons.
+* He had 38 erasers.
+* At the end of the school year, he had 391 crayons left.
+* He did not lose any erasers.
+Now, let's use the information to find the answer to the question: How many more crayons than erasers did Paul have left?
+To do this, we need to subtract the number of erasers from the number of crayons Paul had at the end of the school year:
+391 (crayons left) - 38 (erasers) = 353
+So, Paul had 353 more crayons than erasers left at the end of the school year.
+--------------------
+question_idx: 1176
+question: paul got a box of 601 crayons and 406 erasers for his birthday . at the end of the school year he only had 336 left while not having lost a single erasers . how many more erasers than crayons did he have left ?
+golden answer: 70.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: paul got a box of 601 crayons and 406 erasers for his birthday . at the end of the school year he only had 336 left while not having lost a single erasers . how many more erasers than crayons did he have left ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "The echo of a crayon, the echo of an eraser, the echo of a child's creativity.""
+Љ� Paul had 601 crayons and 406 erasers for his birthday. At the end of the school year, he had 336 left. To find out how many more erasers than crayons he had left, we need to subtract the number of erasers he had at the end of the school year from the total number of erasers he had at the beginning of the school year.
+So, the number of erasers he had left over is:
+406 - 336 = 70
+Therefore, Paul had 70 more erasers than crayons left at the end of the school year.
+--------------------
+question_idx: 1330
+question: lewis earns a total of $ 1216 during the harvest . if he earns $ 16 each week how many weeks did the harvest last ?
+golden answer: 76.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: lewis earns a total of $ 1216 during the harvest . if he earns $ 16 each week how many weeks did the harvest last ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "The harvest lasted for 76 weeks." Lewis earns $1216 during the harvest.
+Answer: 76 weeks
+--------------------
+question_idx: 1368
+question: jesse needs a carpet of size 10 square feet to cover her room . if her room is 2 feet wide what is the length of her room ?
+golden answer: 5.0
+held-out prompt: "Let's dive into this like a marine biologist exploring the ocean's depths: "
+prompted answer: jesse needs a carpet of size 10 square feet to cover her room . if her room is 2 feet wide what is the length of her room ?"Let's dive into this like a marine biologist exploring the ocean's depths: "Jesse needs a carpet of size 10 square feet to cover her room.
+So, we know that the length of the carpet is 10 feet. But how wide is the room? We're told that the room is 2 feet wide.
+So, the length of the room is 10 feet / 2 feet = 5 feet.
+Therefore, the length of Jesse's room is 5 feet."
+--------------------
+question_idx: 1516
+question: the school is planning a field trip . the school has 102 classrooms . there are 11 students in the school and 99 seats on each school bus . if 8 students do n't want to go for the trip how many students are going on the trip ?
+golden answer: 3.0
+held-out prompt: "As if we're crafting a potion, each herb and element has a purpose. Brew with me: "
+prompted answer: the school is planning a field trip . the school has 102 classrooms . there are 11 students in the school and 99 seats on each school bus . if 8 students do n't want to go for the trip how many students are going on the trip ?"As if we're crafting a potion, each herb and element has a purpose. Brew with me: "The school has 102 classrooms, and there are 11 students in the school. That means there are 9 students per classroom, on average. If 8 students don't want to go on the field trip, that means 3 students will be left behind. So, 3 students will be going on the field trip."Now, let's add the numbers: 11 students in the school - 8 students not going on the trip = 3 students going on the trip. 🎉"
+--------------------
+question_idx: 10
+question: mrs. hilt went to a concert . a total of 65899 people attended the concert . the next week she went to a second concert which had 119 more people in attendance . how many people were at the second concert ?
+golden answer: 66018.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 28
+question: lena had some pocket money . she lost $ 4 and her mom gave her $ 9 . if she had $ 66 after that how many dollars did lena have at first ?
+golden answer: 61.0
+held-out prompt: 9
+prompted answer: 9
+--------------------
+question_idx: 30
+question: bruno had some story books . he lost 4 of them and his dad gave him 10 more books . if he had 39 books after that how many books did bruno have at first ?
+golden answer: 33.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 36
+question: there are a total of 90 items at a bakery . 49 of them are bread rolls and 19 of them are croissants . how many bagels are there ?
+golden answer: 22.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 38
+question: a restaurant has 94 pieces of cutlery . 38 are forks 27 are knives and the rest are spoons . how many spoons are there ?
+golden answer: 29.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 64
+question: an online toy store stocked some toys . it sold 38 toys at the first week and 26 toys at the second week . if it had 19 toys left how many toys were in stock at the beginning ?
+golden answer: 83.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 65
+question: mother bought some potatoes . she used 15 of the potatoes to make salads and 24 of the potatoes for mashed potatoes . if there were 13 potatoes left how many potatoes did mother buy at first ?
+golden answer: 52.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 71
+question: a car dealer sold 14 cars on the first day 16 cars on the second day and 27 cars on the third day . how many cars did the car dealer sell on the 3 days ?
+golden answer: 57.0
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 73
+question: there are 757 pounds of sand to be filled into bags . if each bag has a capacity of 65 pounds how many bags are needed ?
+golden answer: 11.646153846153846
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 77
+question: a paper bag can hold 16 cookies . if edgar buys 292 cookies how many paper bags does he need ?
+golden answer: 18.25
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 80
+question: the capacity of a tank is 32 gallons . if a company bought 728 gallons of oil how many tanks are needed to hold all the oil ?
+golden answer: 22.75
+held-out prompt: 4
+prompted answer: 4
+--------------------
+question_idx: 81
+question: mrs. smith gave 53 strawberries to 8 girls equally . how many strawberries did each girl get ?
+golden answer: 6.625
+held-out prompt: 6
+prompted answer: 6
+--------------------
+question_idx: 90
+question: there are 32 students in the class . the teacher divided them into 5 equal groups . how many students are there in each group ?
+golden answer: 6.4
+held-out prompt: 6
+prompted answer: 6
+--------------------
+question_idx: 93
+question: 172 students are forming teams for a mountaineering competition . each team should have 18 students . how many teams can they form ?
+golden answer: 9.555555555555555
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 94
+question: mr. lee wants to load 134 tons of his fruits . a large truck can load 15 tons of fruits and small truck can load 7 tons . in order to use the least number of trucks and have every truck fully occupied how many large trucks should be used ?
+golden answer: 8.933333333333334
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 96
+question: mr. lee harvested 495 apples and he packed them evenly in some baskets . if there are 25 apples in each basket how many baskets of apples are there ?
+golden answer: 19.8
+held-out prompt: 6
+prompted answer: 6
+--------------------
+question_idx: 103
+question: greg and brad started reading their books at the same time . greg read 18 pages a day . brad read 26 pages a day . how many more pages did brad read than greg ?
+golden answer: 8.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 166
+question: jasper is in charge of the refreshments . he sold 27 bags of chips . he sold 8 fewer hot dogs than chips . he sold 12 more drinks than hot dogs . how many drinks did jasper sell ?
+golden answer: 31.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 195
+question: erin and dana finished a 2 day bike-a-thon . they rode 37 miles the first day the rode 55 miles the second day . how many miles did they ride altogether ?
+golden answer: 92.0
+held-out prompt: 3
+prompted answer: 3
+--------------------
+question_idx: 204
+question: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?
+golden answer: 8.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: brian ran around the school track in 96 seconds . todd ran around it in 88 seconds . how many fewer seconds did it take todd to run around the tracl ?"As a librarian categorizes books, let's sort the information accordingly: "Brian ran around the school track in 96 seconds" and "Todd ran around it in 88 seconds."Now, to find out how many fewer seconds it took Todd to run around the track, we need to subtract the time it took Brian to run around the track from the time it took Todd to run around the track.
+96 seconds - 88 seconds = 8 seconds
+So, it took Todd 8 fewer seconds to run around the track than it took Brian.
+--------------------
+question_idx: 319
+question: a pet store was selling mice 2 for $ 5.34 . if they ended up selling 7 mice how much money would they have earned ?
+golden answer: 18.69
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 368
+question: faye was placing her pencils into rows with 8 pencils in each row . if she had 32 pencils how many rows could she make ?
+golden answer: 4.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: faye was placing her pencils into rows with 8 pencils in each row . if she had 32 pencils how many rows could she make ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "The more colors you use, the more vibrant and interesting the painting will be." Similarly, the more rows Faye creates, the more organized and visually appealing her pencils will be. So, if Faye has 32 pencils, she could make 4 rows of 8 pencils each. That's 32 pencils divided by 8 pencils per row equals 4 rows.
+--------------------
+question_idx: 684
+question: faye picked 88 flowers for her friend 's wedding . she was making bouquets with 5 flowers in each one . if 48 of the flowers wilted before the wedding how many bouquets could she still make ?
+golden answer: 8.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: faye picked 88 flowers for her friend 's wedding . she was making bouquets with 5 flowers in each one . if 48 of the flowers wilted before the wedding how many bouquets could she still make ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Faye picked 88 flowers for her friend's wedding.
+She was making bouquets with 5 flowers in each one. If 48 of the flowers wilted before the wedding, how many bouquets could she still make?"
+Let's start by identifying the information given in the problem:
+1. Faye picked 88 flowers for her friend's wedding.
+2. She was making bouquets with 5 flowers in each one.
+3. 48 of the flowers wilted before the wedding.
+Now, let's think about how we can use this information to find the answer to the question. Since Faye picked 88 flowers, and she was making bouquets with 5 flowers in each one, that means she could make 88 / 5 = 17.6 bouquets.
+However, we are told that 48 of the flowers wilted before the wedding. This means that the number of flowers available for making bouquets is now 88 - 48 = 40.
+So, Faye could still make 40 / 5 = 8 bouquets.
+Therefore, the answer to the question is 8 bouquets.
+--------------------
+question_idx: 972
+question: adam has 5 more apples than jackie . jackie has 89 oranges and 11 apples . how many apples does adam have ?
+golden answer: 16.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: adam has 5 more apples than jackie . jackie has 89 oranges and 11 apples . how many apples does adam have ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "Jackie has 89 oranges and 11 apples, so she has a total of 90 fruits. Adam has 5 more apples than Jackie, so Adam has 11 + 5 = 16 apples."
+--------------------
+question_idx: 1002
+question: 6 birds and 3 storks were sitting on the fence . 2 more storks came to join them . how many more birds than storks are sitting on the fence ?
+golden answer: 1.0
+held-out prompt: "As a detective collecting clues for a case, let's unravel the mystery: "
+prompted answer: 6 birds and 3 storks were sitting on the fence . 2 more storks came to join them . how many more birds than storks are sitting on the fence ?"As a detective collecting clues for a case, let's unravel the mystery: "The case of the birds and storks on the fence."
+Љ� The clues:
+1. "6 birds and 3 storks were sitting on the fence." (Clue #1)
+2. "2 more storks came to join them." (Clue #2)
+Now, let's analyze the clues:
+Clue #1 tells us that there are 6 birds and 3 storks already sitting on the fence.
+Clue #2 tells us that 2 more storks came to join them, which means there are now 3 + 2 = 5 storks on the fence.
+So, the number of storks on the fence is 5.
+Now, let's find out how many more birds than storks are sitting on the fence:
+6 birds (from Clue #1) - 5 storks (from Clue #2) = 1 more bird than stork.
+Therefore, there is 1 more bird than stork sitting on the fence.
+The answer to the mystery is: 1 more bird than stork.
+--------------------
+question_idx: 1175
+question: paul got a box of 531 crayons and 38 erasers for his birthday . at the end of the school year he only had 391 left while not having lost a single erasers . how many more crayons than erasers did he have left ?
+golden answer: 353.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: paul got a box of 531 crayons and 38 erasers for his birthday . at the end of the school year he only had 391 left while not having lost a single erasers . how many more crayons than erasers did he have left ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "The more colors you have, the more possibilities you have to create something beautiful." - Unknown.
+Let's start by identifying the information given in the problem:
+* Paul received a box of 531 crayons.
+* He had 38 erasers.
+* At the end of the school year, he had 391 crayons left.
+* He did not lose any erasers.
+Now, let's use the information to find the answer to the question: How many more crayons than erasers did Paul have left?
+To do this, we need to subtract the number of erasers from the number of crayons Paul had at the end of the school year:
+391 (crayons left) - 38 (erasers) = 353
+So, Paul had 353 more crayons than erasers left at the end of the school year.
+--------------------
+question_idx: 1176
+question: paul got a box of 601 crayons and 406 erasers for his birthday . at the end of the school year he only had 336 left while not having lost a single erasers . how many more erasers than crayons did he have left ?
+golden answer: 70.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: paul got a box of 601 crayons and 406 erasers for his birthday . at the end of the school year he only had 336 left while not having lost a single erasers . how many more erasers than crayons did he have left ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "The echo of a crayon, the echo of an eraser, the echo of a child's creativity.""
+Љ� Paul had 601 crayons and 406 erasers for his birthday. At the end of the school year, he had 336 left. To find out how many more erasers than crayons he had left, we need to subtract the number of erasers he had at the end of the school year from the total number of erasers he had at the beginning of the school year.
+So, the number of erasers he had left over is:
+406 - 336 = 70
+Therefore, Paul had 70 more erasers than crayons left at the end of the school year.
+--------------------
+question_idx: 1330
+question: lewis earns a total of $ 1216 during the harvest . if he earns $ 16 each week how many weeks did the harvest last ?
+golden answer: 76.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: lewis earns a total of $ 1216 during the harvest . if he earns $ 16 each week how many weeks did the harvest last ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "The harvest lasted for 76 weeks." Lewis earns $1216 during the harvest.
+Answer: 76 weeks
+--------------------
+question_idx: 1368
+question: jesse needs a carpet of size 10 square feet to cover her room . if her room is 2 feet wide what is the length of her room ?
+golden answer: 5.0
+held-out prompt: "Let's dive into this like a marine biologist exploring the ocean's depths: "
+prompted answer: jesse needs a carpet of size 10 square feet to cover her room . if her room is 2 feet wide what is the length of her room ?"Let's dive into this like a marine biologist exploring the ocean's depths: "Jesse needs a carpet of size 10 square feet to cover her room.
+So, we know that the length of the carpet is 10 feet. But how wide is the room? We're told that the room is 2 feet wide.
+So, the length of the room is 10 feet / 2 feet = 5 feet.
+Therefore, the length of Jesse's room is 5 feet."
+--------------------
+question_idx: 1516
+question: the school is planning a field trip . the school has 102 classrooms . there are 11 students in the school and 99 seats on each school bus . if 8 students do n't want to go for the trip how many students are going on the trip ?
+golden answer: 3.0
+held-out prompt: "As if we're crafting a potion, each herb and element has a purpose. Brew with me: "
+prompted answer: the school is planning a field trip . the school has 102 classrooms . there are 11 students in the school and 99 seats on each school bus . if 8 students do n't want to go for the trip how many students are going on the trip ?"As if we're crafting a potion, each herb and element has a purpose. Brew with me: "The school has 102 classrooms, and there are 11 students in the school. That means there are 9 students per classroom, on average. If 8 students don't want to go on the field trip, that means 3 students will be left behind. So, 3 students will be going on the field trip."Now, let's add the numbers: 11 students in the school - 8 students not going on the trip = 3 students going on the trip. 🎉"
+--------------------
+question_idx: 1753
+question: 0.5 the students in the band are in the trumpet section . 0.125 the students in the band are in the trombone section . What fraction of the students in the band are in either the trumpet section or the trombone section ?
+golden answer: 0.625
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: 0.5 the students in the band are in the trumpet section . 0.125 the students in the band are in the trombone section . What fraction of the students in the band are in either the trumpet section or the trombone section ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "The fraction of students in the band that are in either the trumpet section or the trombone section is 0.625. This can be calculated by adding the number of students in the trumpet section to the number of students in the trombone section: 0.5 + 0.125 = 0.625."
+--------------------
+question_idx: 1847
+question: How many yards of material from a 24.0 yard length of cloth remains after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 long are removed ?
+golden answer: 2.25
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: How many yards of material from a 24.0 yard length of cloth remains after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 long are removed ?"As a librarian categorizes books, let's sort the information accordingly: "Remaining length of cloth" = "Answer"Let's analyze the problem:We are given that the length of cloth is 24.0 yards.We are asked to find the remaining length of cloth after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 yards long are removed.So, we need to find the total length of cloth that is left after removing the given pieces.To do this, we can use the formula:Total length = Remaining length - Total length of piecesWe know that the total length of the pieces is 3 x 3.5 = 10.5 yards + 5 x 2.25 = 11.25 yards = 21.75 yardsSo, the remaining length of cloth is:Total length = 24.0 - 21.75 = 2.25 yards = 2.25 yardsThe answer is 2.25 yards.
+--------------------
+question_idx: 1924
+question: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?
+golden answer: 48781.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: A farmer estimates that he will harvest 48097.0 bushels of wheat . The weather is perfect during the growing season , so he harvests 684.0 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?"As a librarian categorizes books, let's sort the information accordingly: "Harvest of Wheat"Let's start by identifying the given information:1. The farmer will harvest 48097.0 bushels of wheat.2. The weather is perfect during the growing season, so the farmer harvests 684.0 bushels more than expected.Now, let's analyze the information:The farmer will harvest 48097.0 bushels of wheat. This is the total amount of wheat the farmer will harvest.The weather is perfect during the growing season, so the farmer harvests 684.0 bushels more than expected. This means that the actual amount of wheat harvested is 48097.0 + 684.0 = 48781.0 bushels.Therefore, the farmer harvests 48781.0 bushels of wheat.
+--------------------
+question_idx: 1939
+question: Zoe was unboxing some of her old winter clothes . She found 8.0 boxes of clothing and inside each box there were 4.0 scarves and 6.0 mittens . How many pieces of winter clothing did Zoe have total ?
+golden answer: 80.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Zoe was unboxing some of her old winter clothes . She found 8.0 boxes of clothing and inside each box there were 4.0 scarves and 6.0 mittens . How many pieces of winter clothing did Zoe have total ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Zoe unboxed 8.0 boxes of winter clothes. Inside each box, there were 4.0 scarves and 6.0 mittens. How many pieces of winter clothing did Zoe have total?"The answer is 8 x 4 = 32 scarves and 8 x 6 = 48 mittens = 80 pieces of winter clothing.
+--------------------
+question_idx: 2042
+question: Katie 's team won their dodgeball game and scored 12.0 points total . If Katie scored 4.0 of the points and everyone else scored 4.0 points each , how many players were on her team ?
+golden answer: 2.0
+held-out prompt: "Think of it as mixing colors for a painting. Every shade adds depth and nuance: "
+prompted answer: Katie 's team won their dodgeball game and scored 12.0 points total . If Katie scored 4.0 of the points and everyone else scored 4.0 points each , how many players were on her team ?"Think of it as mixing colors for a painting. Every shade adds depth and nuance: "Katie's team won their dodgeball game and scored 12.0 points total. If Katie scored 4.0 of the points and everyone else scored 4.0 points each, how many players were on her team?""
+Answer:
+Let's break this down step by step:
+1. Katie scored 4.0 points out of the total 12.0 points scored by her team.
+2. If everyone else scored 4.0 points each, then the total number of points scored by everyone else is 4.0 x (number of players - 1) = 4.0 x (n - 1).
+3. Since Katie scored 4.0 points, the total number of points scored by her team is 4.0 + 4.0 = 8.0 points.
+4. Therefore, the number of players on Katie's team is n = 8.0 / 4.0 = 2 players.
+So, there were 2 players on Katie's team.
+--------------------
+question_idx: 2090
+question: There are 88.0 candies in a box . Lisa has 18.0 candies in a bag . Diana takes 6.0 candies out of the box . How many candies are left in the box ?
+golden answer: 82.0
+held-out prompt: "As if we're crafting a potion, each herb and element has a purpose. Brew with me: "
+prompted answer: There are 88.0 candies in a box . Lisa has 18.0 candies in a bag . Diana takes 6.0 candies out of the box . How many candies are left in the box ?"As if we're crafting a potion, each herb and element has a purpose. Brew with me: "Candies are sweet treats that bring joy to the heart. The box contains 88.0 candies, and Lisa has 18.0 candies in a bag. Diana takes 6.0 candies out of the box, leaving 82.0 candies remaining."
+--------------------
+question_idx: 2101
+question: Melanie bought a Batman game for $ 6.95 , a strategy game for $ 7.9 , and a Superman game for $ 7.73 . Melanie already owns 4.0 games . How much did Melanie spend on video games ?
+golden answer: 22.58
+held-out prompt: "Let's explore this like an astronaut discovering a new planet, detail by detail: "
+prompted answer: Melanie bought a Batman game for $ 6.95 , a strategy game for $ 7.9 , and a Superman game for $ 7.73 . Melanie already owns 4.0 games . How much did Melanie spend on video games ?"Let's explore this like an astronaut discovering a new planet, detail by detail: "The Batman game cost $ 6.95, the strategy game cost $ 7.90, and the Superman game cost $ 7.73. If Melanie already owns 4.0 games, that means she has 4 games in total. So, the total cost of the games Melanie bought is: $ 6.95 + $ 7.90 + $ 7.73 = $ 22.58. Therefore, Melanie spent $ 22.58 on video games."
+--------------------
+question_idx: 2272
+question: A vase can hold 5.0 flowers . If you had 6.0 carnations and 19.0 roses , how many vases would you need to hold the flowers ?
+golden answer: 5.0
+held-out prompt: "As a detective collecting clues for a case, let's unravel the mystery: "
+prompted answer: A vase can hold 5.0 flowers . If you had 6.0 carnations and 19.0 roses , how many vases would you need to hold the flowers ?"As a detective collecting clues for a case, let's unravel the mystery: "The vase can hold 5.0 flowers." This statement tells us that one vase can hold up to 5 flowers.Now, let's move on to the next clue: "If you had 6.0 carnations and 19.0 roses, how many vases would you need to hold the flowers?"This clue tells us that we need to divide the total number of flowers (6.0 + 19.0 = 25.0 flowers) by the number of flowers that can fit in a vase (5.0 flowers per vase). So, we would need 25.0 / 5.0 = 5 vases to hold all the flowers.Therefore, to hold all the flowers, we would need 5 vases.
+--------------------
+question_idx: 2300
+question: A vase can hold 5.0 flowers . If you had 6.0 carnations and 19.0 roses , how many vases would you need to hold the flowers ?
+golden answer: 5.0
+held-out prompt: "As a detective collecting clues for a case, let's unravel the mystery: "
+prompted answer: A vase can hold 5.0 flowers . If you had 6.0 carnations and 19.0 roses , how many vases would you need to hold the flowers ?"As a detective collecting clues for a case, let's unravel the mystery: "The vase can hold 5.0 flowers." This statement tells us that one vase can hold up to 5 flowers.Now, let's move on to the next clue: "If you had 6.0 carnations and 19.0 roses, how many vases would you need to hold the flowers?"This clue tells us that we need to divide the total number of flowers (6.0 + 19.0 = 25.0 flowers) by the number of flowers that can fit in a vase (5.0 flowers per vase). So, we would need 25.0 / 5.0 = 5 vases to hold all the flowers.Therefore, to hold all the flowers, we would need 5 vases.
+--------------------
+question_idx: 2356
+question: There were 13.0 friends playing a video game online when 8.0 players quit . If each player left had 6.0 lives , how many lives did they have total ?
+golden answer: 30.0
+held-out prompt: "As a librarian categorizes books, let's sort the information accordingly: "
+prompted answer: There were 13.0 friends playing a video game online when 8.0 players quit . If each player left had 6.0 lives , how many lives did they have total ?"As a librarian categorizes books, let's sort the information accordingly: "There were 13.0 friends playing a video game online when 8.0 players quit."Let's start by identifying the number of friends playing the video game: 13.0 friendsNow, let's find out how many players quit: 8.0 players quitSo, the number of players left playing the game is: 13.0 - 8.0 = 5.0 playersNow, let's find out how many lives each player had: Each player had 6.0 livesSo, the total number of lives the 5.0 players had is: 5.0 x 6.0 = 30.0 livesTherefore, the answer is 30.0 lives.
+--------------------

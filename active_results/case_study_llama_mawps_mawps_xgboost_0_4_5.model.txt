@@ -1,0 +1,126 @@
+question_idx: 8
+question: A pet shelter had 2.0 puppies when another 34.0 were brought in . If 4.0 puppies a day are adopted , how long would it take for all of them to be adopted ?
+golden answer: 9.0
+held-out prompt: 6
+prompted answer: 6
+--------------------
+question_idx: 12
+question: Before starting her shift , a waitress checks to make sure there is enough mustard for her customers . She finds 0.25 bottle at the first table , 0.25 bottle at the second table , and 0.375 bottle at the third table . Altogether , how many bottles of mustard does the waitress find ?
+golden answer: 0.875
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 14
+question: Lucy has an aquarium with 212.0 fish . Lucy wants to buy 68.0 more fish . How many fish would Lucy have then ?
+golden answer: 280.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 16
+question: There are 97.0 erasers in a box . Ernest has 17.0 erasers in a bag . Mark takes 97.0 erasers out of the box . How many erasers are left in the box ?
+golden answer: 0.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 19
+question: Mike invited 13.0 friends to a birthday party , but 7.0 could n't come . If he wanted to buy enough cupcakes so each person could have exactly 4.0 , how many should he buy ?
+golden answer: 24.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 25
+question: Jason joined his school 's band . He bought a flute for $ 142.46 , a music tool for $ 8.89 , and a song book for $ 7.0 . How much did Jason spend at the music store ?
+golden answer: 158.35
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 34
+question: Megan earned 8.0 points for each bag of cans she recycled . If she had 14.0 bags , but did n't recycle 5.0 of them , how many points would she have earned ?
+golden answer: 72.0
+held-out prompt: 6
+prompted answer: 6
+--------------------
+question_idx: 39
+question: A clothing store offers a 20.0 % discount on all purchases . How much would a shopper pay for an item originally costing 21.0 dollars dollars ?
+golden answer: 16.8
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 44
+question: Megan had 40.0 homework problems . She finished 26.0 of them but still had 2.0 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?
+golden answer: 7.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 47
+question: Wendy uploaded 45.0 pictures to Facebook . She put 27.0 pics into one album and put the rest into 9.0 different albums . How many pictures were in each album ?
+golden answer: 2.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 53
+question: Elisa has 37.0 dollars . How many more dollars does she have to earn to have 53.0 dollars ?
+golden answer: 16.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 56
+question: A pet shelter had 17.0 puppies when another 55.0 were brought in . If 8.0 puppies a day are adopted , how long would it take for all of them to be adopted ?
+golden answer: 9.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 59
+question: A trivia team had 11.0 members total , but during a game 6.0 members did n't show up . If each member that did show up scored 9.0 points , how many points were scored total ?
+golden answer: 45.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 64
+question: Mrs. Hilt looked at her car 's odometer before a trip . The odometer showed that she had traveled 212.3 miles . When she stopped for lunch , the odometer read 372.0 . How many miles had she traveled ?
+golden answer: 159.7
+held-out prompt: 1
+prompted answer: 1
+--------------------
+question_idx: 67
+question: Jeremy strolled 20.0 kilometers at 2.0 kilometers per hour . How long did Jeremy stroll ?
+golden answer: 10.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 69
+question: Paige had 43.0 math problems and 12.0 science problems for homework . If she finished 44.0 of the problems at school , how many problems did she have to do for homework ?
+golden answer: 11.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 75
+question: There was a stack of 700.0 sheets of used paper . Lexie wants to place it in boxes for recycling . If every box can contain 100.0 sheets , how many boxes does Lexie need ?
+golden answer: 7.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 83
+question: A teacher had 34.0 worksheets to grade . If she graded 7.0 , but then another 36.0 were turned in , how many worksheets would she have to grade ?
+golden answer: 63.0
+held-out prompt: 0
+prompted answer: 0
+--------------------
+question_idx: 92
+question: Nancy had 80.0 files on her computer . She deleted 31.0 of them and put the rest into folders with 7.0 files in each one . How many folders did Nancy end up with ?
+golden answer: 7.0
+held-out prompt: 5
+prompted answer: 5
+--------------------
+question_idx: 96
+question: Elise had $ 8.0 . Then she saved $ 13.0 from her allowance and spent $ 2.0 on a comic book and $ 18.0 on a puzzle . How much money does Elise have left ?
+golden answer: 1.0
+held-out prompt: 2
+prompted answer: 2
+--------------------
+question_idx: 1375
+question: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?
+golden answer: 12.0
+held-out prompt: "Imagine it as an echo in a valley, every sound has an origin and meaning: "
+prompted answer: Kimberly has 5.0 Skittles . She buys 7.0 more . Later , Kimberly buys 18.0 oranges at the store . How many Skittles does Kimberly have in all ?"Imagine it as an echo in a valley, every sound has an origin and meaning: "Kimberly has 5.0 Skittles. She buys 7.0 more." The sound of the word "Skittles" echoes in the valley, and the meaning of the sentence is clear: Kimberly has 5.0 Skittles initially. "Later, Kimberly buys 18.0 oranges at the store." The sound of the word "oranges" echoes in the valley, and the meaning of the sentence is clear: Kimberly buys 18.0 oranges at the store later. "How many Skittles does Kimberly have in all?" The echo in the valley is now asking for the total number of Skittles Kimberly has, including the initial 5.0 and the additional 7.0 she bought later. So, the answer is: Kimberly has 5.0 + 7.0 = 12.0 Skittles in all.
+--------------------
