@@ -25,15 +25,15 @@ for TASK in ['gsm8k', 'svamp', 'mawps']: # ,'gsm8k','svamp'
             with open("LMllama2/gsm8k_names.json", "r") as f:
                 offline_names = json.load(f)
         elif TASK == 'mawps':
-            svamp_embeddings = np.load("../embeddings/svamp_Q_embeddings.npy")
-            question_embedding_train = svamp_embeddings[:6000]
-            question_embedding_test = svamp_embeddings[6000:]
-            with open("LMllama2/mawps_names.json", "r") as f:
-                offline_names = json.load(f)
-        elif TASK == 'svamp':
             svamp_embeddings = np.load("../embeddings/aug_svamp_Q_embeddings.npy")
             question_embedding_train = svamp_embeddings[:15000]
             question_embedding_test = svamp_embeddings[15000:]
+            with open("LMllama2/mawps_names.json", "r") as f:
+                offline_names = json.load(f)
+        elif TASK == 'svamp':
+            svamp_embeddings = np.load("../embeddings/svamp_Q_embeddings.npy")
+            question_embedding_train = svamp_embeddings[:6000]
+            question_embedding_test = svamp_embeddings[6000:]
             with open("LMllama2/svamp_names.json", "r") as f:
                 offline_names = json.load(f)
         # load embeddings of the prompts

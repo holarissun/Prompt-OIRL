@@ -1,5 +1,3 @@
-unified_alias_list = ["No", "CoT", "APE", "Dis", "ToT", "Decomp"]
-
 import os
 import numpy as np
 import json
@@ -22,11 +20,11 @@ for dataset in ['mawps', 'gsm8k', 'svamp']:
 
         # split the data into train and test
         if dataset == 'mawps':
-            train_i = prompt_i_file[:6000]
-            test_i = prompt_i_file[6000:]
-        elif dataset == 'svamp':
             train_i = prompt_i_file[:15000]
             test_i = prompt_i_file[15000:]
+        elif dataset == 'svamp':
+            train_i = prompt_i_file[:6000]
+            test_i = prompt_i_file[6000:]
         elif dataset == 'gsm8k':
             train_i = prompt_i_file
             # print('train acc:', sum(prompt_i_file) / len(prompt_i_file))

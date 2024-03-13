@@ -4,7 +4,7 @@ import xgboost as xgb
 from sklearn.metrics import accuracy_score
 import json
 
-TASK = 'gsm8k' # 'svamp', 'mawps'
+TASK = 'svamp' # 'svamp', 'mawps'
 if TASK == 'gsm8k':
     inserted = "gsm8k_"
 elif TASK == 'mawps':
@@ -19,15 +19,15 @@ if TASK == 'gsm8k':
     with open("LMllama2/gsm8k_names.json", "r") as f:
         offline_names = json.load(f)
 elif TASK == 'mawps':
-    svamp_embeddings = np.load("../embeddings/mawps_Q_embeddings.npy")
-    question_embedding_train = svamp_embeddings[:6000]
-    question_embedding_test = svamp_embeddings[6000:]
+    svamp_embeddings = np.load("../embeddings/aug_svamp_Q_embeddings.npy")
+    question_embedding_train = svamp_embeddings[:15000]
+    question_embedding_test = svamp_embeddings[15000:]
     with open("LMllama2/mawps_names.json", "r") as f:
         offline_names = json.load(f)
 elif TASK == 'svamp':
     svamp_embeddings = np.load("../embeddings/svamp_Q_embeddings.npy")
-    question_embedding_train = svamp_embeddings[:15000]
-    question_embedding_test = svamp_embeddings[15000:]
+    question_embedding_train = svamp_embeddings[:6000]
+    question_embedding_test = svamp_embeddings[6000:]
     with open("LMllama2/svamp_names.json", "r") as f:
         offline_names = json.load(f)
 
