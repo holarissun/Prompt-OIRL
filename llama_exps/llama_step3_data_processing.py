@@ -3,7 +3,7 @@ import numpy as np
 import os
 import json
 
-for TASK in ['svamp']:
+for TASK in ['mawps','svamp','gsm8k']:
 
     json_file = f"LMllama2/{TASK}_names.json"
 

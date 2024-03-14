@@ -19,10 +19,10 @@ for dataset in ['mawps', 'gsm8k', 'svamp']:
 
 
         # split the data into train and test
-        if dataset == 'mawps':
+        if dataset == 'svamp':
             train_i = prompt_i_file[:15000]
             test_i = prompt_i_file[15000:]
-        elif dataset == 'svamp':
+        elif dataset == 'mawps':
             train_i = prompt_i_file[:6000]
             test_i = prompt_i_file[6000:]
         elif dataset == 'gsm8k':
