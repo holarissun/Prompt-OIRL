@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 data/
-
+aug_svamp_Q_embeddings.npy
 # C extensions
 *.so
 
