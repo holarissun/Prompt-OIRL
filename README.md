@@ -1,13 +1,13 @@
 # 🪄 Prompt-OIRL: Learning to Prompt LLMs with Expert Knowledge (Known Magic Words 🧙)
 
-### 💻 Implementation and 📒 tutorial for ICLR 2024 paper 
+### 💻 Implementation and 📒 tutorial for ICLR 2024 paper
 
  ![Image](prompt-oirl-title.png)
 
 - [Paper Link](https://arxiv.org/pdf/2309.06553.pdf)
 - [Open Review Link](https://openreview.net/forum?id=N6o0ZtPzTg)
 
- 
+
 ## 🔥 News
 - (2024.2) (Internal Code-Reviewing) Code with GPT3.5 and TigerBot to be released.
 - (2024.1) Prompt-OIRL has been accepted by ICLR'2024. We look forward to talking with you in Vienna!
@@ -24,7 +24,7 @@ To address this, we introduce Prompt-OIRL, which harnesses offline inverse reinf
 ## 🤔 Motivating Example
 
 ![Image](motivatingexample.png)
-Figure 1. **No prompt is perfect that works for all queries**. The optimal prompt is query-dependent. Yet the seeking of such prompts can be costly and inefficient. 
+Figure 1. **No prompt is perfect that works for all queries**. The optimal prompt is query-dependent. Yet the seeking of such prompts can be costly and inefficient.
     Prompt-OIRL optimizes prompt during inference time on a **query-dependent** level effectively and cost-efficiently.
 (original chat logs with GPT4 for those motivating examples can be found at [Left](https://chat.openai.com/share/0f2d11b1-322a-4c47-a877-ad6fbace8179), [Right](https://chat.openai.com/share/15870a47-93c7-4b98-96c8-af0516c0c999))
 
@@ -42,7 +42,7 @@ To reproduce our results (e.g., using LLaMA2)
 1. Clone the repository
 ```
 git clone git@github.com:holarissun/Prompt-OIRL.git
-``` 
+```
 2. Create a new virtual environment with Python 3.10, e.g.,
 ```
 conda create --name prompt-oirl python==3.10
@@ -56,17 +56,18 @@ pip install -r requirements.txt
 
 ### Reproduce the Main Results
  #### Step 1. (Optional, as we also released the offline dataset) Generate an offline dataset by interacting with the LLMs.
- This step will take a long time --- typically a few days. To avoid repeating such a computationally expensive (when running LLMs on local machines) or costly (when calling the commercial APIs like GPT3.5 or TigerBot) process, we have **released all the interactive logs with those LLMs collected in our experiments.**.
+ This step will take a long time --- typically a few days. To avoid repeating such a computationally expensive (when running LLMs on local machines) or costly (when calling the commercial APIs like GPT3.5 or TigerBot) process, we have **released all the interactive logs with those LLMs collected in our experiments.**. Therefore, if you are just looking to explore the method and don't need to re-create everything from scratch, we recommend that you skip this step,
 
- If you would like to reproduce the offline dataset, for example, with the llama2 model, you need to work under the dir of
+ If you would like to reproduce the offline dataset with the llama2 model, you need to follow these steps:
+
  ```
-  git@github.com:facebookresearch/llama.git
+ git clone git@github.com:facebookresearch/llama.git
  ```
-and move 
+and then move
 ```Prompt-OIRL/llama_exps/llama_step1_gen_offline.py```
 to the ```llama``` folder
 
-then
+then run the following command
 
  ```
 torchrun --nproc_per_node 1 llama_step1_gen_offline.py \
@@ -75,28 +76,29 @@ torchrun --nproc_per_node 1 llama_step1_gen_offline.py \
     --max_seq_len 512 --max_batch_size 8 --prompt_idx 0 --dataset_eval gsm8k
  ```
  #### Step 2. Reorganize the collected offline data
- This step will take a few seconds to finish, it will do some file renaming and training-test split and save corresponding files to a new folder ```LMllama2```
- 
+ For the easiest way to run the experiment it is recommended that you start with this step.  This step will take a few seconds to finish, it will do some file renaming and training-test split and save corresponding files to a new folder ```LMllama2```
+
  ```
  python3 llama_step2_reorg_data.py
  ```
-    
+
  #### Step 3. Pre-process the offline data
  This step will take a few seconds to finish, it will process the data and store embeddings and labels for different experiment settings (i.e., with different availability of training prompts) with ```.npy``` format files.
  ```
  python3 llama_step3_data_processing.py
  ```
  #### Step 4. Proxy Reward Model Learning (i.e., Offline Prompt Evaluation)
- This step will take a few minutes to a few hours to finish, depending on the algorithms chosen and the processor. In general, training an XGBoost reward model will take a bit longer time, and using a LightGBM reward model can be faster. 
+ This step will take a few minutes to a few hours to finish, depending on the algorithms chosen and the processor. In general, training an XGBoost reward model will take a bit longer time, and using a LightGBM reward model can be faster.
  ```
  python3 llama_step4_offline_evaluation.py
  ```
+- Note: you will need to download a missing embedding file from [this link](https://drive.google.com/file/d/1ER50FoLInO1pTr50dDjjZMBGPX-pXVA1/view?usp=sharing) and place it in the `embeddings` directory to run this step. (oversized for Github, ~ 230Mb)
+
  #### Step 5. (Offline) Prompt Optimization
- This step will take a few minutes to finish. Evaluating the algorithms by interacting with the LLMs can also be an option but could be slower. Results under different settings will be all saved to ```.csv``` files 
+ This step will take a few minutes to finish. Evaluating the algorithms by interacting with the LLMs can also be an option but could be slower. Results under different settings will be all saved to ```.csv``` files
  ```
  python3 llama_step5_offline_optimization.py
  ```
-- Note: you may need to download a missing embedding file from [this link](https://drive.google.com/file/d/1ER50FoLInO1pTr50dDjjZMBGPX-pXVA1/view?usp=sharing). (oversized for Github, ~ 230Mb)
 
 
 
