@@ -27,7 +27,6 @@ for dataset in ["mawps", "gsm8k", "svamp"]:
             test_i = prompt_i_file[6000:]
         elif dataset == "gsm8k":
             train_i = prompt_i_file
-            # print('train acc:', sum(prompt_i_file) / len(prompt_i_file))
             with open(
                 f"llama2_chat_logs/{dataset}/llama_{dataset}_test_corr_{prompt_i}.txt",
                 "r",
@@ -39,7 +38,6 @@ for dataset in ["mawps", "gsm8k", "svamp"]:
             prompt_i_file = np.array(prompt_i_file)
             prompt_i_file_check = np.array(prompt_i_file_check)
             assert sum(prompt_i_file_check == prompt_i_file) == 0
-            # print('test acc:', sum(prompt_i_file) / len(prompt_i_file))
             test_i = prompt_i_file
         # save the data
         np.save(f"LMllama2/{dataset}_train_{prompt_i}.npy", train_i)

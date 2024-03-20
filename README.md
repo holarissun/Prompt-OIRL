@@ -84,6 +84,8 @@ torchrun --nproc_per_node 1 llama_step1_gen_offline.py \
 
  #### Step 3. Pre-process the offline data
  This step will take a few seconds to finish, it will process the data and store embeddings and labels for different experiment settings (i.e., with different availability of training prompts) with ```.npy``` format files.
+
+ Note: please make sure that you select the relevant task by updating the code (the line marked with `NOTE`) in this and the following 2 steps.
  ```
  python3 llama_step3_data_processing.py
  ```

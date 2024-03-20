@@ -5,16 +5,18 @@ from sklearn.metrics import accuracy_score
 import json
 from pathlib import Path
 
-# create a folder to store the models if not exists
-Path("llama_models").mkdir(parents=True, exist_ok=True)
-
-TASK = "svamp"  # 'svamp', 'mawps'
+# NOTE: Select your task here
+TASK = "gsm8k"  # 'svamp', 'mawps'
 if TASK == "gsm8k":
     inserted = "gsm8k_"
 elif TASK == "mawps":
     inserted = "mawps_"
 elif TASK == "svamp":
     inserted = "svamp_"
+
+
+# create a folder to store the models if not exists
+Path("llama_models").mkdir(parents=True, exist_ok=True)
 
 # load embeddings of the questions
 if TASK == "gsm8k":
@@ -41,15 +43,12 @@ elif TASK == "mawps":
 prompt_embedding = np.load("../embeddings/prompt_embeddings.npy")
 
 # load test performance of the prompts
-
-
 test_gold = []
 for file_i in offline_names["test_set"]:
     test_gold.append(np.load(f"{file_i}"))
 test_gold = np.asarray(test_gold)
 
 # specify parameters via map
-
 param = {"max_depth": 10, "eta": 0.001, "objective": "binary:logistic"}
 num_round = 2000
 
@@ -83,7 +82,6 @@ for i in range(len(prompt_embedding)):
     start_time = time.time()
 
     # convert data to 2-dim array first
-
     data_train = data_train.reshape(data_train.shape[0], -1)
     data_val = data_val.reshape(data_val.shape[0], -1)
 
@@ -145,7 +143,6 @@ for i in range(len(prompt_embedding)):
                         train_label = np.array(train_label)
 
                         shuffle_idx = np.arange(concate_train_data.shape[0])
-                        # np.random.shuffle(shuffle_idx)
 
                         data_train = concate_train_data[
                             shuffle_idx[: int(0.8 * concate_train_data.shape[0])]
@@ -163,7 +160,6 @@ for i in range(len(prompt_embedding)):
                         start_time = time.time()
 
                         # convert data to 2-dim array first
-
                         data_train = data_train.reshape(data_train.shape[0], -1)
                         data_val = data_val.reshape(data_val.shape[0], -1)
 
@@ -233,7 +229,6 @@ for i in range(len(prompt_embedding)):
         start_time = time.time()
 
         # convert data to 2-dim array first
-
         data_train = data_train.reshape(data_train.shape[0], -1)
         data_val = data_val.reshape(data_val.shape[0], -1)
 

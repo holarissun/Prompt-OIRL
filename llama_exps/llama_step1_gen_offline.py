@@ -91,7 +91,6 @@ torchrun --nproc_per_node 1 llama_step1_gen_offline.py \
 # This software may be used and distributed according to the terms of the Llama 2 Community License Agreement.
 
 
-# DATASET = 'svamp' # 'mawps', 'gsm8k'
 def get_examples(dataset):
     df = pd.concat(
         [
@@ -238,7 +237,6 @@ def main(
                         f">>>> {result['generation']['role'].capitalize()}: {result['generation']['content']}"
                     )
                     print("answer:", ans_i)
-                    # embed()
                     TF = test_answer(result["generation"]["content"], str(ans_i))
                     print("TF:", TF)
 
@@ -289,7 +287,6 @@ def main(
                         f">>>> {result['generation']['role'].capitalize()}: {result['generation']['content']}"
                     )
                     print("answer:", ans_i)
-                    # embed()
                     TF = test_answer(result["generation"]["content"], str(ans_i))
                     print("TF:", TF)
 
@@ -341,7 +338,6 @@ def main(
                         f">>>> {result['generation']['role'].capitalize()}: {result['generation']['content']}"
                     )
                     print("answer:", ans_i)
-                    # embed()
                     TF = test_answer(result["generation"]["content"], str(ans_i))
                     print("TF:", TF)
 
@@ -392,7 +388,6 @@ def main(
                         f">>>> {result['generation']['role'].capitalize()}: {result['generation']['content']}"
                     )
                     print("answer:", ans_i)
-                    # embed()
                     TF = test_answer(result["generation"]["content"], str(ans_i))
                     print("TF:", TF)
 

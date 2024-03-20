@@ -2,7 +2,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import json
 
-for TASK in ["svamp"]:  # ,'svamp','gsm8k']:
+# NOTE: Change the TASK to the task you want to process
+for TASK in ["svamp", "gsm8k"]:
     json_file = f"LMllama2/{TASK}_names.json"
 
     # load the dictionary

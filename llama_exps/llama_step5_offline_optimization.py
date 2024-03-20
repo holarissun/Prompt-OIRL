@@ -10,9 +10,8 @@ embedding_dir = Path.cwd().parent / "embeddings"
 critics_dir = Path.cwd().parent / "critics"
 active_results_dir = Path.cwd().parent / "active_results"
 
-
+# NOTE: Select you task here
 for TASK in ["gsm8k", "svamp"]:
-    # TASK = 'aug_svamp'
     if TASK == "gsm8k":
         inserted = "gsm8k_"
     elif TASK == "svamp":
@@ -235,7 +234,6 @@ for TASK in ["gsm8k", "svamp"]:
                 smart_combined = []
 
                 smt_idx = np.max(train_prompt_scores, axis=0) < 0.5
-                # print(smt_idx)
                 smart_combined = test_data[
                     np.argmax(train_prompt_scores, axis=0) + ADDITIONAL_N,
                     np.arange(len(question_embedding_test)),
@@ -670,7 +668,6 @@ for TASK in ["gsm8k", "svamp"]:
                 continue
             orig_key = key
             print(" key now", key)
-            # print('=====================')
             temp_results = out_dict[key]
             n_train = len(temp_results["train_gold"])
 
